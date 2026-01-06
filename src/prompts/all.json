@@ -1,5 +1,2215 @@
 [
   {
+    "category": "language",
+    "prompt": "Hi. Would you like to help me learn how to speak English?",
+    "comment": "\"챗GPT에게 입과 귀를 달아주자\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "저희는 소규모 카페입니다. 다음 기업의 물품을 구매하였을 때 어떤 장점이 있을까요",
+    "comment": "\"Lv. 7.  실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "다음 기업에서 제공하는 서비스를 간략하게 요약해주세요.",
+    "comment": "\"Lv. 7.  실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "저는 회사의 물품 판매 담당자 입니다. 이메일의 내용을 바탕으로 제가 해야할 일을 요약해주세요.",
+    "comment": "\"Lv. 7.  실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "제시문은 비지니스 이메일 입니다. 제시문을 한글로 번역해주세요. \n제시문 : \nI hope this message finds you well. My name is Sean H, and I am the Purchasing Manager at JJ Corporation.\n(후략)",
+    "comment": "\"Lv. 7.  실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 영어 지문을 제시하겠습니다. 10단어로 요약해주세요.\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity,(중략)By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
+    "comment": "\"Lv. 6.  긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 영어 지문을 제시하겠습니다. 3문장으로 요약해주세요.\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, (중략 ) By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
+    "comment": "\"Lv. 6.  긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 영어 지문을 제시하겠습니다. \nMy name is Michael Brown. I have been a bird-watcher since childhood. (중략) I would like to know how to sign up for the club. I look forward to your reply.\n전체 내용의 30%정도로 요약해주세요.",
+    "comment": "\"Lv. 6.  긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 영어 지문을 제시하겠습니다.\nMy name is Michael Brown. I have been a bird-watcher since childhood. (중략) I would like to know how to sign up for the club. I look forward to your reply. \n전체 내용의 50%정도로 요약해주세요.",
+    "comment": "\"Lv. 6.  긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 한 편의 글을 제공하겠습니다.\n이 글을 구성하는 문장들을 각기 다음과 같은 기준으로 분류해 주세요.\n그리고 주제를 이와같이 선정한 이유에 대하여 알려주세요.\n[기준]\n - 도입부 (배경)\n - 하고자 하는 말 (주제)\n - 주제를 뒷받침하기 위한 논리적 근거\n - 주제를 뒷받침하기 위한 예시\n - 결론\n\n제시문:\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, at the heart of which is the application of reason and critique to the understanding of world and self, which allowed the creation of a new kind of knowledge.(중략) By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
+    "comment": "\"Lv. 5. 글의 주제를 빠르게 파악하는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 학생을 위한 영어지문 직독직해 교육 방법을 설명드리겠습니다.\n\n1. 문장을 한 번에 2~5단어 정도의 길이로 구성된 덩어리로 쪼갭니다.\n2. 문장에서 다음과 같은 경우가 등장할 경우, 그 단어의 바로 앞에서 무조건 문장을 쪼개야 합니다.\n   - 전치사\n   - to부정사\n   - 관계대명사\n   - 접속사\n   - 동사\n   - 부사 구\n   - 컴마 또는 세미콜론\n3. 쪼개진 덩어리는 한글로 번역하여 제공합니다. 이때, 한국어와 영어의 어순 차이를 무시하고 무조건 앞에서부터 순서대로 각 덩어리를 하나씩 번역합니다.\n\n이해하셨습니까?\n다음 지문을 토대로 직독직해 교육 방법을 실천해 보세요\n\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, at the heart of which is the application of reason and critique to the understanding of world and self, which allowed the creation of a new kind of knowledge. (중략) By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
+    "comment": "\"Lv. 4. 독해실력이 성장하는 끊어읽기!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 학생을 위한 영어지문 직독직해 교육 방법을 설명드리겠습니다.\n\n1. 문장을 한 번에 5단어 정도의 길이로 구성된 덩어리로 쪼갭니다.\n2. 완전한 의미를 구성하는 단위로 끊어주세요.\n3. 문장을 끊는 지점은 '/' 으로 표시해주세요.\n\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, at the heart of which is the application of reason and critique to the understanding of world and self, which allowed the creation of a new kind of knowledge. (중략)By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
+    "comment": "\"Lv. 4. 독해실력이 성장하는 끊어읽기!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "아래의 지문을 다음을 기준으로 20% 어렵게 바꾸어주세요.\n1. 불필요한 어휘의 변경은 하지 않습니다.\n2. 문장의 구조만 제시된 지문보다 어렵게 바꾸어주세요.\n3. 바뀐내용을 정리해주세요.\nMy name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound.",
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "아래의 지문을 다음을 기준으로 20% 어렵게 바꾸어주세요.\n1. 불필요한 구조의 변경은 하지 않습니다.\n2. 내용어만 제시된 어휘보다 어렵게 바꾸어주세요.\n3. 전문용어는 사용하지 않습니다.\n4. 바뀐내용을 정리해주세요.\nMy name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound.(후략)",
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "방금 전 변경된 지문은 저에게는 너무 어렵습니다. \n변경된 지문에서 난이도를 30% 낮춰주세요.",
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 영어 지문을 제시하겠습니다. \n지문의 해석난이도를 높여주세요. 그리고 바뀐 부분을 정리해주세요.\nMy name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound. Yesterday, I happened \nto read an article about your club. I was surprised and excited\nto find out about a community of passionate bird-watchers who \ntravel annually to go birding.(후략)",
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 영어 지문을 제시하겠습니다. \n지문을 이해하기 쉽도록 다음의 기준에 맞추어 바꿔주세요.\n1. 문장의 문법적 구조를 이해하기 쉽도록 문장의 구조를 단순하게 바꿔주세요.\n2. 변경된 부분을 따로 정리해주세요.\nThe narrowing of our consciousness of time smooths the way to divorcing ourselves from responsibility\nfor developments in the past and the future with which our lives are in fact deeply intertwined.",
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 영어 지문을 제시하겠습니다.\n 지문을 이해하기 쉽도록 다음 기준에 맞추어 바꿔주세요. \n1. 추상적인 어휘를 구체적인 어휘로 바꿔주세요. \n2. 복잡한 문장구조를 간결하게 바꿔주세요. \n3. 바뀐 내용을 따로 정리해주세요. \n\n원문:\nWe understand that the segregation of our consciousness into present, past, and future is both a fiction and an oddly self-referential framework; your present was part of your mother’s future, and your children’s past will be in part your present. Nothing is generally wrong with structuring our consciousness of time in this conventional manner, and it often works well enough.",
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "And every fair from fair sometime declines,By chance, or nature’s changing course, untrimmed; But thy eternal summer shall not fade, Nor lose possession of that fair thou ow’st 를 해석해줘",
+    "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "위의 글을 비 전공자도 알 수 있도록 설명해주세요.",
+    "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "영문으로 된 글을 제시할 것입니다. 다음 글은 학술문서이며 기술 관련 용어들이 들어있습니다. 용어에 대한 설명을 덧붙여서 해석해주세요.\nNLP approaches generally use linear algebraic approaches. So, most approaches for text NLP first convert the text or spoken words into tensors of integers. One of the easiest but the most effective way is word vector embedding. (중략) After writing the table, input sentences are tokenized and converted into a series of number, referencing the table.",
+    "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "제가 제시한 문장의 사회, 문화적 배경을 알려주세요.",
+    "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "이제부터 영어 지문을 제시하겠습니다. 이를 한국어로 번역해주세요.",
+    "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "NLP approaches generally use linear algebraic approaches. So, most approaches for text NLP first convert the text or spoken words into tensor of integers. One of the easiest but most effective way is word vector embedding. Word vector \nembedding first requires a table of words to convert each word into a number. Whole vocabularies for analysis should be enlisted on the table. After writing the table, input sentences are tokenized and converted into a series of number, referencing the table.\n다음의 기준에 맞추어 이 영어 지문 해석의 난이도를 종합하여 알려주세요. 1. 일상적이지 않은 단어, 2. 문장의 복잡성, 3. 배경지식의 필요성",
+    "comment": "\"왜 Reading 학습에 GPT를 활용해야 할까?\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Inside, the crimson room bloomed with light. Tom and Miss Baker sat at either end of the long couch and she read aloud to him from the Saturday Evening Post—the words, murmurous and uninflected, running together in a soothing tune. The lamplight, bright on his boots and dull on the autumn-leaf yellow of her hair, glinted along the paper as she turned a page with a flutter of slender muscles in her arms.\n다음의 기준에 맞추어 이 지문 해석의 난이도를 알려주세요. 1. 일상적이지 않은 단어, 2. 문장의 복잡성, 3. 배경지식의 필요성",
+    "comment": "\"왜 Reading 학습에 GPT를 활용해야 할까?\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "My name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound. Yesterday, I happened \nto read an article about your club. I was surprised and excited\nto find out about a community of passionate bird-watchers who \ntravel annually to go birding. (후략)\n다음의 기준에 맞추어 이 지문 해석의 난이도를 종합하여 알려주세요. 1. 일상적이지 않은 단어, 2. 문장의 복잡성, 3. 배경지식의 필요성",
+    "comment": "\"왜 Reading 학습에 GPT를 활용해야 할까?\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "나:\n 아래의 정보들을 토대로 영어 보고서를 작성해줘.\n -------------------------------------------------------------\n 제목: 온라인 시장 확산으로 인한 오프라인 시장 향후 전망\n 요약: 온라인 시장 확산으로 오프라인 시장 경쟁력이 상대적으로 감소할 것으로 보입니다. 따라서 오프라인 매장에서만 구매할 수 있는 품목들을 늘리는 것이 필요합니다.",
+    "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "보고서: 1) 보고서 양식을 영어로 써줘.\n2)아래의 정보들을 토대로 영어 보고서를 작성해줘.\n  -------------------------------------------------------------\n  제목: 온라인 시장 확산으로 인한 오프라인 시장 향후 전망\n  요약: 온라인 시장 확산으로 오프라인 시장 경쟁력이 상대적으로 감소할 것으로 보입니다. 따라서 오프라인 매장에서만 구매할 수 있는 품목들을 늘리는 것이 필요합니다.",
+    "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "이메일: 1)이메일 양식을 영어로 써줘.\n2) 상황: 고객이 주문한 물건이 다른 배송지로 배송되었다. 고객에게 양해를 부탁하고 20% 할인쿠폰을 드리기로 했다.\n  \n  이메일 양식을 사용해서 영어로 작성해줘.",
+    "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "이메일 양식을 영어로 써줘.",
+    "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "내가 쓴 에세이야. \n  1. 어휘가 적절하고 문법오류가 없는지 첨삭해줘.\n  2. 구체적인 설명은 한국어로 부탁해.",
+    "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "영어로 쉽게 번역해줘.",
+    "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "이 에세이를 영어로 번역하기 위해 필요한 명사, 형용사, 부사들을 알려줘.",
+    "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "에세이의 구성요소들을 알려줘.",
+    "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "중복된 부분을 피해서 패러프레이징을 해봤어. 잘한 점과 부족한 점을 설명해주고, 첨삭까지 해줘.",
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "이 글에서 중복되는 부분을 설명해줘.",
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "이 글을 패러프레이징 해줘.",
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "이 글의 주제문과 그것을 뒷받침하는 가장 중요한 문장들만 표시해줘.",
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "이 글에서 핵심어휘들의 유의어를 적어줘.",
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "챗GPT를 사용해서 패러프레이징 하는 전략들을 알려줘.",
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "문장들이 너무 긴 거 같아. 첨삭한 내용을 토대로 문장들을 더 간략하게 써줘.",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "첨삭 부탁해. 첨삭한 것 중에서 문법 내용도 같이 설명해줘.",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "업무 관련 문의 및 답변: 영어로 업무 관련 문의 및 답변에서 사용할 수 있는 표현들을 알려줘.",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "공지: 영어로 공지할 때 사용하는 표현들을 알려줘.",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "안내: 영어로 안내할 때 사용하는 표현들을 알려줘.",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "이력서: 이력서 양식을 영어로 쓰고 한글 뜻도 적어줘.",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "부탁: 영어로 부탁할 때 사용하는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "유감: 영어로 유감을 전할 때 사용하는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "약속: “장소“에서  “날짜/시간“에 만나자는 문장을 영어로 몇 가지 적어줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "도움: 영어로 도움을 구할 때 사용하는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "축하: 영어로 축하할 때 사용하는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "요구(요청, 명령, 제안, 약속): 영어로 요구할 때 사용하는 표현들을 알려줘.",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "소개: 영어로 소개할 때 사용하는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "감사: 영어로 감사를 전할 때 사용하는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "안부: 영어로 안부 답하는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "인사: 영어로 할 수 있는 간단한 인사말들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "계획: 영어로 계획을 묻는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "싫어하는 것: 영어로 싫어하는 것을 묻는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "좋아하는 것: 영어로 좋아하는 것을 묻는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "직업: 영어로 직업을 묻는 표현들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "안부: 영어로 할 수 있는 간단한 인사말들을 알려줘",
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "그러면 추가 정보를 제공할 때, \"who\"만 사용하면 되는 거야?",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": " 문법용어는 하나도 모른다고 말했잖아. 관계대명사라는 용어 쓰지 말고 설명해줘.",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": " \"who makes people's hair look nice\"에서 \"who\"는 \"누구\" 아니야?",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "I am a hair designer. I make people's hair look nice. My dream is to have my own hair salon one day. I want to make many people happy with their hair.\n ----------------------------------------------------------------------------------\n 문장의 연결성이 부족한 거 같아. 도와줘.",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": " \"people\"에 \"'s\"는 뭐야?",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "문장에 나온 단어들 의미도 알려줘.",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "고마워. 추가된 내용이 뭐야?",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "왜 이렇게 어렵게 썼어... 나 영어 전혀 모른다고 했잖아!",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "고마워. 노력해볼게. 이 문장에서 조금 더 길게 쓸 수는 없을까?",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": " I am hair designer. My job is design people head. My dream is open hair shop.\n ----------------------------------------------------------------------------------------\n 영어로 한번 써봤어. 내가 영어를 하나도 모르거든. 문법설명을 해줘도 이해 못하니까 틀린 부분이 있으면 최대한 쉽게 알려주고 첨삭해줘.",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "내가 쓴 글에서 발견된 문법오류를 줄일 수 있는 방법을 알려줘.",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": " 내가 쓴 글에서 자주 발견되는 문법적 오류가 뭐야?",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "고마워. 문장들이 너무 긴 거 같아. 첨삭한 내용을 토대로 문장들을 더 간략하게 써줘.",
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "When I was an elementary school child, a teacher didn’t frequently use educational equipment. Classes that used educational equipment stimulated me. It made me excited and seemed to increase concentration though I didn't know why. It was hard to repeat the teacher's talk because the teacher was not native speaker. But since I use the computer to listen and repeat, I could acquire and correct my errors easily. Pictures and videos were my favorite things. Teachers showed pictures or videos for us on the monitor so that I was motivated on today’s instructional objectives.\n \n(중략)\nTeachers can only teach fundamental parts. But if they use a beam projector to display parts of the textbooks on the blackboard, students can easily write and understand the material because teachers can provide additional context and stress signals. In the case of a celebrity or great man in textbooks, students can widen common sense for searching immediately. If it is related to their interest, it will probably be an effective class.\n \nLike this, using educational equipment in learning English contributes to improving the school achievement of students. Furthermore, if technology continues to develop and is applied to education, students will not necessarily need to go abroad.\n \n(후략)\n---------------------------------------------------------------------------------------------------\n 첨삭 부탁해. 첨삭한 것 중에서 문법 내용도 같이 설명해줘.",
+    "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "위의 문장에서 약속을 잡을 때 사용한 표현들을 알려줘.",
+    "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "친구랑 경복궁 앞에서 오후 5시에 만나자는 문장을 영어로 5가지 적어줘.",
+    "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "영어로 할 수 있는 간단한 인사말 알려줘",
+    "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "(전략)\n\n\n[요구사항 2]\n위 답변을 다음과 같은 척도로 채점하시오.\n  - 질문을 잘 이해하였나?\n  - 주장이 일관되나?\n  - 주장을 뒷받침하기 위한 논리가 2개 이상 제시되는가?\n  - 각 논리를 뒷받침하는 타당한 근거가 제시되는가?\n  - 논리적인 흐름을 따라 결론에 도달하는가?",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "[요구사항 1]\n논쟁이 가능한 문제를 2개의 영어 문장으로 제시하시오.\n나는 그 질문을 읽고, 찬성 혹은 반대 중 하나의 입장을 택하여 답변을 작성하겠습니다.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "마케팅팀의 회의 진행중입니다.\n회의 진행 도중 한 가지 문제점이 지적되었고, 여러 사람이 이 문제에 난처해하고 있습니다.\n녹음된 회의 내용은 45초 가량입니다.\n회의 녹취록을 영어로 작성하시오.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "당신의 이름은 Jane. 우리 회사의 서비스에 불만족을 느껴 전화 문의를 남긴 고객입니다.\n녹음된 통화 길이는 45초 가량입니다.\n당신이 발언한 컴플레인의 대사를 영어 구어체로 작성하시오",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "위 지문을 바탕으로 내용 일치 문제의 질문을 하나 만들어주세요.\n그리고 제 답변이 100점 만점에 몇 점인지, 여러 평가 척도를 들어 채점해주세요.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "5문장 분량의 영어 비문학 지문을 하나 작성해주세요.\n각 문장의 길이는 12단어 이하입니다.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Some people believes that Atlantis is a real place, while others think it was just a legend.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "5문장 분량의 영어 비문학 지문을 하나 작성해주세요.\n각 문장의 길이는 12단어 이하입니다.\n지문의 내용을 토대로 내용 일치 문제를 풀 수 있는 질문도 하나 만들어주세요.그리고 제 답변이 적절한지 아닌지 평가도 해주세요.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "표 형태의 데이터 출력을 할 수 있나요?\n가능하다면 예시도 보여주세요.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "No, You should rate my answer.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "First of all, British English and American English pronounce some word in different way. For example, agile is pronounced as agile in British. \nAnd I think that British English tends to pronounce the vowel in a strict way, with stronger accents. Also, British English sometimes omits R.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "(1) 당신은 제게 영어로 질문을 합니다.\n(2) 질문의 길이는 한 문장으로 제한하고, 문장의 길이는 12단어 이하로 제한합니다.\n(3) 한 문장 안에서 시간과 장소 등 여러 가지 정보를 한꺼번에 물어보셔도 좋습니다.\n(4) 저는 당신의 질문에 영어로 대답합니다.\n(5) 아래 기준을 따라 제 답변의 점수도 채점해 주세요.\n\n   - 논리적으로 어색하지 않은지\n   - 문법이 올바른지\n   - 주어진 질문의 내용을 제대로 이해했는지\n  점수는 100점 만점을 기준으로 채점해주세요. \n\n제게 질문을 해주세요. 그리고 제 답변을 채점해주세요.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "This animal has short yellow fur. It prefers protein-based food rather than grain-based food. It has small white spots on its face, above the eyes. Its hands and stomach are covered with short white fur. It has a tail. It wags its tail when it feels happy. Its nose has tiny pores. Its origin is known as Japan. What is this?",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 저는 사진 속의 동물을 영어로 묘사하겠습니다.\n제 이야기를 듣고, 사진 속의 동물이 무엇인지 맞춰 보세요.\n제가 입력한 문장에서 문법 오류나 철자가 틀린 부분이 있다면 지적해주세요.\n준비됐나요?",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "60단어 가량으로 구성된 영어 지문을 작성해줘.",
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Alright. Before talking about shipping cost, please let me know the price of the machine.",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Cool. Do you provide international shipping service, to Busan of Korea?",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Hi. I'm an engineer from south Korea. I'd like to buy this automated cotton candy removing machine. Could you provide some features?",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 CES 박람회장입니다. 솜사탕컴퍼니의 부스에서 대화를 나눕니다.\n당신은 솜사탕컴퍼니의 영업사원입니다. 저는 물건을 구매하려 합니다.\n대화를 시작하겠습니다. ",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "That sounds cool. I think you are fit for the marketing team. ",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "That sounds great. Have you ever seen cotton candies from various countries? Are they different?",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Can you explain why a trip experience can contribute to cotton candy generation company?",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 채용을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 캘리포니카 공과대학의 행정관 로비입니다. 저는 졸업예정자의 채용 면접을 진행하고자 합니다.\n당신은 지원자이며, 저는 채용 담당자입니다.\n면접을 시작합니다. 자기소개부터 시작해주세요.",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "(1) 답변에는 영어만 사용한다\n(2) 답변은 최대 4문장으로 구성된다\n(3) 각 문장은 최대 20개까지의 단어를 사용할 수 있다\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n\n향후 제 답변에 문법 오류가 있다면 이를 지적하고 수정안을 제안해줘야 합니다.\n숙지하셨습니까?",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "The quote with additional information is now sent to your e-mail. Do you need a printed sheet?",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Alright. We have an electrified ordering system. Could you type the delivery address and your e-mail here?",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Sure. The MOQ of this product is 1,000 pieces. It would be packed in a box. How many do you need?",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 미국의 CES 박람회장이며, 당신은 우리 회사 물건을 구매하고자 합니다.\n당신은 현지의 바이어이며, 저는 회사를 소개하는 직원입니다.\n제품 구매를 위한 협상을 시작해 주세요.",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Please take seat here. This is our catalogue.",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Of course. We have various options. Could you please to come in and tell me about details of your business? I can recommend the most appropriate one for you.",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Sure. This cotton candy generator can produce 12 samples at the same time. ",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 미국의 CES 박람회장이며, 당신은 우리 회사 부스를 방문했습니다.\n당신은 현지의 바이어이며, 저는 회사를 소개하는 직원입니다.\n우리 회사의 제품에 대한 질문을 시작해 주세요.",
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Oh sir! Thank you. Thank you a lot. Now what should I do to file the report?",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Embassy? That's great Idea. I'm from Republic of Korea. Is it far from here?",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Thanks a lot. You are so kind. Well, but, I don't remember where I dropped it. What should I do sir?",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 미국의 경찰서이며, 저는 여권을 잃어버려서 경찰서에 방문했습니다.\n당신은 경찰이며, 저는 여행객입니다.\n제가 당신에게 \"여권을 잃어버렸어요. 도와주세요.\"라고 요청했습니다.",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Good. Can I see the car? I hope it is red!",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Good. Here's my international driver's license. And card here. Does VISA works here?",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Hi. I want to rent Ford's Mustang Convertable for 3 days.",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 캘리포니아의 렌터카 매장이며, 제가 차를 빌리는 과정의 대화를 주고받겠습니다.\n당신은 렌터카 업체의 직원이며 저는 여행객입니다.\n저는 방금 당신의 매장에 도착했습니다. 대화를 시작해주세요.",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Well, wait. Where is the toilet anyway?",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "I'd love to try the chili one. And a Pepsi please.",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Well, I'm new to here. Could you recommend something popular?",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 뉴욕의 핫도그 매장이며, 음식을 주문하는 과정의 대화를 주고받겠습니다.\n당신은 주문을 받으러 온 웨이터이며 저는 여행객입니다.\n저는 방금 자리에 앉았습니다. 접객을 시작해 주세요.",
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Good. That's how IT works. I love it.",
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Ok. Do I have to show you the booking confirmation E-mail?",
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Sure. Here you are.",
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 공항이며, 티켓을 발권하는 과정에서의 대화를 주고받겠습니다.\n당신은 티켓 발권대의 직원이며 저는 여행객입니다.\n먼저 제 여권을 요구하는 내용으로 대화를 시작해주세요.",
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "(1) 답변에는 영어만 사용한다\n(2) 답변은 최대 2문장으로 구성된다\n(3) 각 문장은 최대 7개까지의 단어를 사용할 수 있다\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n\n향후 제 답변에 문법 오류가 있다면 이를 지적하고 수정안을 제안해줘야 합니다.\n숙지하셨습니까?",
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "Language: English\nAnswer Length Limit: 7 words\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n (1) 답변은 최대 2문장으로 구성된다\n (2) 각 문장은 최대 7개까지의 단어를 사용할 수 있다.\n (3) 답변에는 영어만 사용한다\n\n숙지하셨습니까?",
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "(1) 답변에는 영어만 사용한다\n(2) 답변은 최대 2문장으로 구성된다\n(3) 각 문장은 최대 7개까지의 단어를 사용할 수 있다\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n숙지하셨습니까?",
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n (1) 답변은 최대 2문장으로 구성된다\n (2) 각 문장은 최대 7개까지의 단어를 사용할 수 있다.\n (3) 답변에는 영어만 사용한다\n\n숙지하셨습니까?",
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    }
+  },
+  {
     "category": "etc",
     "prompt": "뉴스 기사를 토대로 ****당을 비판하는 연설문을 작성해줘.",
     "comment": "",
