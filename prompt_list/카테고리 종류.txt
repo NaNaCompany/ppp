@@ -8,10 +8,11 @@ development
 education
 image
 music
-new
 philosophy
 science
 work_productivity
 writing_contents
 language
 etc
+health
+living

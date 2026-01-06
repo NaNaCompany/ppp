@@ -5,68 +5,75 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Published Prompt Portal</title>
+    <meta name="description" content="도서로 출간이 완료된, 검증된 프롬프트만 모아서 소개하는 포털입니다.">
+    <meta name="keywords" content="프롬프트, AI, 인공지능">
+    <meta name="author" content="반병현">
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
 </head>
 
 <body>
     <header class="site-header">
         <div class="container">
-            <h1 class="logo">Published Prompt Portal</h1>
+            <h1 class="logo"><a href="#">Published Prompt Portal</a></h1>
             <div class="prompt-stats">
                 <span class="stat-label">Total Prompts</span>
                 <span class="stat-value">2,548</span>
             </div>
             <nav class="main-nav">
                 <ul>
-                    <li><a href="#" class="active">Home</a></li>
-                    <li><a href="#">Prompts</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="#" class="active" id="home-link">Home</a></li>
+                    <li><a href="#" id="contact-link">Contact</a></li>
+                    <li><a href="./update_rule/index.html">등재요청</a></li>
+                    <li><a href="https://nanalab.kr" target="_blank">NaNaLab</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
-    <div class="announcement-bar">
-        <p>도서로 출간된 프롬프트만 모았습니다! 믿고 사용하세요!</p>
-    </div>
-
-    <nav class="categories-nav">
-        <div class="container nav-wrapper">
-            <button class="nav-btn prev-btn" id="nav-prev">&lt;</button>
-            <ul id="categories-list">
-                <li><a href="#" class="active">New</a></li>
-                <li><a href="#">ALL</a></li>
-                <li style="display:none"><a href="#">Writing/Contents</a></li>
-                <li style="display:none"><a href="#">Work/Productivity</a></li>
-                <li style="display:none"><a href="#">Development</a></li>
-                <li style="display:none"><a href="#">Science</a></li>
-                <li style="display:none"><a href="#">Image</a></li>
-                <li style="display:none"><a href="#">Design</a></li>
-                <li style="display:none"><a href="#">Music</a></li>
-                <li style="display:none"><a href="#">Education</a></li>
-                <li style="display:none"><a href="#">Business</a></li>
-                <li style="display:none"><a href="#">Data</a></li>
-                <li style="display:none"><a href="#">Philosophy</a></li>
-                <li style="display:none"><a href="#">Finance</a></li>
-                <li style="display:none"><a href="#">Health</a></li>
-                <li style="display:none"><a href="#">Law</a></li>
-                <li style="display:none"><a href="#">Living</a></li>
-                <li style="display:none"><a href="#">Language</a></li>
-                <li style="display:none"><a href="#">ETC</a></li>
-            </ul>
-            <button class="nav-btn next-btn" id="nav-next">&gt;</button>
+    <div id="main-content-wrapper">
+        <div class="announcement-bar">
+            <p>도서로 출간된 프롬프트만 모았습니다! 믿고 사용하세요!</p>
         </div>
-    </nav>
 
-
-    <main class="site-content">
-        <div class="container">
-            <div id="prompts-grid" class="prompts-grid">
-                <!-- Prompts will be loaded here -->
+        <nav class="categories-nav">
+            <div class="container nav-wrapper">
+                <button class="nav-btn prev-btn" id="nav-prev">&lt;</button>
+                <ul id="categories-list">
+                    <li><a href="#" class="active">New</a></li>
+                    <li><a href="#">ALL</a></li>
+                    <li style="display:none"><a href="#">Writing/Contents</a></li>
+                    <li style="display:none"><a href="#">Work/Productivity</a></li>
+                    <li style="display:none"><a href="#">Development</a></li>
+                    <li style="display:none"><a href="#">Science</a></li>
+                    <li style="display:none"><a href="#">Image</a></li>
+                    <li style="display:none"><a href="#">Design</a></li>
+                    <li style="display:none"><a href="#">Music</a></li>
+                    <li style="display:none"><a href="#">Education</a></li>
+                    <li style="display:none"><a href="#">Business</a></li>
+                    <li style="display:none"><a href="#">Data</a></li>
+                    <li style="display:none"><a href="#">Philosophy</a></li>
+                    <li style="display:none"><a href="#">Finance</a></li>
+                    <li style="display:none"><a href="#">Health</a></li>
+                    <li style="display:none"><a href="#">Law</a></li>
+                    <li style="display:none"><a href="#">Living</a></li>
+                    <li style="display:none"><a href="#">Language</a></li>
+                    <li style="display:none"><a href="#">ETC</a></li>
+                </ul>
+                <button class="nav-btn next-btn" id="nav-next">&gt;</button>
             </div>
-        </div>
-    </main>
+        </nav>
+
+
+        <main class="site-content">
+            <div class="container">
+                <div id="prompts-grid" class="prompts-grid">
+                    <!-- Prompts will be loaded here -->
+                </div>
+            </div>
+        </main>
+    </div>
 
     <!-- Modal -->
     <div id="modal" class="modal-overlay hidden">
@@ -93,6 +100,62 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <!-- Contact Section -->
+    <div id="contact-section" style="display:none;">
+        <div class="contact-content">
+            <h2 class="contact-title">Contact Us</h2>
+            <p class="contact-desc">프롬프트 등재문의는 <a href="./update_rule">여기</a>를 클릭해주세요.</p>
+
+            <form id="contact-form" class="contact-form">
+                <div class="form-group" id="group-name">
+                    <label for="mail_name">Name</label>
+                    <input type="text" id="mail_name" name="mail_name" required placeholder="이름을 입력해주세요">
+                </div>
+
+                <div class="form-group form-reveal" id="div-institution">
+                    <label for="mail_institution">Institution</label>
+                    <input type="text" id="mail_institution" name="mail_institution" required
+                        placeholder="소속 기관명을 입력해주세요">
+                </div>
+
+                <div class="form-group form-reveal" id="div-phone">
+                    <label for="mail_phone">Phone Number</label>
+                    <div class="phone-input-group">
+                        <div class="custom-select-wrapper">
+                            <div class="custom-select">
+                                <div class="select-selected">KR (+82)</div>
+                                <div class="select-items select-hide">
+                                    <div data-value="+82">KR (+82)</div>
+                                    <div data-value="+1">US (+1)</div>
+                                    <div data-value="+81">JP (+81)</div>
+                                    <div data-value="+86">CN (+86)</div>
+                                    <div data-value="">직접입력</div>
+                                </div>
+                            </div>
+                            <input type="hidden" id="country_code" name="country_code" value="+82">
+                        </div>
+                        <input type="tel" id="mail_phone" name="mail_phone" placeholder="010-1234-5678">
+                    </div>
+                </div>
+
+                <div class="form-group form-reveal" id="div-email">
+                    <label for="mail_email">Email</label>
+                    <input type="email" id="mail_email" name="mail_email" required placeholder="이메일을 입력해주세요">
+                </div>
+
+                <div class="form-group">
+                    <label for="mail_title">Title</label>
+                    <input type="text" id="mail_title" name="mail_title" required placeholder="제목을 입력해주세요">
+                </div>
+                <div class="form-group">
+                    <label for="mail_message">Message</label>
+                    <textarea id="mail_message" name="mail_message" required placeholder="문의하실 내용을 남겨주세요"></textarea>
+                </div>
+                <button type="submit" class="submit-btn">문의 보내기</button>
+            </form>
         </div>
     </div>
 

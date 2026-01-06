@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>프롬프트 등재 요청 - Published Prompt Portal</title>
+    <meta name="description" content="프롬프트 등재 요청 가이드">
+    <meta name="keywords" content="프롬프트, 등재, 가이드">
+    <link rel="stylesheet" href="../style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        .guide-container {
+            max-width: 800px;
+            margin: 4rem auto;
+            padding: 2rem;
+            color: var(--text-color);
+            background-color: #1e293b;
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+            text-align: center;
+        }
+
+        .guide-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--text-color);
+            margin-bottom: 3rem;
+        }
+
+        .download-section {
+            margin-bottom: 3rem;
+        }
+
+        .download-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background-color: var(--accent-color);
+            color: #000;
+            padding: 1rem 2rem;
+            border-radius: 8px;
+            font-weight: 600;
+            text-decoration: none;
+            font-size: 1.2rem;
+            transition: background-color 0.2s;
+        }
+
+        .download-btn:hover {
+            background-color: var(--accent-hover);
+        }
+
+        .steps-container {
+            text-align: left;
+            margin-bottom: 3rem;
+        }
+
+        .step-item {
+            margin-bottom: 1.5rem;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+
+        .step-number {
+            font-weight: 700;
+            color: var(--accent-color);
+            margin-right: 0.5rem;
+        }
+
+        .note-text {
+            color: #94a3b8;
+            font-size: 0.9rem;
+            margin-top: 2rem;
+            border-top: 1px solid var(--border-color);
+            padding-top: 1rem;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1 class="logo"><a href="../index.html">Published Prompt Portal</a></h1>
+            <div class="prompt-stats">
+                <span class="stat-label">Total Prompts</span>
+                <span class="stat-value">2,548</span>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="../index.html" id="home-link">Home</a></li>
+                    <li><a href="../index.html#contact-section" id="contact-link">Contact</a></li>
+                    <li><a href="#" class="active">등재요청</a></li>
+                    <li><a href="https://nanalab.kr" target="_blank">NaNaLab</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="guide-container">
+            <h1 class="guide-title">프롬프트 등재 요청 방법</h1>
+
+            <div class="download-section">
+                <!-- Fallback to repo link if local download fails due to environment restrictions -->
+                <a href="./sample.zip" class="download-btn" download>
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                        <polyline points="7 10 12 15 17 10"></polyline>
+                        <line x1="12" y1="15" x2="12" y2="3"></line>
+                    </svg>
+                    양식 다운로드 (sample.zip)
+                </a>
+            </div>
+
+            <div class="steps-container">
+                <div class="step-item">
+                    <span class="step-number">1.</span>
+                    양식을 다운로드하고 압축을 해제합니다.
+                </div>
+                <div class="step-item">
+                    <span class="step-number">2.</span>
+                    `template.xlsx` 파일을 엽니다. 동봉된 텍스트 파일(가이드)의 안내를 따라 내용을 기재해주세요.
+                </div>
+                <div class="step-item">
+                    <span class="step-number">3.</span>
+                    작성한 `template.xlsx`, 스크린샷 이미지, 책 표지 이미지를 하나의 파일로 압축하여
+                    <a href="mailto:info@nanalab.kr" style="color: var(--accent-color);">info@nanalab.kr</a> 로 전달해주세요.
+                </div>
+            </div>
+
+            <p class="note-text">
+                * 작가 본인 또는 출판사의 요청만 승인됩니다.<br>
+                * 승인 시 포털에 등재되며, 반려 시 별도 회신을 드리지 않습니다.
+                * 한 번 등재된 프롬프트는 철회/수정이 불가능합니다.
+            </p>
+        </div>
+    </div>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2026 <a href="https://nanalab.kr">NaNaLab</a> All rights reserved. <br />이 사이트에 개제된 모든 프롬프트는 저자의
+                허락을 받아 수록하였으며, 각 프롬프트의 저작권은 저자에게 있습니다.<br />프롬프트의 무단 수집, 복제, 재게시를 허가하지 않습니다.</p>
+        </div>
+    </footer>
+</body>
+
+</html>
