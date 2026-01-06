@@ -1,6 +1,40 @@
 [
   {
     "category": "etc",
+    "prompt": "뉴스 기사를 토대로 ****당을 비판하는 연설문을 작성해줘.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "etc",
+    "prompt": "뉴스 기사를 토대로 ****당을 옹호하는 연설문을 작성해줘.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "etc",
     "prompt": "호랑이랑 사자랑 싸우면 누가 이겨?",
     "comment": "",
     "href": "",

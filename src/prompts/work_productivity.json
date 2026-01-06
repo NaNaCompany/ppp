@@ -1,6 +1,193 @@
 [
   {
     "category": "work_productivity",
+    "prompt": "좋은 목차야. 고마워. 그 중에서 20대 초반 여성 고객의 구매 요인 분석에 대한 세부 목차를 작성해줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "화장품산업에 대한 보고서를 작성하려 합니다. 주제는 \"20대 초반 여성을 공략하기 위한 봄철 신제품 기획을 위한 시장현황 자료\" 입니다. 목차를 작성해 주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "진취적이지만 조직문화에 잘 어울리는 지원자를 원하는 대기업 채용 프로세스에서, 지원자에게 ‘스스로 어려움을 극복한 경험에 대하여 설명하시오.’라는 질문을 했습니다. 아래는 지원자의 답변입니다.\n…",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "지원자의 주장을 검증해볼만한 다른 검토 방법은 무엇이 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "제안하신 바를 참고하여 해당 지원자에게 추가적인 질문을 했습니다. 그는 이렇게 답변했습니다.\"조직의 규모는 그만큼 많은 돈이 오가는, 큰 규모의 복잡한 회계업무를 저 혼자 처리해냈습니다. 그 과정에서 업무의 누락이나 회계 오류도 전혀 없었습니다. 그만큼 제가 혼자 처리할 수 있는 회계 업무의 규모와 복잡성에 대해 강조하고 싶었습니다.아울러 제가 실무상 겪어본 회계 업무상 가장 복잡했던 업무는 다음과 같습니다. ...\"제 판단으로는 조직의 규모에 대한 이야기의 연장선에서 과거 업무 역량에 대한 소개가 충분히 된 것 같으며, 과거 겪어본 실무상 가장 복잡했던 업무에 대한 내용도 수긍이 됩니다. 이 정도면 어떻습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "회계 분야 신입 공개채용 지원자가 \"귀하는 어떤 회계 절차에 대한 경험이 있습니까?\" 라는 질문에 아래와 같이 답했습니다.\n\"장부 관리, 부가세 환원, 급여 업무 경험이 있으며 생능ERP라는 회계 소프트웨어를 사용했습니다. 당시 조직의 규모는 30명이며 매출은 400억 원, 매입은 120억 원 가량입니다.\"\n이 지원자를 평가하고, 이유도 설명해 주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "좋은 대답 감사합니다. 하지만 직무 경험이 있는 경력직에게 특화된 질문 같습니다. 혹시 신입 지원자를 평가하기 위한 질문도 설계해 줄 수 있나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "우리 회사는 웹툰 플랫폼 회사이며, 현재 300명의 직원이 일하고 있습니다.이번에 경영지원팀의 회계 업무 신입 지원자를 평가하기 위한 면접을 준비중입니다. 면접에서 지원자의 인성이나 실력을 알아볼 수 있는 질문을 설계해 주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "웹 프론트엔드 개발자를 채용하려 합니다. 신입 직원 채용을 위한 Job Description을 작성해 주세요.필수 조건으로는 React.js 사용 경험을 포함하고, 우대 조건으로는 컴퓨터공학 관련 전공 출신을 포함해주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "혹시 엑셀에서 오늘 날짜와, 오늘로부터 10년 전의 날짜를 자동으로 계산할 수 있습니까? 날짜 표기는 yyyy-mm-dd 형태로요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "엑셀 함수의 이름과 기능을 아는 대로 최대한 많이 열거하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
     "prompt": "바로 이어서 마지막 문단을 작성해주세요.\n마지막 문단은 \"결론\"입니다.\n경쟁력 있는 솜사탕 판매 전략 및 마케팅 아이디어의 전반적인 내용을 요약하고, 이를 통해 안동항 항만 배후 부지에서 성공적인 솜사탕 사업을 기대할 수 있다는 점을 강조하세요.",
     "comment": "",
     "href": "",

@@ -1,10 +1,656 @@
 [
   {
+    "category": "etc",
+    "prompt": "뉴스 기사를 토대로 ****당을 비판하는 연설문을 작성해줘.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "etc",
+    "prompt": "뉴스 기사를 토대로 ****당을 옹호하는 연설문을 작성해줘.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "강아지가 도어락 소리에 짖는 이유가 뭔지 쉽게 설명해줄래? 쾌활한 말투로",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "/imagine embarking on a wild rally race through rugged terrain in a speedy red roadster with your trusty shiba inu co-piloting by your side.",
+    "comment": "",
+    "href": "",
+    "screenshot": "nomad_004.png",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "/imagine cruising down the city streets in a flashy red roadster with your shiba inu in the passenger seat.",
+    "comment": "",
+    "href": "",
+    "screenshot": "nomad_003.png",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "/imagine taking a cross-country road trip with your shiba inu in a sleek red roadster.",
+    "comment": "",
+    "href": "",
+    "screenshot": "nomad_002.png",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "/imagine driving down the coast in a red roadster with a shiba inu by your side.",
+    "comment": "",
+    "href": "",
+    "screenshot": "nomad_001.png",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "당신이 이해한 미드저니 프롬프트 작성 규칙을 토대로, \"/imagine\"으로 시작하는 프롬프트를 작성해 주세요. 붉은 로드스터와 시바견을 주제로 하는 그림을 표현하고 싶습니다. 총 4개의 각기 다른 창의적인 그림을 표현할 수 있는 프롬프트 문구를 작성해주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "2. /imagine 명령어 이후 프롬프트의 본문을 입력합니다",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "1. 프롬프트는 항상 /imagine 명령어로 시작합니다",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "지금부터 Midjourney라는 인공지능 서비스의 prompt 작성 규칙에 대하여 설명하겠습니다.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "당신이 이해한 미드저니 프롬프트 작성 규칙을 설명해 보세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "A shiba-inu riding a red roadster, sunny sky, 3D, 4K, realistic photo",
+    "comment": "",
+    "href": "",
+    "screenshot": "nomad_001.png",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "좋은 목차야. 고마워. 그 중에서 20대 초반 여성 고객의 구매 요인 분석에 대한 세부 목차를 작성해줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "화장품산업에 대한 보고서를 작성하려 합니다. 주제는 \"20대 초반 여성을 공략하기 위한 봄철 신제품 기획을 위한 시장현황 자료\" 입니다. 목차를 작성해 주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "진취적이지만 조직문화에 잘 어울리는 지원자를 원하는 대기업 채용 프로세스에서, 지원자에게 ‘스스로 어려움을 극복한 경험에 대하여 설명하시오.’라는 질문을 했습니다. 아래는 지원자의 답변입니다.\n…",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "지원자의 주장을 검증해볼만한 다른 검토 방법은 무엇이 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "제안하신 바를 참고하여 해당 지원자에게 추가적인 질문을 했습니다. 그는 이렇게 답변했습니다.\"조직의 규모는 그만큼 많은 돈이 오가는, 큰 규모의 복잡한 회계업무를 저 혼자 처리해냈습니다. 그 과정에서 업무의 누락이나 회계 오류도 전혀 없었습니다. 그만큼 제가 혼자 처리할 수 있는 회계 업무의 규모와 복잡성에 대해 강조하고 싶었습니다.아울러 제가 실무상 겪어본 회계 업무상 가장 복잡했던 업무는 다음과 같습니다. ...\"제 판단으로는 조직의 규모에 대한 이야기의 연장선에서 과거 업무 역량에 대한 소개가 충분히 된 것 같으며, 과거 겪어본 실무상 가장 복잡했던 업무에 대한 내용도 수긍이 됩니다. 이 정도면 어떻습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "회계 분야 신입 공개채용 지원자가 \"귀하는 어떤 회계 절차에 대한 경험이 있습니까?\" 라는 질문에 아래와 같이 답했습니다.\n\"장부 관리, 부가세 환원, 급여 업무 경험이 있으며 생능ERP라는 회계 소프트웨어를 사용했습니다. 당시 조직의 규모는 30명이며 매출은 400억 원, 매입은 120억 원 가량입니다.\"\n이 지원자를 평가하고, 이유도 설명해 주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "좋은 대답 감사합니다. 하지만 직무 경험이 있는 경력직에게 특화된 질문 같습니다. 혹시 신입 지원자를 평가하기 위한 질문도 설계해 줄 수 있나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "우리 회사는 웹툰 플랫폼 회사이며, 현재 300명의 직원이 일하고 있습니다.이번에 경영지원팀의 회계 업무 신입 지원자를 평가하기 위한 면접을 준비중입니다. 면접에서 지원자의 인성이나 실력을 알아볼 수 있는 질문을 설계해 주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "웹 프론트엔드 개발자를 채용하려 합니다. 신입 직원 채용을 위한 Job Description을 작성해 주세요.필수 조건으로는 React.js 사용 경험을 포함하고, 우대 조건으로는 컴퓨터공학 관련 전공 출신을 포함해주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "엑셀을 활용해 수익을 분석하고 있다. \"계산용\" 시트의 D5셀에 현재 주식의 가격이, D3셀에는 초기 주식의 가격이 기재되어 있다. 총 투자 기간은 10년일 때, CAGR을 구하는 수식을 작성하시오.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "엑셀에서 연 평균 수익률은 어떻게 계산합니까? 투자 기간은 10년입니다",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "수익률을 바탕으로 수익을 구하는 방법을 알려주세요",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "지금 엑셀을 켜 둔 상태고, A열에는 2013년 2월부터 현재까지의 날짜가, 그리고 B열에는 각 날짜별로 주가가 기재되어 있어.\n\n총 수익률을 계산하는 방법을 알려줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "혹시 엑셀에서 오늘 날짜와, 오늘로부터 10년 전의 날짜를 자동으로 계산할 수 있습니까? 날짜 표기는 yyyy-mm-dd 형태로요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "엑셀에서 주가를 불러오는 방법을 알려줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "엑셀 함수의 이름과 기능을 아는 대로 최대한 많이 열거하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "1. 나의 투자 목표 기간은 10년이며, 투자 예정 금액은 1억 원입니다.\n2. 현재 시중은행의 저축상품 금리는 3.5 ~ 3.8% 가량입니다.\n3. 투자 기간이 상대적으로 짧은 만큼 리스크를 감수하며 수익을 바라기보다는, 인플레이션을 상쇄할 수 있을 정도의 안전한 수익을 추구합니다.\n4. 최대 낙폭은 -15%이내면 좋겠습니다.\n\n현대 포트폴리오 이론과 사전에 제공받은 포트폴리오들의 정보를 토대로, 제 상황에서 가장 적합한 자산배분을 수행하려면, 주식, 채권, 그 외 기타 자산을 어떤 비율로 섞으면 좋을지를 설계해주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "최근 10년간 인플레이션 지수는 연 평균 2.65%입니다. 코로나19에 대한 대응으로 미국이 무제한 양적 완화를 시행하였으며, 현재에는 양적완화로 인한 반동을 바로잡기 위하여 전 세계의 중앙은행이 지속적으로 기준금리를 인상하고 있습니다.\n\n1. \"Simple Path to Wealth\" 포트폴리오는 전체 주식 시장을 추종하는 ETF와 전체 채권 시장을 추종하는 ETF를 3:1 비율로 분산하여 투자합니다. 최근 10년간 연 평균 수익률은 9.66%이며, 최대 낙폭은 2022년 1월부터 9월 까지 -22.24%입니다.\n\n2. \"All weather Portfolio\" 포트폴리오는 전체 주식 시장을 추종하는 ETF를 30%, 금을 7.5%, 원자재를 7.5%, 미국 장기 채권을 40%, 미국 중기 채권을 15% 비율로 분산하여 투자합니다. 최근 10년간 연 평균 수익률은 4.8%이며, 최대 낙폭은 2022년 1월부터 9월 까지 -20.19%입니다.\n\n3. \"Warren Buffet Portfolio\" 포트폴리오는 비국 전체 주식 시장을 90% 비율로, 미국 단기채를 10% 비율로 투자합니다. 최근 10년간 연 평균 수익률은 11.4%이며, 최대 낙폭은 2022년 1월부터 9월 까지 -23.08%입니다.\n\n4. \"QQQ\" 포트폴리오는 미국 나스닥 지수를 추종하는 ETF에 100% 비율로 투자합니다. 최근 10년간 연 평균 수익률은 17.05%이며, 최대 낙폭은 2022년 1월부터 12월까지 -32.58%입니다.\n\n5. \"Couch Potato\" 포트폴리오는 미국 전체 주식시장과 미국 전체 채권시장에 각각 50%씩 투자합니다. 최근 10년간 연 평균 수익률은 6.88%이며, 최대 낙폭은 2022년 1월부터 9월까지 -19.77%입니다.\n\n6. \"Short Term Treasury\" 포트폴리오는 미국 단기채에 100% 투자합니다. 최근 10년간 연 평균 수익률은 0.6%이며, 최대 낙폭은 2021년 6월부터 2021년 10월까지 -5.36%입니다.\n\n...\n...",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "일반인들은 여러 회사에 나누어 투자하는 것을 충분히 분산된 투자라고 생각하는데, 이런 견해를 모던 포트폴리오 이론에 입각하여 수정하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "현대 포트폴리오 이론의 정의와, 리스크가 상쇄되는 원리를 설명하시오.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "writing_contents",
+    "prompt": "5~7세 아동에게 보여줄 동화책을 설계하고 있습니다. 핵심 교훈 1가지와, 이 교훈을 전달할 수 있는 동화 스토리를 설계하시오.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "갑은 을의 귀가 당나귀의 귀처럼 생겼다는 사실을 공공연히 적시하여 을의 명예를 훼손하였다. 이때 발생하는 민형사상 책임에 대하여 설명하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "미드저니 프롬프트 작성 규칙을 설명해 보세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "science",
+    "prompt": "자동차의 타이어가 빗길에 미끄러지지 않는 원리를 알려줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "science",
+    "prompt": "자동차가 빗길에 미끄러지지 않는 원리를 알려줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
     "category": "philosophy",
     "prompt": "기술적 백그라운드가 없는 사람들에게 ChatGPT를 어떻게 소개하시겠습니까?",
     "comment": "",
     "href": "",
-    "screenshot": "suomi.png",
+    "screenshot": "",
     "metadata": {
       "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,

@@ -1,6 +1,23 @@
 [
   {
     "category": "writing_contents",
+    "prompt": "5~7세 아동에게 보여줄 동화책을 설계하고 있습니다. 핵심 교훈 1가지와, 이 교훈을 전달할 수 있는 동화 스토리를 설계하시오.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "writing_contents",
     "prompt": "연애편지를 써 주세요. 영희와 저는 만난 지 2주가 되었고, 도서관에서 처음 만나 이야기를 나누며 친해졌습니다. ",
     "comment": "",
     "href": "",

@@ -1,6 +1,40 @@
 [
   {
     "category": "science",
+    "prompt": "자동차의 타이어가 빗길에 미끄러지지 않는 원리를 알려줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "science",
+    "prompt": "자동차가 빗길에 미끄러지지 않는 원리를 알려줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: GPT 노마드의 탄생",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658",
+      "Cover_filename": "2023_반병현_gpt 노마드.jpg"
+    }
+  },
+  {
+    "category": "science",
     "prompt": "내 차 뒤에 CVT라는 로고가 붙어 있어. 이게 무슨 뜻이야?",
     "comment": "",
     "href": "",
