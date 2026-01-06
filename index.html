@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Published Prompt Portal</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1 class="logo">Published Prompt Portal</h1>
+            <div class="prompt-stats">
+                <span class="stat-label">Total Prompts</span>
+                <span class="stat-value">2,548</span>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="#" class="active">Home</a></li>
+                    <li><a href="#">Prompts</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="announcement-bar">
+        <p>도서로 출간된 프롬프트만 모았습니다! 믿고 사용하세요!</p>
+    </div>
+
+    <nav class="categories-nav">
+        <div class="container nav-wrapper">
+            <button class="nav-btn prev-btn" id="nav-prev">&lt;</button>
+            <ul id="categories-list">
+                <li><a href="#" class="active">New</a></li>
+                <li><a href="#">ALL</a></li>
+                <li><a href="#">Writing/Contents</a></li>
+                <li><a href="#">Work/Productivity</a></li>
+                <li><a href="#">Development</a></li>
+                <li><a href="#">Science</a></li>
+                <li><a href="#">Image</a></li>
+                <li><a href="#">Design</a></li>
+                <li><a href="#">Music</a></li>
+                <li><a href="#">Education</a></li>
+                <li><a href="#">Business</a></li>
+                <li><a href="#">Data</a></li>
+                <li><a href="#">Philosophy</a></li>
+            </ul>
+            <button class="nav-btn next-btn" id="nav-next">&gt;</button>
+        </div>
+    </nav>
+
+
+    <main class="site-content">
+        <div class="container">
+            <div id="prompts-grid" class="prompts-grid">
+                <!-- Prompts will be loaded here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal -->
+    <div id="modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button id="close-modal" class="close-btn">&times;</button>
+            <div class="modal-body">
+                <div class="modal-left">
+                    <img id="modal-cover" src="" alt="Book Cover">
+                </div>
+                <div class="modal-right">
+                    <div id="copy-toast" class="copy-message">프롬프트가 복사되었습니다!</div>
+                    <h2 id="modal-title">Book Title</h2>
+                    <p id="modal-author">Author</p>
+                    <p id="modal-year">Year</p>
+                    <p id="modal-publisher">Publisher</p>
+                    <div class="store-links">
+                        <a id="link-kyobo" href="#" target="_blank" class="store-icon"><img
+                                src="src/store_logo/kyobo.png" alt="Kyobo"></a>
+                        <a id="link-yes24" href="#" target="_blank" class="store-icon"><img
+                                src="src/store_logo/yes24.png" alt="Yes24"></a>
+                        <a id="link-aladin" href="#" target="_blank" class="store-icon"><img
+                                src="src/store_logo/aladin.png" alt="Aladin"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2026 <a href="https://nanalab.kr">NaNaLab</a> All rights reserved. <br />이 사이트에 개제된 모든 프롬프트는 저자의
+                허락을 받아 수록하였으며, 각 프롬프트의 저작권은 저자에게 있습니다.<br />프롬프트의 무단 수집, 복제, 재게시를 허가하지 않습니다.</p>
+        </div>
+    </footer>
+</body>
+
+</html>

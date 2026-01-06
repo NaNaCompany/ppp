@@ -1,0 +1,15 @@
+* 오타가 발생하면 사이트에 반영이 안 됩니다.
+** 대소문자 수정 금지
+
+business
+data
+design
+development
+education
+image
+music
+new
+philosophy
+science
+work_productivity
+writing_contents
