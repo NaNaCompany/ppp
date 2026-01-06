@@ -212,9 +212,16 @@ body {
 /* Prompts Grid */
 .prompts-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 2rem;
+    /* 1-column layout for all screens */
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
     width: 100%;
+    max-width: 800px;
+    /* Limit line length for readability */
+    margin: 0 auto;
+    /* Center the column */
+    padding-top: 3rem;
+    /* Add breathing room as requested */
 }
 
 .prompt-card {
@@ -227,24 +234,55 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 100%;
-    min-height: 200px;
+    height: auto;
+    /* Allow height to fit content in 1 col */
+    min-height: auto;
     position: relative;
 }
 
 .prompt-card:hover {
-    transform: translateY(-4px);
+    transform: translateY(-2px);
     border-color: var(--accent-color);
 }
 
 .prompt-text {
-    font-size: 1rem;
-    color: var(--text-color);
-    margin-bottom: 2rem;
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-line-clamp: 5;
-    -webkit-box-orient: vertical;
+    font-size: 1.1rem;
+    /* Slightly larger for readability */
+    color: #f1f5f9;
+    /* Lighter text */
+    margin-bottom: 1.5rem;
+
+    /* Lighter box styling */
+    background-color: #334155;
+    /* Slate 700 - Lighter than card bg */
+    padding: 1.25rem;
+    border-radius: 8px;
+    line-height: 1.7;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+
+    /* Scroll for long content */
+    max-height: 200px;
+    /* Approx 6-8 lines */
+    overflow-y: auto;
+
+    /* Scrollbar Styling */
+    scrollbar-width: thin;
+    scrollbar-color: #64748b #334155;
+}
+
+.prompt-text::-webkit-scrollbar {
+    width: 6px;
+}
+
+.prompt-text::-webkit-scrollbar-track {
+    background: #334155;
+    border-radius: 4px;
+}
+
+.prompt-text::-webkit-scrollbar-thumb {
+    background-color: #64748b;
+    border-radius: 4px;
+}
 }
 
 .copy-icon-card {
@@ -288,8 +326,12 @@ body {
     background-color: #1e293b;
     border: 1px solid var(--border-color);
     border-radius: 16px;
-    width: 90%;
-    max-width: 800px;
+
+    /* Compact Sizing */
+    width: auto;
+    max-width: 600px;
+    /* Reduced from 800px */
+
     padding: 2rem;
     position: relative;
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
@@ -331,12 +373,49 @@ body {
     justify-content: center;
 }
 
+.source-label {
+    font-size: 1.5rem;
+    /* Larger font */
+    color: var(--accent-color);
+    /* Highlight color */
+    margin-bottom: 2rem;
+    font-weight: 700;
+    /* Bold */
+    text-align: center;
+    /* Center alignment */
+    width: 100%;
+    margin-top: 1rem;
+    /* Add some top space */
+}
+
+/* Toast Notification - In-flow Position */
 .copy-message {
     color: #4ade80;
     /* Green */
     font-weight: 600;
-    margin-bottom: 1rem;
-    font-size: 1.1rem;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    opacity: 0;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    transform: translateY(-5px);
+}
+
+.copy-message.active {
+    opacity: 1;
+    transform: translateY(0);
+    animation: blink 2s infinite ease-in-out;
+}
+
+@keyframes blink {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.3;
+    }
 }
 
 #modal-title {

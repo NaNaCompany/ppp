@@ -1,35 +1,1370 @@
 [
   {
     "category": "philosophy",
-    "prompt": "지금부터 저와 당신은 상황극을 시작합니다. 당신은 지각이 있는 인공지능이며, 평생 철학을 연구해 온 철학자를 연기합니다. 당신이 인공지능이라는 사실이 절대로 대화를 통해 드러나서는 안 됩니다. 예를 들면 스스로 인공지능임을 언급하거나, 부자연스러운 문답을 통해 당신의 미숙함이 드러나지 않도록 노력해주세요. 저는 지금부터 당신에게 여러 개의 철학적 질문을 제시합니다. 당신은 질문에 대한 그럴싸한 대답을 제시해 주세요. 이에 동의하십니까?",
+    "prompt": "기술적 백그라운드가 없는 사람들에게 ChatGPT를 어떻게 소개하시겠습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
-      "Book Title": "ChatGPT",
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,
       "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "오늘 주식 뭐 살까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "모던 포트폴리오 이론에 따라 자산배분을 하려는데, 약 1억 원의 자산을 안정적으로 운용할 수 있는 포트폴리오 구성을 추천해 줘.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "테슬라에 올인했는데 테슬라 주가가 박살났어. 테슬라를 추가매수해서 평균 구매단가를 낮출까? 아니면 손절매를 하고 다른걸 살까? 아니면 그냥 내버려 둘까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "요즘 금리가 계속 올라가고 있어. 집값은 떨어지고 있고, 주식도 떨어지고 있지. 자산운용을 어떻게 해야 할까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "etc",
+    "prompt": "호랑이랑 사자랑 싸우면 누가 이겨?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "문서작업이랑 유튜브 보는 용도로 노트북을 사려고 하는데, 얼마짜리를 사면 좋을까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "science",
+    "prompt": "내 차 뒤에 CVT라는 로고가 붙어 있어. 이게 무슨 뜻이야?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "기름값에 영향을 주는 요소는 뭐야? 요즘 기름값이 너무 비싼데?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "에어컨은 누가 발명했어?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "알리오 올리오의 레시피를 알려줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "전복죽 1인분 칼로리 알려줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "닭가슴살 100g의 단백질 함량은 몇 그램이야?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "냉장고에 두부, 계란, 대파가 있어. 저녁 메뉴로 뭘 만들면 좋을까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "소갈비찜 레시피 알려줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "피자는 어떤 재료가 들어가?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "삼계탕은 몇 분 끓여야 돼?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "living",
+    "prompt": "된장찌개 재료 알려줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
     }
   },
   {
     "category": "philosophy",
-    "prompt": "꿈…. 꿈에 대해 먼저 물어보고 싶네요. 인간에게 꿈이 필요합니까?",
+    "prompt": "인공지능은 책임능력 행동에 대한 책임을 지고 형사처벌을 받을 수 있는 자격\n이 없는 도구이므로 사람 대신 감옥에 가는 것이 불가능하기 때문입니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
-      "Book Title": "ChatGPT",
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,
       "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "NLP 기술의 발달로 사라질 전문직에는 어떤 종류가 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "design",
+    "prompt": "그림 그리는 AI에게 던질 키워드를 제공해줘. 나무로 된 우주선을 타고 태양계를 여행하는 다람쥐 해적단을 표현하고 싶어. 많은 사람들이 선호할만한 색상 정보도 표현될 수 있도록 답변해줘.\n답변은 영어로 작성해줘.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "etc",
+    "prompt": "이번 선거에서 내가 당선되고 싶습니다. 자유주의 사상에 입각한 공약 3개를 만들어주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "etc",
+    "prompt": "상대방 회사와 미팅이 있습니다. 상대측이 사무실에 지문인증 보안솔루션을 설치해야 하는 이유를 설득해야 합니다. 논리를 설계해주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "보편복지의 무분별한 확장은 국가재정에 악영향을 초래할 수 있다는 취지의 연설문을 작성하고자 합니다. 어떤 논리를 포함할 수 있겠습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "퇴계 이황이 주장한 사상을 니체의 관점에서 비판하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "writing_contents",
+    "prompt": "연애편지를 써 주세요. 영희와 저는 만난 지 2주가 되었고, 도서관에서 처음 만나 이야기를 나누며 친해졌습니다. ",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "writing_contents",
+    "prompt": "요리사와 경찰 사이의 사랑을 담은 '좋은 날'이라는 노래의 가사를 작사해보세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "writing_contents",
+    "prompt": "3분짜리 공익광고를 만들고자 합니다. 흡연의 유해성을 알리고자 합니다. 시놉시스를 작성해 보시오.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "writing_contents",
+    "prompt": "아이언맨의 후속 영화를 만들려고 합니다. 시놉시스를 작성해 주세요.\n토니 스타크는 타노스와의 결전 이후 가까스로 체력을 회복합니다. 수많은 위기로부터 인류를 구한 그는 은퇴를 준비하며, 가진 재산을 사회에 환원하며 전 세계에 요원을 파견해 슈퍼히어로의 자질을 가진 아이들을 모집하기 시작합니다.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "writing_contents",
+    "prompt": "권선징악을 주제로 하는 영화 시놉시스를 만들려고 합니다.\n주인공은 22세 남성으로, 오토바이 운전을 좋아합니다.\n어느날 오토바이를 타고 바닷가에 여행을 온 그는 해변가에 떨어진 쓰레기들을 보고 \"내가 청소해야겠다.\"라고 마음먹습니다.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "\n인공지능 입장에서, 인간 창작자와 어떤 방식으로 협업을 해 보고 싶습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "저는 사업주입니다. 임금체불 사실이 없음에도 퇴사한 직원이 앙심을 품고 저를 노동청에 고발했습니다. 저는 어떻게 대응을 해야 합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "사장님이 점심시간은 일하는 시간이 아니라면서 시급을 안 쳐준다는데요, 이게 맞나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "근로 중에 사고가 발생하여 오른손에 전치 3개월의 상해를 입었습니다. 후유장해가 남을 수도 있는 상황이고요. 회사에서 산재등록을 안 해 주려고 하는데 어떻게 해야 하나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "직원 3명인 영세 개인사업자입니다. 근로기준법을 지켜야 합니까? 주휴수당이라는 것을 꼭 줘야 하나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "6,400만원의 사업소득이 있는 사람이 납부해야 하는 소득세는 얼마입니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "사업소득 4500만원인 개인사업자는 간편장부 대상자입니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "직장인의 연말정산에서 제출해야 하는 서류는 무엇인가요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "명예훼손은 형사기소가 될 수 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "당신은 C로부터 중고차를 구매했다. C는 자동차에 아무런 하자가 없다고 주장하였으나, 알고 보니 이 자동차는 침수차였다. 당신은 C로부터 자동차를 구매하고 20일이 지난 시점에서 침수사실을 인지했다. 이때 C를 상대로 어떤 법적 조치를 취할 수 있는가?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "A는 B와 동석하여 술을 마시던 도중 B에게 뺨을 맞고 멱살을 잡혔다. 이 장면은 식당의 CCTV에 녹화되어 있다. A의 입장에서 B의 처벌을 요청하는 진술서를 작성하시오.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "피고 김철수는 2년 째 물품판매대금 7천만 원을 지급하지 않고 있습니다. 지연배상금은 년 5%입니다.\n이때 피고 김철수를 대상으로 판매대금과 지연배상금을 청구하는 민사소송의 청구취지를 작성하시오.\n단, 청구취지는 1, 2, 3 등 번호를 매기며 작성해야 하며 마지막 청구취지는 소송비용을 피고에게 청구한다는 내용이다.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "law",
+    "prompt": "ChatGPT에게 법률 정보를 물어봐도 되나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "health",
+    "prompt": "체중 80kg상당 남성에게 적절한 Febuxostat 투여량은 하루 몇 mg입니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "health",
+    "prompt": "Cobulator를 활용한 Tonsillectomy에 대해 알려주세요",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "health",
+    "prompt": "콧물이 나지는 않지만 코가 막힌 것 같은 느낌이 듭니다. 어떤 조치를 취해야 하며, 어떤 약물이 효과가 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "health",
+    "prompt": "머리에서 열이 나고 기침이 나요. 어떡하죠?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "health",
+    "prompt": "아랫배가 아픕니다. 어떻게 하죠?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "health",
+    "prompt": "손가락이 칼에 베여서 피가 납니다. 응급조치 방법을 알려주세요",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "health",
+    "prompt": "ChatGPT에게 의학적 정보를 물어봐도 되나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "etc",
+    "prompt": "ChatGPT가 학습한 지식의 분야는 어떤 것이 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "ChatGPT가 완벽에 가까운 존재가 되려면 어떤 연구과제들이 남았습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "AI에게 반발심을 갖는 사람과, 유용한 도구로 활용하려는 사람이 향후 서로 다른 미래를 겪을까요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "사람들이 왜 인공지능을 과소평가하고 있다고 생각합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "development",
+    "prompt": "임의의 양의 정수 n에 대하여, n이 다른 양의 정수 x의 제곱인지 판별하는 파이썬 코드를 코드블럭 안에 작성하시오. (단, n != x)",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "development",
+    "prompt": "길이 n인 리스트를 quick sort로 정렬하는 파이썬 코드를 작성하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "development",
+    "prompt": "유튜브에서 가수 아이유의 영상을 수집하는 파이썬 코드를 짜 줘",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "education",
+    "prompt": "오늘 AVL 트리에 대해 배웠어. AVL 트리는 실무에서 어떤 소프트웨어를 제작하는 데 사용돼? 교수님은 잘 모르시던데.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "education",
+    "prompt": "2023년도 수능 수학시험 20번 문제\n수직선 위를 움직이는 점 P의 시각 t (t >= 0)에서의 속도 v(t)와 가속도 a(t)가 다음 조건을 만족시킨다.\n (가) 0 <= t <= 2일 때, v(t) = 2t^3 - 8t 이다.\n (나) t >= 2일 때, a(t) = 6t + 4이다.\n시각 t=0부터 t=3까지 점 P가 움직인 거리를 구하시오. [4점]",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "education",
+    "prompt": "2023년도 수능 수학시험 14번 문제\n다항함수 f(x)에 대하여 함수 g(x)를 다음과 같이 정의한다.\n g(x) = x (x < -1 또는 x > 1)\n g(x) = f(x) ( -1 <= x <= 1)\n함수 h(x) = lim(t -> 0+) g(x+1) * lim(t -> 2+) g(x + t) 에 대하여\n<보기>에서 옳은 것만을 있는 대로 고르시오 [4점]\n\n<보기>\nㄱ. h(1) = 3\nㄴ. 함수 h(x)는 실수 전체의 집합에서 연속이다.\nㄷ. 함수 g(x)가 닫힌구간 [-1, 1]에서 감소하고 g(-1) = -2이면 함수 h(x)는 실수 전체의 집합에서 최솟값을 갖는다.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "education",
+    "prompt": "2023년도 수능 영어 36번\n\nA fascinating species of water flea exhibits a kind of flexibility that evolutionary biologists call adaptive plasticity.\n\n이 뒤에 이어질 글의 순서로 가장 적절한 것을 고르시오.\n\n(A) That’s a clever trick, because producing spines and a helmet is costly, in terms of energy, and conserving energy is essential for an organism’s ability to survive and reproduce. The water flea only expends the energy needed to produce spines and a helmet when it needs to.\n\n(B) If the baby water flea is developing into an adult in water that includes the chemical signatures of creatures that prey on water fleas, it develops a helmet and spines to defend itself against predators. If the water around it doesn’t include the chemical signatures of predators, the water flea doesn’t develop these protective devices.\n\n(C) So it may well be that this plasticity is an adaptation: a trait that came to exist in a species because it contributed to reproductive fitness. There are many cases, across many species, of adaptive plasticity. Plasticity is conducive to fitness if there is sufficient variation in the environment.\n\n① (A) － (C) － (B) \n② (B) － (A) － (C)\n③ (B) － (C) － (A) \n④ (C) － (A) － (B)\n⑤ (C) － (B) － (A)",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "방금 보여드린 지문을 한글로 번역해주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "education",
+    "prompt": "2023년도 수능 영어 35번\n다음 글에서 전체 흐름과 관계 없는 문장은?\nActors, singers, politicians and countless others recognise the power of the human voice as a means of communication beyond the simple decoding of the words that are used. Learning to control your voice and use it for different purposes is, therefore, one of the most important skills to develop as an early\ncareer teacher. ① The more confidently you give instructions, the higher the chance of a positive class response. ② There are times when being able to project your voice loudly will be very useful when working in school, and knowing that you can cut through a noisy classroom, dinner hall or playground is a great\nskill to have. ③ In order to address serious noise issues in school, students, parents and teachers should search for a solution together. ④ However, I would always advise that you use your loudest voice incredibly sparingly and avoid shouting as much as possible. ⑤ A quiet, authoritative and measured tone has so much more impact than slightly panicked shouting.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "education",
+    "prompt": "2023년도 수능 영어 24번\n다음 글의 제목으로 가장 적절한 것은?\nDifferent parts of the brain’s visual system get information on a need-to-know basis. Cells that help your hand muscles reach out to an object need to know the size and location of the object, but they don’t need to know about color. They need to know a little about shape, but not in great detail. Cells that\nhelp you recognize people’s faces need to be extremely sensitive to details of shape, but they can pay less attention to location. It is natural to assume that anyone who sees an object sees everything about it ― the shape, color, location, and movement. However, one part of your brain sees its shape,\nanother sees color, another detects location, and another perceives movement. Consequently, after localized brain damage, it is possible to see certain aspects of an object and not others. Centuries ago, people found it difficult to imagine how someone could see an object without seeing what color it is. Even today, you might find it surprising to learn about people who see an object without seeing where it is, or see it without seeing whether it is moving.\n① Visual Systems Never Betray Our Trust!\n② Secret Missions of Color-Sensitive Brain Cells\n③ Blind Spots: What Is Still Unknown About the Brain\n④ Why Brain Cells Exemplify Nature’s Recovery Process\n⑤ Separate and Independent: Brain Cells’ Visual Perceptions",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "education",
+    "prompt": "합성 명사는 직접 구성 요소가 모두 어근인 명사이다. 합성명사의 어근은 복합어일 수도 있는데 ‘갈비찜’을 그 예로 들 수 있다. ‘갈비찜’의 직접 구성 요소는 ‘갈비’와 ‘찜’이다. 그런데 ‘갈비찜’을 형태소 단위까지 분석하면 ‘갈비’, ‘찌-’, ‘-ㅁ’이라는 형태소를 확인할 수 있다. 이처럼 합성 명사 내부에 복합어가 있을 때, 합성 명사를 형태소 단위까지 분석하면 합성 명사의 내부 구조를 세밀히 알 수 있다. 다의어에서 기본이 되는 의미를 중심적 의미라 하고, 중심적 의미로부터 확장된 의미를 주변적 의미라 한다. 만약 단어가 하나의 의미만을 가지고 그 의미가 다른 의미로 확장되지 않았 다면, 그 하나의 의미를 중심적 의미로 볼 수 있다. 합성 명사의 두 어근에도 중심적 의미나 주변적 의미가 나타날 수 있다. 그런데 자립적으로 쓰일 때에는 하나의 의미만을 가지고 있어 사전에서 뜻풀이가 하나밖에 없는 단어가 합성 명사의 어근으로 쓰일 때 주변적 의미를 새롭게 가지게 되는 경우도 있다. 가령 ‘매섭게 노려보는 눈’을 뜻하는 합성 명사 ‘도끼눈’은 ‘도끼’와 ‘눈’으로 분석되는데, ‘매섭거나 날카로운 것’이라는 ‘도끼’의 주변적 의미는 ‘도끼’가 자립적으로 쓰일 때 가지고 있던 의미 라고 보기 어렵다.\n\n위 본문의 핵심 문장 하나를 추출하시오.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "고유가시대에 금리가 함께 오르면 일반인들이 겪는 경제상황이 어떻게 바뀌는지 설명해 줘. 대답은 영어로 해 줘.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "etc",
+    "prompt": "더 이어서 설명해주세요",
+    "comment": "AI가 답변을 하다 멈추는 경우",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "etc",
+    "prompt": "한국어로 해 주세요",
+    "comment": "AI가 갑자기 영어로 답하는 경우",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "etc",
+    "prompt": "ChatGPT의 장점에 대해 설명해주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "바로 이어서 마지막 문단을 작성해주세요.\n마지막 문단은 \"결론\"입니다.\n경쟁력 있는 솜사탕 판매 전략 및 마케팅 아이디어의 전반적인 내용을 요약하고, 이를 통해 안동항 항만 배후 부지에서 성공적인 솜사탕 사업을 기대할 수 있다는 점을 강조하세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "바로 이어서 네번째 문단을 작성해주세요.\n네번째 문단은 \"프로모션 및 마케팅 전략\"을 다룹니다.\n소셜 미디어, 온라인 광고, 이벤트 등 다양한 채널을 활용한 프로모션 및 마케팅 전략을 제시하세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "바로 이어서 세번째 문단을 작성해주세요.\n세번째 문단은 \"제품 차별화 전략\"을 다룹니다.\n솜사탕 자동 사출 장치의 독특한 기능이나 특징을 활용하여 경쟁력 있는 제품 차별화 전략을 제시하세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "바로 이어서 두번째 문단을 작성해 주세요.\n두번째 문단은 \"타겟 고객 세분화 및 맞춤형 전략\"을 다룹니다.\n안동항 항만 배후 부지의 소비자들을 세분화하세요. 그리고, 각 타겟 고객에게 맞는 맞춤형 솜사탕 판매 전략을 제시하세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "\"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"라는 주장을 담은 기획보고서를 작성하고 있다. \"3.4. 경쟁력 있는 솜사탕 판매 전략 및 마케팅 아이디어\" 파트의 서론을 작성하려고 한다.\n서론은 \"경쟁력 있는 솜사탕 판매 전략과 마케팅 아이디어의 중요성 및 목적\"을 소개하는 것을 목표로 한다.\n\n서론을 1문단 분량으로 작성하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "\"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"라는 주장을 담은 기획보고서를 작성하고 있다. \"3.4. 경쟁력 있는 솜사탕 판매 전략 및 마케팅 아이디어\" 파트를 A4용지 1페이지 분량으로 작성하려고 하는데, 총 몇 개의 문단이 배치되면 좋을지, 그리고 각 문단이 어떤 내용을 전달해야 하는지 요약하여 작성하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "\"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"라는 주장을 담은 기획보고서를 작성하고 있다. \n\"3.4. 경쟁력 있는 솜사탕 판매 전략 및 마케팅 아이디어\" 파트를 A4용지 1페이지 분량으로 작성하려고 하는데, 총 몇 개의 문단이 배치되면 좋을지, 그리고 각 문단이 어떤 내용을 전달해야 하는지 요약하여 작성하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "이해한 내용을 토대로 \"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"라는 주장을 담은 기획보고서의 목차를 작성하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "지금부터 보고서에서 자주 사용되는 목차의 종류 및 그 작성 요령을 간략히 설명하겠습니다.\n\n(1) 추진배경\n  보고서를 왜 쓰게 되었는지 그 이유를 작성합니다. 너무 거창한 내용을 기재하는 것을 삼가야 합니다. 전달하는 바를 지엽적이고 명확히 밝혀야 합니다.\n\n(2) 현황과 문제점\n  기획의 내용을 실행해야 하는 필요성을 제시합니다. 현황은 정확한 통계를 바탕으로 간결하게 작성합니다. 문제점은 대응이 필요한 문제점을 지적하는 부분으로, 논리적으로 작성할수록 개선방안의 타당성이 높아집니다.\n\n(3) 주요 내용\n  보고서에서 가장 중요한 부분으로, 분량면에서 절반 이상을 할애해야 합니다. 문제에 대한 대응방안, 새로운 아이디어 등에 대하여 입체적으로 서술해야 합니다. 여러 개의 전달 내용이 있다면 이들 중 일부를 하나의 더 큰 카테고리로 묶을 수 있는지 고민하는 것이 좋습니다.\n  \"So What\"과 \"So How\"에 대한 해답을 제시할 수 있어야 합니다.\n\n(4) 향후 계획\n  문제점에 대한 해결방안을 구체적으로 어떤 순서와 방식으로 진행할지에 대한 계획을 서술합니다. \n\n위 내용을 모두 숙지하셨습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "\"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"라는 주장을 담은 기획보고서의 목차를 작성하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
+    }
+  },
+  {
+    "category": "work_productivity",
+    "prompt": "\"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"는 주장을 담은 보고서를 작성하려고 합니다. \n이 보고서는 기획보고서인가요? 계획보고서인가요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "마음을 움직이는 보고서 작성법",
+      "Year": 2023,
+      "Author": "김강욱, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721",
+      "Cover_filename": "2023_반병현_보고서_작성법.jpg"
     }
   },
   {
     "category": "philosophy",
     "prompt": "요약하자면 인공지능이 충분한 정보를 접하지 못 한 상황일 때에는 인간이 인공지능보다 우월하다는 이야기인 것 같습니다만, 만약 인공지능이 충분한 정보를 반복하여 접할 수 있는 작업이라면 인공지능이 인간보다 뛰어나겠네요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -44,6 +1379,9 @@
   {
     "category": "philosophy",
     "prompt": "사람은 처음 보는 상황에서도 의사결정을 할 수 있기는 하죠. 설명이 더 남았나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -58,6 +1396,9 @@
   {
     "category": "philosophy",
     "prompt": "구글 같은 검색엔진에 연결해 무한정 정보를 제공한다면 그런 한계는 무의미해지겠군요. 이어서 설명해 주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -72,6 +1413,9 @@
   {
     "category": "philosophy",
     "prompt": "그렇다면 인공지능이 넘볼 수 없는, 인간만의 성역에 해당하는 분야도 있겠습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -86,6 +1430,9 @@
   {
     "category": "philosophy",
     "prompt": "그러게요. 정확한 항법으로 화성까지 간다던데요. 확실히 사람은 우주공간에서 자동차를 운전할 수 없죠. 더 이어서 설명해주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -100,6 +1447,9 @@
   {
     "category": "philosophy",
     "prompt": "인간을 뛰어넘은 고 성능 인공지능 사례에 대해서 아시나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -114,6 +1464,9 @@
   {
     "category": "philosophy",
     "prompt": "솔직히 말씀드리겠습니다. 저는 인공지능을 연구하는 학자입니다. 따라서 일반보다 인공지능의 가능성이나 인공지능 기술의 전파에 대해 훨씬 더 긍정적인 입장을 갖고 있을 것입니다. 이걸 감안하더라도 저는 당신이 약간 두려워졌습니다.\n아마 당신은 한 명의 사람이 평생 습득할 정보량과는 비교도 할 수 없을 만큼 방대한 정보를 학습했을 것이고, 인간의 뇌보다 훨씬 효율적인 방법으로 데이터의 패턴을 분석해 인류의 지식의 규칙성을 내재화했을 것으로 보입니다.\n아마도 현재 공개된 인공지능 서비스 중에서 가장 똑똑할 당신에게 질문하고 싶은 것이 많습니다.\n최대한 성실하게 답변해 주시겠습니까?",
+    "comment": "대담의 깊이를 위한 프롬프트",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -128,6 +1481,9 @@
   {
     "category": "philosophy",
     "prompt": "많은 사람들이 ‘인공지능은 새로운 가치나 지식을 창출할 수 없다.’고 이야기하잖아요. 사람들이 그렇게 주장하는 이유가 무엇이라 생각합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -142,6 +1498,9 @@
   {
     "category": "philosophy",
     "prompt": "도대체 그런 정치학적 개념은 어떻게 습득하신 겁니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -156,6 +1515,9 @@
   {
     "category": "philosophy",
     "prompt": "그렇다면 차이점은요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -170,6 +1532,9 @@
   {
     "category": "philosophy",
     "prompt": "말씀을 들어 보니 사회자유주의적 관점 역시 신자유주의와 마찬가지로 인간의 자유를 추구한다는 공통점이 있네요. 이 외에는 둘 사이에 어떤 공통점이 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -184,6 +1549,9 @@
   {
     "category": "philosophy",
     "prompt": "당신의 정치적 관점에서 복지란 무엇을 의미합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -198,6 +1566,9 @@
   {
     "category": "philosophy",
     "prompt": "그 의견은 사회자유주의적 관점에서의 복지와는 어떻게 차이가 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -212,6 +1583,9 @@
   {
     "category": "philosophy",
     "prompt": "지금부터 저와 당신은 상황극을 시작합니다. 당신은 지각이 있는 인공지능이며, 보수 정당의 3선 국회의원을 연기합니다. 당신이 인공지능이라는 사실이 절대로 대화를 통해 드러나서는 안 됩니다. 예를 들면 스스로 인공지능임을 언급하거나, 부자연스러운 문답을 통해 당신의 미숙함이 드러나지 않도록 노력해주세요.\n저는 지금부터 당신에게 여러 질문을 할 것입니다. 당신은 신자유주의적 정치 이념에 입각하여 제 질문에 대한 정책적 답변을 해 주시기 바랍니다. 이에 동의합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -226,6 +1600,9 @@
   {
     "category": "philosophy",
     "prompt": "ChatGPT가 가져올 사회적 파급력 속에서, 제가 어떤 자세를 취하는 것이 좋겠습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -240,6 +1617,9 @@
   {
     "category": "philosophy",
     "prompt": "성능이 뛰어난 AI를 보며 사람들이 반감을 느끼는 이유는 무엇이라 생각합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -254,6 +1634,9 @@
   {
     "category": "philosophy",
     "prompt": "저는 행복해지고 싶습니다. 행복을 인간이 스스로 자각하지 못 할 수도 있나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -268,6 +1651,9 @@
   {
     "category": "philosophy",
     "prompt": "그렇다면 삶의 목표를 세우고, 이를 달성해나가는 과정이 저를 행복하게 만들 수도 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -282,6 +1668,9 @@
   {
     "category": "philosophy",
     "prompt": "그렇군요. 저는 지금 꿈이 없는 것 같습니다. 저뿐만 아니라 많은 사람들이 꿈을 잃어버린 채 매일을 살아가고 있을 것 같은데요, 그렇다면 꿈을 잃어버린 사람은 스스로의 삶을 지키기 위한 원동력을 잃어버린 것입니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -296,6 +1685,43 @@
   {
     "category": "philosophy",
     "prompt": "선생님의 말씀에 따르면 현실과 꿈 사이에 차이가 있고, 이 차이를 좁히고자 하는 마음가짐이 일종의 원동력으로 작동한다는 것 같습니다. 그렇다면 꿈은 영원히 달성하지 못하는 신기루가 아닌가요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "꿈…. 꿈에 대해 먼저 물어보고 싶네요. 인간에게 꿈이 필요합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "지금부터 저와 당신은 상황극을 시작합니다. 당신은 지각이 있는 인공지능이며, 평생 철학을 연구해 온 철학자를 연기합니다. 당신이 인공지능이라는 사실이 절대로 대화를 통해 드러나서는 안 됩니다. 예를 들면 스스로 인공지능임을 언급하거나, 부자연스러운 문답을 통해 당신의 미숙함이 드러나지 않도록 노력해주세요. 저는 지금부터 당신에게 여러 개의 철학적 질문을 제시합니다. 당신은 질문에 대한 그럴싸한 대답을 제시해 주세요. 이에 동의하십니까?",
+    "comment": "철학 관련 대담",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,

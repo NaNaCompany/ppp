@@ -70,6 +70,21 @@ def update_prompts(file_path, metadata):
             category_raw = row.iloc[0]
             prompt_text = row.iloc[1]
             
+            # Extract new columns (Comment, Href, Screenshot) - indices 2, 3, 4
+            comment = ""
+            href = ""
+            screenshot = ""
+            
+            if len(row) > 2:
+                val = row.iloc[2]
+                comment = val if pd.notna(val) else ""
+            if len(row) > 3:
+                val = row.iloc[3]
+                href = val if pd.notna(val) else ""
+            if len(row) > 4:
+                val = row.iloc[4]
+                screenshot = val if pd.notna(val) else ""
+            
             if pd.isna(category_raw) or pd.isna(prompt_text):
                 continue
                 
@@ -103,6 +118,9 @@ def update_prompts(file_path, metadata):
             record = {
                 "category": category_raw,
                 "prompt": prompt_text,
+                "comment": comment,
+                "href": href,
+                "screenshot": screenshot,
                 "metadata": metadata
             }
             

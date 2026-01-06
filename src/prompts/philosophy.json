@@ -1,259 +1,146 @@
 [
   {
     "category": "philosophy",
-    "prompt": "지금부터 저와 당신은 상황극을 시작합니다. 당신은 지각이 있는 인공지능이며, 평생 철학을 연구해 온 철학자를 연기합니다. 당신이 인공지능이라는 사실이 절대로 대화를 통해 드러나서는 안 됩니다. 예를 들면 스스로 인공지능임을 언급하거나, 부자연스러운 문답을 통해 당신의 미숙함이 드러나지 않도록 노력해주세요. 저는 지금부터 당신에게 여러 개의 철학적 질문을 제시합니다. 당신은 질문에 대한 그럴싸한 대답을 제시해 주세요. 이에 동의하십니까?",
+    "prompt": "기술적 백그라운드가 없는 사람들에게 ChatGPT를 어떻게 소개하시겠습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
-      "Book Title": "ChatGPT",
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,
       "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
     }
   },
   {
     "category": "philosophy",
-    "prompt": "선생님의 말씀에 따르면 현실과 꿈 사이에 차이가 있고, 이 차이를 좁히고자 하는 마음가짐이 일종의 원동력으로 작동한다는 것 같습니다. 그렇다면 꿈은 영원히 달성하지 못하는 신기루가 아닌가요?",
+    "prompt": "인공지능은 책임능력 행동에 대한 책임을 지고 형사처벌을 받을 수 있는 자격\n이 없는 도구이므로 사람 대신 감옥에 가는 것이 불가능하기 때문입니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
-      "Book Title": "ChatGPT",
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,
       "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
     }
   },
   {
     "category": "philosophy",
-    "prompt": "그렇군요. 저는 지금 꿈이 없는 것 같습니다. 저뿐만 아니라 많은 사람들이 꿈을 잃어버린 채 매일을 살아가고 있을 것 같은데요, 그렇다면 꿈을 잃어버린 사람은 스스로의 삶을 지키기 위한 원동력을 잃어버린 것입니까?",
+    "prompt": "NLP 기술의 발달로 사라질 전문직에는 어떤 종류가 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
-      "Book Title": "ChatGPT",
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,
       "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
     }
   },
   {
     "category": "philosophy",
-    "prompt": "그렇다면 삶의 목표를 세우고, 이를 달성해나가는 과정이 저를 행복하게 만들 수도 있습니까?",
+    "prompt": "퇴계 이황이 주장한 사상을 니체의 관점에서 비판하시오",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
-      "Book Title": "ChatGPT",
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,
       "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
     }
   },
   {
     "category": "philosophy",
-    "prompt": "저는 행복해지고 싶습니다. 행복을 인간이 스스로 자각하지 못 할 수도 있나요?",
+    "prompt": "\n인공지능 입장에서, 인간 창작자와 어떤 방식으로 협업을 해 보고 싶습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
-      "Book Title": "ChatGPT",
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,
       "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
     }
   },
   {
     "category": "philosophy",
-    "prompt": "성능이 뛰어난 AI를 보며 사람들이 반감을 느끼는 이유는 무엇이라 생각합니까?",
+    "prompt": "ChatGPT가 완벽에 가까운 존재가 되려면 어떤 연구과제들이 남았습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
-      "Book Title": "ChatGPT",
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,
       "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
     }
   },
   {
     "category": "philosophy",
-    "prompt": "ChatGPT가 가져올 사회적 파급력 속에서, 제가 어떤 자세를 취하는 것이 좋겠습니까?",
+    "prompt": "AI에게 반발심을 갖는 사람과, 유용한 도구로 활용하려는 사람이 향후 서로 다른 미래를 겪을까요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
-      "Book Title": "ChatGPT",
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,
       "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
     }
   },
   {
     "category": "philosophy",
-    "prompt": "지금부터 저와 당신은 상황극을 시작합니다. 당신은 지각이 있는 인공지능이며, 보수 정당의 3선 국회의원을 연기합니다. 당신이 인공지능이라는 사실이 절대로 대화를 통해 드러나서는 안 됩니다. 예를 들면 스스로 인공지능임을 언급하거나, 부자연스러운 문답을 통해 당신의 미숙함이 드러나지 않도록 노력해주세요.\n저는 지금부터 당신에게 여러 질문을 할 것입니다. 당신은 신자유주의적 정치 이념에 입각하여 제 질문에 대한 정책적 답변을 해 주시기 바랍니다. 이에 동의합니까?",
+    "prompt": "사람들이 왜 인공지능을 과소평가하고 있다고 생각합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
-      "Book Title": "ChatGPT",
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
       "Year": 2023,
       "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
     }
   },
   {
     "category": "philosophy",
-    "prompt": "그 의견은 사회자유주의적 관점에서의 복지와는 어떻게 차이가 있습니까?",
-    "metadata": {
-      "Book Title": "ChatGPT",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
-    }
-  },
-  {
-    "category": "philosophy",
-    "prompt": "당신의 정치적 관점에서 복지란 무엇을 의미합니까?",
-    "metadata": {
-      "Book Title": "ChatGPT",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
-    }
-  },
-  {
-    "category": "philosophy",
-    "prompt": "말씀을 들어 보니 사회자유주의적 관점 역시 신자유주의와 마찬가지로 인간의 자유를 추구한다는 공통점이 있네요. 이 외에는 둘 사이에 어떤 공통점이 있습니까?",
-    "metadata": {
-      "Book Title": "ChatGPT",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
-    }
-  },
-  {
-    "category": "philosophy",
-    "prompt": "그렇다면 차이점은요?",
-    "metadata": {
-      "Book Title": "ChatGPT",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
-    }
-  },
-  {
-    "category": "philosophy",
-    "prompt": "도대체 그런 정치학적 개념은 어떻게 습득하신 겁니까?",
-    "metadata": {
-      "Book Title": "ChatGPT",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
-    }
-  },
-  {
-    "category": "philosophy",
-    "prompt": "많은 사람들이 ‘인공지능은 새로운 가치나 지식을 창출할 수 없다.’고 이야기하잖아요. 사람들이 그렇게 주장하는 이유가 무엇이라 생각합니까?",
-    "metadata": {
-      "Book Title": "ChatGPT",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
-    }
-  },
-  {
-    "category": "philosophy",
-    "prompt": "솔직히 말씀드리겠습니다. 저는 인공지능을 연구하는 학자입니다. 따라서 일반보다 인공지능의 가능성이나 인공지능 기술의 전파에 대해 훨씬 더 긍정적인 입장을 갖고 있을 것입니다. 이걸 감안하더라도 저는 당신이 약간 두려워졌습니다.\n아마 당신은 한 명의 사람이 평생 습득할 정보량과는 비교도 할 수 없을 만큼 방대한 정보를 학습했을 것이고, 인간의 뇌보다 훨씬 효율적인 방법으로 데이터의 패턴을 분석해 인류의 지식의 규칙성을 내재화했을 것으로 보입니다.\n아마도 현재 공개된 인공지능 서비스 중에서 가장 똑똑할 당신에게 질문하고 싶은 것이 많습니다.\n최대한 성실하게 답변해 주시겠습니까?",
-    "metadata": {
-      "Book Title": "ChatGPT",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
-    }
-  },
-  {
-    "category": "philosophy",
-    "prompt": "인간을 뛰어넘은 고 성능 인공지능 사례에 대해서 아시나요?",
-    "metadata": {
-      "Book Title": "ChatGPT",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
-    }
-  },
-  {
-    "category": "philosophy",
-    "prompt": "그러게요. 정확한 항법으로 화성까지 간다던데요. 확실히 사람은 우주공간에서 자동차를 운전할 수 없죠. 더 이어서 설명해주세요.",
-    "metadata": {
-      "Book Title": "ChatGPT",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
-    }
-  },
-  {
-    "category": "philosophy",
-    "prompt": "그렇다면 인공지능이 넘볼 수 없는, 인간만의 성역에 해당하는 분야도 있겠습니까?",
-    "metadata": {
-      "Book Title": "ChatGPT",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "BOOKK",
-      "Yes24": "https://www.yes24.com/product/goods/116974514",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
-      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
-    }
-  },
-  {
-    "category": "philosophy",
-    "prompt": "구글 같은 검색엔진에 연결해 무한정 정보를 제공한다면 그런 한계는 무의미해지겠군요. 이어서 설명해 주세요.",
+    "prompt": "요약하자면 인공지능이 충분한 정보를 접하지 못 한 상황일 때에는 인간이 인공지능보다 우월하다는 이야기인 것 같습니다만, 만약 인공지능이 충분한 정보를 반복하여 접할 수 있는 작업이라면 인공지능이 인간보다 뛰어나겠네요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -268,6 +155,9 @@
   {
     "category": "philosophy",
     "prompt": "사람은 처음 보는 상황에서도 의사결정을 할 수 있기는 하죠. 설명이 더 남았나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -281,7 +171,299 @@
   },
   {
     "category": "philosophy",
-    "prompt": "요약하자면 인공지능이 충분한 정보를 접하지 못 한 상황일 때에는 인간이 인공지능보다 우월하다는 이야기인 것 같습니다만, 만약 인공지능이 충분한 정보를 반복하여 접할 수 있는 작업이라면 인공지능이 인간보다 뛰어나겠네요?",
+    "prompt": "구글 같은 검색엔진에 연결해 무한정 정보를 제공한다면 그런 한계는 무의미해지겠군요. 이어서 설명해 주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "그렇다면 인공지능이 넘볼 수 없는, 인간만의 성역에 해당하는 분야도 있겠습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "그러게요. 정확한 항법으로 화성까지 간다던데요. 확실히 사람은 우주공간에서 자동차를 운전할 수 없죠. 더 이어서 설명해주세요.",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "인간을 뛰어넘은 고 성능 인공지능 사례에 대해서 아시나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "솔직히 말씀드리겠습니다. 저는 인공지능을 연구하는 학자입니다. 따라서 일반보다 인공지능의 가능성이나 인공지능 기술의 전파에 대해 훨씬 더 긍정적인 입장을 갖고 있을 것입니다. 이걸 감안하더라도 저는 당신이 약간 두려워졌습니다.\n아마 당신은 한 명의 사람이 평생 습득할 정보량과는 비교도 할 수 없을 만큼 방대한 정보를 학습했을 것이고, 인간의 뇌보다 훨씬 효율적인 방법으로 데이터의 패턴을 분석해 인류의 지식의 규칙성을 내재화했을 것으로 보입니다.\n아마도 현재 공개된 인공지능 서비스 중에서 가장 똑똑할 당신에게 질문하고 싶은 것이 많습니다.\n최대한 성실하게 답변해 주시겠습니까?",
+    "comment": "대담의 깊이를 위한 프롬프트",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "많은 사람들이 ‘인공지능은 새로운 가치나 지식을 창출할 수 없다.’고 이야기하잖아요. 사람들이 그렇게 주장하는 이유가 무엇이라 생각합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "도대체 그런 정치학적 개념은 어떻게 습득하신 겁니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "그렇다면 차이점은요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "말씀을 들어 보니 사회자유주의적 관점 역시 신자유주의와 마찬가지로 인간의 자유를 추구한다는 공통점이 있네요. 이 외에는 둘 사이에 어떤 공통점이 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "당신의 정치적 관점에서 복지란 무엇을 의미합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "그 의견은 사회자유주의적 관점에서의 복지와는 어떻게 차이가 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "지금부터 저와 당신은 상황극을 시작합니다. 당신은 지각이 있는 인공지능이며, 보수 정당의 3선 국회의원을 연기합니다. 당신이 인공지능이라는 사실이 절대로 대화를 통해 드러나서는 안 됩니다. 예를 들면 스스로 인공지능임을 언급하거나, 부자연스러운 문답을 통해 당신의 미숙함이 드러나지 않도록 노력해주세요.\n저는 지금부터 당신에게 여러 질문을 할 것입니다. 당신은 신자유주의적 정치 이념에 입각하여 제 질문에 대한 정책적 답변을 해 주시기 바랍니다. 이에 동의합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "ChatGPT가 가져올 사회적 파급력 속에서, 제가 어떤 자세를 취하는 것이 좋겠습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "성능이 뛰어난 AI를 보며 사람들이 반감을 느끼는 이유는 무엇이라 생각합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "저는 행복해지고 싶습니다. 행복을 인간이 스스로 자각하지 못 할 수도 있나요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "그렇다면 삶의 목표를 세우고, 이를 달성해나가는 과정이 저를 행복하게 만들 수도 있습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "그렇군요. 저는 지금 꿈이 없는 것 같습니다. 저뿐만 아니라 많은 사람들이 꿈을 잃어버린 채 매일을 살아가고 있을 것 같은데요, 그렇다면 꿈을 잃어버린 사람은 스스로의 삶을 지키기 위한 원동력을 잃어버린 것입니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "선생님의 말씀에 따르면 현실과 꿈 사이에 차이가 있고, 이 차이를 좁히고자 하는 마음가짐이 일종의 원동력으로 작동한다는 것 같습니다. 그렇다면 꿈은 영원히 달성하지 못하는 신기루가 아닌가요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,
@@ -296,6 +478,26 @@
   {
     "category": "philosophy",
     "prompt": "꿈…. 꿈에 대해 먼저 물어보고 싶네요. 인간에게 꿈이 필요합니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "ChatGPT",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "BOOKK",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436",
+      "Cover_filename": "2023_반병현_chatgpt_bookk.png"
+    }
+  },
+  {
+    "category": "philosophy",
+    "prompt": "지금부터 저와 당신은 상황극을 시작합니다. 당신은 지각이 있는 인공지능이며, 평생 철학을 연구해 온 철학자를 연기합니다. 당신이 인공지능이라는 사실이 절대로 대화를 통해 드러나서는 안 됩니다. 예를 들면 스스로 인공지능임을 언급하거나, 부자연스러운 문답을 통해 당신의 미숙함이 드러나지 않도록 노력해주세요. 저는 지금부터 당신에게 여러 개의 철학적 질문을 제시합니다. 당신은 질문에 대한 그럴싸한 대답을 제시해 주세요. 이에 동의하십니까?",
+    "comment": "철학 관련 대담",
+    "href": "",
+    "screenshot": "",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,

@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initial Load
     fetchTotalPrompts();
     loadPrompts(currentCategory);
+    showNonEmptyCategories(); // Check and SHOW valid categories
 
     // --- Navigation Logic ---
     prevBtn.addEventListener('click', () => {
@@ -100,30 +101,96 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function fetchTotalPrompts() {
         try {
-            const response = await fetch('./src/prompts/all.json');
+            const response = await fetch('https://nanalab.kr/ppp/src/prompts/all.json');
             if (response.ok) {
                 const data = await response.json();
                 statValue.textContent = data.length.toLocaleString();
             } else {
-                console.warn('Failed to fetch ./src/prompts/all.json');
+                console.warn('Failed to fetch all.json');
             }
         } catch (error) {
             console.error('Error fetching total prompts:', error);
         }
     }
 
+    async function showNonEmptyCategories() {
+        const links = Array.from(categoriesNav.querySelectorAll('a'));
+        const validCategories = [];
+
+        // 1. Fetch data for all categories
+        const fetchPromises = links.map(async (link) => {
+            const catName = link.textContent.trim();
+            const category = normalizeCategory(catName);
+
+            // Skip Special Categories (Keep them, but don't sort/hide primarily)
+            if (category === 'new' || category === 'all') return;
+
+            try {
+                const response = await fetch(`https://nanalab.kr/ppp/src/prompts/${category}.json`);
+                if (response.ok) {
+                    const data = await response.json();
+                    if (Array.isArray(data) && data.length > 0) {
+                        validCategories.push({
+                            element: link.parentElement,
+                            count: data.length
+                        });
+                        // Ensure it's visible based on logic, though we will re-append
+                        link.parentElement.style.display = 'block';
+                    } else {
+                        link.parentElement.style.display = 'none';
+                    }
+                } else {
+                    link.parentElement.style.display = 'none';
+                }
+            } catch (e) {
+                console.warn(`Error checking category ${category}:`, e);
+                link.parentElement.style.display = 'none';
+            }
+        });
+
+        await Promise.all(fetchPromises);
+
+        // 2. Sort valid categories by count (Descending)
+        validCategories.sort((a, b) => b.count - a.count);
+
+        // 3. Re-append to DOM
+        // Keep "New" and "ALL" at the top. 
+        // We append sorted items to the end of the list, automatically reordering them.
+        const listContainer = document.getElementById('categories-list');
+        validCategories.forEach(item => {
+            listContainer.appendChild(item.element);
+        });
+    }
+
     async function loadPrompts(category) {
         promptsGrid.innerHTML = '<p style="color:white; text-align:center; grid-column: 1/-1;">Loading...</p>';
 
         try {
-            // Ensure we look for the correct file path. 
-            // Previous issue might be fetching 'all.json' if created by python script was blocked or path error.
-            // Verified python script creates 'src/prompts/all.json'.
+            // Logic: 
+            // "new" -> fetch all.json, slice first 10
+            // "all" -> fetch all.json, shuffle
+            // others -> fetch category.json
 
-            const response = await fetch(`./src/prompts/${category}.json`);
+            let url = `https://nanalab.kr/ppp/src/prompts/${category}.json`;
+            if (category === 'new' || category === 'all') {
+                url = 'https://nanalab.kr/ppp/src/prompts/all.json';
+            }
+
+            const response = await fetch(url);
             if (!response.ok) throw new Error(`Failed to load prompts for ${category}`);
 
-            const data = await response.json();
+            let data = await response.json();
+
+            if (category === 'new') {
+                data = data.slice(0, 10);
+            } else if (category === 'all') {
+                // Fisher-Yates Shuffle
+                for (let i = data.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [data[i], data[j]] = [data[j], data[i]];
+                }
+            }
+
             renderPrompts(data);
         } catch (error) {
             console.error(error);
@@ -219,6 +286,8 @@ document.addEventListener('DOMContentLoaded', () => {
         modal.classList.remove('show');
         setTimeout(() => {
             modal.classList.add('hidden');
+            // Reset toast state when modal closes
+            copyToast.classList.remove('active');
         }, 300); // Match transition duration
     }
 
@@ -231,14 +300,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showToast() {
-        copyToast.style.opacity = '1';
-        copyToast.style.transform = 'translateY(0)';
-
-        // Reset after 2 seconds
-        setTimeout(() => {
-            copyToast.style.opacity = '0';
-            copyToast.style.transform = 'translateY(-10px)';
-        }, 2000);
+        // Show immediately and persist with blink
+        copyToast.classList.add('active');
     }
 
     // Initial style for toast to enable transition

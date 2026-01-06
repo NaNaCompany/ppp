@@ -1,7 +1,7 @@
 [
   {
-    "category": "writing_contents",
-    "prompt": "연애편지를 써 주세요. 영희와 저는 만난 지 2주가 되었고, 도서관에서 처음 만나 이야기를 나누며 친해졌습니다. ",
+    "category": "finance",
+    "prompt": "오늘 주식 뭐 살까?",
     "comment": "",
     "href": "",
     "screenshot": "",
@@ -17,8 +17,8 @@
     }
   },
   {
-    "category": "writing_contents",
-    "prompt": "요리사와 경찰 사이의 사랑을 담은 '좋은 날'이라는 노래의 가사를 작사해보세요.",
+    "category": "finance",
+    "prompt": "모던 포트폴리오 이론에 따라 자산배분을 하려는데, 약 1억 원의 자산을 안정적으로 운용할 수 있는 포트폴리오 구성을 추천해 줘.",
     "comment": "",
     "href": "",
     "screenshot": "",
@@ -34,8 +34,8 @@
     }
   },
   {
-    "category": "writing_contents",
-    "prompt": "3분짜리 공익광고를 만들고자 합니다. 흡연의 유해성을 알리고자 합니다. 시놉시스를 작성해 보시오.",
+    "category": "finance",
+    "prompt": "테슬라에 올인했는데 테슬라 주가가 박살났어. 테슬라를 추가매수해서 평균 구매단가를 낮출까? 아니면 손절매를 하고 다른걸 살까? 아니면 그냥 내버려 둘까?",
     "comment": "",
     "href": "",
     "screenshot": "",
@@ -51,8 +51,8 @@
     }
   },
   {
-    "category": "writing_contents",
-    "prompt": "아이언맨의 후속 영화를 만들려고 합니다. 시놉시스를 작성해 주세요.\n토니 스타크는 타노스와의 결전 이후 가까스로 체력을 회복합니다. 수많은 위기로부터 인류를 구한 그는 은퇴를 준비하며, 가진 재산을 사회에 환원하며 전 세계에 요원을 파견해 슈퍼히어로의 자질을 가진 아이들을 모집하기 시작합니다.",
+    "category": "finance",
+    "prompt": "요즘 금리가 계속 올라가고 있어. 집값은 떨어지고 있고, 주식도 떨어지고 있지. 자산운용을 어떻게 해야 할까?",
     "comment": "",
     "href": "",
     "screenshot": "",
@@ -68,8 +68,42 @@
     }
   },
   {
-    "category": "writing_contents",
-    "prompt": "권선징악을 주제로 하는 영화 시놉시스를 만들려고 합니다.\n주인공은 22세 남성으로, 오토바이 운전을 좋아합니다.\n어느날 오토바이를 타고 바닷가에 여행을 온 그는 해변가에 떨어진 쓰레기들을 보고 \"내가 청소해야겠다.\"라고 마음먹습니다.",
+    "category": "finance",
+    "prompt": "기름값에 영향을 주는 요소는 뭐야? 요즘 기름값이 너무 비싼데?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "보편복지의 무분별한 확장은 국가재정에 악영향을 초래할 수 있다는 취지의 연설문을 작성하고자 합니다. 어떤 논리를 포함할 수 있겠습니까?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": "finance",
+    "prompt": "고유가시대에 금리가 함께 오르면 일반인들이 겪는 경제상황이 어떻게 바뀌는지 설명해 줘. 대답은 영어로 해 줘.",
     "comment": "",
     "href": "",
     "screenshot": "",

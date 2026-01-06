@@ -13,3 +13,5 @@ philosophy
 science
 work_productivity
 writing_contents
+language
+etc
