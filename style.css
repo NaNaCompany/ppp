@@ -479,3 +479,15 @@ body {
     text-align: center;
     color: #94a3b8;
 }
+
+/* Screenshot Styling */
+.card-screenshot {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    object-fit: cover;
+    max-height: 300px;
+    display: block;
+    background-color: #0f172a;
+}
