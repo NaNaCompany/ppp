@@ -54,6 +54,17 @@ body {
     color: var(--accent-color);
 }
 
+.logo a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.logo a:visited,
+.logo a:active,
+.logo a:hover {
+    color: inherit;
+}
+
 .main-nav ul {
     list-style: none;
     display: flex;
@@ -244,6 +255,18 @@ body {
     /* Center the column */
     padding-top: 3rem;
     /* Add breathing room as requested */
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.prompts-grid.fade-out {
+    opacity: 0;
+    transform: translateY(10px);
+}
+
+.prompts-grid.fade-in {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 .prompt-card {
@@ -578,6 +601,17 @@ body {
     margin-top: 100px;
     text-align: center;
     color: #94a3b8;
+}
+
+.site-footer a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.site-footer a:visited,
+.site-footer a:active,
+.site-footer a:hover {
+    color: var(--accent-color);
 }
 
 /* Screenshot Styling */

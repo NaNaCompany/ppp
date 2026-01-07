@@ -180,38 +180,54 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function loadPrompts(category) {
-        promptsGrid.innerHTML = '<p style="color:white; text-align:center; grid-column: 1/-1;">Loading...</p>';
+        // --- 1. Start Fade Out Animation ---
+        promptsGrid.classList.add('fade-out');
+        const fadeOutPromise = new Promise(resolve => setTimeout(resolve, 300));
 
         try {
-            // Logic: 
-            // "new" -> fetch all.json, slice first 10
-            // "all" -> fetch all.json, shuffle
-            // others -> fetch category.json
-
+            // --- 2. Start Fetching Data Concurrently ---
             let url = `https://nanalab.kr/ppp/src/prompts/${category}.json`;
             if (category === 'new' || category === 'all') {
                 url = 'https://nanalab.kr/ppp/src/prompts/all.json';
             }
 
-            const response = await fetch(url);
-            if (!response.ok) throw new Error(`Failed to load prompts for ${category}`);
+            const fetchPromise = fetch(url).then(async (response) => {
+                if (!response.ok) throw new Error(`Failed to load prompts for ${category}`);
+                return await response.json();
+            });
 
-            let data = await response.json();
+            // --- 3. Wait for BOTH Fade Out and Fetch to complete ---
+            // This ensures minimum 300ms delay for animation, but utilizes that time for fetching.
+            const [_, data] = await Promise.all([fadeOutPromise, fetchPromise]);
 
+            // --- 4. Process Data ---
+            let processedData = data;
             if (category === 'new') {
-                data = data.slice(0, 10);
+                processedData = data.slice(0, 10);
             } else if (category === 'all') {
                 // Fisher-Yates Shuffle
-                for (let i = data.length - 1; i > 0; i--) {
+                for (let i = processedData.length - 1; i > 0; i--) {
                     const j = Math.floor(Math.random() * (i + 1));
-                    [data[i], data[j]] = [data[j], data[i]];
+                    [processedData[i], processedData[j]] = [processedData[j], processedData[i]];
                 }
             }
 
-            renderPrompts(data);
+            // --- 5. Render & Fade In ---
+            // Clear previous content just before rendering new content
+            renderPrompts(processedData);
+
+            // Allow browser paint cycle then fade in
+            requestAnimationFrame(() => {
+                promptsGrid.classList.remove('fade-out');
+            });
+
         } catch (error) {
             console.error(error);
+            // If fetch failed, still wait for fade out to finish before showing error
+            await fadeOutPromise;
+
             promptsGrid.innerHTML = `<p style="color:#ef4444; text-align:center; grid-column: 1/-1;">No prompts found for this category (${category}).</p>`;
+            promptsGrid.classList.remove('fade-out');
         }
     }
 
