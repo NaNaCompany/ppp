@@ -1,0 +1,17 @@
+[
+    {
+        "category": [
+            "prompt_engineering"
+        ],
+        "prompt": "This is a placeholder prompt for the Prompt Engineering category.",
+        "comment": "Created automatically to initialize the category.",
+        "href": "",
+        "screenshot": "",
+        "metadata": {
+            "Book Title": "N/A",
+            "Year": 2024,
+            "Author": "N/A",
+            "Publisher": "N/A"
+        }
+    }
+]
