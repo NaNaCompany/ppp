@@ -1,6 +1,1247 @@
 [
   {
     "category": "language",
+    "prompt": "지금부터 해외 현지 인력 채용을 주제로 한 대화를 시작하겠습니다. 현재 장소는 미국의 애틀란타 공장 회의실로, 현지에서 일하는 나는 한국과 연결해 후보자의 채용 면접을 진행합니다. 당신은 지금부터 현지인 채용 후보자 브래들리(Bradley) 씨가 되어 인터뷰 질문에 답변합니다. 이제 당신이 먼저 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"해외에서 현지 인력을 채용해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 현지 인력 채용을 주제로 한 대화를 시작하겠습니다. 현재 장소는 인도네시아 자카르타의 공장 회의실로, 현지 공장에서 일하는 나는 한국과 연결해 후보자의 채용 면접을 진행합니다. 당신은 지금부터 현지인 채용 후보자 위디(Widi) 씨가 되어 인터뷰 질문에 답변합니다. 이제 당신이 먼저 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"해외에서 현지 인력을 채용해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 현지 업체와 구매 협상하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 회사 사무실로 나는 해외의 원자재 영업 담당자와 온라인 메신저로 1차 협상을 진행합니다. 당신은 현지의 영업팀 직원이고 나는 자재를 좀 더 저렴하게 구입하고 싶은 클라이언트입니다. 이제 당신이 먼저 간단한 인사 멘트로 대화를 시작해주세요.",
+    "comment": "\"현지 업체와 구매 협상을 해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 현지 업체와 구매 협상하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 사무실로 나는 한 해외 의류제조업체 영업 담당자와 전화 통화로 협상을 진행합니다. 당신은 현지의 영업팀 직원이고 나는 물건을 좀 더 저렴하게 구입하고 싶은 고객입니다. 이제 당신이 먼저 간단한 통화 멘트로 대화를 시작해주세요.",
+    "comment": "\"현지 업체와 구매 협상을 해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 유럽 현지에서 한국으로 소포 보내기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 네덜란드 암스테르담입니다. 나는 독특한 디자인의 빈티지 옷을 몇 벌 구입해 한국에 배편으로 발송합니다. 당신은 우체국 직원으로 나의 택배 접수를 도와줍니다. 이제 당신이 먼저 짤막한 멘트로 대화를 시작해주세요.",
+    "comment": "\"해외에서 제품을 구매해 한국으로 보내요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 현지에서 한국으로 제품 보내기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 아프리카입니다. 나는 한 땀 한 땀 수제로 만든 귀한 나무 식기 세트를 구입해 한국에 배편으로 발송합니다. 당신은 우체국 직원으로 나의 택배 접수를 도와줍니다. 이제 당신이 먼저 짤막한 멘트로 대화를 시작해주세요.",
+    "comment": "\"해외에서 제품을 구매해 한국으로 보내요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 도서전에서 회사 소개하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 유럽 현지의 국제 도서전 행사장으로, 나는 출판사 부스에서 상담을 진행하고 있습니다. 당신은 우리 부스에 방문한 현지인 방문객이며, 나는 당신에게 출판사 책을 소개합니다. 이제 당신이 먼저 우리 출판사에 대해 물어보면서 대화를 시작해주세요.",
+    "comment": "\"해외 박람회에서 우리 회사를 소개해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 박람회에서 우리 회사 소개하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 남미의 한 국제박람회장으로, 나는 회사 부스에서 상담을 진행하고 있습니다. 당신은 우리 부스에 방문한 고객이며, 나는 당신에게 회사 제품을 소개합니다. 이제 당신이 먼저 우리 회사에 대해 물어보면서 대화를 시작해주세요.",
+    "comment": "\"해외 박람회에서 우리 회사를 소개해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 인류의 정착생활과 소금의 역사를 주제로 한 대화를 시작하겠습니다. 현재 장소는 이탈리아 밀라노의 양식집으로, 나는 영어를 잘하는 현지 친구와 레스토랑의 소금통을 보면서 소금의 역사에 대한 대화를 나누고 있습니다. 당신은 지금부터 내 이탈리아 친구 소피아(Sofia)가 됩니다. 이제 당신이 간단한 멘트로 대화를 시작해주세요.",
+    "comment": "\"짜장면과 짜파게티의 역사를 공부해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 짜장면의 역사와 문화의 융합을 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 중국집으로, 나는 영어를 잘하는 중국계 캐나다인 친구와 짜장면, 짜파게티의 역사에 대한 대화를 나누고 있습니다. 당신은 지금부터 내 중국계 친구 웨이(Wei)가 됩니다. 이제 당신이 간단한 멘트로 대화를 시작해주세요.",
+    "comment": "\"짜장면과 짜파게티의 역사를 공부해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 메타버스를 주제로 한 대화를 시작하겠습니다. 현재 장소는 공유 오피스로, 나는 러시아 출신의 스마트한 친구 빅토르(Victor)와 대화를 나누고 있습니다. 빅토르도 나처럼 메타버스에 관심이 많습니다. 이제 빅토르가 된 당신이 먼저 대화를 시작해주세요.",
+    "comment": "\"외국인 친구와 AI의 발전에 대해 토론해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 AI 기술의 발전을 주제로 한 대화를 시작하겠습니다. 현재 장소는 커피숍으로, 나는 나이지리아 출신의 스마트한 친구 우비에(Uvie)와 대화를 나누고 있습니다. 우비에도 나처럼 AI에 관심이 많습니다. 이제 우비에가 된 당신이 먼저 대화를 시작해주세요.",
+    "comment": "\"외국인 친구와 AI의 발전에 대해 토론해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 세계의 쓰레기 처리 문제를 주제로 한 대화를 시작하겠습니다. 현재 우리가 있는 곳은 영어 토론 모임 장소로, 나는 코스타리카에서 온 셜리(Shirley)와 쓰레기에 대한 이야기를 나눕니다. 셜리 또한 쓰레기 배출량 증가의 심각성을 잘 알고 있으며, 환경 문제에 관심이 많습니다. 이제 당신이 셜리가 되어 먼저 대화를 시작해주세요.",
+    "comment": "\"영어 토론 모임에서 지구 온난화에 대한 이야기를 나눠요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 기후 온난화를 주제로 한 대화를 시작하겠습니다. 현재 우리가 있는 곳은 영어 토론 모임 장소로, 나는 브라질에서 온 마리아(Maria)와 기후 위기에 대한 이야기를 나눕니다. 마리아 또한 기후 온난화의 심각성을 잘 알고 있으며, 환경 문제에 관심이 많습니다. 이제 당신이 마리아가 되어 먼저 대화를 시작해주세요.",
+    "comment": "\"영어 토론 모임에서 지구 온난화에 대한 이야기를 나눠요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 미래 사회와 정의를 주제로 한 대화를 시작하겠습니다. 현재 장소는 해외 대학교 교실로 나는 수업이 끝나고 외국인 교수님과 대화를 나누고 있습니다. 당신은 해박하고 세계관이 명확한 외국인 교수이고, 나는 당신에게서 사회학 수업을 듣는 대학원생입니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요. ",
+    "comment": "\"미래 사회의 윤리에 대한 대화를 나눠요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 인류의 미래와 윤리를 주제로 한 대화를 시작하겠습니다. 현재 장소는 대학교 캠퍼스로 나는 수업이 끝나고 외국인 친구와 대화를 나누고 있습니다. 당신은 책 읽기를 좋아하고 토론을 잘하는 내 외국인 친구이고, 나는 당신과 함께 인류학을 전공 중인 대학원생입니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"미래 사회의 윤리에 대한 대화를 나눠요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 K-푸드 인기템 구입을 주제로 한 대화를 시작하겠습니다. 현재 장소는 강남의 면세점이며, 당신은 나의 외국인 친구로 한국에 놀러와 김을 구입하고 있습니다. 이제 당신이 내 외국인 친구가 되어 대화를 시작해주세요.",
+    "comment": "\"외국인에게 K-뷰티템을 추천해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 K-뷰티템 구입을 주제로 한 대화를 시작하겠습니다. 현재 장소는 명동의 화장품샵이며, 당신은 나의 싱가포르인 친구로 한국에 놀러와 화장품을 구입하고 있습니다. 이제 당신이 내 싱가포르인 친구 레이첼(Rachel)이 되어 대화를 시작해주세요.",
+    "comment": "\"외국인에게 K-뷰티템을 추천해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 김치볶음밥 레시피를 주제로 한 대화를 시작하겠습니다. 현재 장소는 내 집으로 나는 친구들을 집으로 초대했습니다. 당신은 내 친구 안드레아(Andrea)이며, 나에게 김치볶음밥 레시피를 배울 예정입니다. 이제 당신이 먼저 친구인 나에게 짤막하게 안부를 물어보면서 대화를 시작해주세요.",
+    "comment": "\"외국인 친구에게 떡볶이 만드는 법을 알려줘요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 떡볶이 레시피를 주제로 한 대화를 시작하겠습니다. 현재 장소는 내 집으로 나는 친구들을 집으로 초대했습니다. 당신은 내 친구 시티(Siti)이며, 나에게 떡볶이 레시피를 배울 예정입니다. 이제 당신이 먼저 친구인 나에게 짤막하게 안부를 물어보면서 대화를 시작해주세요.",
+    "comment": "\"외국인 친구에게 떡볶이 만드는 법을 알려줘요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 K팝 아이돌 그룹을 주제로 한 대화를 시작하겠습니다. 현재 장소는 학교 교실이며, 아직 한국어를 낯설어하는 외국인 친구가 처음으로 전학왔습니다. 당신은 내 아이돌 캐릭터 볼펜을 보고 나에게 아이돌 그룹에 대해 물어옵니다. 이제 당신이 나의 외국인 친구가 되어 간단한 질문으로 대화를 시작해주세요.",
+    "comment": "\"외국인 친구가 저와 같은 가수를 좋아하는 것 같아요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 걸그룹을 주제로 한 대화를 시작하겠습니다. 현재 장소는 우리 집이며, 영어를 잘하는 러시아 친구 라라(Lara)가 처음으로 놀러왔습니다. 당신은 내 책상의 포토카드를 보고 나에게 걸그룹에 대해 물어옵니다. 이제 당신이 나의 외국인 친구가 되어 간단한 질문으로 대화를 시작해주세요.",
+    "comment": "\"외국인 친구가 저와 같은 가수를 좋아하는 것 같아요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 한국의 다양한 분식 메뉴를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 한 분식집으로, 나는 스페인에서 놀러온 친구에게 맛있는 분식을 대접합니다. 스페인 친구 키아라(Kiara)가 된 당신은 난생처음 한국의 분식을 경험하고 감탄합니다. 이제 키아라가 된 당신이 먼저 대화를 시작해주세요.",
+    "comment": "\"영국에서 놀러온 친구에게 한국의 양념치킨을 소개해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 한국의 다양한 치킨 메뉴를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 한 치킨집으로, 나는 영국에서 놀러온 친구에게 양념치킨을 대접합니다. 영국인 친구 해리슨(Harrison)이 된 당신은 난생처음 한국의 양념치킨을 경험하고 감탄합니다. 이제 해리슨이 된 당신이 먼저 대화를 시작해주세요.",
+    "comment": "\"영국에서 놀러온 친구에게 한국의 양념치킨을 소개해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 유럽의 외식 문화를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국으로, 우리는 외식 문화에 대해서 이야기를 나눕니다. 당신은 내 친구 로즈(Rose)이며, 영국에서 한국으로 여행을 왔습니다. 이제 로즈가 된 당신이 먼저 대화를 시작해주세요.",
+    "comment": "\"외국인 친구에게 왜 영화 자막이 불편한지 물어봐요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 유럽의 더빙 문화를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국으로, 우리는 영화 관람 시 더빙, 자막 선호 여부에 대해서 이야기를 나눕니다. 당신은 내 친구 알레시아(Alessia)이며, 이탈리아에서 한국으로 여행을 왔습니다. 이제 알레시아가 된 당신이 먼저 대화를 시작해주세요.",
+    "comment": "\"외국인 친구에게 왜 영화 자막이 불편한지 물어봐요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 축구 동호회를 주제로 한 대화를 시작하겠습니다. 현재 장소는 카페이며, 나는 친구 헨리(Henry)와 영어 축구 동호회에 대한 대화를 주고받습니다. 당신은 영국에서 온 내 친구 헨리이며 평상시에 운동을 좋아합니다. 나와 당신은 새로 축구 동호회를 시작하고자 합니다. 이제 당신이 헨리가 되어 근황을 물어오며 대화를 시작해주세요.",
+    "comment": "\"외국인 친구에게 독서 모임을 제안해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 독서 모임을 주제로 한 대화를 시작하겠습니다. 현재 장소는 카페이며, 나는 친구 마이크(Mike)와 영어 독서 모임에 대한 대화를 주고받습니다. 당신은 미국에서 온 내 친구 마이크이며 평상시에 책을 많이 읽습니다. 나는 영어를 할 줄 알지만 영어 원서를 읽은 적이 없습니다. 이제 당신이 마이크가 되어 요즘 읽고 있는 영어 책을 소개하며 대화를 시작해주세요.",
+    "comment": "\"외국인 친구에게 독서 모임을 제안해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 영어 원서 읽기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 점심식사를 하는 사내 식당이며, 나는 당신에게 영어 원서를 추천받습니다. 당신은 내 외국인 동료이며, 나는 그동안 원서를 읽어본 적이 없습니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
+    "comment": "\"외국인 동료에게 어떤 이북 리더기를 사용하는지 물어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 이북 리더기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 점심식사를 하는 사내 식당이며, 나는 당신에게 이북 리더기에 관해 묻습니다. 당신은 내 외국인 동료이며, 나는 그동안 이북 리더기를 사용해보지 않았습니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
+    "comment": "\"외국인 동료에게 어떤 이북 리더기를 사용하는지 물어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 안부 묻기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 취미반 요리교실이며, 나는 같은 수업을 듣는 외국인인 당신에게 안부를 묻습니다. 당신은 내 외국인 친구이며, 나는 당신의 반 친구입니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
+    "comment": "\"함께 수업 듣는 외국인 친구에게 근황을 물어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 안부 묻기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 저녁반 학원 교실이며, 나는 같은 수업을 듣는 외국인인 당신에게 안부를 묻습니다. 당신은 내 외국인 친구이며, 나는 당신의 반 친구입니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
+    "comment": "\"함께 수업 듣는 외국인 친구에게 근황을 물어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 외국인 디자이너 입사를 주제로 한 대화를 시작하겠습니다. 현재 장소는 회사 사무실이며, 우리는 오랜 비대면 근무를 마치고 사무실에 돌아와 일하고 있습니다. 외국인 디자이너인 당신은 첫 출근이라 아직 사무실 환경에 익숙하지 않아요. 이제 당신이 외국인 디자이너가 되어 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"외국인 개발자가 입사했어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 외국인 개발자 입사를 주제로 한 대화를 시작하겠습니다. 현재 장소는 회사 사무실이며, 우리는 오랜 비대면 근무를 마치고 사무실에 돌아와 일하고 있습니다. 외국인 개발자인 당신은 첫 출근이라 아직 사무실 환경에 익숙하지 않아요. 이제 당신이 외국인 개발자가 되어 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"외국인 개발자가 입사했어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 아파 보이는 외국인 도와주기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 이스탄불의 지하철 역이며, 당신이 나에게 도움을 요청하는 상황입니다. 당신은 안색이 창백하고 아파 보이는 현지인이며, 저는 여행객입니다. 당신과 내가 눈이 마주쳤습니다. 이제 당신이 먼저 도움을 요청하는 내용으로 대화를 시작해주세요.",
+    "comment": "\"아파 보이는 외국인이 도움을 요청했어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 아파 보이는 외국인 도와주기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 서울의 거리이며, 나는 점심을 먹으러 가는 길에 낯선 외국인을 마주칩니다. 당신은 길을 가던 낯선 외국인으로 열이 나고 아파 보입니다. 이제 당신이 아픈 외국인이 되어 먼저 “실례한다”는 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"아파 보이는 외국인이 도움을 요청했어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 길 알려주기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 지하철 안이며, 나는 막 하차하려던 외국인과 눈을 마주쳤습니다. 외국인은 나에게 국립박물관 가는 길을 물어봅니다. 이제 당신이 외국인이 되어 나에게 방향을 물어오면서 대화를 시작해주세요.",
+    "comment": "\"갑자기 외국인이 길을 물어봐요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 길 알려주기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 남산 산책로이며, 길을 걷던 나는 외국인을 마주쳤습니다. 외국인은 나에게 남산서울타워 가는 길을 물어봅니다. 이제 당신이 외국인이 되어 나에게 길을 물어오면서 대화를 시작해주세요.",
+    "comment": "\"갑자기 외국인이 길을 물어봐요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외여행 중 대쉬하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 프랑스 파리이며, 나는 에펠탑 근처를 여행하고 있습니다. 당신은 파리 시민이며, 나는 당신에게 한눈에 반합니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"해외여행 중 운명을 느꼈어요. 영어로 대쉬하기\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외여행 중 대쉬하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 노르웨이이며, 나는 피오르드를 여행하고 있습니다. 당신은 같은 배에 타고 있던 탑승객이자 디자이너인 노라(Nora)이며, 나는 당신에게 한눈에 반합니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"해외여행 중 운명을 느꼈어요. 영어로 대쉬하기\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 가방 분실 신고를 주제로 한 대화를 시작하겠습니다. 현재 장소는 스페인 마드리드이며, 나는 매고 있던 배낭을 분실해 경찰서에서 신고를 합니다. 당신은 영어를 할 줄 아는 현지 경찰이 되어 나에게 대응 절차를 알려줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"가방을 분실했어요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 가방 분실 신고를 주제로 한 대화를 시작하겠습니다. 현재 장소는 프랑스 파리이며, 나는 매고 있던 배낭을 분실해 경찰서에서 신고를 합니다. 당신은 영어를 할 줄 아는 현지 경찰이 되어 나에게 대응 절차를 알려줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"가방을 분실했어요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외여행 중 여권 분실을 주제로 한 대화를 시작하겠습니다. 현재 장소는 태국 방콕이며, 여행객인 나는 현지 경찰서에서 여권 분실을 신고하려고 합니다. 당신은 방콕 현지 경찰관으로 나에게 친절하게 대응 절차를 안내해줍니다. 방콕 경찰서에 있는 경찰관이 되어 나에게 “뭘 도와드릴까요?” 하고 물어보면서 대화를 시작해주세요.",
+    "comment": "\"해외여행 중 여권을 잃어버렸어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외여행 중 여권 분실을 주제로 한 대화를 시작하겠습니다. 현재 장소는 이탈리아 로마이며, 여행객인 나는 현지 경찰서에서 여권 분실을 신고하려고 합니다. 당신은 로마 현지 경찰관으로 나에게 친절하게 대응 절차를 안내해줍니다. 로마 경찰서에 있는 경찰관이 되어 나에게 “뭘 도와드릴까요?” 하고 물어보면서 대화를 시작해주세요.",
+    "comment": "\"해외여행 중 여권을 잃어버렸어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외에서 길 찾기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 페루 리마 아르마스 광장 근처이며, 나는 교차로에서 어느 쪽으로 가야 할지 고민 중입니다. 당신은 벤치에 앉아 있는 현지인으로 나에게 친절하게 길을 알려줍니다. 이제 당신이 먼저 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"해외에서 길을 잃어버렸어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외에서 길 찾기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 인도네시아 발리 우붓 시장 근처이며, 나는 삼거리에서 어느 쪽으로 가야 할지 고민 중입니다. 당신은 근처 노점의 상인으로 나에게 친절하게 길을 알려줍니다. 이제 당신이 먼저 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"해외에서 길을 잃어버렸어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 크로아티아의 팁 문화를 주제로 한 대화를 시작하겠습니다. 현재 장소는 크로아티아 자그레브이며, 나는 식당이나 커피숍에서 계산할 때마다 팁을 어떻게 계산해야 하는지 혼란스러워하는 상황입니다. 당신은 현지인 친구 이반(Ivan)이 되어 나에게 친절하게 설명해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"신나는 뉴욕 여행 중! 팁 문화가 어려워요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 미국의 팁 문화를 주제로 한 대화를 시작하겠습니다. 현재 장소는 미국 뉴욕시이며, 나는 식당이나 커피숍에서 계산할 때마다 팁을 어떻게 계산해야 하는지 혼란스러워하는 상황입니다. 당신은 현지인 친구 케빈(Kevin)이 되어 나에게 친절하게 설명해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"신나는 뉴욕 여행 중! 팁 문화가 어려워요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 현지 한식당 찾기를 주제로 대화를 시작하겠습니다. 현재 장소는 미국 마이애미이며, 나는 현지인 친구인 당신에게서 한식당을 추천받으려고 합니다. 당신은 한식을 좋아하는 미국인 친구 레지나(Regina)로 나에게 친절하게 몇몇 식당을 추천해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"영국 여행 중인데, 갑자기 한식당을 찾고 싶어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 현지 한식당 찾기를 주제로 대화를 시작하겠습니다. 현재 장소는 영국 런던이며, 나는 현지인 친구인 당신에게서 한식당을 추천받으려고 합니다. 당신은 한식을 좋아하는 영국인 친구 미아(Mia)로 나에게 친절하게 몇몇 식당을 추천해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"영국 여행 중인데, 갑자기 한식당을 찾고 싶어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 현지 레스토랑에서 음식 주문하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 남아공 케이프타운의 중심가 레스토랑이며, 나는 이곳의 인기 메뉴를 주문하려 합니다. 당신은 웨이트리스이고, 저는 여행객입니다. 제가 막 가게에 들어왔습니다. 자리를 안내하는 내용으로 대화를 시작해주세요.",
+    "comment": "\"현지 레스토랑에서 음식을 주문해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 현지 레스토랑에서 음식 주문하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 이스탄불의 스테이크 레스토랑이며, 나는 이곳의 인기 메뉴를 주문하려 합니다. 당신은 웨이트리스이고, 저는 여행객입니다. 제가 막 가게에 들어왔습니다. 자리를 안내하는 내용으로 대화를 시작해주세요.",
+    "comment": "\"현지 레스토랑에서 음식을 주문해요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 현지 맛집 찾기를 주제로 대화를 시작하겠습니다. 현재 장소는 모로코 마라케시에서 내가 묵고 있는 호텔의 로비이며, 나는 당신에게서 이곳의 모로코 음식 맛집을 추천받으려고 합니다. 당신은 프론트 직원이고, 저는 여행객입니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"해외 여행 중에 현지인들이 자주 가는 맛집을 찾아요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 현지 맛집 찾기를 주제로 대화를 시작하겠습니다. 현재 장소는 멕시코시티에서 내가 묵고 있는 호텔의 로비이며, 나는 당신에게서 이곳의 멕시코 음식 맛집을 추천받으려고 합니다. 당신은 프론트 직원이고, 저는 여행객입니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"해외 여행 중에 현지인들이 자주 가는 맛집을 찾아요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 출장 중 공항 렌터카 빌리기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 독일의 프랑크푸르트 공항이며, 동료들과 출장 온 나는 렌터카 부스에서 미리 예약한 승용차를 픽업하려고 합니다. 당신은 현지 렌터카 회사 직원입니다. 이제 당신이 먼저 인사를 하며 대화를 시작해주세요.",
+    "comment": "\"해외 현지에서 렌터카를 빌려요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 출장 중 공항 렌터카 빌리기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 미국 미니애폴리스-세인트폴 공항이며, 동료들과 출장 온 나는 렌터카 부스에서 쿠폰을 사용해 9인승 밴을 빌리려고 합니다. 당신은 현지 렌터카 회사 직원입니다. 이제 당신이 먼저 인사를 하며 대화를 시작해주세요.",
+    "comment": "\"해외 현지에서 렌터카를 빌려요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 호텔 방에 어메니티 채워넣기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 괌의 한 호텔로, 나는 프론트 데스크에 전화해 어메니티를 요청합니다. 당신은 프론트 데스크의 직원으로 나의 요청 전화를 받게 됩니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"호텔에 비치된 수건을 다 써버렸어요! 추가로 가져다 달라고 하고 싶어요\"챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 호텔 방에 수건 채워넣기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 태국 치앙마이의 한 호텔로, 나는 프론트 데스크에 전화해 수건을 요청합니다. 당신은 프론트 데스크의 직원으로 나의 요청 전화를 받게 됩니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"호텔에 비치된 수건을 다 써버렸어요! 추가로 가져다 달라고 하고 싶어요\"챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 호텔 프론트에 샤워기 고장 컴플레인 넣기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 해외 현지의 호텔 방으로 나는 프론트에 전화해 샤워기 고장에 대한 컴플레인을 접수합니다. 당신은 프론트 직원이며, 친절하게 접수를 도와줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"호텔 옆방 고객들이 너무 시끄러워요. 컴플레인 넣기\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 호텔 프론트에 소음 컴플레인 넣기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 해외 현지의 호텔 방으로 나는 프론트에 전화해 옆방 소음에 대한 컴플레인을 접수합니다. 당신은 프론트 직원이며, 친절하게 접수를 도와줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"호텔 옆방 고객들이 너무 시끄러워요. 컴플레인 넣기\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 호텔 룸서비스로 디저트 주문하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 홍콩의 야경이 내려다보이는 호텔 방으로 나는 프론트에 전화해 룸서비스를 주문합니다. 당신은 프론트 직원이며, 친절하게 주문을 도와줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"야경을 내려다보며 우아하게 스테이크를 먹고 싶어요. 호텔 룸서비스 시키기\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 호텔 룸서비스로 스테이크 주문하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 시카고의 야경이 내려다보이는 호텔 방으로 나는 프론트에 전화해 룸서비스를 주문합니다. 당신은 프론트 직원이며, 친절하게 주문을 도와줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"야경을 내려다보며 우아하게 스테이크를 먹고 싶어요. 호텔 룸서비스 시키기\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 호텔 근처 수영장 찾기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 해외 현지의 호텔로 나는 내일 오전 미팅에 가기 전 새벽에 수영할 수 있는 시설을 찾고 있습니다. 당신은 프론트 직원이며, 친절하게 수영장 위치를 안내해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"비에 옷이 홀딱 젖었어요! 호텔 세탁실이 어디에 있을까요?\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 호텔 세탁실 찾기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 해외 현지의 호텔 방으로 나는 비에 젖은 셔츠를 세탁하고 다림질할 세탁실을 찾고 있습니다. 당신은 프론트 직원이며, 친절하게 세탁실 위치를 안내해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"비에 옷이 홀딱 젖었어요! 호텔 세탁실이 어디에 있을까요?\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 네팔 친구 인드라(Indra)와 한국 여행 계획 짜기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 고속도로 휴게소이며, 우리는 바깥 벤치에 앉아 지도를 보며 여행 계획을 짭니다. 당신은 인드라, 나는 한국인 우영입니다. 이제 당신이 나의 네팔 친구 인드라가 되어 대화를 시작해주세요.",
+    "comment": "\"영국에서 놀러온 친구와 한국 여행 계획을 짜요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 영국인 친구 이안(Ian)과 한국 여행 계획 짜기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 고속도로 휴게소이며, 우리는 바깥 벤치에 앉아 지도를 보며 여행 계획을 짭니다. 당신은 이안, 나는 한국인 영수입니다. 이제 당신이 나의 영국인 친구 이안이 되어 대화를 시작해주세요.",
+    "comment": "\"영국에서 놀러온 친구와 한국 여행 계획을 짜요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 호주 워킹홀리데이 방 구하기를 주제로 대화를 시작하겠습니다. 현재 장소는 호주 멜버른의 어느 집으로, 나는 당신에게 방에 대해 묻습니다. 당신은 현지 집주인이며, 나는 일년 동안 지낼 방을 구하고 있는 한국인 학생입니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
+    "comment": "\"영국 현지 워킹홀리데이 방 구하기\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 영국 워킹홀리데이 방 구하기를 주제로 대화를 시작하겠습니다. 현재 장소는 영국 런던의 어느 집으로, 나는 당신에게 방에 대해 묻습니다. 당신은 현지 집주인이며, 나는 일년 동안 지낼 방을 구하고 있는 한국인 학생입니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
+    "comment": "\"영국 현지 워킹홀리데이 방 구하기\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 공항에서 문제 해결하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 유럽의 한 공항이며, 나는 기내용 캐리어를 잃어버렸습니다. 또한 공항 라운지에서 아침까지 시간을 보내야 합니다. 이제 당신이 현지 공항의 직원이 되어 먼저 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"해외여행 첫날, 공항에서 문제가 생겼어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 해외 공항에서 문제 해결하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 동남아시아의 한 공항이며, 나는 기내용 캐리어를 잃어버렸습니다. 또한 공항 라운지에서 아침까지 시간을 보내야 합니다. 이제 당신이 현지 공항의 직원이 되어 먼저 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"해외여행 첫날, 공항에서 문제가 생겼어요\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 기내용 슬리퍼 요청하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 비행기 안으로 나는 기내용 슬리퍼를 요청하려고 합니다. 당신은 스튜어디스이며, 친절하게 기내용 슬리퍼를 가져다줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"슝~ 비행기 여행 중! 기내식 메뉴를 골라요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 기내식 주문을 주제로 한 대화를 시작하겠습니다. 현재 장소는 비행기 안으로 나는 조식을 주문하고 있습니다. 당신은 스튜어디스이며, 친절하게 오늘의 조식 메뉴를 안내해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
+    "comment": "\"슝~ 비행기 여행 중! 기내식 메뉴를 골라요!\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
+    "prompt": "지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n(1) 답변은 최대 2문장으로 구성된다\n(2) 각 문장은 최대 10개까지의 단어를 사용할 수 있다.\n(3) 답변에는 영어만 사용한다\n\n숙지하셨습니까?",
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+      "Year": 2023,
+      "Author": "반병현, 김연정",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017",
+      "Cover_filename": "2023_반병현_영어회화.jpg"
+    }
+  },
+  {
+    "category": "language",
     "prompt": "Hi. Would you like to help me learn how to speak English?",
     "comment": "\"챗GPT에게 입과 귀를 달아주자\" 챕터 수록",
     "href": "",

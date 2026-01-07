@@ -315,6 +315,15 @@ body {
     opacity: 0.5;
 }
 
+.card-comment {
+    font-size: 0.8rem;
+    color: #94a3b8;
+    /* Muted text color */
+    margin-bottom: 4px;
+    text-align: right;
+    /* Match footer alignment */
+}
+
 .card-footer {
     font-size: 0.8rem;
     color: #94a3b8;
