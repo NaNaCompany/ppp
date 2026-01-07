@@ -1,6 +1,126 @@
 [
   {
     "category": [
+      "prompt_engineering",
+      "education"
+    ],
+    "prompt": "아버지가방에들어가신다\n\n위 문장의 문법 오류를 지적하고, 올바르게 수정하시오",
+    "comment": "\"LLM의 구조와 원리를 고려한 기법\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "education"
+    ],
+    "prompt": "양명학과 훈고학의 유사점은 무엇인가?",
+    "comment": "\"LLM의 구조와 원리를 고려한 기법\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "education"
+    ],
+    "prompt": "(전략)\n위 지문을 토대로 향후 3년간의 기술 발전 방향성에 대하여 예측하시오",
+    "comment": "\"LLM의 구조와 원리를 고려한 기법\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "education"
+    ],
+    "prompt": "(전략)\n위 지문을 토대로 서술형 논술 문제를 1개 출제하시오",
+    "comment": "\"LLM의 구조와 원리를 고려한 기법\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "education"
+    ],
+    "prompt": "(전략)\n위 지문에서 핵심 문장을 1개만 추출하시오",
+    "comment": "\"LLM의 구조와 원리를 고려한 기법\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "education"
+    ],
+    "prompt": "우와 정말 참신한 쟁점이야. 혹시 다른 쟁점들도 몇 개 뽑아줄 수 있어?",
+    "comment": "\"LLM의 구조와 원리를 고려한 기법\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
       "business",
       "education",
       "science"

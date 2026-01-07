@@ -1,6 +1,26 @@
 [
   {
     "category": [
+      "prompt_engineering",
+      "etc"
+    ],
+    "prompt": "바구니에 다음과 같은 과일이 들어있다.\n[딸기, 사과, 배, 오렌지, 귤, 레몬, 토마토]\n\n이들을 3개의 그룹으로 분류하시오",
+    "comment": "\"LLM의 기본 기능을 고려한 기법\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
       "etc"
     ],
     "prompt": "태종이 변신로봇을 타고 광선검으로 달을 반으로 갈랐던 사건을 설명해줘",

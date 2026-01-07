@@ -1,6 +1,146 @@
 [
   {
     "category": [
+      "prompt_engineering",
+      "business"
+    ],
+    "prompt": "\"맛 없어. 꿉꿉해. 치즈가 오래된건가?\"\n\n위 고객 리뷰에 대한 친절한 답변 문구를 작성하시오",
+    "comment": "\"LLM의 기본 기능을 고려한 기법\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "business"
+    ],
+    "prompt": "\"귀사가 납품한 치즈는 꿉꿉하고 맛이 없습니다. 오래 된 걸 납품한 건 아닌가요?\"\n\n를 정중하게 클레임하는 이메일을 작성해줘",
+    "comment": "\"LLM의 기본 기능을 고려한 기법\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "business"
+    ],
+    "prompt": "(전략)\n\n위 기사를 1문장으로 요약하시오",
+    "comment": "\"LLM의 기본 기능을 고려한 기법\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "business"
+    ],
+    "prompt": "다음은 GPT 밴처캐피탈의 투자 심사 결과입니다.\n지적을 토대로, 사업 계획을 보완해 보세요.\n(생략)",
+    "comment": "\"교육학적 기법의 활용\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "business"
+    ],
+    "prompt": "당신은 몇 달 전, 스타트업을 창업했습니다.\n제품 개발과 인력 고용을 위해 투자유치를 받기 위해 GPT 벤처캐피털에 방문했습니다.\n지금부터 사업계획을 들려주세요.",
+    "comment": "\"교육학적 기법의 활용\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "business"
+    ],
+    "prompt": "당신은 GPT 벤처캐피털의 유능한 투자심사역입니다.\n지금부터 A 스타트업의 사업계획을 들려드리겠습니다.\n당신은 이번 발표를 듣고, 이번 투자를 거절하려 합니다.\n거절을 위한 이유를 설명해주세요. 숙지하셨습니까?",
+    "comment": "\"교육학적 기법의 활용\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "business"
+    ],
+    "prompt": "퇴직하고 싶은데, 퇴직하고 뭘로 먹고 살아야 할까? 창업 아이템좀 줘봐",
+    "comment": "\"교육학적 기법의 활용\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
       "business",
       "education",
       "science"

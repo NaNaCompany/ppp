@@ -1,6 +1,66 @@
 [
   {
     "category": [
+      "prompt_engineering",
+      "writing_contents"
+    ],
+    "prompt": "\"시간\"이라는 단어가 들어간게 너무 좋다. 조금 더 시간과 관련된 내용을 부각해서 한 편 써 볼래?",
+    "comment": "\"부록\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "writing_contents"
+    ],
+    "prompt": "별빛의 비산함이라는 시각적 표현을 깨진 마음이라는 추상적 표현과 연결짓는 것도 좋았어. 한 편 더 써볼래?",
+    "comment": "\"부록\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
+      "prompt_engineering",
+      "writing_contents"
+    ],
+    "prompt": "\"부서진\"과 \"속삭임\"을 연결짓는 공감각적 표현은 무척 훌륭해. 마음에 들었어. 한편 더 써볼래?",
+    "comment": "\"부록\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    }
+  },
+  {
+    "category": [
       "writing_contents"
     ],
     "prompt": "5~7세 아동에게 보여줄 동화책을 설계하고 있습니다. 핵심 교훈 1가지와, 이 교훈을 전달할 수 있는 동화 스토리를 설계하시오.",
