@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function fetchTotalPrompts() {
         try {
-            const response = await fetch('https://nanalab.kr/ppp/src/prompts/all.json');
+            const response = await fetch('https://nanalab.kr/ppp/src/prompts/all.json?t=' + new Date().getTime());
             if (response.ok) {
                 const data = await response.json();
                 statValue.textContent = data.length.toLocaleString();
@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (category === 'new' || category === 'all') return;
 
             try {
-                const response = await fetch(`https://nanalab.kr/ppp/src/prompts/${category}.json`);
+                const response = await fetch(`https://nanalab.kr/ppp/src/prompts/${category}.json?t=` + new Date().getTime());
                 if (response.ok) {
                     const data = await response.json();
                     if (Array.isArray(data) && data.length > 0) {
@@ -186,9 +186,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         try {
             // --- 2. Start Fetching Data Concurrently ---
-            let url = `https://nanalab.kr/ppp/src/prompts/${category}.json`;
+            let url = `https://nanalab.kr/ppp/src/prompts/${category}.json?t=` + new Date().getTime();
             if (category === 'new' || category === 'all') {
-                url = 'https://nanalab.kr/ppp/src/prompts/all.json';
+                url = 'https://nanalab.kr/ppp/src/prompts/all.json?t=' + new Date().getTime();
             }
 
             const fetchPromise = fetch(url).then(async (response) => {
