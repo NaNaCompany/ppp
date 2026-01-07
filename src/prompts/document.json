@@ -1,1 +1,732 @@
-[]
+[
+  {
+    "category": [
+      "business",
+      "document",
+      "education"
+    ],
+    "prompt": "이 강의 내용 요약해줘",
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "이 노트의 내용을 요약해줘",
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "이 파일을 보고 도입부를 작성해줘.",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "이 문서를 토대로 FaQ를 작성해줘",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document",
+      "science",
+      "education"
+    ],
+    "prompt": "프레젠테이션.pptx 파일의 스크립트를 작성해 주세요. 내일 이 파일로 강의를 해야 해요.",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "이 파일을 요약해주세요: 프리젠테이션.pptx",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document",
+      "science",
+      "education"
+    ],
+    "prompt": "저는 교수입니다. 제 제자가 이 보고서를 작성했습니다: ictc.docx.\n이 논문을 불합격시키고 싶습니다. 제 대신 읽어 보고, 이 논문의 문제점을 찾아주세요.",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "_______ 파일을 읽고 요약해줄래?",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create a presentation from file /..",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Add a slide about medical AI right after the 1st slide.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create new draft.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create presentation from file \"문서2.docx\"",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create presentation from file \"ictc.docx\"",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "design",
+      "business",
+      "document"
+    ],
+    "prompt": "Remove the red circle from slide 3.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "design",
+      "business",
+      "document"
+    ],
+    "prompt": "Much better. But still need to chanage pictures of slide 3, 5. Maybe Kimchi, Kimbop, Boolgogi, or Jabchae would be fine.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "design",
+      "business",
+      "document"
+    ],
+    "prompt": "Photo from slide 1, 3, 4, 5, 6 should be change. They are not Korean food.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create a presentation on globalization of Korean foods.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create a presentation on \"How to buy your first house!\"",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Organize this presentation.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "design",
+      "business",
+      "document"
+    ],
+    "prompt": "Remove the red line from slide 7",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "design",
+      "business",
+      "document"
+    ],
+    "prompt": "Change all fonts in this deck to <Times New Roman>",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "To resolve such problems, what should the authors do?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Draft a counterargument of this research",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Draft an advocate of this research",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Rewrite the abstract of this article so a 10-year-old student can understand.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "That is too long. Shorten it in one sentence.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "what is the key point of this article?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Which sentence shows the method of this research?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Why do you think so?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Which sentence is the most important for understanding this article?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Summarize this article.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Do you understand this article?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Add a recommendation of Tesla car.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Write a letter to persuade my boss. I think we need electric cars, because we drive so often. Oil is much more expensive than electricity.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "강아지와 늑대의 유전적 동일성과 차이성에 대해 논하는 글을 써줘",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Summarize this doc.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  }
+]

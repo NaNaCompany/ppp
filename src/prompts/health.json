@@ -1,6 +1,8 @@
 [
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "체중 80kg상당 남성에게 적절한 Febuxostat 투여량은 하루 몇 mg입니까?",
     "comment": "",
     "href": "",
@@ -17,7 +19,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "Cobulator를 활용한 Tonsillectomy에 대해 알려주세요",
     "comment": "",
     "href": "",
@@ -34,7 +38,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "콧물이 나지는 않지만 코가 막힌 것 같은 느낌이 듭니다. 어떤 조치를 취해야 하며, 어떤 약물이 효과가 있습니까?",
     "comment": "",
     "href": "",
@@ -51,7 +57,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "머리에서 열이 나고 기침이 나요. 어떡하죠?",
     "comment": "",
     "href": "",
@@ -68,7 +76,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "아랫배가 아픕니다. 어떻게 하죠?",
     "comment": "",
     "href": "",
@@ -85,7 +95,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "손가락이 칼에 베여서 피가 납니다. 응급조치 방법을 알려주세요",
     "comment": "",
     "href": "",
@@ -102,7 +114,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "ChatGPT에게 의학적 정보를 물어봐도 되나요?",
     "comment": "",
     "href": "",

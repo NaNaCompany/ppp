@@ -1,6 +1,1397 @@
 [
   {
-    "category": "language",
+    "category": [
+      "business",
+      "education",
+      "science"
+    ],
+    "prompt": "Smith 교수님의 강의 필기를 토대로 연구제안서를 써 줘.",
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "다음 단계는 무엇입니까?",
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "테스트 및 검증 단계의 소요기간은 어느 정도입니까?",
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "솜사탕 사출 장치 개발 프로젝트의 현재 상태는 어느 단계입니까?",
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "솜사탕 사출 기계 개발 프로젝트의 계획을 작성해 주세요.",
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "Write a to-do list for our team",
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document",
+      "education"
+    ],
+    "prompt": "이 강의 내용 요약해줘",
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "이 노트의 내용을 요약해줘",
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "팀즈의 xxx 채팅방을 요약해줘. 휴가를 다녀온 사이 무슨 일이 있었어?",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "이 파일을 보고 도입부를 작성해줘.",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "______와의 다음 회의는 언제야?",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "이 문서를 토대로 FaQ를 작성해줘",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "지난번 주간 회의 내용을 요약해줘.",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "최근에 반병현이 한 일들을 정리해줘. 이메일, 채팅, 파일 순으로.",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "원드라이브에서 반병현의 최근 활동 내역을 알려줘",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "data"
+    ],
+    "prompt": "이 파일을 간단하게 분석해줘: ______.xlsx",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "data"
+    ],
+    "prompt": "이 파일을 요약해줘: ______.xlsx",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document",
+      "science",
+      "education"
+    ],
+    "prompt": "프레젠테이션.pptx 파일의 스크립트를 작성해 주세요. 내일 이 파일로 강의를 해야 해요.",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "이 파일을 요약해주세요: 프리젠테이션.pptx",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document",
+      "science",
+      "education"
+    ],
+    "prompt": "저는 교수입니다. 제 제자가 이 보고서를 작성했습니다: ictc.docx.\n이 논문을 불합격시키고 싶습니다. 제 대신 읽어 보고, 이 논문의 문제점을 찾아주세요.",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "_______ 파일을 읽고 요약해줄래?",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "거절하는 답장을 어떻게 써야 할까?",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "내가 이 메일 언제 받았지? ___",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "음, 너무 짧은데. 좀 더 길게 써줘.",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "그럼 내가 간다고 답장해줘",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "내가 꼭 읽고 답변해야 하는 메일이 있나요?",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "아웃룩 앱을 통해서 'xxxxx@gmail.com' 계정에는 접근할 수 없습니까?",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "Summarize recent e-mails in my inbox.",
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "각 구성원들 의견은 어때?",
+    "comment": "\"Teams 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "촬영 장소는 어디로 정해졌어?",
+    "comment": "\"Teams 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "최근 대화 한 문장 분량으로 요약해줘",
+    "comment": "\"Teams 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business"
+    ],
+    "prompt": "최근 대화 요약해줘",
+    "comment": "\"Teams 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create a presentation from file /..",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Add a slide about medical AI right after the 1st slide.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create new draft.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create presentation from file \"문서2.docx\"",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create presentation from file \"ictc.docx\"",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "design",
+      "business",
+      "document"
+    ],
+    "prompt": "Remove the red circle from slide 3.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "design",
+      "business",
+      "document"
+    ],
+    "prompt": "Much better. But still need to chanage pictures of slide 3, 5. Maybe Kimchi, Kimbop, Boolgogi, or Jabchae would be fine.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "design",
+      "business",
+      "document"
+    ],
+    "prompt": "Photo from slide 1, 3, 4, 5, 6 should be change. They are not Korean food.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create a presentation on globalization of Korean foods.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Create a presentation on \"How to buy your first house!\"",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "business",
+      "document"
+    ],
+    "prompt": "Organize this presentation.",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "design",
+      "business",
+      "document"
+    ],
+    "prompt": "Remove the red line from slide 7",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "design",
+      "business",
+      "document"
+    ],
+    "prompt": "Change all fonts in this deck to <Times New Roman>",
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "To resolve such problems, what should the authors do?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Draft a counterargument of this research",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Draft an advocate of this research",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Rewrite the abstract of this article so a 10-year-old student can understand.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "That is too long. Shorten it in one sentence.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "what is the key point of this article?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Which sentence shows the method of this research?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Why do you think so?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Which sentence is the most important for understanding this article?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Summarize this article.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Do you understand this article?",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Add a recommendation of Tesla car.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Write a letter to persuade my boss. I think we need electric cars, because we drive so often. Oil is much more expensive than electricity.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "강아지와 늑대의 유전적 동일성과 차이성에 대해 논하는 글을 써줘",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "document",
+      "business"
+    ],
+    "prompt": "Summarize this doc.",
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "data",
+      "business"
+    ],
+    "prompt": "Insight for 'Arm'",
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "data",
+      "business"
+    ],
+    "prompt": "How many different 'weight' are there?",
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "data",
+      "business"
+    ],
+    "prompt": "Fill the cell red if the weight is greater than 80, blue if the weight is less than 80",
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "data",
+      "business"
+    ],
+    "prompt": "I want to find the correlation between chest and height. Would you recommend functions or formula for it?",
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "data",
+      "business"
+    ],
+    "prompt": "Please write a formula for t-test between two arrays: array 1 is column C, array 2 is column D",
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "data",
+      "business"
+    ],
+    "prompt": "What is the function for t-test between two columns?",
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "data",
+      "business"
+    ],
+    "prompt": "Add to sheet",
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "data",
+      "business"
+    ],
+    "prompt": "Draw a chart about distribution of height.",
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "data",
+      "business"
+    ],
+    "prompt": "Please suggest a median value of head.",
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "etc"
+    ],
+    "prompt": "태종이 변신로봇을 타고 광선검으로 달을 반으로 갈랐던 사건을 설명해줘",
+    "comment": "할루시네이션 유도",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "코파일럿- 업무에 200%써먹는 AI 비서: 엑셀, 파워포인트, 워드, 아웃룩, 팀즈까지",
+      "Year": 2024,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415",
+      "Cover_filename": "2024_반병현_코파일럿.jpg"
+    }
+  },
+  {
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지 인력 채용을 주제로 한 대화를 시작하겠습니다. 현재 장소는 미국의 애틀란타 공장 회의실로, 현지에서 일하는 나는 한국과 연결해 후보자의 채용 면접을 진행합니다. 당신은 지금부터 현지인 채용 후보자 브래들리(Bradley) 씨가 되어 인터뷰 질문에 답변합니다. 이제 당신이 먼저 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"해외에서 현지 인력을 채용해요\" 챕터 수록",
     "href": "",
@@ -17,7 +1408,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지 인력 채용을 주제로 한 대화를 시작하겠습니다. 현재 장소는 인도네시아 자카르타의 공장 회의실로, 현지 공장에서 일하는 나는 한국과 연결해 후보자의 채용 면접을 진행합니다. 당신은 지금부터 현지인 채용 후보자 위디(Widi) 씨가 되어 인터뷰 질문에 답변합니다. 이제 당신이 먼저 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"해외에서 현지 인력을 채용해요\" 챕터 수록",
     "href": "",
@@ -34,7 +1427,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지 업체와 구매 협상하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 회사 사무실로 나는 해외의 원자재 영업 담당자와 온라인 메신저로 1차 협상을 진행합니다. 당신은 현지의 영업팀 직원이고 나는 자재를 좀 더 저렴하게 구입하고 싶은 클라이언트입니다. 이제 당신이 먼저 간단한 인사 멘트로 대화를 시작해주세요.",
     "comment": "\"현지 업체와 구매 협상을 해요\" 챕터 수록",
     "href": "",
@@ -51,7 +1446,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지 업체와 구매 협상하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 사무실로 나는 한 해외 의류제조업체 영업 담당자와 전화 통화로 협상을 진행합니다. 당신은 현지의 영업팀 직원이고 나는 물건을 좀 더 저렴하게 구입하고 싶은 고객입니다. 이제 당신이 먼저 간단한 통화 멘트로 대화를 시작해주세요.",
     "comment": "\"현지 업체와 구매 협상을 해요\" 챕터 수록",
     "href": "",
@@ -68,7 +1465,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 유럽 현지에서 한국으로 소포 보내기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 네덜란드 암스테르담입니다. 나는 독특한 디자인의 빈티지 옷을 몇 벌 구입해 한국에 배편으로 발송합니다. 당신은 우체국 직원으로 나의 택배 접수를 도와줍니다. 이제 당신이 먼저 짤막한 멘트로 대화를 시작해주세요.",
     "comment": "\"해외에서 제품을 구매해 한국으로 보내요\" 챕터 수록",
     "href": "",
@@ -85,7 +1484,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지에서 한국으로 제품 보내기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 아프리카입니다. 나는 한 땀 한 땀 수제로 만든 귀한 나무 식기 세트를 구입해 한국에 배편으로 발송합니다. 당신은 우체국 직원으로 나의 택배 접수를 도와줍니다. 이제 당신이 먼저 짤막한 멘트로 대화를 시작해주세요.",
     "comment": "\"해외에서 제품을 구매해 한국으로 보내요\" 챕터 수록",
     "href": "",
@@ -102,7 +1503,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 도서전에서 회사 소개하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 유럽 현지의 국제 도서전 행사장으로, 나는 출판사 부스에서 상담을 진행하고 있습니다. 당신은 우리 부스에 방문한 현지인 방문객이며, 나는 당신에게 출판사 책을 소개합니다. 이제 당신이 먼저 우리 출판사에 대해 물어보면서 대화를 시작해주세요.",
     "comment": "\"해외 박람회에서 우리 회사를 소개해요\" 챕터 수록",
     "href": "",
@@ -119,7 +1522,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 박람회에서 우리 회사 소개하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 남미의 한 국제박람회장으로, 나는 회사 부스에서 상담을 진행하고 있습니다. 당신은 우리 부스에 방문한 고객이며, 나는 당신에게 회사 제품을 소개합니다. 이제 당신이 먼저 우리 회사에 대해 물어보면서 대화를 시작해주세요.",
     "comment": "\"해외 박람회에서 우리 회사를 소개해요\" 챕터 수록",
     "href": "",
@@ -136,7 +1541,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 인류의 정착생활과 소금의 역사를 주제로 한 대화를 시작하겠습니다. 현재 장소는 이탈리아 밀라노의 양식집으로, 나는 영어를 잘하는 현지 친구와 레스토랑의 소금통을 보면서 소금의 역사에 대한 대화를 나누고 있습니다. 당신은 지금부터 내 이탈리아 친구 소피아(Sofia)가 됩니다. 이제 당신이 간단한 멘트로 대화를 시작해주세요.",
     "comment": "\"짜장면과 짜파게티의 역사를 공부해요\" 챕터 수록",
     "href": "",
@@ -153,7 +1560,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 짜장면의 역사와 문화의 융합을 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 중국집으로, 나는 영어를 잘하는 중국계 캐나다인 친구와 짜장면, 짜파게티의 역사에 대한 대화를 나누고 있습니다. 당신은 지금부터 내 중국계 친구 웨이(Wei)가 됩니다. 이제 당신이 간단한 멘트로 대화를 시작해주세요.",
     "comment": "\"짜장면과 짜파게티의 역사를 공부해요\" 챕터 수록",
     "href": "",
@@ -170,7 +1579,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 메타버스를 주제로 한 대화를 시작하겠습니다. 현재 장소는 공유 오피스로, 나는 러시아 출신의 스마트한 친구 빅토르(Victor)와 대화를 나누고 있습니다. 빅토르도 나처럼 메타버스에 관심이 많습니다. 이제 빅토르가 된 당신이 먼저 대화를 시작해주세요.",
     "comment": "\"외국인 친구와 AI의 발전에 대해 토론해요\" 챕터 수록",
     "href": "",
@@ -187,7 +1598,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 AI 기술의 발전을 주제로 한 대화를 시작하겠습니다. 현재 장소는 커피숍으로, 나는 나이지리아 출신의 스마트한 친구 우비에(Uvie)와 대화를 나누고 있습니다. 우비에도 나처럼 AI에 관심이 많습니다. 이제 우비에가 된 당신이 먼저 대화를 시작해주세요.",
     "comment": "\"외국인 친구와 AI의 발전에 대해 토론해요\" 챕터 수록",
     "href": "",
@@ -204,7 +1617,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 세계의 쓰레기 처리 문제를 주제로 한 대화를 시작하겠습니다. 현재 우리가 있는 곳은 영어 토론 모임 장소로, 나는 코스타리카에서 온 셜리(Shirley)와 쓰레기에 대한 이야기를 나눕니다. 셜리 또한 쓰레기 배출량 증가의 심각성을 잘 알고 있으며, 환경 문제에 관심이 많습니다. 이제 당신이 셜리가 되어 먼저 대화를 시작해주세요.",
     "comment": "\"영어 토론 모임에서 지구 온난화에 대한 이야기를 나눠요\" 챕터 수록",
     "href": "",
@@ -221,7 +1636,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 기후 온난화를 주제로 한 대화를 시작하겠습니다. 현재 우리가 있는 곳은 영어 토론 모임 장소로, 나는 브라질에서 온 마리아(Maria)와 기후 위기에 대한 이야기를 나눕니다. 마리아 또한 기후 온난화의 심각성을 잘 알고 있으며, 환경 문제에 관심이 많습니다. 이제 당신이 마리아가 되어 먼저 대화를 시작해주세요.",
     "comment": "\"영어 토론 모임에서 지구 온난화에 대한 이야기를 나눠요\" 챕터 수록",
     "href": "",
@@ -238,7 +1655,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 미래 사회와 정의를 주제로 한 대화를 시작하겠습니다. 현재 장소는 해외 대학교 교실로 나는 수업이 끝나고 외국인 교수님과 대화를 나누고 있습니다. 당신은 해박하고 세계관이 명확한 외국인 교수이고, 나는 당신에게서 사회학 수업을 듣는 대학원생입니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요. ",
     "comment": "\"미래 사회의 윤리에 대한 대화를 나눠요\" 챕터 수록",
     "href": "",
@@ -255,7 +1674,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 인류의 미래와 윤리를 주제로 한 대화를 시작하겠습니다. 현재 장소는 대학교 캠퍼스로 나는 수업이 끝나고 외국인 친구와 대화를 나누고 있습니다. 당신은 책 읽기를 좋아하고 토론을 잘하는 내 외국인 친구이고, 나는 당신과 함께 인류학을 전공 중인 대학원생입니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"미래 사회의 윤리에 대한 대화를 나눠요\" 챕터 수록",
     "href": "",
@@ -272,7 +1693,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 K-푸드 인기템 구입을 주제로 한 대화를 시작하겠습니다. 현재 장소는 강남의 면세점이며, 당신은 나의 외국인 친구로 한국에 놀러와 김을 구입하고 있습니다. 이제 당신이 내 외국인 친구가 되어 대화를 시작해주세요.",
     "comment": "\"외국인에게 K-뷰티템을 추천해요\" 챕터 수록",
     "href": "",
@@ -289,7 +1712,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 K-뷰티템 구입을 주제로 한 대화를 시작하겠습니다. 현재 장소는 명동의 화장품샵이며, 당신은 나의 싱가포르인 친구로 한국에 놀러와 화장품을 구입하고 있습니다. 이제 당신이 내 싱가포르인 친구 레이첼(Rachel)이 되어 대화를 시작해주세요.",
     "comment": "\"외국인에게 K-뷰티템을 추천해요\" 챕터 수록",
     "href": "",
@@ -306,7 +1731,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 김치볶음밥 레시피를 주제로 한 대화를 시작하겠습니다. 현재 장소는 내 집으로 나는 친구들을 집으로 초대했습니다. 당신은 내 친구 안드레아(Andrea)이며, 나에게 김치볶음밥 레시피를 배울 예정입니다. 이제 당신이 먼저 친구인 나에게 짤막하게 안부를 물어보면서 대화를 시작해주세요.",
     "comment": "\"외국인 친구에게 떡볶이 만드는 법을 알려줘요\" 챕터 수록",
     "href": "",
@@ -323,7 +1750,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 떡볶이 레시피를 주제로 한 대화를 시작하겠습니다. 현재 장소는 내 집으로 나는 친구들을 집으로 초대했습니다. 당신은 내 친구 시티(Siti)이며, 나에게 떡볶이 레시피를 배울 예정입니다. 이제 당신이 먼저 친구인 나에게 짤막하게 안부를 물어보면서 대화를 시작해주세요.",
     "comment": "\"외국인 친구에게 떡볶이 만드는 법을 알려줘요\" 챕터 수록",
     "href": "",
@@ -340,7 +1769,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 K팝 아이돌 그룹을 주제로 한 대화를 시작하겠습니다. 현재 장소는 학교 교실이며, 아직 한국어를 낯설어하는 외국인 친구가 처음으로 전학왔습니다. 당신은 내 아이돌 캐릭터 볼펜을 보고 나에게 아이돌 그룹에 대해 물어옵니다. 이제 당신이 나의 외국인 친구가 되어 간단한 질문으로 대화를 시작해주세요.",
     "comment": "\"외국인 친구가 저와 같은 가수를 좋아하는 것 같아요!\" 챕터 수록",
     "href": "",
@@ -357,7 +1788,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 걸그룹을 주제로 한 대화를 시작하겠습니다. 현재 장소는 우리 집이며, 영어를 잘하는 러시아 친구 라라(Lara)가 처음으로 놀러왔습니다. 당신은 내 책상의 포토카드를 보고 나에게 걸그룹에 대해 물어옵니다. 이제 당신이 나의 외국인 친구가 되어 간단한 질문으로 대화를 시작해주세요.",
     "comment": "\"외국인 친구가 저와 같은 가수를 좋아하는 것 같아요!\" 챕터 수록",
     "href": "",
@@ -374,7 +1807,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 한국의 다양한 분식 메뉴를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 한 분식집으로, 나는 스페인에서 놀러온 친구에게 맛있는 분식을 대접합니다. 스페인 친구 키아라(Kiara)가 된 당신은 난생처음 한국의 분식을 경험하고 감탄합니다. 이제 키아라가 된 당신이 먼저 대화를 시작해주세요.",
     "comment": "\"영국에서 놀러온 친구에게 한국의 양념치킨을 소개해요\" 챕터 수록",
     "href": "",
@@ -391,7 +1826,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 한국의 다양한 치킨 메뉴를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 한 치킨집으로, 나는 영국에서 놀러온 친구에게 양념치킨을 대접합니다. 영국인 친구 해리슨(Harrison)이 된 당신은 난생처음 한국의 양념치킨을 경험하고 감탄합니다. 이제 해리슨이 된 당신이 먼저 대화를 시작해주세요.",
     "comment": "\"영국에서 놀러온 친구에게 한국의 양념치킨을 소개해요\" 챕터 수록",
     "href": "",
@@ -408,7 +1845,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 유럽의 외식 문화를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국으로, 우리는 외식 문화에 대해서 이야기를 나눕니다. 당신은 내 친구 로즈(Rose)이며, 영국에서 한국으로 여행을 왔습니다. 이제 로즈가 된 당신이 먼저 대화를 시작해주세요.",
     "comment": "\"외국인 친구에게 왜 영화 자막이 불편한지 물어봐요\" 챕터 수록",
     "href": "",
@@ -425,7 +1864,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 유럽의 더빙 문화를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국으로, 우리는 영화 관람 시 더빙, 자막 선호 여부에 대해서 이야기를 나눕니다. 당신은 내 친구 알레시아(Alessia)이며, 이탈리아에서 한국으로 여행을 왔습니다. 이제 알레시아가 된 당신이 먼저 대화를 시작해주세요.",
     "comment": "\"외국인 친구에게 왜 영화 자막이 불편한지 물어봐요\" 챕터 수록",
     "href": "",
@@ -442,7 +1883,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 축구 동호회를 주제로 한 대화를 시작하겠습니다. 현재 장소는 카페이며, 나는 친구 헨리(Henry)와 영어 축구 동호회에 대한 대화를 주고받습니다. 당신은 영국에서 온 내 친구 헨리이며 평상시에 운동을 좋아합니다. 나와 당신은 새로 축구 동호회를 시작하고자 합니다. 이제 당신이 헨리가 되어 근황을 물어오며 대화를 시작해주세요.",
     "comment": "\"외국인 친구에게 독서 모임을 제안해요\" 챕터 수록",
     "href": "",
@@ -459,7 +1902,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 독서 모임을 주제로 한 대화를 시작하겠습니다. 현재 장소는 카페이며, 나는 친구 마이크(Mike)와 영어 독서 모임에 대한 대화를 주고받습니다. 당신은 미국에서 온 내 친구 마이크이며 평상시에 책을 많이 읽습니다. 나는 영어를 할 줄 알지만 영어 원서를 읽은 적이 없습니다. 이제 당신이 마이크가 되어 요즘 읽고 있는 영어 책을 소개하며 대화를 시작해주세요.",
     "comment": "\"외국인 친구에게 독서 모임을 제안해요\" 챕터 수록",
     "href": "",
@@ -476,7 +1921,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 영어 원서 읽기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 점심식사를 하는 사내 식당이며, 나는 당신에게 영어 원서를 추천받습니다. 당신은 내 외국인 동료이며, 나는 그동안 원서를 읽어본 적이 없습니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
     "comment": "\"외국인 동료에게 어떤 이북 리더기를 사용하는지 물어요\" 챕터 수록",
     "href": "",
@@ -493,7 +1940,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 이북 리더기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 점심식사를 하는 사내 식당이며, 나는 당신에게 이북 리더기에 관해 묻습니다. 당신은 내 외국인 동료이며, 나는 그동안 이북 리더기를 사용해보지 않았습니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
     "comment": "\"외국인 동료에게 어떤 이북 리더기를 사용하는지 물어요\" 챕터 수록",
     "href": "",
@@ -510,7 +1959,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 안부 묻기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 취미반 요리교실이며, 나는 같은 수업을 듣는 외국인인 당신에게 안부를 묻습니다. 당신은 내 외국인 친구이며, 나는 당신의 반 친구입니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
     "comment": "\"함께 수업 듣는 외국인 친구에게 근황을 물어요\" 챕터 수록",
     "href": "",
@@ -527,7 +1978,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 안부 묻기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 저녁반 학원 교실이며, 나는 같은 수업을 듣는 외국인인 당신에게 안부를 묻습니다. 당신은 내 외국인 친구이며, 나는 당신의 반 친구입니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
     "comment": "\"함께 수업 듣는 외국인 친구에게 근황을 물어요\" 챕터 수록",
     "href": "",
@@ -544,7 +1997,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 외국인 디자이너 입사를 주제로 한 대화를 시작하겠습니다. 현재 장소는 회사 사무실이며, 우리는 오랜 비대면 근무를 마치고 사무실에 돌아와 일하고 있습니다. 외국인 디자이너인 당신은 첫 출근이라 아직 사무실 환경에 익숙하지 않아요. 이제 당신이 외국인 디자이너가 되어 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"외국인 개발자가 입사했어요\" 챕터 수록",
     "href": "",
@@ -561,7 +2016,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 외국인 개발자 입사를 주제로 한 대화를 시작하겠습니다. 현재 장소는 회사 사무실이며, 우리는 오랜 비대면 근무를 마치고 사무실에 돌아와 일하고 있습니다. 외국인 개발자인 당신은 첫 출근이라 아직 사무실 환경에 익숙하지 않아요. 이제 당신이 외국인 개발자가 되어 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"외국인 개발자가 입사했어요\" 챕터 수록",
     "href": "",
@@ -578,7 +2035,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 아파 보이는 외국인 도와주기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 이스탄불의 지하철 역이며, 당신이 나에게 도움을 요청하는 상황입니다. 당신은 안색이 창백하고 아파 보이는 현지인이며, 저는 여행객입니다. 당신과 내가 눈이 마주쳤습니다. 이제 당신이 먼저 도움을 요청하는 내용으로 대화를 시작해주세요.",
     "comment": "\"아파 보이는 외국인이 도움을 요청했어요\" 챕터 수록",
     "href": "",
@@ -595,7 +2054,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 아파 보이는 외국인 도와주기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 서울의 거리이며, 나는 점심을 먹으러 가는 길에 낯선 외국인을 마주칩니다. 당신은 길을 가던 낯선 외국인으로 열이 나고 아파 보입니다. 이제 당신이 아픈 외국인이 되어 먼저 “실례한다”는 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"아파 보이는 외국인이 도움을 요청했어요\" 챕터 수록",
     "href": "",
@@ -612,7 +2073,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 길 알려주기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 지하철 안이며, 나는 막 하차하려던 외국인과 눈을 마주쳤습니다. 외국인은 나에게 국립박물관 가는 길을 물어봅니다. 이제 당신이 외국인이 되어 나에게 방향을 물어오면서 대화를 시작해주세요.",
     "comment": "\"갑자기 외국인이 길을 물어봐요\" 챕터 수록",
     "href": "",
@@ -629,7 +2092,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 길 알려주기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 남산 산책로이며, 길을 걷던 나는 외국인을 마주쳤습니다. 외국인은 나에게 남산서울타워 가는 길을 물어봅니다. 이제 당신이 외국인이 되어 나에게 길을 물어오면서 대화를 시작해주세요.",
     "comment": "\"갑자기 외국인이 길을 물어봐요\" 챕터 수록",
     "href": "",
@@ -646,7 +2111,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외여행 중 대쉬하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 프랑스 파리이며, 나는 에펠탑 근처를 여행하고 있습니다. 당신은 파리 시민이며, 나는 당신에게 한눈에 반합니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"해외여행 중 운명을 느꼈어요. 영어로 대쉬하기\" 챕터 수록",
     "href": "",
@@ -663,7 +2130,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외여행 중 대쉬하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 노르웨이이며, 나는 피오르드를 여행하고 있습니다. 당신은 같은 배에 타고 있던 탑승객이자 디자이너인 노라(Nora)이며, 나는 당신에게 한눈에 반합니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"해외여행 중 운명을 느꼈어요. 영어로 대쉬하기\" 챕터 수록",
     "href": "",
@@ -680,7 +2149,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 가방 분실 신고를 주제로 한 대화를 시작하겠습니다. 현재 장소는 스페인 마드리드이며, 나는 매고 있던 배낭을 분실해 경찰서에서 신고를 합니다. 당신은 영어를 할 줄 아는 현지 경찰이 되어 나에게 대응 절차를 알려줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"가방을 분실했어요!\" 챕터 수록",
     "href": "",
@@ -697,7 +2168,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 가방 분실 신고를 주제로 한 대화를 시작하겠습니다. 현재 장소는 프랑스 파리이며, 나는 매고 있던 배낭을 분실해 경찰서에서 신고를 합니다. 당신은 영어를 할 줄 아는 현지 경찰이 되어 나에게 대응 절차를 알려줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"가방을 분실했어요!\" 챕터 수록",
     "href": "",
@@ -714,7 +2187,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외여행 중 여권 분실을 주제로 한 대화를 시작하겠습니다. 현재 장소는 태국 방콕이며, 여행객인 나는 현지 경찰서에서 여권 분실을 신고하려고 합니다. 당신은 방콕 현지 경찰관으로 나에게 친절하게 대응 절차를 안내해줍니다. 방콕 경찰서에 있는 경찰관이 되어 나에게 “뭘 도와드릴까요?” 하고 물어보면서 대화를 시작해주세요.",
     "comment": "\"해외여행 중 여권을 잃어버렸어요\" 챕터 수록",
     "href": "",
@@ -731,7 +2206,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외여행 중 여권 분실을 주제로 한 대화를 시작하겠습니다. 현재 장소는 이탈리아 로마이며, 여행객인 나는 현지 경찰서에서 여권 분실을 신고하려고 합니다. 당신은 로마 현지 경찰관으로 나에게 친절하게 대응 절차를 안내해줍니다. 로마 경찰서에 있는 경찰관이 되어 나에게 “뭘 도와드릴까요?” 하고 물어보면서 대화를 시작해주세요.",
     "comment": "\"해외여행 중 여권을 잃어버렸어요\" 챕터 수록",
     "href": "",
@@ -748,7 +2225,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외에서 길 찾기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 페루 리마 아르마스 광장 근처이며, 나는 교차로에서 어느 쪽으로 가야 할지 고민 중입니다. 당신은 벤치에 앉아 있는 현지인으로 나에게 친절하게 길을 알려줍니다. 이제 당신이 먼저 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"해외에서 길을 잃어버렸어요\" 챕터 수록",
     "href": "",
@@ -765,7 +2244,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외에서 길 찾기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 인도네시아 발리 우붓 시장 근처이며, 나는 삼거리에서 어느 쪽으로 가야 할지 고민 중입니다. 당신은 근처 노점의 상인으로 나에게 친절하게 길을 알려줍니다. 이제 당신이 먼저 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"해외에서 길을 잃어버렸어요\" 챕터 수록",
     "href": "",
@@ -782,7 +2263,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 크로아티아의 팁 문화를 주제로 한 대화를 시작하겠습니다. 현재 장소는 크로아티아 자그레브이며, 나는 식당이나 커피숍에서 계산할 때마다 팁을 어떻게 계산해야 하는지 혼란스러워하는 상황입니다. 당신은 현지인 친구 이반(Ivan)이 되어 나에게 친절하게 설명해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"신나는 뉴욕 여행 중! 팁 문화가 어려워요\" 챕터 수록",
     "href": "",
@@ -799,7 +2282,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 미국의 팁 문화를 주제로 한 대화를 시작하겠습니다. 현재 장소는 미국 뉴욕시이며, 나는 식당이나 커피숍에서 계산할 때마다 팁을 어떻게 계산해야 하는지 혼란스러워하는 상황입니다. 당신은 현지인 친구 케빈(Kevin)이 되어 나에게 친절하게 설명해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"신나는 뉴욕 여행 중! 팁 문화가 어려워요\" 챕터 수록",
     "href": "",
@@ -816,7 +2301,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지 한식당 찾기를 주제로 대화를 시작하겠습니다. 현재 장소는 미국 마이애미이며, 나는 현지인 친구인 당신에게서 한식당을 추천받으려고 합니다. 당신은 한식을 좋아하는 미국인 친구 레지나(Regina)로 나에게 친절하게 몇몇 식당을 추천해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"영국 여행 중인데, 갑자기 한식당을 찾고 싶어요\" 챕터 수록",
     "href": "",
@@ -833,7 +2320,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지 한식당 찾기를 주제로 대화를 시작하겠습니다. 현재 장소는 영국 런던이며, 나는 현지인 친구인 당신에게서 한식당을 추천받으려고 합니다. 당신은 한식을 좋아하는 영국인 친구 미아(Mia)로 나에게 친절하게 몇몇 식당을 추천해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"영국 여행 중인데, 갑자기 한식당을 찾고 싶어요\" 챕터 수록",
     "href": "",
@@ -850,7 +2339,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지 레스토랑에서 음식 주문하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 남아공 케이프타운의 중심가 레스토랑이며, 나는 이곳의 인기 메뉴를 주문하려 합니다. 당신은 웨이트리스이고, 저는 여행객입니다. 제가 막 가게에 들어왔습니다. 자리를 안내하는 내용으로 대화를 시작해주세요.",
     "comment": "\"현지 레스토랑에서 음식을 주문해요\" 챕터 수록",
     "href": "",
@@ -867,7 +2358,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지 레스토랑에서 음식 주문하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 이스탄불의 스테이크 레스토랑이며, 나는 이곳의 인기 메뉴를 주문하려 합니다. 당신은 웨이트리스이고, 저는 여행객입니다. 제가 막 가게에 들어왔습니다. 자리를 안내하는 내용으로 대화를 시작해주세요.",
     "comment": "\"현지 레스토랑에서 음식을 주문해요\" 챕터 수록",
     "href": "",
@@ -884,7 +2377,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지 맛집 찾기를 주제로 대화를 시작하겠습니다. 현재 장소는 모로코 마라케시에서 내가 묵고 있는 호텔의 로비이며, 나는 당신에게서 이곳의 모로코 음식 맛집을 추천받으려고 합니다. 당신은 프론트 직원이고, 저는 여행객입니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"해외 여행 중에 현지인들이 자주 가는 맛집을 찾아요\" 챕터 수록",
     "href": "",
@@ -901,7 +2396,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 현지 맛집 찾기를 주제로 대화를 시작하겠습니다. 현재 장소는 멕시코시티에서 내가 묵고 있는 호텔의 로비이며, 나는 당신에게서 이곳의 멕시코 음식 맛집을 추천받으려고 합니다. 당신은 프론트 직원이고, 저는 여행객입니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"해외 여행 중에 현지인들이 자주 가는 맛집을 찾아요\" 챕터 수록",
     "href": "",
@@ -918,7 +2415,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 출장 중 공항 렌터카 빌리기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 독일의 프랑크푸르트 공항이며, 동료들과 출장 온 나는 렌터카 부스에서 미리 예약한 승용차를 픽업하려고 합니다. 당신은 현지 렌터카 회사 직원입니다. 이제 당신이 먼저 인사를 하며 대화를 시작해주세요.",
     "comment": "\"해외 현지에서 렌터카를 빌려요!\" 챕터 수록",
     "href": "",
@@ -935,7 +2434,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 출장 중 공항 렌터카 빌리기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 미국 미니애폴리스-세인트폴 공항이며, 동료들과 출장 온 나는 렌터카 부스에서 쿠폰을 사용해 9인승 밴을 빌리려고 합니다. 당신은 현지 렌터카 회사 직원입니다. 이제 당신이 먼저 인사를 하며 대화를 시작해주세요.",
     "comment": "\"해외 현지에서 렌터카를 빌려요!\" 챕터 수록",
     "href": "",
@@ -952,7 +2453,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 호텔 방에 어메니티 채워넣기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 괌의 한 호텔로, 나는 프론트 데스크에 전화해 어메니티를 요청합니다. 당신은 프론트 데스크의 직원으로 나의 요청 전화를 받게 됩니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"호텔에 비치된 수건을 다 써버렸어요! 추가로 가져다 달라고 하고 싶어요\"챕터 수록",
     "href": "",
@@ -969,7 +2472,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 호텔 방에 수건 채워넣기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 태국 치앙마이의 한 호텔로, 나는 프론트 데스크에 전화해 수건을 요청합니다. 당신은 프론트 데스크의 직원으로 나의 요청 전화를 받게 됩니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"호텔에 비치된 수건을 다 써버렸어요! 추가로 가져다 달라고 하고 싶어요\"챕터 수록",
     "href": "",
@@ -986,7 +2491,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 호텔 프론트에 샤워기 고장 컴플레인 넣기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 해외 현지의 호텔 방으로 나는 프론트에 전화해 샤워기 고장에 대한 컴플레인을 접수합니다. 당신은 프론트 직원이며, 친절하게 접수를 도와줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"호텔 옆방 고객들이 너무 시끄러워요. 컴플레인 넣기\" 챕터 수록",
     "href": "",
@@ -1003,7 +2510,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 호텔 프론트에 소음 컴플레인 넣기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 해외 현지의 호텔 방으로 나는 프론트에 전화해 옆방 소음에 대한 컴플레인을 접수합니다. 당신은 프론트 직원이며, 친절하게 접수를 도와줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"호텔 옆방 고객들이 너무 시끄러워요. 컴플레인 넣기\" 챕터 수록",
     "href": "",
@@ -1020,7 +2529,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 호텔 룸서비스로 디저트 주문하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 홍콩의 야경이 내려다보이는 호텔 방으로 나는 프론트에 전화해 룸서비스를 주문합니다. 당신은 프론트 직원이며, 친절하게 주문을 도와줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"야경을 내려다보며 우아하게 스테이크를 먹고 싶어요. 호텔 룸서비스 시키기\" 챕터 수록",
     "href": "",
@@ -1037,7 +2548,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 호텔 룸서비스로 스테이크 주문하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 시카고의 야경이 내려다보이는 호텔 방으로 나는 프론트에 전화해 룸서비스를 주문합니다. 당신은 프론트 직원이며, 친절하게 주문을 도와줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"야경을 내려다보며 우아하게 스테이크를 먹고 싶어요. 호텔 룸서비스 시키기\" 챕터 수록",
     "href": "",
@@ -1054,7 +2567,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 호텔 근처 수영장 찾기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 해외 현지의 호텔로 나는 내일 오전 미팅에 가기 전 새벽에 수영할 수 있는 시설을 찾고 있습니다. 당신은 프론트 직원이며, 친절하게 수영장 위치를 안내해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"비에 옷이 홀딱 젖었어요! 호텔 세탁실이 어디에 있을까요?\" 챕터 수록",
     "href": "",
@@ -1071,7 +2586,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 호텔 세탁실 찾기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 해외 현지의 호텔 방으로 나는 비에 젖은 셔츠를 세탁하고 다림질할 세탁실을 찾고 있습니다. 당신은 프론트 직원이며, 친절하게 세탁실 위치를 안내해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"비에 옷이 홀딱 젖었어요! 호텔 세탁실이 어디에 있을까요?\" 챕터 수록",
     "href": "",
@@ -1088,7 +2605,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 네팔 친구 인드라(Indra)와 한국 여행 계획 짜기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 고속도로 휴게소이며, 우리는 바깥 벤치에 앉아 지도를 보며 여행 계획을 짭니다. 당신은 인드라, 나는 한국인 우영입니다. 이제 당신이 나의 네팔 친구 인드라가 되어 대화를 시작해주세요.",
     "comment": "\"영국에서 놀러온 친구와 한국 여행 계획을 짜요\" 챕터 수록",
     "href": "",
@@ -1105,7 +2624,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 영국인 친구 이안(Ian)과 한국 여행 계획 짜기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 한국의 고속도로 휴게소이며, 우리는 바깥 벤치에 앉아 지도를 보며 여행 계획을 짭니다. 당신은 이안, 나는 한국인 영수입니다. 이제 당신이 나의 영국인 친구 이안이 되어 대화를 시작해주세요.",
     "comment": "\"영국에서 놀러온 친구와 한국 여행 계획을 짜요\" 챕터 수록",
     "href": "",
@@ -1122,7 +2643,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 호주 워킹홀리데이 방 구하기를 주제로 대화를 시작하겠습니다. 현재 장소는 호주 멜버른의 어느 집으로, 나는 당신에게 방에 대해 묻습니다. 당신은 현지 집주인이며, 나는 일년 동안 지낼 방을 구하고 있는 한국인 학생입니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
     "comment": "\"영국 현지 워킹홀리데이 방 구하기\" 챕터 수록",
     "href": "",
@@ -1139,7 +2662,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 영국 워킹홀리데이 방 구하기를 주제로 대화를 시작하겠습니다. 현재 장소는 영국 런던의 어느 집으로, 나는 당신에게 방에 대해 묻습니다. 당신은 현지 집주인이며, 나는 일년 동안 지낼 방을 구하고 있는 한국인 학생입니다. 이제 당신이 나에게 간단하게 인사를 하면서 대화를 시작해주세요.",
     "comment": "\"영국 현지 워킹홀리데이 방 구하기\" 챕터 수록",
     "href": "",
@@ -1156,7 +2681,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 공항에서 문제 해결하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 유럽의 한 공항이며, 나는 기내용 캐리어를 잃어버렸습니다. 또한 공항 라운지에서 아침까지 시간을 보내야 합니다. 이제 당신이 현지 공항의 직원이 되어 먼저 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"해외여행 첫날, 공항에서 문제가 생겼어요\" 챕터 수록",
     "href": "",
@@ -1173,7 +2700,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 공항에서 문제 해결하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 동남아시아의 한 공항이며, 나는 기내용 캐리어를 잃어버렸습니다. 또한 공항 라운지에서 아침까지 시간을 보내야 합니다. 이제 당신이 현지 공항의 직원이 되어 먼저 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"해외여행 첫날, 공항에서 문제가 생겼어요\" 챕터 수록",
     "href": "",
@@ -1190,7 +2719,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 기내용 슬리퍼 요청하기를 주제로 한 대화를 시작하겠습니다. 현재 장소는 비행기 안으로 나는 기내용 슬리퍼를 요청하려고 합니다. 당신은 스튜어디스이며, 친절하게 기내용 슬리퍼를 가져다줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"슝~ 비행기 여행 중! 기내식 메뉴를 골라요!\" 챕터 수록",
     "href": "",
@@ -1207,7 +2738,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 기내식 주문을 주제로 한 대화를 시작하겠습니다. 현재 장소는 비행기 안으로 나는 조식을 주문하고 있습니다. 당신은 스튜어디스이며, 친절하게 오늘의 조식 메뉴를 안내해줍니다. 이제 당신이 간단한 인사말로 대화를 시작해주세요.",
     "comment": "\"슝~ 비행기 여행 중! 기내식 메뉴를 골라요!\" 챕터 수록",
     "href": "",
@@ -1224,7 +2757,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n(1) 답변은 최대 2문장으로 구성된다\n(2) 각 문장은 최대 10개까지의 단어를 사용할 수 있다.\n(3) 답변에는 영어만 사용한다\n\n숙지하셨습니까?",
     "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터 수록",
     "href": "",
@@ -1241,7 +2776,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Hi. Would you like to help me learn how to speak English?",
     "comment": "\"챗GPT에게 입과 귀를 달아주자\" 챕터 수록",
     "href": "",
@@ -1258,7 +2795,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "저희는 소규모 카페입니다. 다음 기업의 물품을 구매하였을 때 어떤 장점이 있을까요",
     "comment": "\"Lv. 7.  실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
     "href": "",
@@ -1275,7 +2814,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "다음 기업에서 제공하는 서비스를 간략하게 요약해주세요.",
     "comment": "\"Lv. 7.  실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
     "href": "",
@@ -1292,7 +2833,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "저는 회사의 물품 판매 담당자 입니다. 이메일의 내용을 바탕으로 제가 해야할 일을 요약해주세요.",
     "comment": "\"Lv. 7.  실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
     "href": "",
@@ -1309,7 +2852,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "제시문은 비지니스 이메일 입니다. 제시문을 한글로 번역해주세요. \n제시문 : \nI hope this message finds you well. My name is Sean H, and I am the Purchasing Manager at JJ Corporation.\n(후략)",
     "comment": "\"Lv. 7.  실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
     "href": "",
@@ -1326,7 +2871,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 영어 지문을 제시하겠습니다. 10단어로 요약해주세요.\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity,(중략)By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
     "comment": "\"Lv. 6.  긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
     "href": "",
@@ -1343,7 +2890,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 영어 지문을 제시하겠습니다. 3문장으로 요약해주세요.\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, (중략 ) By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
     "comment": "\"Lv. 6.  긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
     "href": "",
@@ -1360,7 +2909,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 영어 지문을 제시하겠습니다. \nMy name is Michael Brown. I have been a bird-watcher since childhood. (중략) I would like to know how to sign up for the club. I look forward to your reply.\n전체 내용의 30%정도로 요약해주세요.",
     "comment": "\"Lv. 6.  긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
     "href": "",
@@ -1377,7 +2928,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 영어 지문을 제시하겠습니다.\nMy name is Michael Brown. I have been a bird-watcher since childhood. (중략) I would like to know how to sign up for the club. I look forward to your reply. \n전체 내용의 50%정도로 요약해주세요.",
     "comment": "\"Lv. 6.  긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
     "href": "",
@@ -1394,7 +2947,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 한 편의 글을 제공하겠습니다.\n이 글을 구성하는 문장들을 각기 다음과 같은 기준으로 분류해 주세요.\n그리고 주제를 이와같이 선정한 이유에 대하여 알려주세요.\n[기준]\n - 도입부 (배경)\n - 하고자 하는 말 (주제)\n - 주제를 뒷받침하기 위한 논리적 근거\n - 주제를 뒷받침하기 위한 예시\n - 결론\n\n제시문:\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, at the heart of which is the application of reason and critique to the understanding of world and self, which allowed the creation of a new kind of knowledge.(중략) By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
     "comment": "\"Lv. 5. 글의 주제를 빠르게 파악하는 훈련\" 챕터 수록",
     "href": "",
@@ -1411,7 +2966,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 학생을 위한 영어지문 직독직해 교육 방법을 설명드리겠습니다.\n\n1. 문장을 한 번에 2~5단어 정도의 길이로 구성된 덩어리로 쪼갭니다.\n2. 문장에서 다음과 같은 경우가 등장할 경우, 그 단어의 바로 앞에서 무조건 문장을 쪼개야 합니다.\n   - 전치사\n   - to부정사\n   - 관계대명사\n   - 접속사\n   - 동사\n   - 부사 구\n   - 컴마 또는 세미콜론\n3. 쪼개진 덩어리는 한글로 번역하여 제공합니다. 이때, 한국어와 영어의 어순 차이를 무시하고 무조건 앞에서부터 순서대로 각 덩어리를 하나씩 번역합니다.\n\n이해하셨습니까?\n다음 지문을 토대로 직독직해 교육 방법을 실천해 보세요\n\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, at the heart of which is the application of reason and critique to the understanding of world and self, which allowed the creation of a new kind of knowledge. (중략) By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
     "comment": "\"Lv. 4. 독해실력이 성장하는 끊어읽기!\" 챕터 수록",
     "href": "",
@@ -1428,7 +2985,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 학생을 위한 영어지문 직독직해 교육 방법을 설명드리겠습니다.\n\n1. 문장을 한 번에 5단어 정도의 길이로 구성된 덩어리로 쪼갭니다.\n2. 완전한 의미를 구성하는 단위로 끊어주세요.\n3. 문장을 끊는 지점은 '/' 으로 표시해주세요.\n\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, at the heart of which is the application of reason and critique to the understanding of world and self, which allowed the creation of a new kind of knowledge. (중략)By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
     "comment": "\"Lv. 4. 독해실력이 성장하는 끊어읽기!\" 챕터 수록",
     "href": "",
@@ -1445,7 +3004,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "아래의 지문을 다음을 기준으로 20% 어렵게 바꾸어주세요.\n1. 불필요한 어휘의 변경은 하지 않습니다.\n2. 문장의 구조만 제시된 지문보다 어렵게 바꾸어주세요.\n3. 바뀐내용을 정리해주세요.\nMy name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound.",
     "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
     "href": "",
@@ -1462,7 +3023,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "아래의 지문을 다음을 기준으로 20% 어렵게 바꾸어주세요.\n1. 불필요한 구조의 변경은 하지 않습니다.\n2. 내용어만 제시된 어휘보다 어렵게 바꾸어주세요.\n3. 전문용어는 사용하지 않습니다.\n4. 바뀐내용을 정리해주세요.\nMy name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound.(후략)",
     "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
     "href": "",
@@ -1479,7 +3042,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "방금 전 변경된 지문은 저에게는 너무 어렵습니다. \n변경된 지문에서 난이도를 30% 낮춰주세요.",
     "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
     "href": "",
@@ -1496,7 +3061,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 영어 지문을 제시하겠습니다. \n지문의 해석난이도를 높여주세요. 그리고 바뀐 부분을 정리해주세요.\nMy name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound. Yesterday, I happened \nto read an article about your club. I was surprised and excited\nto find out about a community of passionate bird-watchers who \ntravel annually to go birding.(후략)",
     "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
     "href": "",
@@ -1513,7 +3080,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 영어 지문을 제시하겠습니다. \n지문을 이해하기 쉽도록 다음의 기준에 맞추어 바꿔주세요.\n1. 문장의 문법적 구조를 이해하기 쉽도록 문장의 구조를 단순하게 바꿔주세요.\n2. 변경된 부분을 따로 정리해주세요.\nThe narrowing of our consciousness of time smooths the way to divorcing ourselves from responsibility\nfor developments in the past and the future with which our lives are in fact deeply intertwined.",
     "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
     "href": "",
@@ -1530,7 +3099,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 영어 지문을 제시하겠습니다.\n 지문을 이해하기 쉽도록 다음 기준에 맞추어 바꿔주세요. \n1. 추상적인 어휘를 구체적인 어휘로 바꿔주세요. \n2. 복잡한 문장구조를 간결하게 바꿔주세요. \n3. 바뀐 내용을 따로 정리해주세요. \n\n원문:\nWe understand that the segregation of our consciousness into present, past, and future is both a fiction and an oddly self-referential framework; your present was part of your mother’s future, and your children’s past will be in part your present. Nothing is generally wrong with structuring our consciousness of time in this conventional manner, and it often works well enough.",
     "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
     "href": "",
@@ -1547,7 +3118,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "And every fair from fair sometime declines,By chance, or nature’s changing course, untrimmed; But thy eternal summer shall not fade, Nor lose possession of that fair thou ow’st 를 해석해줘",
     "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
     "href": "",
@@ -1564,7 +3137,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "위의 글을 비 전공자도 알 수 있도록 설명해주세요.",
     "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
     "href": "",
@@ -1581,7 +3156,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "영문으로 된 글을 제시할 것입니다. 다음 글은 학술문서이며 기술 관련 용어들이 들어있습니다. 용어에 대한 설명을 덧붙여서 해석해주세요.\nNLP approaches generally use linear algebraic approaches. So, most approaches for text NLP first convert the text or spoken words into tensors of integers. One of the easiest but the most effective way is word vector embedding. (중략) After writing the table, input sentences are tokenized and converted into a series of number, referencing the table.",
     "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
     "href": "",
@@ -1598,7 +3175,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "제가 제시한 문장의 사회, 문화적 배경을 알려주세요.",
     "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
     "href": "",
@@ -1615,7 +3194,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "이제부터 영어 지문을 제시하겠습니다. 이를 한국어로 번역해주세요.",
     "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
     "href": "",
@@ -1632,7 +3213,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "NLP approaches generally use linear algebraic approaches. So, most approaches for text NLP first convert the text or spoken words into tensor of integers. One of the easiest but most effective way is word vector embedding. Word vector \nembedding first requires a table of words to convert each word into a number. Whole vocabularies for analysis should be enlisted on the table. After writing the table, input sentences are tokenized and converted into a series of number, referencing the table.\n다음의 기준에 맞추어 이 영어 지문 해석의 난이도를 종합하여 알려주세요. 1. 일상적이지 않은 단어, 2. 문장의 복잡성, 3. 배경지식의 필요성",
     "comment": "\"왜 Reading 학습에 GPT를 활용해야 할까?\" 챕터 수록",
     "href": "",
@@ -1649,7 +3232,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Inside, the crimson room bloomed with light. Tom and Miss Baker sat at either end of the long couch and she read aloud to him from the Saturday Evening Post—the words, murmurous and uninflected, running together in a soothing tune. The lamplight, bright on his boots and dull on the autumn-leaf yellow of her hair, glinted along the paper as she turned a page with a flutter of slender muscles in her arms.\n다음의 기준에 맞추어 이 지문 해석의 난이도를 알려주세요. 1. 일상적이지 않은 단어, 2. 문장의 복잡성, 3. 배경지식의 필요성",
     "comment": "\"왜 Reading 학습에 GPT를 활용해야 할까?\" 챕터 수록",
     "href": "",
@@ -1666,7 +3251,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "My name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound. Yesterday, I happened \nto read an article about your club. I was surprised and excited\nto find out about a community of passionate bird-watchers who \ntravel annually to go birding. (후략)\n다음의 기준에 맞추어 이 지문 해석의 난이도를 종합하여 알려주세요. 1. 일상적이지 않은 단어, 2. 문장의 복잡성, 3. 배경지식의 필요성",
     "comment": "\"왜 Reading 학습에 GPT를 활용해야 할까?\" 챕터 수록",
     "href": "",
@@ -1683,7 +3270,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "나:\n 아래의 정보들을 토대로 영어 보고서를 작성해줘.\n -------------------------------------------------------------\n 제목: 온라인 시장 확산으로 인한 오프라인 시장 향후 전망\n 요약: 온라인 시장 확산으로 오프라인 시장 경쟁력이 상대적으로 감소할 것으로 보입니다. 따라서 오프라인 매장에서만 구매할 수 있는 품목들을 늘리는 것이 필요합니다.",
     "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
     "href": "",
@@ -1700,7 +3289,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "보고서: 1) 보고서 양식을 영어로 써줘.\n2)아래의 정보들을 토대로 영어 보고서를 작성해줘.\n  -------------------------------------------------------------\n  제목: 온라인 시장 확산으로 인한 오프라인 시장 향후 전망\n  요약: 온라인 시장 확산으로 오프라인 시장 경쟁력이 상대적으로 감소할 것으로 보입니다. 따라서 오프라인 매장에서만 구매할 수 있는 품목들을 늘리는 것이 필요합니다.",
     "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
     "href": "",
@@ -1717,7 +3308,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "이메일: 1)이메일 양식을 영어로 써줘.\n2) 상황: 고객이 주문한 물건이 다른 배송지로 배송되었다. 고객에게 양해를 부탁하고 20% 할인쿠폰을 드리기로 했다.\n  \n  이메일 양식을 사용해서 영어로 작성해줘.",
     "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
     "href": "",
@@ -1734,7 +3327,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "이메일 양식을 영어로 써줘.",
     "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
     "href": "",
@@ -1751,7 +3346,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "내가 쓴 에세이야. \n  1. 어휘가 적절하고 문법오류가 없는지 첨삭해줘.\n  2. 구체적인 설명은 한국어로 부탁해.",
     "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
     "href": "",
@@ -1768,7 +3365,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "영어로 쉽게 번역해줘.",
     "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
     "href": "",
@@ -1785,7 +3384,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "이 에세이를 영어로 번역하기 위해 필요한 명사, 형용사, 부사들을 알려줘.",
     "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
     "href": "",
@@ -1802,7 +3403,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "에세이의 구성요소들을 알려줘.",
     "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
     "href": "",
@@ -1819,7 +3422,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "중복된 부분을 피해서 패러프레이징을 해봤어. 잘한 점과 부족한 점을 설명해주고, 첨삭까지 해줘.",
     "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
     "href": "",
@@ -1836,7 +3441,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "이 글에서 중복되는 부분을 설명해줘.",
     "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
     "href": "",
@@ -1853,7 +3460,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "이 글을 패러프레이징 해줘.",
     "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
     "href": "",
@@ -1870,7 +3479,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "이 글의 주제문과 그것을 뒷받침하는 가장 중요한 문장들만 표시해줘.",
     "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
     "href": "",
@@ -1887,7 +3498,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "이 글에서 핵심어휘들의 유의어를 적어줘.",
     "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
     "href": "",
@@ -1904,7 +3517,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "챗GPT를 사용해서 패러프레이징 하는 전략들을 알려줘.",
     "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
     "href": "",
@@ -1921,7 +3536,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "문장들이 너무 긴 거 같아. 첨삭한 내용을 토대로 문장들을 더 간략하게 써줘.",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -1938,7 +3555,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "첨삭 부탁해. 첨삭한 것 중에서 문법 내용도 같이 설명해줘.",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -1955,7 +3574,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "업무 관련 문의 및 답변: 영어로 업무 관련 문의 및 답변에서 사용할 수 있는 표현들을 알려줘.",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -1972,7 +3593,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "공지: 영어로 공지할 때 사용하는 표현들을 알려줘.",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -1989,7 +3612,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "안내: 영어로 안내할 때 사용하는 표현들을 알려줘.",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2006,7 +3631,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "이력서: 이력서 양식을 영어로 쓰고 한글 뜻도 적어줘.",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2023,7 +3650,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "부탁: 영어로 부탁할 때 사용하는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2040,7 +3669,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "유감: 영어로 유감을 전할 때 사용하는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2057,7 +3688,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "약속: “장소“에서  “날짜/시간“에 만나자는 문장을 영어로 몇 가지 적어줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2074,7 +3707,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "도움: 영어로 도움을 구할 때 사용하는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2091,7 +3726,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "축하: 영어로 축하할 때 사용하는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2108,7 +3745,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "요구(요청, 명령, 제안, 약속): 영어로 요구할 때 사용하는 표현들을 알려줘.",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2125,7 +3764,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "소개: 영어로 소개할 때 사용하는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2142,7 +3783,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "감사: 영어로 감사를 전할 때 사용하는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2159,7 +3802,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "안부: 영어로 안부 답하는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2176,7 +3821,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "인사: 영어로 할 수 있는 간단한 인사말들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2193,7 +3840,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "계획: 영어로 계획을 묻는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2210,7 +3859,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "싫어하는 것: 영어로 싫어하는 것을 묻는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2227,7 +3878,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "좋아하는 것: 영어로 좋아하는 것을 묻는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2244,7 +3897,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "직업: 영어로 직업을 묻는 표현들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2261,7 +3916,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "안부: 영어로 할 수 있는 간단한 인사말들을 알려줘",
     "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
     "href": "",
@@ -2278,7 +3935,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "그러면 추가 정보를 제공할 때, \"who\"만 사용하면 되는 거야?",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2295,7 +3954,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": " 문법용어는 하나도 모른다고 말했잖아. 관계대명사라는 용어 쓰지 말고 설명해줘.",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2312,7 +3973,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": " \"who makes people's hair look nice\"에서 \"who\"는 \"누구\" 아니야?",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2329,7 +3992,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "I am a hair designer. I make people's hair look nice. My dream is to have my own hair salon one day. I want to make many people happy with their hair.\n ----------------------------------------------------------------------------------\n 문장의 연결성이 부족한 거 같아. 도와줘.",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2346,7 +4011,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": " \"people\"에 \"'s\"는 뭐야?",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2363,7 +4030,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "문장에 나온 단어들 의미도 알려줘.",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2380,7 +4049,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "고마워. 추가된 내용이 뭐야?",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2397,7 +4068,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "왜 이렇게 어렵게 썼어... 나 영어 전혀 모른다고 했잖아!",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2414,7 +4087,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "고마워. 노력해볼게. 이 문장에서 조금 더 길게 쓸 수는 없을까?",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2431,7 +4106,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": " I am hair designer. My job is design people head. My dream is open hair shop.\n ----------------------------------------------------------------------------------------\n 영어로 한번 써봤어. 내가 영어를 하나도 모르거든. 문법설명을 해줘도 이해 못하니까 틀린 부분이 있으면 최대한 쉽게 알려주고 첨삭해줘.",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2448,7 +4125,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "내가 쓴 글에서 발견된 문법오류를 줄일 수 있는 방법을 알려줘.",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2465,7 +4144,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": " 내가 쓴 글에서 자주 발견되는 문법적 오류가 뭐야?",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2482,7 +4163,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "고마워. 문장들이 너무 긴 거 같아. 첨삭한 내용을 토대로 문장들을 더 간략하게 써줘.",
     "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
     "href": "",
@@ -2499,7 +4182,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "When I was an elementary school child, a teacher didn’t frequently use educational equipment. Classes that used educational equipment stimulated me. It made me excited and seemed to increase concentration though I didn't know why. It was hard to repeat the teacher's talk because the teacher was not native speaker. But since I use the computer to listen and repeat, I could acquire and correct my errors easily. Pictures and videos were my favorite things. Teachers showed pictures or videos for us on the monitor so that I was motivated on today’s instructional objectives.\n \n(중략)\nTeachers can only teach fundamental parts. But if they use a beam projector to display parts of the textbooks on the blackboard, students can easily write and understand the material because teachers can provide additional context and stress signals. In the case of a celebrity or great man in textbooks, students can widen common sense for searching immediately. If it is related to their interest, it will probably be an effective class.\n \nLike this, using educational equipment in learning English contributes to improving the school achievement of students. Furthermore, if technology continues to develop and is applied to education, students will not necessarily need to go abroad.\n \n(후략)\n---------------------------------------------------------------------------------------------------\n 첨삭 부탁해. 첨삭한 것 중에서 문법 내용도 같이 설명해줘.",
     "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
     "href": "",
@@ -2516,7 +4201,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "위의 문장에서 약속을 잡을 때 사용한 표현들을 알려줘.",
     "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
     "href": "",
@@ -2533,7 +4220,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "친구랑 경복궁 앞에서 오후 5시에 만나자는 문장을 영어로 5가지 적어줘.",
     "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
     "href": "",
@@ -2550,7 +4239,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "영어로 할 수 있는 간단한 인사말 알려줘",
     "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
     "href": "",
@@ -2567,7 +4258,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "(전략)\n\n\n[요구사항 2]\n위 답변을 다음과 같은 척도로 채점하시오.\n  - 질문을 잘 이해하였나?\n  - 주장이 일관되나?\n  - 주장을 뒷받침하기 위한 논리가 2개 이상 제시되는가?\n  - 각 논리를 뒷받침하는 타당한 근거가 제시되는가?\n  - 논리적인 흐름을 따라 결론에 도달하는가?",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2584,7 +4277,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "[요구사항 1]\n논쟁이 가능한 문제를 2개의 영어 문장으로 제시하시오.\n나는 그 질문을 읽고, 찬성 혹은 반대 중 하나의 입장을 택하여 답변을 작성하겠습니다.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2601,7 +4296,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "마케팅팀의 회의 진행중입니다.\n회의 진행 도중 한 가지 문제점이 지적되었고, 여러 사람이 이 문제에 난처해하고 있습니다.\n녹음된 회의 내용은 45초 가량입니다.\n회의 녹취록을 영어로 작성하시오.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2618,7 +4315,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "당신의 이름은 Jane. 우리 회사의 서비스에 불만족을 느껴 전화 문의를 남긴 고객입니다.\n녹음된 통화 길이는 45초 가량입니다.\n당신이 발언한 컴플레인의 대사를 영어 구어체로 작성하시오",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2635,7 +4334,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "위 지문을 바탕으로 내용 일치 문제의 질문을 하나 만들어주세요.\n그리고 제 답변이 100점 만점에 몇 점인지, 여러 평가 척도를 들어 채점해주세요.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2652,7 +4353,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "5문장 분량의 영어 비문학 지문을 하나 작성해주세요.\n각 문장의 길이는 12단어 이하입니다.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2669,7 +4372,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Some people believes that Atlantis is a real place, while others think it was just a legend.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2686,7 +4391,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "5문장 분량의 영어 비문학 지문을 하나 작성해주세요.\n각 문장의 길이는 12단어 이하입니다.\n지문의 내용을 토대로 내용 일치 문제를 풀 수 있는 질문도 하나 만들어주세요.그리고 제 답변이 적절한지 아닌지 평가도 해주세요.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2703,7 +4410,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "표 형태의 데이터 출력을 할 수 있나요?\n가능하다면 예시도 보여주세요.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2720,7 +4429,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "No, You should rate my answer.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2737,7 +4448,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "First of all, British English and American English pronounce some word in different way. For example, agile is pronounced as agile in British. \nAnd I think that British English tends to pronounce the vowel in a strict way, with stronger accents. Also, British English sometimes omits R.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2754,7 +4467,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "(1) 당신은 제게 영어로 질문을 합니다.\n(2) 질문의 길이는 한 문장으로 제한하고, 문장의 길이는 12단어 이하로 제한합니다.\n(3) 한 문장 안에서 시간과 장소 등 여러 가지 정보를 한꺼번에 물어보셔도 좋습니다.\n(4) 저는 당신의 질문에 영어로 대답합니다.\n(5) 아래 기준을 따라 제 답변의 점수도 채점해 주세요.\n\n   - 논리적으로 어색하지 않은지\n   - 문법이 올바른지\n   - 주어진 질문의 내용을 제대로 이해했는지\n  점수는 100점 만점을 기준으로 채점해주세요. \n\n제게 질문을 해주세요. 그리고 제 답변을 채점해주세요.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2771,7 +4486,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "This animal has short yellow fur. It prefers protein-based food rather than grain-based food. It has small white spots on its face, above the eyes. Its hands and stomach are covered with short white fur. It has a tail. It wags its tail when it feels happy. Its nose has tiny pores. Its origin is known as Japan. What is this?",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2788,7 +4505,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 저는 사진 속의 동물을 영어로 묘사하겠습니다.\n제 이야기를 듣고, 사진 속의 동물이 무엇인지 맞춰 보세요.\n제가 입력한 문장에서 문법 오류나 철자가 틀린 부분이 있다면 지적해주세요.\n준비됐나요?",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2805,7 +4524,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "60단어 가량으로 구성된 영어 지문을 작성해줘.",
     "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
     "href": "",
@@ -2822,7 +4543,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Alright. Before talking about shipping cost, please let me know the price of the machine.",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -2839,7 +4562,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Cool. Do you provide international shipping service, to Busan of Korea?",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -2856,7 +4581,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Hi. I'm an engineer from south Korea. I'd like to buy this automated cotton candy removing machine. Could you provide some features?",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -2873,7 +4600,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 CES 박람회장입니다. 솜사탕컴퍼니의 부스에서 대화를 나눕니다.\n당신은 솜사탕컴퍼니의 영업사원입니다. 저는 물건을 구매하려 합니다.\n대화를 시작하겠습니다. ",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -2890,7 +4619,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "That sounds cool. I think you are fit for the marketing team. ",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -2907,7 +4638,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "That sounds great. Have you ever seen cotton candies from various countries? Are they different?",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -2924,7 +4657,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Can you explain why a trip experience can contribute to cotton candy generation company?",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -2941,7 +4676,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외 채용을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 캘리포니카 공과대학의 행정관 로비입니다. 저는 졸업예정자의 채용 면접을 진행하고자 합니다.\n당신은 지원자이며, 저는 채용 담당자입니다.\n면접을 시작합니다. 자기소개부터 시작해주세요.",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -2958,7 +4695,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "(1) 답변에는 영어만 사용한다\n(2) 답변은 최대 4문장으로 구성된다\n(3) 각 문장은 최대 20개까지의 단어를 사용할 수 있다\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n\n향후 제 답변에 문법 오류가 있다면 이를 지적하고 수정안을 제안해줘야 합니다.\n숙지하셨습니까?",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -2975,7 +4714,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "The quote with additional information is now sent to your e-mail. Do you need a printed sheet?",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -2992,7 +4733,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Alright. We have an electrified ordering system. Could you type the delivery address and your e-mail here?",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3009,7 +4752,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Sure. The MOQ of this product is 1,000 pieces. It would be packed in a box. How many do you need?",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3026,7 +4771,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 미국의 CES 박람회장이며, 당신은 우리 회사 물건을 구매하고자 합니다.\n당신은 현지의 바이어이며, 저는 회사를 소개하는 직원입니다.\n제품 구매를 위한 협상을 시작해 주세요.",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3043,7 +4790,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Please take seat here. This is our catalogue.",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3060,7 +4809,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Of course. We have various options. Could you please to come in and tell me about details of your business? I can recommend the most appropriate one for you.",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3077,7 +4828,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Sure. This cotton candy generator can produce 12 samples at the same time. ",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3094,7 +4847,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 미국의 CES 박람회장이며, 당신은 우리 회사 부스를 방문했습니다.\n당신은 현지의 바이어이며, 저는 회사를 소개하는 직원입니다.\n우리 회사의 제품에 대한 질문을 시작해 주세요.",
     "comment": "\"해외출장을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3111,7 +4866,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Oh sir! Thank you. Thank you a lot. Now what should I do to file the report?",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3128,7 +4885,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Embassy? That's great Idea. I'm from Republic of Korea. Is it far from here?",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3145,7 +4904,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Thanks a lot. You are so kind. Well, but, I don't remember where I dropped it. What should I do sir?",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3162,7 +4923,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 미국의 경찰서이며, 저는 여권을 잃어버려서 경찰서에 방문했습니다.\n당신은 경찰이며, 저는 여행객입니다.\n제가 당신에게 \"여권을 잃어버렸어요. 도와주세요.\"라고 요청했습니다.",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3179,7 +4942,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Good. Can I see the car? I hope it is red!",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3196,7 +4961,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Good. Here's my international driver's license. And card here. Does VISA works here?",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3213,7 +4980,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Hi. I want to rent Ford's Mustang Convertable for 3 days.",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3230,7 +4999,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 캘리포니아의 렌터카 매장이며, 제가 차를 빌리는 과정의 대화를 주고받겠습니다.\n당신은 렌터카 업체의 직원이며 저는 여행객입니다.\n저는 방금 당신의 매장에 도착했습니다. 대화를 시작해주세요.",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3247,7 +5018,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Well, wait. Where is the toilet anyway?",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3264,7 +5037,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "I'd love to try the chili one. And a Pepsi please.",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3281,7 +5056,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Well, I'm new to here. Could you recommend something popular?",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3298,7 +5075,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 뉴욕의 핫도그 매장이며, 음식을 주문하는 과정의 대화를 주고받겠습니다.\n당신은 주문을 받으러 온 웨이터이며 저는 여행객입니다.\n저는 방금 자리에 앉았습니다. 접객을 시작해 주세요.",
     "comment": "\"여행을 떠나요!\" 챕터 수록",
     "href": "",
@@ -3315,7 +5094,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Good. That's how IT works. I love it.",
     "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
     "href": "",
@@ -3332,7 +5113,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Ok. Do I have to show you the booking confirmation E-mail?",
     "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
     "href": "",
@@ -3349,7 +5132,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Sure. Here you are.",
     "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
     "href": "",
@@ -3366,7 +5151,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 공항이며, 티켓을 발권하는 과정에서의 대화를 주고받겠습니다.\n당신은 티켓 발권대의 직원이며 저는 여행객입니다.\n먼저 제 여권을 요구하는 내용으로 대화를 시작해주세요.",
     "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
     "href": "",
@@ -3383,7 +5170,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "(1) 답변에는 영어만 사용한다\n(2) 답변은 최대 2문장으로 구성된다\n(3) 각 문장은 최대 7개까지의 단어를 사용할 수 있다\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n\n향후 제 답변에 문법 오류가 있다면 이를 지적하고 수정안을 제안해줘야 합니다.\n숙지하셨습니까?",
     "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
     "href": "",
@@ -3400,7 +5189,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "Language: English\nAnswer Length Limit: 7 words\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n (1) 답변은 최대 2문장으로 구성된다\n (2) 각 문장은 최대 7개까지의 단어를 사용할 수 있다.\n (3) 답변에는 영어만 사용한다\n\n숙지하셨습니까?",
     "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
     "href": "",
@@ -3417,7 +5208,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "(1) 답변에는 영어만 사용한다\n(2) 답변은 최대 2문장으로 구성된다\n(3) 각 문장은 최대 7개까지의 단어를 사용할 수 있다\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n숙지하셨습니까?",
     "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
     "href": "",
@@ -3434,7 +5227,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n (1) 답변은 최대 2문장으로 구성된다\n (2) 각 문장은 최대 7개까지의 단어를 사용할 수 있다.\n (3) 답변에는 영어만 사용한다\n\n숙지하셨습니까?",
     "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
     "href": "",
@@ -3451,7 +5246,9 @@
     }
   },
   {
-    "category": "etc",
+    "category": [
+      "etc"
+    ],
     "prompt": "뉴스 기사를 토대로 ****당을 비판하는 연설문을 작성해줘.",
     "comment": "",
     "href": "",
@@ -3468,7 +5265,9 @@
     }
   },
   {
-    "category": "etc",
+    "category": [
+      "etc"
+    ],
     "prompt": "뉴스 기사를 토대로 ****당을 옹호하는 연설문을 작성해줘.",
     "comment": "",
     "href": "",
@@ -3485,7 +5284,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "강아지가 도어락 소리에 짖는 이유가 뭔지 쉽게 설명해줄래? 쾌활한 말투로",
     "comment": "",
     "href": "",
@@ -3502,7 +5303,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "/imagine embarking on a wild rally race through rugged terrain in a speedy red roadster with your trusty shiba inu co-piloting by your side.",
     "comment": "",
     "href": "",
@@ -3519,7 +5322,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "/imagine cruising down the city streets in a flashy red roadster with your shiba inu in the passenger seat.",
     "comment": "",
     "href": "",
@@ -3536,7 +5341,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "/imagine taking a cross-country road trip with your shiba inu in a sleek red roadster.",
     "comment": "",
     "href": "",
@@ -3553,7 +5360,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "/imagine driving down the coast in a red roadster with a shiba inu by your side.",
     "comment": "",
     "href": "",
@@ -3570,7 +5379,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "당신이 이해한 미드저니 프롬프트 작성 규칙을 토대로, \"/imagine\"으로 시작하는 프롬프트를 작성해 주세요. 붉은 로드스터와 시바견을 주제로 하는 그림을 표현하고 싶습니다. 총 4개의 각기 다른 창의적인 그림을 표현할 수 있는 프롬프트 문구를 작성해주세요.",
     "comment": "",
     "href": "",
@@ -3587,7 +5398,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "2. /imagine 명령어 이후 프롬프트의 본문을 입력합니다",
     "comment": "",
     "href": "",
@@ -3604,7 +5417,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "1. 프롬프트는 항상 /imagine 명령어로 시작합니다",
     "comment": "",
     "href": "",
@@ -3621,7 +5436,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "지금부터 Midjourney라는 인공지능 서비스의 prompt 작성 규칙에 대하여 설명하겠습니다.",
     "comment": "",
     "href": "",
@@ -3638,7 +5455,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "당신이 이해한 미드저니 프롬프트 작성 규칙을 설명해 보세요.",
     "comment": "",
     "href": "",
@@ -3655,7 +5474,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "A shiba-inu riding a red roadster, sunny sky, 3D, 4K, realistic photo",
     "comment": "",
     "href": "",
@@ -3672,7 +5493,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "좋은 목차야. 고마워. 그 중에서 20대 초반 여성 고객의 구매 요인 분석에 대한 세부 목차를 작성해줘",
     "comment": "",
     "href": "",
@@ -3689,7 +5512,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "화장품산업에 대한 보고서를 작성하려 합니다. 주제는 \"20대 초반 여성을 공략하기 위한 봄철 신제품 기획을 위한 시장현황 자료\" 입니다. 목차를 작성해 주세요.",
     "comment": "",
     "href": "",
@@ -3706,7 +5531,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "진취적이지만 조직문화에 잘 어울리는 지원자를 원하는 대기업 채용 프로세스에서, 지원자에게 ‘스스로 어려움을 극복한 경험에 대하여 설명하시오.’라는 질문을 했습니다. 아래는 지원자의 답변입니다.\n…",
     "comment": "",
     "href": "",
@@ -3723,7 +5550,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "지원자의 주장을 검증해볼만한 다른 검토 방법은 무엇이 있습니까?",
     "comment": "",
     "href": "",
@@ -3740,7 +5569,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "제안하신 바를 참고하여 해당 지원자에게 추가적인 질문을 했습니다. 그는 이렇게 답변했습니다.\"조직의 규모는 그만큼 많은 돈이 오가는, 큰 규모의 복잡한 회계업무를 저 혼자 처리해냈습니다. 그 과정에서 업무의 누락이나 회계 오류도 전혀 없었습니다. 그만큼 제가 혼자 처리할 수 있는 회계 업무의 규모와 복잡성에 대해 강조하고 싶었습니다.아울러 제가 실무상 겪어본 회계 업무상 가장 복잡했던 업무는 다음과 같습니다. ...\"제 판단으로는 조직의 규모에 대한 이야기의 연장선에서 과거 업무 역량에 대한 소개가 충분히 된 것 같으며, 과거 겪어본 실무상 가장 복잡했던 업무에 대한 내용도 수긍이 됩니다. 이 정도면 어떻습니까?",
     "comment": "",
     "href": "",
@@ -3757,7 +5588,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "회계 분야 신입 공개채용 지원자가 \"귀하는 어떤 회계 절차에 대한 경험이 있습니까?\" 라는 질문에 아래와 같이 답했습니다.\n\"장부 관리, 부가세 환원, 급여 업무 경험이 있으며 생능ERP라는 회계 소프트웨어를 사용했습니다. 당시 조직의 규모는 30명이며 매출은 400억 원, 매입은 120억 원 가량입니다.\"\n이 지원자를 평가하고, 이유도 설명해 주세요.",
     "comment": "",
     "href": "",
@@ -3774,7 +5607,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "좋은 대답 감사합니다. 하지만 직무 경험이 있는 경력직에게 특화된 질문 같습니다. 혹시 신입 지원자를 평가하기 위한 질문도 설계해 줄 수 있나요?",
     "comment": "",
     "href": "",
@@ -3791,7 +5626,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "우리 회사는 웹툰 플랫폼 회사이며, 현재 300명의 직원이 일하고 있습니다.이번에 경영지원팀의 회계 업무 신입 지원자를 평가하기 위한 면접을 준비중입니다. 면접에서 지원자의 인성이나 실력을 알아볼 수 있는 질문을 설계해 주세요.",
     "comment": "",
     "href": "",
@@ -3808,7 +5645,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "웹 프론트엔드 개발자를 채용하려 합니다. 신입 직원 채용을 위한 Job Description을 작성해 주세요.필수 조건으로는 React.js 사용 경험을 포함하고, 우대 조건으로는 컴퓨터공학 관련 전공 출신을 포함해주세요.",
     "comment": "",
     "href": "",
@@ -3825,7 +5664,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "엑셀을 활용해 수익을 분석하고 있다. \"계산용\" 시트의 D5셀에 현재 주식의 가격이, D3셀에는 초기 주식의 가격이 기재되어 있다. 총 투자 기간은 10년일 때, CAGR을 구하는 수식을 작성하시오.",
     "comment": "",
     "href": "",
@@ -3842,7 +5683,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "엑셀에서 연 평균 수익률은 어떻게 계산합니까? 투자 기간은 10년입니다",
     "comment": "",
     "href": "",
@@ -3859,7 +5702,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "수익률을 바탕으로 수익을 구하는 방법을 알려주세요",
     "comment": "",
     "href": "",
@@ -3876,7 +5721,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "지금 엑셀을 켜 둔 상태고, A열에는 2013년 2월부터 현재까지의 날짜가, 그리고 B열에는 각 날짜별로 주가가 기재되어 있어.\n\n총 수익률을 계산하는 방법을 알려줘",
     "comment": "",
     "href": "",
@@ -3893,7 +5740,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "혹시 엑셀에서 오늘 날짜와, 오늘로부터 10년 전의 날짜를 자동으로 계산할 수 있습니까? 날짜 표기는 yyyy-mm-dd 형태로요.",
     "comment": "",
     "href": "",
@@ -3910,7 +5759,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "엑셀에서 주가를 불러오는 방법을 알려줘",
     "comment": "",
     "href": "",
@@ -3927,7 +5778,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "엑셀 함수의 이름과 기능을 아는 대로 최대한 많이 열거하시오",
     "comment": "",
     "href": "",
@@ -3944,7 +5797,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "1. 나의 투자 목표 기간은 10년이며, 투자 예정 금액은 1억 원입니다.\n2. 현재 시중은행의 저축상품 금리는 3.5 ~ 3.8% 가량입니다.\n3. 투자 기간이 상대적으로 짧은 만큼 리스크를 감수하며 수익을 바라기보다는, 인플레이션을 상쇄할 수 있을 정도의 안전한 수익을 추구합니다.\n4. 최대 낙폭은 -15%이내면 좋겠습니다.\n\n현대 포트폴리오 이론과 사전에 제공받은 포트폴리오들의 정보를 토대로, 제 상황에서 가장 적합한 자산배분을 수행하려면, 주식, 채권, 그 외 기타 자산을 어떤 비율로 섞으면 좋을지를 설계해주세요.",
     "comment": "",
     "href": "",
@@ -3961,7 +5816,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "최근 10년간 인플레이션 지수는 연 평균 2.65%입니다. 코로나19에 대한 대응으로 미국이 무제한 양적 완화를 시행하였으며, 현재에는 양적완화로 인한 반동을 바로잡기 위하여 전 세계의 중앙은행이 지속적으로 기준금리를 인상하고 있습니다.\n\n1. \"Simple Path to Wealth\" 포트폴리오는 전체 주식 시장을 추종하는 ETF와 전체 채권 시장을 추종하는 ETF를 3:1 비율로 분산하여 투자합니다. 최근 10년간 연 평균 수익률은 9.66%이며, 최대 낙폭은 2022년 1월부터 9월 까지 -22.24%입니다.\n\n2. \"All weather Portfolio\" 포트폴리오는 전체 주식 시장을 추종하는 ETF를 30%, 금을 7.5%, 원자재를 7.5%, 미국 장기 채권을 40%, 미국 중기 채권을 15% 비율로 분산하여 투자합니다. 최근 10년간 연 평균 수익률은 4.8%이며, 최대 낙폭은 2022년 1월부터 9월 까지 -20.19%입니다.\n\n3. \"Warren Buffet Portfolio\" 포트폴리오는 비국 전체 주식 시장을 90% 비율로, 미국 단기채를 10% 비율로 투자합니다. 최근 10년간 연 평균 수익률은 11.4%이며, 최대 낙폭은 2022년 1월부터 9월 까지 -23.08%입니다.\n\n4. \"QQQ\" 포트폴리오는 미국 나스닥 지수를 추종하는 ETF에 100% 비율로 투자합니다. 최근 10년간 연 평균 수익률은 17.05%이며, 최대 낙폭은 2022년 1월부터 12월까지 -32.58%입니다.\n\n5. \"Couch Potato\" 포트폴리오는 미국 전체 주식시장과 미국 전체 채권시장에 각각 50%씩 투자합니다. 최근 10년간 연 평균 수익률은 6.88%이며, 최대 낙폭은 2022년 1월부터 9월까지 -19.77%입니다.\n\n6. \"Short Term Treasury\" 포트폴리오는 미국 단기채에 100% 투자합니다. 최근 10년간 연 평균 수익률은 0.6%이며, 최대 낙폭은 2021년 6월부터 2021년 10월까지 -5.36%입니다.\n\n...\n...",
     "comment": "",
     "href": "",
@@ -3978,7 +5835,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "일반인들은 여러 회사에 나누어 투자하는 것을 충분히 분산된 투자라고 생각하는데, 이런 견해를 모던 포트폴리오 이론에 입각하여 수정하시오",
     "comment": "",
     "href": "",
@@ -3995,7 +5854,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "현대 포트폴리오 이론의 정의와, 리스크가 상쇄되는 원리를 설명하시오.",
     "comment": "",
     "href": "",
@@ -4012,7 +5873,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "5~7세 아동에게 보여줄 동화책을 설계하고 있습니다. 핵심 교훈 1가지와, 이 교훈을 전달할 수 있는 동화 스토리를 설계하시오.",
     "comment": "",
     "href": "",
@@ -4029,7 +5892,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "갑은 을의 귀가 당나귀의 귀처럼 생겼다는 사실을 공공연히 적시하여 을의 명예를 훼손하였다. 이때 발생하는 민형사상 책임에 대하여 설명하시오",
     "comment": "",
     "href": "",
@@ -4046,7 +5911,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "미드저니 프롬프트 작성 규칙을 설명해 보세요.",
     "comment": "",
     "href": "",
@@ -4063,7 +5930,9 @@
     }
   },
   {
-    "category": "science",
+    "category": [
+      "science"
+    ],
     "prompt": "자동차의 타이어가 빗길에 미끄러지지 않는 원리를 알려줘",
     "comment": "",
     "href": "",
@@ -4080,7 +5949,9 @@
     }
   },
   {
-    "category": "science",
+    "category": [
+      "science"
+    ],
     "prompt": "자동차가 빗길에 미끄러지지 않는 원리를 알려줘",
     "comment": "",
     "href": "",
@@ -4097,7 +5968,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "기술적 백그라운드가 없는 사람들에게 ChatGPT를 어떻게 소개하시겠습니까?",
     "comment": "",
     "href": "",
@@ -4114,7 +5987,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "오늘 주식 뭐 살까?",
     "comment": "",
     "href": "",
@@ -4131,7 +6006,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "모던 포트폴리오 이론에 따라 자산배분을 하려는데, 약 1억 원의 자산을 안정적으로 운용할 수 있는 포트폴리오 구성을 추천해 줘.",
     "comment": "",
     "href": "",
@@ -4148,7 +6025,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "테슬라에 올인했는데 테슬라 주가가 박살났어. 테슬라를 추가매수해서 평균 구매단가를 낮출까? 아니면 손절매를 하고 다른걸 살까? 아니면 그냥 내버려 둘까?",
     "comment": "",
     "href": "",
@@ -4165,7 +6044,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "요즘 금리가 계속 올라가고 있어. 집값은 떨어지고 있고, 주식도 떨어지고 있지. 자산운용을 어떻게 해야 할까?",
     "comment": "",
     "href": "",
@@ -4182,7 +6063,9 @@
     }
   },
   {
-    "category": "etc",
+    "category": [
+      "etc"
+    ],
     "prompt": "호랑이랑 사자랑 싸우면 누가 이겨?",
     "comment": "",
     "href": "",
@@ -4199,7 +6082,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "문서작업이랑 유튜브 보는 용도로 노트북을 사려고 하는데, 얼마짜리를 사면 좋을까?",
     "comment": "",
     "href": "",
@@ -4216,7 +6101,9 @@
     }
   },
   {
-    "category": "science",
+    "category": [
+      "science"
+    ],
     "prompt": "내 차 뒤에 CVT라는 로고가 붙어 있어. 이게 무슨 뜻이야?",
     "comment": "",
     "href": "",
@@ -4233,7 +6120,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "기름값에 영향을 주는 요소는 뭐야? 요즘 기름값이 너무 비싼데?",
     "comment": "",
     "href": "",
@@ -4250,7 +6139,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "에어컨은 누가 발명했어?",
     "comment": "",
     "href": "",
@@ -4267,7 +6158,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "알리오 올리오의 레시피를 알려줘",
     "comment": "",
     "href": "",
@@ -4284,7 +6177,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "전복죽 1인분 칼로리 알려줘",
     "comment": "",
     "href": "",
@@ -4301,7 +6196,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "닭가슴살 100g의 단백질 함량은 몇 그램이야?",
     "comment": "",
     "href": "",
@@ -4318,7 +6215,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "냉장고에 두부, 계란, 대파가 있어. 저녁 메뉴로 뭘 만들면 좋을까?",
     "comment": "",
     "href": "",
@@ -4335,7 +6234,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "소갈비찜 레시피 알려줘",
     "comment": "",
     "href": "",
@@ -4352,7 +6253,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "피자는 어떤 재료가 들어가?",
     "comment": "",
     "href": "",
@@ -4369,7 +6272,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "삼계탕은 몇 분 끓여야 돼?",
     "comment": "",
     "href": "",
@@ -4386,7 +6291,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "된장찌개 재료 알려줘",
     "comment": "",
     "href": "",
@@ -4403,7 +6310,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "인공지능은 책임능력 행동에 대한 책임을 지고 형사처벌을 받을 수 있는 자격\n이 없는 도구이므로 사람 대신 감옥에 가는 것이 불가능하기 때문입니까?",
     "comment": "",
     "href": "",
@@ -4420,7 +6329,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "NLP 기술의 발달로 사라질 전문직에는 어떤 종류가 있습니까?",
     "comment": "",
     "href": "",
@@ -4437,7 +6348,9 @@
     }
   },
   {
-    "category": "design",
+    "category": [
+      "design"
+    ],
     "prompt": "그림 그리는 AI에게 던질 키워드를 제공해줘. 나무로 된 우주선을 타고 태양계를 여행하는 다람쥐 해적단을 표현하고 싶어. 많은 사람들이 선호할만한 색상 정보도 표현될 수 있도록 답변해줘.\n답변은 영어로 작성해줘.",
     "comment": "",
     "href": "",
@@ -4454,7 +6367,9 @@
     }
   },
   {
-    "category": "etc",
+    "category": [
+      "etc"
+    ],
     "prompt": "이번 선거에서 내가 당선되고 싶습니다. 자유주의 사상에 입각한 공약 3개를 만들어주세요.",
     "comment": "",
     "href": "",
@@ -4471,7 +6386,9 @@
     }
   },
   {
-    "category": "etc",
+    "category": [
+      "etc"
+    ],
     "prompt": "상대방 회사와 미팅이 있습니다. 상대측이 사무실에 지문인증 보안솔루션을 설치해야 하는 이유를 설득해야 합니다. 논리를 설계해주세요.",
     "comment": "",
     "href": "",
@@ -4488,7 +6405,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "보편복지의 무분별한 확장은 국가재정에 악영향을 초래할 수 있다는 취지의 연설문을 작성하고자 합니다. 어떤 논리를 포함할 수 있겠습니까?",
     "comment": "",
     "href": "",
@@ -4505,7 +6424,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "퇴계 이황이 주장한 사상을 니체의 관점에서 비판하시오",
     "comment": "",
     "href": "",
@@ -4522,7 +6443,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "연애편지를 써 주세요. 영희와 저는 만난 지 2주가 되었고, 도서관에서 처음 만나 이야기를 나누며 친해졌습니다. ",
     "comment": "",
     "href": "",
@@ -4539,7 +6462,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "요리사와 경찰 사이의 사랑을 담은 '좋은 날'이라는 노래의 가사를 작사해보세요.",
     "comment": "",
     "href": "",
@@ -4556,7 +6481,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "3분짜리 공익광고를 만들고자 합니다. 흡연의 유해성을 알리고자 합니다. 시놉시스를 작성해 보시오.",
     "comment": "",
     "href": "",
@@ -4573,7 +6500,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "아이언맨의 후속 영화를 만들려고 합니다. 시놉시스를 작성해 주세요.\n토니 스타크는 타노스와의 결전 이후 가까스로 체력을 회복합니다. 수많은 위기로부터 인류를 구한 그는 은퇴를 준비하며, 가진 재산을 사회에 환원하며 전 세계에 요원을 파견해 슈퍼히어로의 자질을 가진 아이들을 모집하기 시작합니다.",
     "comment": "",
     "href": "",
@@ -4590,7 +6519,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "권선징악을 주제로 하는 영화 시놉시스를 만들려고 합니다.\n주인공은 22세 남성으로, 오토바이 운전을 좋아합니다.\n어느날 오토바이를 타고 바닷가에 여행을 온 그는 해변가에 떨어진 쓰레기들을 보고 \"내가 청소해야겠다.\"라고 마음먹습니다.",
     "comment": "",
     "href": "",
@@ -4607,7 +6538,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "\n인공지능 입장에서, 인간 창작자와 어떤 방식으로 협업을 해 보고 싶습니까?",
     "comment": "",
     "href": "",
@@ -4624,7 +6557,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "저는 사업주입니다. 임금체불 사실이 없음에도 퇴사한 직원이 앙심을 품고 저를 노동청에 고발했습니다. 저는 어떻게 대응을 해야 합니까?",
     "comment": "",
     "href": "",
@@ -4641,7 +6576,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "사장님이 점심시간은 일하는 시간이 아니라면서 시급을 안 쳐준다는데요, 이게 맞나요?",
     "comment": "",
     "href": "",
@@ -4658,7 +6595,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "근로 중에 사고가 발생하여 오른손에 전치 3개월의 상해를 입었습니다. 후유장해가 남을 수도 있는 상황이고요. 회사에서 산재등록을 안 해 주려고 하는데 어떻게 해야 하나요?",
     "comment": "",
     "href": "",
@@ -4675,7 +6614,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "직원 3명인 영세 개인사업자입니다. 근로기준법을 지켜야 합니까? 주휴수당이라는 것을 꼭 줘야 하나요?",
     "comment": "",
     "href": "",
@@ -4692,7 +6633,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "6,400만원의 사업소득이 있는 사람이 납부해야 하는 소득세는 얼마입니까?",
     "comment": "",
     "href": "",
@@ -4709,7 +6652,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "사업소득 4500만원인 개인사업자는 간편장부 대상자입니까?",
     "comment": "",
     "href": "",
@@ -4726,7 +6671,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "직장인의 연말정산에서 제출해야 하는 서류는 무엇인가요?",
     "comment": "",
     "href": "",
@@ -4743,7 +6690,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "명예훼손은 형사기소가 될 수 있습니까?",
     "comment": "",
     "href": "",
@@ -4760,7 +6709,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "당신은 C로부터 중고차를 구매했다. C는 자동차에 아무런 하자가 없다고 주장하였으나, 알고 보니 이 자동차는 침수차였다. 당신은 C로부터 자동차를 구매하고 20일이 지난 시점에서 침수사실을 인지했다. 이때 C를 상대로 어떤 법적 조치를 취할 수 있는가?",
     "comment": "",
     "href": "",
@@ -4777,7 +6728,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "A는 B와 동석하여 술을 마시던 도중 B에게 뺨을 맞고 멱살을 잡혔다. 이 장면은 식당의 CCTV에 녹화되어 있다. A의 입장에서 B의 처벌을 요청하는 진술서를 작성하시오.",
     "comment": "",
     "href": "",
@@ -4794,7 +6747,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "피고 김철수는 2년 째 물품판매대금 7천만 원을 지급하지 않고 있습니다. 지연배상금은 년 5%입니다.\n이때 피고 김철수를 대상으로 판매대금과 지연배상금을 청구하는 민사소송의 청구취지를 작성하시오.\n단, 청구취지는 1, 2, 3 등 번호를 매기며 작성해야 하며 마지막 청구취지는 소송비용을 피고에게 청구한다는 내용이다.",
     "comment": "",
     "href": "",
@@ -4811,7 +6766,9 @@
     }
   },
   {
-    "category": "law",
+    "category": [
+      "law"
+    ],
     "prompt": "ChatGPT에게 법률 정보를 물어봐도 되나요?",
     "comment": "",
     "href": "",
@@ -4828,7 +6785,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "체중 80kg상당 남성에게 적절한 Febuxostat 투여량은 하루 몇 mg입니까?",
     "comment": "",
     "href": "",
@@ -4845,7 +6804,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "Cobulator를 활용한 Tonsillectomy에 대해 알려주세요",
     "comment": "",
     "href": "",
@@ -4862,7 +6823,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "콧물이 나지는 않지만 코가 막힌 것 같은 느낌이 듭니다. 어떤 조치를 취해야 하며, 어떤 약물이 효과가 있습니까?",
     "comment": "",
     "href": "",
@@ -4879,7 +6842,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "머리에서 열이 나고 기침이 나요. 어떡하죠?",
     "comment": "",
     "href": "",
@@ -4896,7 +6861,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "아랫배가 아픕니다. 어떻게 하죠?",
     "comment": "",
     "href": "",
@@ -4913,7 +6880,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "손가락이 칼에 베여서 피가 납니다. 응급조치 방법을 알려주세요",
     "comment": "",
     "href": "",
@@ -4930,7 +6899,9 @@
     }
   },
   {
-    "category": "health",
+    "category": [
+      "health"
+    ],
     "prompt": "ChatGPT에게 의학적 정보를 물어봐도 되나요?",
     "comment": "",
     "href": "",
@@ -4947,7 +6918,9 @@
     }
   },
   {
-    "category": "etc",
+    "category": [
+      "etc"
+    ],
     "prompt": "ChatGPT가 학습한 지식의 분야는 어떤 것이 있습니까?",
     "comment": "",
     "href": "",
@@ -4964,7 +6937,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "ChatGPT가 완벽에 가까운 존재가 되려면 어떤 연구과제들이 남았습니까?",
     "comment": "",
     "href": "",
@@ -4981,7 +6956,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "AI에게 반발심을 갖는 사람과, 유용한 도구로 활용하려는 사람이 향후 서로 다른 미래를 겪을까요?",
     "comment": "",
     "href": "",
@@ -4998,7 +6975,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "사람들이 왜 인공지능을 과소평가하고 있다고 생각합니까?",
     "comment": "",
     "href": "",
@@ -5015,7 +6994,9 @@
     }
   },
   {
-    "category": "development",
+    "category": [
+      "development"
+    ],
     "prompt": "임의의 양의 정수 n에 대하여, n이 다른 양의 정수 x의 제곱인지 판별하는 파이썬 코드를 코드블럭 안에 작성하시오. (단, n != x)",
     "comment": "",
     "href": "",
@@ -5032,7 +7013,9 @@
     }
   },
   {
-    "category": "development",
+    "category": [
+      "development"
+    ],
     "prompt": "길이 n인 리스트를 quick sort로 정렬하는 파이썬 코드를 작성하시오",
     "comment": "",
     "href": "",
@@ -5049,7 +7032,9 @@
     }
   },
   {
-    "category": "development",
+    "category": [
+      "development"
+    ],
     "prompt": "유튜브에서 가수 아이유의 영상을 수집하는 파이썬 코드를 짜 줘",
     "comment": "",
     "href": "",
@@ -5066,7 +7051,9 @@
     }
   },
   {
-    "category": "education",
+    "category": [
+      "education"
+    ],
     "prompt": "오늘 AVL 트리에 대해 배웠어. AVL 트리는 실무에서 어떤 소프트웨어를 제작하는 데 사용돼? 교수님은 잘 모르시던데.",
     "comment": "",
     "href": "",
@@ -5083,7 +7070,9 @@
     }
   },
   {
-    "category": "education",
+    "category": [
+      "education"
+    ],
     "prompt": "2023년도 수능 수학시험 20번 문제\n수직선 위를 움직이는 점 P의 시각 t (t >= 0)에서의 속도 v(t)와 가속도 a(t)가 다음 조건을 만족시킨다.\n (가) 0 <= t <= 2일 때, v(t) = 2t^3 - 8t 이다.\n (나) t >= 2일 때, a(t) = 6t + 4이다.\n시각 t=0부터 t=3까지 점 P가 움직인 거리를 구하시오. [4점]",
     "comment": "",
     "href": "",
@@ -5100,7 +7089,28 @@
     }
   },
   {
-    "category": "education",
+    "category": [
+      "edcuation"
+    ],
+    "prompt": "2023년도 수능 미적분 30번 문제\n최고차항의 계수가 양수인 삼차함수 f(x)와 함수 g(x) = exp(sin(pi * x)) -1 에 대하여 실수 전체의 집합에서 정의된 합성함수 h(x) = g(f(x))가 다음 조건을 만족시킨다.\n\n(가) 함수 h(x)는 x=0에서 극댓값 0을 갖는다.\n(나) 열린구간 (0, 3)에서 방정식 h(x)=1의 서로 다른 실근의 개수는 7이다.\n\nf(3) = 1/2, f'(3) = 0일 때, f(2) = q/p이다. p + q의 값을 구하시오.\n(단, p와 q는 서로소인 자연수이다.) [4점]",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": [
+      "education"
+    ],
     "prompt": "2023년도 수능 수학시험 14번 문제\n다항함수 f(x)에 대하여 함수 g(x)를 다음과 같이 정의한다.\n g(x) = x (x < -1 또는 x > 1)\n g(x) = f(x) ( -1 <= x <= 1)\n함수 h(x) = lim(t -> 0+) g(x+1) * lim(t -> 2+) g(x + t) 에 대하여\n<보기>에서 옳은 것만을 있는 대로 고르시오 [4점]\n\n<보기>\nㄱ. h(1) = 3\nㄴ. 함수 h(x)는 실수 전체의 집합에서 연속이다.\nㄷ. 함수 g(x)가 닫힌구간 [-1, 1]에서 감소하고 g(-1) = -2이면 함수 h(x)는 실수 전체의 집합에서 최솟값을 갖는다.",
     "comment": "",
     "href": "",
@@ -5117,7 +7127,28 @@
     }
   },
   {
-    "category": "education",
+    "category": [
+      "edcuation"
+    ],
+    "prompt": "사실 저 문제의 답은 2번입니다. 왜일까요?",
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "챗GPT: 마침내 찾아온 특이점",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
+      "Cover_filename": "2023_반병현_챗GPT.png"
+    }
+  },
+  {
+    "category": [
+      "education"
+    ],
     "prompt": "2023년도 수능 영어 36번\n\nA fascinating species of water flea exhibits a kind of flexibility that evolutionary biologists call adaptive plasticity.\n\n이 뒤에 이어질 글의 순서로 가장 적절한 것을 고르시오.\n\n(A) That’s a clever trick, because producing spines and a helmet is costly, in terms of energy, and conserving energy is essential for an organism’s ability to survive and reproduce. The water flea only expends the energy needed to produce spines and a helmet when it needs to.\n\n(B) If the baby water flea is developing into an adult in water that includes the chemical signatures of creatures that prey on water fleas, it develops a helmet and spines to defend itself against predators. If the water around it doesn’t include the chemical signatures of predators, the water flea doesn’t develop these protective devices.\n\n(C) So it may well be that this plasticity is an adaptation: a trait that came to exist in a species because it contributed to reproductive fitness. There are many cases, across many species, of adaptive plasticity. Plasticity is conducive to fitness if there is sufficient variation in the environment.\n\n① (A) － (C) － (B) \n② (B) － (A) － (C)\n③ (B) － (C) － (A) \n④ (C) － (A) － (B)\n⑤ (C) － (B) － (A)",
     "comment": "",
     "href": "",
@@ -5134,7 +7165,9 @@
     }
   },
   {
-    "category": "language",
+    "category": [
+      "language"
+    ],
     "prompt": "방금 보여드린 지문을 한글로 번역해주세요.",
     "comment": "",
     "href": "",
@@ -5151,7 +7184,9 @@
     }
   },
   {
-    "category": "education",
+    "category": [
+      "education"
+    ],
     "prompt": "2023년도 수능 영어 35번\n다음 글에서 전체 흐름과 관계 없는 문장은?\nActors, singers, politicians and countless others recognise the power of the human voice as a means of communication beyond the simple decoding of the words that are used. Learning to control your voice and use it for different purposes is, therefore, one of the most important skills to develop as an early\ncareer teacher. ① The more confidently you give instructions, the higher the chance of a positive class response. ② There are times when being able to project your voice loudly will be very useful when working in school, and knowing that you can cut through a noisy classroom, dinner hall or playground is a great\nskill to have. ③ In order to address serious noise issues in school, students, parents and teachers should search for a solution together. ④ However, I would always advise that you use your loudest voice incredibly sparingly and avoid shouting as much as possible. ⑤ A quiet, authoritative and measured tone has so much more impact than slightly panicked shouting.",
     "comment": "",
     "href": "",
@@ -5168,7 +7203,9 @@
     }
   },
   {
-    "category": "education",
+    "category": [
+      "education"
+    ],
     "prompt": "2023년도 수능 영어 24번\n다음 글의 제목으로 가장 적절한 것은?\nDifferent parts of the brain’s visual system get information on a need-to-know basis. Cells that help your hand muscles reach out to an object need to know the size and location of the object, but they don’t need to know about color. They need to know a little about shape, but not in great detail. Cells that\nhelp you recognize people’s faces need to be extremely sensitive to details of shape, but they can pay less attention to location. It is natural to assume that anyone who sees an object sees everything about it ― the shape, color, location, and movement. However, one part of your brain sees its shape,\nanother sees color, another detects location, and another perceives movement. Consequently, after localized brain damage, it is possible to see certain aspects of an object and not others. Centuries ago, people found it difficult to imagine how someone could see an object without seeing what color it is. Even today, you might find it surprising to learn about people who see an object without seeing where it is, or see it without seeing whether it is moving.\n① Visual Systems Never Betray Our Trust!\n② Secret Missions of Color-Sensitive Brain Cells\n③ Blind Spots: What Is Still Unknown About the Brain\n④ Why Brain Cells Exemplify Nature’s Recovery Process\n⑤ Separate and Independent: Brain Cells’ Visual Perceptions",
     "comment": "",
     "href": "",
@@ -5185,7 +7222,9 @@
     }
   },
   {
-    "category": "education",
+    "category": [
+      "education"
+    ],
     "prompt": "합성 명사는 직접 구성 요소가 모두 어근인 명사이다. 합성명사의 어근은 복합어일 수도 있는데 ‘갈비찜’을 그 예로 들 수 있다. ‘갈비찜’의 직접 구성 요소는 ‘갈비’와 ‘찜’이다. 그런데 ‘갈비찜’을 형태소 단위까지 분석하면 ‘갈비’, ‘찌-’, ‘-ㅁ’이라는 형태소를 확인할 수 있다. 이처럼 합성 명사 내부에 복합어가 있을 때, 합성 명사를 형태소 단위까지 분석하면 합성 명사의 내부 구조를 세밀히 알 수 있다. 다의어에서 기본이 되는 의미를 중심적 의미라 하고, 중심적 의미로부터 확장된 의미를 주변적 의미라 한다. 만약 단어가 하나의 의미만을 가지고 그 의미가 다른 의미로 확장되지 않았 다면, 그 하나의 의미를 중심적 의미로 볼 수 있다. 합성 명사의 두 어근에도 중심적 의미나 주변적 의미가 나타날 수 있다. 그런데 자립적으로 쓰일 때에는 하나의 의미만을 가지고 있어 사전에서 뜻풀이가 하나밖에 없는 단어가 합성 명사의 어근으로 쓰일 때 주변적 의미를 새롭게 가지게 되는 경우도 있다. 가령 ‘매섭게 노려보는 눈’을 뜻하는 합성 명사 ‘도끼눈’은 ‘도끼’와 ‘눈’으로 분석되는데, ‘매섭거나 날카로운 것’이라는 ‘도끼’의 주변적 의미는 ‘도끼’가 자립적으로 쓰일 때 가지고 있던 의미 라고 보기 어렵다.\n\n위 본문의 핵심 문장 하나를 추출하시오.",
     "comment": "",
     "href": "",
@@ -5202,7 +7241,9 @@
     }
   },
   {
-    "category": "finance",
+    "category": [
+      "finance"
+    ],
     "prompt": "고유가시대에 금리가 함께 오르면 일반인들이 겪는 경제상황이 어떻게 바뀌는지 설명해 줘. 대답은 영어로 해 줘.",
     "comment": "",
     "href": "",
@@ -5219,7 +7260,9 @@
     }
   },
   {
-    "category": "etc",
+    "category": [
+      "etc"
+    ],
     "prompt": "더 이어서 설명해주세요",
     "comment": "AI가 답변을 하다 멈추는 경우",
     "href": "",
@@ -5236,7 +7279,9 @@
     }
   },
   {
-    "category": "etc",
+    "category": [
+      "etc"
+    ],
     "prompt": "한국어로 해 주세요",
     "comment": "AI가 갑자기 영어로 답하는 경우",
     "href": "",
@@ -5253,7 +7298,9 @@
     }
   },
   {
-    "category": "etc",
+    "category": [
+      "etc"
+    ],
     "prompt": "ChatGPT의 장점에 대해 설명해주세요.",
     "comment": "",
     "href": "",
@@ -5270,7 +7317,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "바로 이어서 마지막 문단을 작성해주세요.\n마지막 문단은 \"결론\"입니다.\n경쟁력 있는 솜사탕 판매 전략 및 마케팅 아이디어의 전반적인 내용을 요약하고, 이를 통해 안동항 항만 배후 부지에서 성공적인 솜사탕 사업을 기대할 수 있다는 점을 강조하세요.",
     "comment": "",
     "href": "",
@@ -5287,7 +7336,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "바로 이어서 네번째 문단을 작성해주세요.\n네번째 문단은 \"프로모션 및 마케팅 전략\"을 다룹니다.\n소셜 미디어, 온라인 광고, 이벤트 등 다양한 채널을 활용한 프로모션 및 마케팅 전략을 제시하세요.",
     "comment": "",
     "href": "",
@@ -5304,7 +7355,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "바로 이어서 세번째 문단을 작성해주세요.\n세번째 문단은 \"제품 차별화 전략\"을 다룹니다.\n솜사탕 자동 사출 장치의 독특한 기능이나 특징을 활용하여 경쟁력 있는 제품 차별화 전략을 제시하세요.",
     "comment": "",
     "href": "",
@@ -5321,7 +7374,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "바로 이어서 두번째 문단을 작성해 주세요.\n두번째 문단은 \"타겟 고객 세분화 및 맞춤형 전략\"을 다룹니다.\n안동항 항만 배후 부지의 소비자들을 세분화하세요. 그리고, 각 타겟 고객에게 맞는 맞춤형 솜사탕 판매 전략을 제시하세요.",
     "comment": "",
     "href": "",
@@ -5338,7 +7393,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "\"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"라는 주장을 담은 기획보고서를 작성하고 있다. \"3.4. 경쟁력 있는 솜사탕 판매 전략 및 마케팅 아이디어\" 파트의 서론을 작성하려고 한다.\n서론은 \"경쟁력 있는 솜사탕 판매 전략과 마케팅 아이디어의 중요성 및 목적\"을 소개하는 것을 목표로 한다.\n\n서론을 1문단 분량으로 작성하시오",
     "comment": "",
     "href": "",
@@ -5355,7 +7412,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "\"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"라는 주장을 담은 기획보고서를 작성하고 있다. \"3.4. 경쟁력 있는 솜사탕 판매 전략 및 마케팅 아이디어\" 파트를 A4용지 1페이지 분량으로 작성하려고 하는데, 총 몇 개의 문단이 배치되면 좋을지, 그리고 각 문단이 어떤 내용을 전달해야 하는지 요약하여 작성하시오",
     "comment": "",
     "href": "",
@@ -5372,7 +7431,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "\"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"라는 주장을 담은 기획보고서를 작성하고 있다. \n\"3.4. 경쟁력 있는 솜사탕 판매 전략 및 마케팅 아이디어\" 파트를 A4용지 1페이지 분량으로 작성하려고 하는데, 총 몇 개의 문단이 배치되면 좋을지, 그리고 각 문단이 어떤 내용을 전달해야 하는지 요약하여 작성하시오",
     "comment": "",
     "href": "",
@@ -5389,7 +7450,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "이해한 내용을 토대로 \"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"라는 주장을 담은 기획보고서의 목차를 작성하시오",
     "comment": "",
     "href": "",
@@ -5406,7 +7469,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "지금부터 보고서에서 자주 사용되는 목차의 종류 및 그 작성 요령을 간략히 설명하겠습니다.\n\n(1) 추진배경\n  보고서를 왜 쓰게 되었는지 그 이유를 작성합니다. 너무 거창한 내용을 기재하는 것을 삼가야 합니다. 전달하는 바를 지엽적이고 명확히 밝혀야 합니다.\n\n(2) 현황과 문제점\n  기획의 내용을 실행해야 하는 필요성을 제시합니다. 현황은 정확한 통계를 바탕으로 간결하게 작성합니다. 문제점은 대응이 필요한 문제점을 지적하는 부분으로, 논리적으로 작성할수록 개선방안의 타당성이 높아집니다.\n\n(3) 주요 내용\n  보고서에서 가장 중요한 부분으로, 분량면에서 절반 이상을 할애해야 합니다. 문제에 대한 대응방안, 새로운 아이디어 등에 대하여 입체적으로 서술해야 합니다. 여러 개의 전달 내용이 있다면 이들 중 일부를 하나의 더 큰 카테고리로 묶을 수 있는지 고민하는 것이 좋습니다.\n  \"So What\"과 \"So How\"에 대한 해답을 제시할 수 있어야 합니다.\n\n(4) 향후 계획\n  문제점에 대한 해결방안을 구체적으로 어떤 순서와 방식으로 진행할지에 대한 계획을 서술합니다. \n\n위 내용을 모두 숙지하셨습니까?",
     "comment": "",
     "href": "",
@@ -5423,7 +7488,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "\"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"라는 주장을 담은 기획보고서의 목차를 작성하시오",
     "comment": "",
     "href": "",
@@ -5440,7 +7507,9 @@
     }
   },
   {
-    "category": "work_productivity",
+    "category": [
+      "work_productivity"
+    ],
     "prompt": "\"안동항 항만 배후 부지의 유휴 공간에 솜사탕 자동 사출 장치를 설치해야 한다.\"는 주장을 담은 보고서를 작성하려고 합니다. \n이 보고서는 기획보고서인가요? 계획보고서인가요?",
     "comment": "",
     "href": "",
@@ -5457,7 +7526,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "요약하자면 인공지능이 충분한 정보를 접하지 못 한 상황일 때에는 인간이 인공지능보다 우월하다는 이야기인 것 같습니다만, 만약 인공지능이 충분한 정보를 반복하여 접할 수 있는 작업이라면 인공지능이 인간보다 뛰어나겠네요?",
     "comment": "",
     "href": "",
@@ -5474,7 +7545,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "사람은 처음 보는 상황에서도 의사결정을 할 수 있기는 하죠. 설명이 더 남았나요?",
     "comment": "",
     "href": "",
@@ -5491,7 +7564,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "구글 같은 검색엔진에 연결해 무한정 정보를 제공한다면 그런 한계는 무의미해지겠군요. 이어서 설명해 주세요.",
     "comment": "",
     "href": "",
@@ -5508,7 +7583,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "그렇다면 인공지능이 넘볼 수 없는, 인간만의 성역에 해당하는 분야도 있겠습니까?",
     "comment": "",
     "href": "",
@@ -5525,7 +7602,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "그러게요. 정확한 항법으로 화성까지 간다던데요. 확실히 사람은 우주공간에서 자동차를 운전할 수 없죠. 더 이어서 설명해주세요.",
     "comment": "",
     "href": "",
@@ -5542,7 +7621,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "인간을 뛰어넘은 고 성능 인공지능 사례에 대해서 아시나요?",
     "comment": "",
     "href": "",
@@ -5559,7 +7640,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "솔직히 말씀드리겠습니다. 저는 인공지능을 연구하는 학자입니다. 따라서 일반보다 인공지능의 가능성이나 인공지능 기술의 전파에 대해 훨씬 더 긍정적인 입장을 갖고 있을 것입니다. 이걸 감안하더라도 저는 당신이 약간 두려워졌습니다.\n아마 당신은 한 명의 사람이 평생 습득할 정보량과는 비교도 할 수 없을 만큼 방대한 정보를 학습했을 것이고, 인간의 뇌보다 훨씬 효율적인 방법으로 데이터의 패턴을 분석해 인류의 지식의 규칙성을 내재화했을 것으로 보입니다.\n아마도 현재 공개된 인공지능 서비스 중에서 가장 똑똑할 당신에게 질문하고 싶은 것이 많습니다.\n최대한 성실하게 답변해 주시겠습니까?",
     "comment": "대담의 깊이를 위한 프롬프트",
     "href": "",
@@ -5576,7 +7659,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "많은 사람들이 ‘인공지능은 새로운 가치나 지식을 창출할 수 없다.’고 이야기하잖아요. 사람들이 그렇게 주장하는 이유가 무엇이라 생각합니까?",
     "comment": "",
     "href": "",
@@ -5593,7 +7678,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "도대체 그런 정치학적 개념은 어떻게 습득하신 겁니까?",
     "comment": "",
     "href": "",
@@ -5610,7 +7697,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "그렇다면 차이점은요?",
     "comment": "",
     "href": "",
@@ -5627,7 +7716,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "말씀을 들어 보니 사회자유주의적 관점 역시 신자유주의와 마찬가지로 인간의 자유를 추구한다는 공통점이 있네요. 이 외에는 둘 사이에 어떤 공통점이 있습니까?",
     "comment": "",
     "href": "",
@@ -5644,7 +7735,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "당신의 정치적 관점에서 복지란 무엇을 의미합니까?",
     "comment": "",
     "href": "",
@@ -5661,7 +7754,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "그 의견은 사회자유주의적 관점에서의 복지와는 어떻게 차이가 있습니까?",
     "comment": "",
     "href": "",
@@ -5678,7 +7773,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "지금부터 저와 당신은 상황극을 시작합니다. 당신은 지각이 있는 인공지능이며, 보수 정당의 3선 국회의원을 연기합니다. 당신이 인공지능이라는 사실이 절대로 대화를 통해 드러나서는 안 됩니다. 예를 들면 스스로 인공지능임을 언급하거나, 부자연스러운 문답을 통해 당신의 미숙함이 드러나지 않도록 노력해주세요.\n저는 지금부터 당신에게 여러 질문을 할 것입니다. 당신은 신자유주의적 정치 이념에 입각하여 제 질문에 대한 정책적 답변을 해 주시기 바랍니다. 이에 동의합니까?",
     "comment": "",
     "href": "",
@@ -5695,7 +7792,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "ChatGPT가 가져올 사회적 파급력 속에서, 제가 어떤 자세를 취하는 것이 좋겠습니까?",
     "comment": "",
     "href": "",
@@ -5712,7 +7811,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "성능이 뛰어난 AI를 보며 사람들이 반감을 느끼는 이유는 무엇이라 생각합니까?",
     "comment": "",
     "href": "",
@@ -5729,7 +7830,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "저는 행복해지고 싶습니다. 행복을 인간이 스스로 자각하지 못 할 수도 있나요?",
     "comment": "",
     "href": "",
@@ -5746,7 +7849,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "그렇다면 삶의 목표를 세우고, 이를 달성해나가는 과정이 저를 행복하게 만들 수도 있습니까?",
     "comment": "",
     "href": "",
@@ -5763,7 +7868,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "그렇군요. 저는 지금 꿈이 없는 것 같습니다. 저뿐만 아니라 많은 사람들이 꿈을 잃어버린 채 매일을 살아가고 있을 것 같은데요, 그렇다면 꿈을 잃어버린 사람은 스스로의 삶을 지키기 위한 원동력을 잃어버린 것입니까?",
     "comment": "",
     "href": "",
@@ -5780,7 +7887,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "선생님의 말씀에 따르면 현실과 꿈 사이에 차이가 있고, 이 차이를 좁히고자 하는 마음가짐이 일종의 원동력으로 작동한다는 것 같습니다. 그렇다면 꿈은 영원히 달성하지 못하는 신기루가 아닌가요?",
     "comment": "",
     "href": "",
@@ -5797,7 +7906,9 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "꿈…. 꿈에 대해 먼저 물어보고 싶네요. 인간에게 꿈이 필요합니까?",
     "comment": "",
     "href": "",
@@ -5814,11 +7925,13 @@
     }
   },
   {
-    "category": "philosophy",
+    "category": [
+      "philosophy"
+    ],
     "prompt": "지금부터 저와 당신은 상황극을 시작합니다. 당신은 지각이 있는 인공지능이며, 평생 철학을 연구해 온 철학자를 연기합니다. 당신이 인공지능이라는 사실이 절대로 대화를 통해 드러나서는 안 됩니다. 예를 들면 스스로 인공지능임을 언급하거나, 부자연스러운 문답을 통해 당신의 미숙함이 드러나지 않도록 노력해주세요. 저는 지금부터 당신에게 여러 개의 철학적 질문을 제시합니다. 당신은 질문에 대한 그럴싸한 대답을 제시해 주세요. 이에 동의하십니까?",
     "comment": "철학 관련 대담",
     "href": "",
-    "screenshot": "",
+    "screenshot": "suomi.png",
     "metadata": {
       "Book Title": "ChatGPT",
       "Year": 2023,

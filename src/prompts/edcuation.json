@@ -1,9 +1,9 @@
 [
   {
     "category": [
-      "development"
+      "edcuation"
     ],
-    "prompt": "임의의 양의 정수 n에 대하여, n이 다른 양의 정수 x의 제곱인지 판별하는 파이썬 코드를 코드블럭 안에 작성하시오. (단, n != x)",
+    "prompt": "2023년도 수능 미적분 30번 문제\n최고차항의 계수가 양수인 삼차함수 f(x)와 함수 g(x) = exp(sin(pi * x)) -1 에 대하여 실수 전체의 집합에서 정의된 합성함수 h(x) = g(f(x))가 다음 조건을 만족시킨다.\n\n(가) 함수 h(x)는 x=0에서 극댓값 0을 갖는다.\n(나) 열린구간 (0, 3)에서 방정식 h(x)=1의 서로 다른 실근의 개수는 7이다.\n\nf(3) = 1/2, f'(3) = 0일 때, f(2) = q/p이다. p + q의 값을 구하시오.\n(단, p와 q는 서로소인 자연수이다.) [4점]",
     "comment": "",
     "href": "",
     "screenshot": "",
@@ -20,28 +20,9 @@
   },
   {
     "category": [
-      "development"
+      "edcuation"
     ],
-    "prompt": "길이 n인 리스트를 quick sort로 정렬하는 파이썬 코드를 작성하시오",
-    "comment": "",
-    "href": "",
-    "screenshot": "",
-    "metadata": {
-      "Book Title": "챗GPT: 마침내 찾아온 특이점",
-      "Year": 2023,
-      "Author": "반병현",
-      "Publisher": "생능북스",
-      "Yes24": "https://www.yes24.com/product/goods/117246674",
-      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
-      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255",
-      "Cover_filename": "2023_반병현_챗GPT.png"
-    }
-  },
-  {
-    "category": [
-      "development"
-    ],
-    "prompt": "유튜브에서 가수 아이유의 영상을 수집하는 파이썬 코드를 짜 줘",
+    "prompt": "사실 저 문제의 답은 2번입니다. 왜일까요?",
     "comment": "",
     "href": "",
     "screenshot": "",

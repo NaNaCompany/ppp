@@ -1,6 +1,8 @@
 [
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "5~7세 아동에게 보여줄 동화책을 설계하고 있습니다. 핵심 교훈 1가지와, 이 교훈을 전달할 수 있는 동화 스토리를 설계하시오.",
     "comment": "",
     "href": "",
@@ -17,7 +19,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "연애편지를 써 주세요. 영희와 저는 만난 지 2주가 되었고, 도서관에서 처음 만나 이야기를 나누며 친해졌습니다. ",
     "comment": "",
     "href": "",
@@ -34,7 +38,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "요리사와 경찰 사이의 사랑을 담은 '좋은 날'이라는 노래의 가사를 작사해보세요.",
     "comment": "",
     "href": "",
@@ -51,7 +57,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "3분짜리 공익광고를 만들고자 합니다. 흡연의 유해성을 알리고자 합니다. 시놉시스를 작성해 보시오.",
     "comment": "",
     "href": "",
@@ -68,7 +76,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "아이언맨의 후속 영화를 만들려고 합니다. 시놉시스를 작성해 주세요.\n토니 스타크는 타노스와의 결전 이후 가까스로 체력을 회복합니다. 수많은 위기로부터 인류를 구한 그는 은퇴를 준비하며, 가진 재산을 사회에 환원하며 전 세계에 요원을 파견해 슈퍼히어로의 자질을 가진 아이들을 모집하기 시작합니다.",
     "comment": "",
     "href": "",
@@ -85,7 +95,9 @@
     }
   },
   {
-    "category": "writing_contents",
+    "category": [
+      "writing_contents"
+    ],
     "prompt": "권선징악을 주제로 하는 영화 시놉시스를 만들려고 합니다.\n주인공은 22세 남성으로, 오토바이 운전을 좋아합니다.\n어느날 오토바이를 타고 바닷가에 여행을 온 그는 해변가에 떨어진 쓰레기들을 보고 \"내가 청소해야겠다.\"라고 마음먹습니다.",
     "comment": "",
     "href": "",

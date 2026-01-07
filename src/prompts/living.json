@@ -1,6 +1,8 @@
 [
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "강아지가 도어락 소리에 짖는 이유가 뭔지 쉽게 설명해줄래? 쾌활한 말투로",
     "comment": "",
     "href": "",
@@ -17,7 +19,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "문서작업이랑 유튜브 보는 용도로 노트북을 사려고 하는데, 얼마짜리를 사면 좋을까?",
     "comment": "",
     "href": "",
@@ -34,7 +38,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "에어컨은 누가 발명했어?",
     "comment": "",
     "href": "",
@@ -51,7 +57,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "알리오 올리오의 레시피를 알려줘",
     "comment": "",
     "href": "",
@@ -68,7 +76,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "전복죽 1인분 칼로리 알려줘",
     "comment": "",
     "href": "",
@@ -85,7 +95,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "닭가슴살 100g의 단백질 함량은 몇 그램이야?",
     "comment": "",
     "href": "",
@@ -102,7 +114,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "냉장고에 두부, 계란, 대파가 있어. 저녁 메뉴로 뭘 만들면 좋을까?",
     "comment": "",
     "href": "",
@@ -119,7 +133,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "소갈비찜 레시피 알려줘",
     "comment": "",
     "href": "",
@@ -136,7 +152,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "피자는 어떤 재료가 들어가?",
     "comment": "",
     "href": "",
@@ -153,7 +171,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "삼계탕은 몇 분 끓여야 돼?",
     "comment": "",
     "href": "",
@@ -170,7 +190,9 @@
     }
   },
   {
-    "category": "living",
+    "category": [
+      "living"
+    ],
     "prompt": "된장찌개 재료 알려줘",
     "comment": "",
     "href": "",
