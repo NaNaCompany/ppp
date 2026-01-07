@@ -242,9 +242,26 @@ document.addEventListener('DOMContentLoaded', () => {
                 screenshotHtml = `<img src="https://nanalab.kr/ppp/src/screenshots/${item.screenshot}" loading="lazy" alt="Screenshot" class="card-screenshot">`;
             }
 
+            let promptContent = item.prompt;
+            // Add hashtags for 'new' and 'all' categories
+            if (currentCategory === 'new' || currentCategory === 'all') {
+                let cats = item.category;
+                if (typeof cats === 'string') {
+                    // Handle legacy comma-separated string if exists, though update_data.py handles it now
+                    cats = cats.split(',').map(c => c.trim());
+                } else if (!Array.isArray(cats)) {
+                    cats = [];
+                }
+
+                if (cats.length > 0) {
+                    const hashTags = cats.map(c => `<span class="hashtag" data-category="${c}">#${c}</span>`).join(' ');
+                    promptContent += `<br><br><span style="color:#94a3b8; font-size:0.9em;">${hashTags}</span>`;
+                }
+            }
+
             card.innerHTML = `
             ${screenshotHtml}
-                <div class="prompt-text">${item.prompt}</div>
+                <div class="prompt-text">${promptContent}</div>
                 <div class="copy-icon-card">
                     복사하기 <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
                 </div>
@@ -253,7 +270,28 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
 
             // Card Click Event -> Open Modal
-            card.addEventListener('click', () => {
+            card.addEventListener('click', (e) => {
+                // If clicked on hashtag, treat as navigation, NOT card click
+                if (e.target.classList.contains('hashtag')) {
+                    e.stopPropagation(); // prevent card click
+                    const rawCat = e.target.getAttribute('data-category');
+                    const targetCat = normalizeCategory(rawCat);
+
+                    // Find Nav Link
+                    const targetLink = Array.from(navLinks).find(link =>
+                        normalizeCategory(link.textContent.trim()) === targetCat
+                    );
+
+                    if (targetLink) {
+                        targetLink.click();
+                        // Optional: Scroll to top of categories or grid?
+                        // targetLink.scrollIntoView({ behavior: 'smooth', inline: 'center' });
+                    } else {
+                        console.warn(`Category link not found for: ${rawCat}`);
+                    }
+                    return;
+                }
+
                 openModal(item);
                 copyToClipboard(item.prompt);
             });

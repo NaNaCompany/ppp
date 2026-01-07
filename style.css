@@ -283,8 +283,8 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.05);
 
     /* Scroll for long content */
-    max-height: 200px;
-    /* Approx 6-8 lines */
+    max-height: 400px;
+    /* Approx 12-16 lines */
     overflow-y: auto;
 
     /* Scrollbar Styling */
@@ -322,6 +322,16 @@ body {
     margin-bottom: 4px;
     text-align: right;
     /* Match footer alignment */
+}
+
+.hashtag {
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.hashtag:hover {
+    color: var(--accent-color);
+    text-decoration: underline;
 }
 
 .card-footer {

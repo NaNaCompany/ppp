@@ -88,49 +88,51 @@ def update_prompts(file_path, metadata):
             if pd.isna(category_raw) or pd.isna(prompt_text):
                 continue
                 
-            category_file = normalize_category(category_raw)
-            json_file_path = prompts_base_path / f"{category_file}.json"
+            # --- Parse Categories (Handle multiple comma-separated) ---
+            # 1. Split by comma and strip whitespace
+            # 2. Even if single category, store as list
+            categories_list = [str(c).strip() for c in str(category_raw).split(',')]
             
-            # --- Category File Handling ---
-            if json_file_path.exists():
-                # Load if not in map
-                if category_file not in category_data_map:
-                    with open(json_file_path, 'r', encoding='utf-8') as f:
-                        try:
-                            category_data_map[category_file] = json.load(f)
-                        except json.JSONDecodeError:
-                            category_data_map[category_file] = []
-            else:
-                # If file doesn't exist, we skip or create? 
-                # User asked to create files previously, so warning is appropriate if strict, 
-                # but let's allow creating keys in map if file physically exists or we intend to create it.
-                # The previous script skipped if file didn't exist. Let's keep that behavior or safely init.
-                # Assuming files exist from previous step.
-                 if category_file not in category_data_map:
-                     # Check existence
-                     if json_file_path.exists():
-                         with open(json_file_path, 'r', encoding='utf-8') as f:
-                            category_data_map[category_file] = json.load(f)
-                     else:
-                        print(f"Warning: File not found for category '{category_raw}' -> '{json_file_path}'. Skipping.")
-                        continue
-
+            # Record now stores category as a LIST of strings
             record = {
-                "category": category_raw,
+                "category": categories_list,
                 "prompt": prompt_text,
                 "comment": comment,
                 "href": href,
                 "screenshot": screenshot,
                 "metadata": metadata
             }
-            
-            # Check duplicate in Category
-            if not is_duplicate(prompt_text, category_data_map[category_file]):
-                category_data_map[category_file].insert(0, record)
-                new_records_count += 1
-            else:
-                skipped_count += 1
+
+            # Update Specific Category Files
+            for cat_name in categories_list:
+                category_file = normalize_category(cat_name)
+                json_file_path = prompts_base_path / f"{category_file}.json"
                 
+                # Load if not in map
+                if category_file not in category_data_map:
+                    if json_file_path.exists():
+                         with open(json_file_path, 'r', encoding='utf-8') as f:
+                            try:
+                                category_data_map[category_file] = json.load(f)
+                            except json.JSONDecodeError:
+                                category_data_map[category_file] = []
+                    else:
+                        # Auto-initialize/create new category list in memory
+                        # (Will be written to file at the end)
+                        category_data_map[category_file] = []
+
+                # Check duplicate in THIS Category
+                if not is_duplicate(prompt_text, category_data_map[category_file]):
+                    # Store single string for 'category' in specific files? 
+                    # OR keep the list format?
+                    # Request says: "category": ["document", "education", "etc"] even in json files.
+                    # So we use the same 'record' object.
+                    category_data_map[category_file].insert(0, record)
+                    # We count only unique additions to files? 
+                    # Let's just track overall process success.
+            
+            new_records_count += 1
+            
             # --- All.json Handling ---
             # Check duplicate in All.json
             if not is_duplicate(prompt_text, all_data):
