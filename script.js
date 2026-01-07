@@ -9,6 +9,23 @@ document.addEventListener('DOMContentLoaded', () => {
     const nextBtn = document.getElementById('nav-next');
     const statValue = document.querySelector('.stat-value');
 
+    // Hamburger Menu Logic
+    const menuToggle = document.querySelector('.menu-toggle');
+    const mainNav = document.querySelector('.main-nav');
+
+    if (menuToggle && mainNav) {
+        menuToggle.addEventListener('click', () => {
+            mainNav.classList.toggle('active');
+        });
+
+        // Close menu when a link is clicked
+        mainNav.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', () => {
+                mainNav.classList.remove('active');
+            });
+        });
+    }
+
     // Modal Elements
     const modal = document.getElementById('modal');
     const closeModalBtn = document.getElementById('close-modal');
