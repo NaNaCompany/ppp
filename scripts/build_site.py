@@ -7,6 +7,7 @@ import json
 import math
 import pathlib
 import re
+from publisher_tracking import complete_tracking
 import sys
 from urllib.parse import quote
 from xml.sax.saxutils import escape as xml_escape
@@ -31,6 +32,8 @@ def asset(path):
     return BASE + quote(path, safe='/')
 
 def emit(path, content):
+    if path.endswith(".html"):
+        content = complete_tracking(content)
     OUTPUTS[path] = content.encode('utf-8') if isinstance(content,str) else content
 
 def fingerprint(stem, data, extension):
