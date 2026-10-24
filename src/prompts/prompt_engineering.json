@@ -1,5 +1,258 @@
 [
   {
+    "id": "GEM-012",
+    "category": [
+      "prompt_engineering"
+    ],
+    "prompt": "미국과 이란의 2단계 휴전 협상안이 뭐야?",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-012",
+      "pdf_page": 42,
+      "recipe": 7
+    }
+  },
+  {
+    "id": "GEM-013",
+    "category": [
+      "prompt_engineering"
+    ],
+    "prompt": "정보 출처를 찾아와. URL 없으면 안 믿을거야.",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-013",
+      "pdf_page": 43,
+      "recipe": 8
+    },
+    "previous_prompt_ids": [
+      "GEM-012"
+    ]
+  },
+  {
+    "id": "GEM-014",
+    "category": [
+      "prompt_engineering"
+    ],
+    "prompt": "이거 진짜인지 못 믿겠다. 반박하는 자료 url 찾아와.",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-014",
+      "pdf_page": 44,
+      "recipe": 8
+    },
+    "previous_prompt_ids": [
+      "GEM-012",
+      "GEM-013"
+    ]
+  },
+  {
+    "id": "GEM-015",
+    "category": [
+      "prompt_engineering"
+    ],
+    "prompt": "이 채팅방의 컨텍스트를 압축해줘. 새 채팅창에서 대화 이어갈거야.",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-015",
+      "pdf_page": 47,
+      "recipe": 9
+    }
+  },
+  {
+    "id": "GEM-058",
+    "category": [
+      "prompt_engineering"
+    ],
+    "prompt": "현재 보고서에 기재된 내용 을 뒷받침하는 레퍼런스를 최대한 많이 찾아오도록.\nURL도 반드시 기재할 것.\n레퍼런스로 뒷받침되지 못하는 주장이나 정보는 삭제해.",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-058",
+      "pdf_page": 143,
+      "recipe": 47
+    },
+    "previous_prompt_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055",
+      "GEM-056",
+      "GEM-057"
+    ]
+  },
+  {
+    "id": "GEM-059",
+    "category": [
+      "prompt_engineering"
+    ],
+    "prompt": "출처가 6건인건 너무 적다. 최소 10개 이상 더 찾아보고 보고서를 업데이트해.",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-059",
+      "pdf_page": 143,
+      "recipe": 47
+    },
+    "previous_prompt_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055",
+      "GEM-056",
+      "GEM-057",
+      "GEM-058"
+    ]
+  },
+  {
+    "id": "GEM-060",
+    "category": [
+      "prompt_engineering"
+    ],
+    "prompt": "보고서에 수록한 출처들, URL만 기재해줘. 복사해서 쓸거야.",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-060",
+      "pdf_page": 144,
+      "recipe": 47
+    },
+    "previous_prompt_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055",
+      "GEM-056",
+      "GEM-057",
+      "GEM-058",
+      "GEM-059"
+    ]
+  },
+  {
+    "id": "GEM-061",
+    "category": [
+      "prompt_engineering"
+    ],
+    "prompt": "소스 \"해외 휴머노이드 로봇 산업 실증 및 경제성 분석 보고서.docx\"는 AI가 작성한 자료야. 다른 소스들과 대조해 보고, 할루시네이션이 있으면 전부 찾아줘.",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-061",
+      "pdf_page": 147,
+      "recipe": 48
+    },
+    "previous_prompt_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055",
+      "GEM-056",
+      "GEM-057",
+      "GEM-058",
+      "GEM-059",
+      "GEM-060"
+    ]
+  },
+  {
     "category": [
       "prompt_engineering",
       "writing_contents"
@@ -1255,21 +1508,6 @@
       "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
       "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
       "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
-    }
-  },
-  {
-    "category": [
-      "prompt_engineering"
-    ],
-    "prompt": "This is a placeholder prompt for the Prompt Engineering category.",
-    "comment": "Created automatically to initialize the category.",
-    "href": "",
-    "screenshot": "",
-    "metadata": {
-      "Book Title": "N/A",
-      "Year": 2024,
-      "Author": "N/A",
-      "Publisher": "N/A"
     }
   }
 ]

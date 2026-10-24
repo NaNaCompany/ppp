@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 
 <head>
     <!-- Google tag (gtag.js) -->
@@ -95,9 +95,9 @@
     </div>
 
     <!-- Modal -->
-    <div id="modal" class="modal-overlay hidden">
+    <div id="modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
         <div class="modal-content">
-            <button id="close-modal" class="close-btn">&times;</button>
+            <button id="close-modal" class="close-btn" aria-label="창 닫기">&times;</button>
             <p class="source-label">&lt;프롬프트 출처&gt;</p>
             <div class="modal-body">
                 <div class="modal-left">
@@ -109,16 +109,26 @@
                     <p id="modal-author">Author</p>
                     <p id="modal-year">Year</p>
                     <p id="modal-publisher">Publisher</p>
-                    <div class="store-links">
-                        <a id="link-kyobo" href="#" target="_blank" class="store-icon"><img
-                                src="src/store_logo/kyobo.png" alt="Kyobo"></a>
-                        <a id="link-yes24" href="#" target="_blank" class="store-icon"><img
-                                src="src/store_logo/yes24.png" alt="Yes24"></a>
-                        <a id="link-aladin" href="#" target="_blank" class="store-icon"><img
-                                src="src/store_logo/aladin.png" alt="Aladin"></a>
+                    <p id="modal-source-page" class="source-page"></p>
+                    <p class="purchase-label">책 구매하기</p>
+                    <div class="store-links" aria-label="책 구매 서점">
+                        <a id="link-kyobo" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
+                                src="src/store_logo/kyobo.png" alt=""><span>교보문고 ↗</span></a>
+                        <a id="link-yes24" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
+                                src="src/store_logo/yes24.png" alt=""><span>YES24 ↗</span></a>
+                        <a id="link-aladin" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
+                                src="src/store_logo/aladin.png" alt=""><span>알라딘 ↗</span></a>
                     </div>
                 </div>
             </div>
+            <section id="modal-context" class="modal-context" hidden>
+                <p id="modal-usage"></p>
+                <details id="modal-previous" hidden>
+                    <summary>앞선 프롬프트 (사용자 입력)</summary>
+                    <p class="context-hint">같은 대화에서 순서대로 사용하세요. AI 응답과 첨부 이미지는 책을 참고하세요.</p>
+                    <ol id="modal-previous-list"></ol>
+                </details>
+            </section>
         </div>
     </div>
 

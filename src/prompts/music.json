@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "VIB-080",
+    "category": [
+      "development",
+      "music"
+    ],
+    "prompt": "MP3, Wav 등 오디오 파일을 업로드하고 편집할 수 있는 웹 앱 만들어 줘.\n1. 포맷 변환\n2. 볼륨 조절\n3. 일부구간 trim",
+    "comment": "안티그래비티에서 프로젝트 폴더와 앞 단계 코드를 준비한 뒤 사용합니다. 파일·로고를 지정한 예시는 해당 파일을 먼저 준비하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 바이브 코딩 by 안티그래비티",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/184675866",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_vibe.jpg",
+      "ISBN": "9791194630692"
+    },
+    "source": {
+      "id": "VIB-080",
+      "pdf_page": 201,
+      "recipe": 32
+    }
+  }
+]

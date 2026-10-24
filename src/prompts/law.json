@@ -1,5 +1,86 @@
 [
   {
+    "id": "GEM-006",
+    "category": [
+      "law",
+      "document"
+    ],
+    "prompt": "이 계약서, 정상적인 것 같아? 사인 해도 돼?",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-006",
+      "pdf_page": 33,
+      "recipe": 3
+    }
+  },
+  {
+    "id": "GEM-050",
+    "category": [
+      "law",
+      "document"
+    ],
+    "prompt": "\"특별한 노력으로 체납액 징수에 기여한 것\"이 무슨 뜻이야?",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-050",
+      "pdf_page": 127,
+      "recipe": 41
+    }
+  },
+  {
+    "id": "GEM-051",
+    "category": [
+      "law",
+      "document"
+    ],
+    "prompt": "소스들을 토대로, 내가 업무를 어떻게 파악하면 좋을지 좀 안내해줘. 처음 맡는 업무야.",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-051",
+      "pdf_page": 128,
+      "recipe": 42
+    }
+  },
+  {
     "category": [
       "law"
     ],

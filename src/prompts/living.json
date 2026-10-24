@@ -1,5 +1,125 @@
 [
   {
+    "id": "SUP-002",
+    "category": [
+      "living"
+    ],
+    "prompt": "라자냐 레시피 알려줘",
+    "comment": "문서·이메일·슬라이드·표 또는 앞 답변을 가리키면 해당 자료와 같은 대화 맥락을 먼저 준비하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    },
+    "source": {
+      "id": "SUP-002",
+      "pdf_page": 167
+    }
+  },
+  {
+    "id": "SUP-003",
+    "category": [
+      "living"
+    ],
+    "prompt": "잡채 레시피 알려줘",
+    "comment": "문서·이메일·슬라이드·표 또는 앞 답변을 가리키면 해당 자료와 같은 대화 맥락을 먼저 준비하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    },
+    "source": {
+      "id": "SUP-003",
+      "pdf_page": 167
+    }
+  },
+  {
+    "id": "SUP-004",
+    "category": [
+      "living"
+    ],
+    "prompt": "토마토 스파게티 레시피 알려줘",
+    "comment": "문서·이메일·슬라이드·표 또는 앞 답변을 가리키면 해당 자료와 같은 대화 맥락을 먼저 준비하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    },
+    "source": {
+      "id": "SUP-004",
+      "pdf_page": 167
+    }
+  },
+  {
+    "id": "SUP-005",
+    "category": [
+      "living"
+    ],
+    "prompt": "토마토에 대해 설명해 주고, 토마토를 사용한 요리를 최대한 많이 나열해줘",
+    "comment": "문서·이메일·슬라이드·표 또는 앞 답변을 가리키면 해당 자료와 같은 대화 맥락을 먼저 준비하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    },
+    "source": {
+      "id": "SUP-005",
+      "pdf_page": 167
+    }
+  },
+  {
+    "id": "SUP-006",
+    "category": [
+      "living"
+    ],
+    "prompt": "토마토 피자 레시피 알려줘",
+    "comment": "문서·이메일·슬라이드·표 또는 앞 답변을 가리키면 해당 자료와 같은 대화 맥락을 먼저 준비하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    },
+    "source": {
+      "id": "SUP-006",
+      "pdf_page": 167
+    }
+  },
+  {
     "category": [
       "living"
     ],

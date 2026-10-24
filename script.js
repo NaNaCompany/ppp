@@ -8,6 +8,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const prevBtn = document.getElementById('nav-prev');
     const nextBtn = document.getElementById('nav-next');
     const statValue = document.querySelector('.stat-value');
+    const siteHeader = document.querySelector('.site-header');
+    const announcement = document.querySelector('.announcement-bar');
+    function updateStickyOffsets() {
+        document.documentElement.style.setProperty('--header-height', `${siteHeader.getBoundingClientRect().height}px`);
+        document.documentElement.style.setProperty('--announcement-height', `${announcement.getBoundingClientRect().height}px`);
+    }
+    const stickyObserver = new ResizeObserver(updateStickyOffsets);
+    stickyObserver.observe(siteHeader);
+    stickyObserver.observe(announcement);
+    updateStickyOffsets();
 
     // Hamburger Menu Logic
     const menuToggle = document.querySelector('.menu-toggle');
@@ -38,9 +48,40 @@ document.addEventListener('DOMContentLoaded', () => {
     const linkYes24 = document.getElementById('link-yes24');
     const linkAladin = document.getElementById('link-aladin');
     const copyToast = document.getElementById('copy-toast');
+    const modalContext = document.getElementById('modal-context');
+    const modalUsage = document.getElementById('modal-usage');
+    const modalPrevious = document.getElementById('modal-previous');
+    const modalPreviousList = document.getElementById('modal-previous-list');
+    const modalSourcePage = document.getElementById('modal-source-page');
 
     // State
     let currentCategory = 'new'; // Default category
+    let allPromptsPromise;
+    let promptIndex = new Map();
+    let modalOpener;
+    let closeTimer;
+    let loadVersion = 0;
+
+    function fetchAllPrompts() {
+        if (!allPromptsPromise) {
+            allPromptsPromise = fetch('src/prompts/all.json?t=' + Date.now()).then(async response => {
+                if (!response.ok) throw new Error('Failed to load all.json');
+                const data = await response.json();
+                promptIndex = new Map(data.filter(item => item.id).map(item => [item.id, item]));
+                return data;
+            }).catch(error => {
+                allPromptsPromise = undefined;
+                throw error;
+            });
+        }
+        return allPromptsPromise;
+    }
+
+    function escapeHtml(value) {
+        return String(value ?? '').replace(/[&<>"']/g, character => ({
+            '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+        })[character]);
+    }
 
     // Initial Load
     fetchTotalPrompts();
@@ -109,6 +150,20 @@ document.addEventListener('DOMContentLoaded', () => {
     modal.addEventListener('click', (e) => {
         if (e.target === modal) closeModal();
     });
+    document.addEventListener('keydown', event => {
+        if (modal.classList.contains('hidden')) return;
+        if (event.key === 'Escape') closeModal();
+        if (event.key === 'Tab') {
+            const focusable = Array.from(modal.querySelectorAll('button, a[href], summary')).filter(element => element.getClientRects().length);
+            const first = focusable[0];
+            const last = focusable[focusable.length - 1];
+            if (event.shiftKey && document.activeElement === first) {
+                event.preventDefault(); last.focus();
+            } else if (!event.shiftKey && document.activeElement === last) {
+                event.preventDefault(); first.focus();
+            }
+        }
+    });
 
     // Functions
     function normalizeCategory(name) {
@@ -118,13 +173,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function fetchTotalPrompts() {
         try {
-            const response = await fetch('https://nanalab.kr/ppp/src/prompts/all.json?t=' + new Date().getTime());
-            if (response.ok) {
-                const data = await response.json();
-                statValue.textContent = data.length.toLocaleString();
-            } else {
-                console.warn('Failed to fetch all.json');
-            }
+            const data = await fetchAllPrompts();
+            statValue.textContent = data.length.toLocaleString();
         } catch (error) {
             console.error('Error fetching total prompts:', error);
         }
@@ -143,7 +193,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (category === 'new' || category === 'all') return;
 
             try {
-                const response = await fetch(`https://nanalab.kr/ppp/src/prompts/${category}.json?t=` + new Date().getTime());
+                const response = await fetch(`src/prompts/${category}.json?t=` + new Date().getTime());
                 if (response.ok) {
                     const data = await response.json();
                     if (Array.isArray(data) && data.length > 0) {
@@ -180,18 +230,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function loadPrompts(category) {
+        const version = ++loadVersion;
         // --- 1. Start Fade Out Animation ---
         promptsGrid.classList.add('fade-out');
         const fadeOutPromise = new Promise(resolve => setTimeout(resolve, 300));
 
         try {
             // --- 2. Start Fetching Data Concurrently ---
-            let url = `https://nanalab.kr/ppp/src/prompts/${category}.json?t=` + new Date().getTime();
-            if (category === 'new' || category === 'all') {
-                url = 'https://nanalab.kr/ppp/src/prompts/all.json?t=' + new Date().getTime();
-            }
-
-            const fetchPromise = fetch(url).then(async (response) => {
+            const url = `src/prompts/${category}.json?t=` + Date.now();
+            const fetchPromise = category === 'new' || category === 'all' ? fetchAllPrompts() : fetch(url).then(async (response) => {
                 if (!response.ok) throw new Error(`Failed to load prompts for ${category}`);
                 return await response.json();
             });
@@ -199,9 +246,10 @@ document.addEventListener('DOMContentLoaded', () => {
             // --- 3. Wait for BOTH Fade Out and Fetch to complete ---
             // This ensures minimum 300ms delay for animation, but utilizes that time for fetching.
             const [_, data] = await Promise.all([fadeOutPromise, fetchPromise]);
+            if (version !== loadVersion) return;
 
             // --- 4. Process Data ---
-            let processedData = data;
+            let processedData = [...data];
             if (category === 'new') {
                 processedData = data.slice(0, 10);
             } else if (category === 'all') {
@@ -222,6 +270,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
         } catch (error) {
+            if (version !== loadVersion) return;
             console.error(error);
             // If fetch failed, still wait for fade out to finish before showing error
             await fadeOutPromise;
@@ -242,6 +291,10 @@ document.addEventListener('DOMContentLoaded', () => {
         prompts.forEach(item => {
             const card = document.createElement('div');
             card.className = 'prompt-card';
+            card.dataset.promptId = item.id || '';
+            card.tabIndex = 0;
+            card.setAttribute('role', 'button');
+            card.setAttribute('aria-label', '프롬프트 복사 및 출처·책 구매 링크 보기');
 
             // Extract Metadata safely
             const meta = item.metadata || {};
@@ -255,10 +308,10 @@ document.addEventListener('DOMContentLoaded', () => {
             // Screenshot HTML
             let screenshotHtml = '';
             if (item.screenshot && item.screenshot.trim() !== '') {
-                screenshotHtml = `<img src="https://nanalab.kr/ppp/src/screenshots/${item.screenshot}" loading="lazy" alt="Screenshot" class="card-screenshot">`;
+                screenshotHtml = `<img src="src/screenshots/${encodeURIComponent(item.screenshot)}" loading="lazy" alt="Screenshot" class="card-screenshot">`;
             }
 
-            let promptContent = item.prompt;
+            let promptContent = escapeHtml(item.prompt);
             // Add hashtags for 'new' and 'all' categories
             if (currentCategory === 'new' || currentCategory === 'all') {
                 let cats = item.category;
@@ -270,7 +323,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
 
                 if (cats.length > 0) {
-                    const hashTags = cats.map(c => `<span class="hashtag" data-category="${c}">#${c}</span>`).join(' ');
+                    const hashTags = cats.map(c => `<span class="hashtag" data-category="${escapeHtml(c)}">#${escapeHtml(c)}</span>`).join(' ');
                     promptContent += `<br><br><span style="color:#94a3b8; font-size:0.9em;">${hashTags}</span>`;
                 }
             }
@@ -281,8 +334,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="copy-icon-card">
                     복사하기 <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
                 </div>
-                ${item.comment ? `<div class="card-comment">${item.comment}</div>` : ''}
-                <div class="card-footer">${footerText}</div>
+                ${item.comment ? `<div class="card-comment">${escapeHtml(item.comment)}</div>` : ''}
+                <div class="card-footer">${escapeHtml(footerText)}</div>
             `;
 
             // Card Click Event -> Open Modal
@@ -311,6 +364,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 openModal(item);
                 copyToClipboard(item.prompt);
             });
+            card.addEventListener('keydown', event => {
+                if (event.key === 'Enter' || event.key === ' ') {
+                    event.preventDefault();
+                    card.click();
+                }
+            });
 
             promptsGrid.appendChild(card);
         });
@@ -318,17 +377,42 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function openModal(item) {
         const meta = item.metadata || {};
+        clearTimeout(closeTimer);
+        modalOpener = document.activeElement;
+        copyToast.classList.remove('active');
+        copyToast.classList.remove('error');
+        copyToast.textContent = '';
 
         // Populate Modal Fields
         modalTitle.textContent = meta['Book Title'] || '';
         modalAuthor.textContent = meta['Author'] || '';
         modalYear.textContent = meta['Year'] ? `${meta['Year']}` : '';
         modalPublisher.textContent = meta['Publisher'] || '';
+        const source = item.source || {};
+        modalSourcePage.textContent = [source.recipe ? `레시피 ${source.recipe}` : '', source.pdf_page ? `PDF ${source.pdf_page}페이지` : ''].filter(Boolean).join(' · ');
+        modalUsage.textContent = item.comment || '';
+        modalPrevious.open = false;
+        modalPreviousList.replaceChildren();
+        const previous = (item.previous_prompt_ids || []).map(id => promptIndex.get(id)).filter(Boolean);
+        previous.forEach(previousItem => {
+            const li = document.createElement('li');
+            const text = document.createElement('p');
+            text.textContent = previousItem.prompt;
+            const copy = document.createElement('button');
+            copy.type = 'button';
+            copy.textContent = '이 입력 복사';
+            copy.addEventListener('click', () => copyToClipboard(previousItem.prompt));
+            li.append(text, copy);
+            modalPreviousList.appendChild(li);
+        });
+        modalPrevious.hidden = previous.length === 0;
+        modalContext.hidden = !item.comment && previous.length === 0;
 
         // Cover Image
         const coverFilename = meta['Cover_filename'];
         if (coverFilename) {
-            modalCover.src = `src/bookcovers/${coverFilename}`;
+            modalCover.src = `src/bookcovers/${encodeURIComponent(coverFilename)}`;
+            modalCover.alt = `${meta['Book Title']} 표지`;
             modalCover.style.display = 'block';
         } else {
             modalCover.style.display = 'none';
@@ -341,41 +425,51 @@ document.addEventListener('DOMContentLoaded', () => {
         updateStoreLink(linkYes24, meta['Yes24']);
         updateStoreLink(linkAladin, meta['Aladin']);
 
-        // Show Toast Animation
-        showToast();
-
         // Show Modal
         modal.classList.remove('hidden');
         // Small delay to allow display:flex to apply before opacity transition
         requestAnimationFrame(() => {
             modal.classList.add('show');
+            closeModalBtn.focus();
         });
     }
 
     function updateStoreLink(element, url) {
-        if (url) {
-            element.href = url;
-            element.style.display = 'flex';
-        } else {
-            element.style.display = 'none';
+        element.hidden = true;
+        element.removeAttribute('href');
+        if (typeof url !== 'string' || !url.trim()) return;
+        try {
+            const target = new URL(url);
+            if (target.protocol !== 'https:' && target.protocol !== 'http:') return;
+            element.href = target.href;
+            element.hidden = false;
+        } catch {
+            // An invalid or absent store address must never retain the previous book's link.
         }
     }
 
     function closeModal() {
         modal.classList.remove('show');
-        setTimeout(() => {
+        closeTimer = setTimeout(() => {
             modal.classList.add('hidden');
             // Reset toast state when modal closes
             copyToast.classList.remove('active');
+            if (modalOpener) modalOpener.focus();
         }, 300); // Match transition duration
     }
 
-    function copyToClipboard(text) {
-        navigator.clipboard.writeText(text).then(() => {
-            // Already handled by toast in openModal, but good practice
-        }).catch(err => {
+    async function copyToClipboard(text) {
+        try {
+            await navigator.clipboard.writeText(text);
+            copyToast.classList.remove('error');
+            copyToast.textContent = '프롬프트가 복사되었습니다!';
+            showToast();
+        } catch (err) {
+            copyToast.classList.add('error');
+            copyToast.textContent = '자동 복사에 실패했습니다. 카드에서 내용을 선택해 복사하세요.';
+            showToast();
             console.error('Failed to copy text: ', err);
-        });
+        }
     }
 
     function showToast() {
@@ -383,10 +477,6 @@ document.addEventListener('DOMContentLoaded', () => {
         copyToast.classList.add('active');
     }
 
-    // Initial style for toast to enable transition
-    copyToast.style.transition = 'all 0.3s ease';
-    copyToast.style.opacity = '0';
-    copyToast.style.transform = 'translateY(-10px)';
     // --- Contact View Logic ---
     const contactLink = document.getElementById('contact-link');
     const homeLink = document.getElementById('home-link');

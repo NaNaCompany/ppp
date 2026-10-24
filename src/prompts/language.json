@@ -1,5 +1,302 @@
 [
   {
+    "id": "REA-001",
+    "category": [
+      "language",
+      "education"
+    ],
+    "prompt": "다음 지문에서 핵심 문장을 찾고, 그게 왜 핵심 문장인지 설명해.",
+    "comment": "분석할 영어 지문을 이 명령과 함께 입력하세요. 서지정보와 구매 링크는 출간본 기준입니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "독해가 2배 빨라지는 챗GPT 수능독해",
+      "Year": 2024,
+      "Author": "김지애, 이제종, 황현목, 반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/124769179",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2024_ban_reading.jpg",
+      "ISBN": "9791192932460"
+    },
+    "source": {
+      "id": "REA-001",
+      "pdf_page": 9,
+      "edition_note": "보관 PDF p.9 대조. 가제·ISBN이 기재된 교정본의 서지는 사용하지 않음."
+    }
+  },
+  {
+    "id": "SUP-001",
+    "category": [
+      "language",
+      "education"
+    ],
+    "prompt": "다음 지문을 토대로 직독직해 교육 방법을 실천해 보세요.\nComing of age in the 18th and 19th centuries, the personal diary became\na centerpiece in the construction of a modern subjectivity, at the heart\nof which is the application of reason and critique to the understanding of\nworld and self, which allowed the creation of a new kind of knowledge.\n(후략)",
+    "comment": "문서·이메일·슬라이드·표 또는 앞 답변을 가리키면 해당 자료와 같은 대화 맥락을 먼저 준비하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "프롬프트 엔지니어링",
+      "Year": 2023,
+      "Author": "반병현",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109",
+      "Cover_filename": "2023_반병현_프롬프트엔지니어링.jpg"
+    },
+    "source": {
+      "id": "SUP-001",
+      "pdf_page": 138
+    }
+  },
+  {
+    "id": "SUP-022",
+    "category": [
+      "language",
+      "education"
+    ],
+    "prompt": "위 의 이메일에서 주요 영어 표현을 알려줘.",
+    "comment": "문서·이메일·슬라이드·표 또는 앞 답변을 가리키면 해당 자료와 같은 대화 맥락을 먼저 준비하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    },
+    "source": {
+      "id": "SUP-022",
+      "pdf_page": 27
+    }
+  },
+  {
+    "id": "GEM-003",
+    "category": [
+      "language"
+    ],
+    "prompt": "아래의 기사를 번역해줘.\nhttps://bit.ly/4t81msX",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-003",
+      "pdf_page": 30,
+      "recipe": 2
+    }
+  },
+  {
+    "id": "GEM-004",
+    "category": [
+      "language"
+    ],
+    "prompt": "아래의 기사를 원문 그대로 번역해줘.\n(복사해 온 영어 전문 붙여넣기 Ctrl+V)\nACHIEVING RECIPROCAL TRADE: President Donald J. Trump and President Lee Jae Myung announced a Joint Fact Sheet reaffirming the historic Korea Strategic Trade and Investment Deal. (후략)",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-004",
+      "pdf_page": 31,
+      "recipe": 2
+    },
+    "previous_prompt_ids": [
+      "GEM-003"
+    ]
+  },
+  {
+    "id": "GEM-005",
+    "category": [
+      "language"
+    ],
+    "prompt": "다음 기사를 문장단위로 해석해줘.\nACHIEVING RECIPROCAL TRADE: President Donald J. Trump and President Lee Jae Myung announced a Joint Fact Sheet ... (후략)",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-005",
+      "pdf_page": 31,
+      "recipe": 2
+    },
+    "previous_prompt_ids": [
+      "GEM-003",
+      "GEM-004"
+    ]
+  },
+  {
+    "id": "GEM-008",
+    "category": [
+      "language"
+    ],
+    "prompt": "고객에게 이메일을 작성하려고 한다.\n 1. 배송 오류에 대하여 사과한다.\n 2. 재발 방지를 약속하여, 환불 절차를 알려준다.\n 3. 사과의 의미로 재구매 시 20% 할인 쿠폰을 사용할 수 있음을 알려준다.",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-008",
+      "pdf_page": 34,
+      "recipe": 4
+    }
+  },
+  {
+    "id": "GEM-009",
+    "category": [
+      "language"
+    ],
+    "prompt": "다음 메일을 영어로 작성해 줘.",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-009",
+      "pdf_page": 34,
+      "recipe": 4
+    },
+    "previous_prompt_ids": [
+      "GEM-008"
+    ]
+  },
+  {
+    "id": "GEM-010",
+    "category": [
+      "language"
+    ],
+    "prompt": "다음 메일을 영어권 비즈니스 에티켓에 완벽히 부합하도록 다시 작성해줘.",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-010",
+      "pdf_page": 35,
+      "recipe": 4
+    },
+    "previous_prompt_ids": [
+      "GEM-008",
+      "GEM-009"
+    ]
+  },
+  {
+    "id": "SUP-023",
+    "category": [
+      "language",
+      "education"
+    ],
+    "prompt": "위의 보고서에서 주요 영어 표현을 알려줘.",
+    "comment": "문서·이메일·슬라이드·표 또는 앞 답변을 가리키면 해당 자료와 같은 대화 맥락을 먼저 준비하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    },
+    "source": {
+      "id": "SUP-023",
+      "pdf_page": 28
+    }
+  },
+  {
+    "id": "SUP-024",
+    "category": [
+      "language",
+      "education"
+    ],
+    "prompt": "1. 영어로 첨삭해줘\n2. 자세한 설명은 한국어로 해줘.",
+    "comment": "문서·이메일·슬라이드·표 또는 앞 답변을 가리키면 해당 자료와 같은 대화 맥락을 먼저 준비하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "나만의 영어 선생님 챗GPT 영어교실",
+      "Year": 2023,
+      "Author": "반병현, 황현목, 이제종",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038",
+      "Cover_filename": "2023_반병현_영어교실.jpg"
+    },
+    "source": {
+      "id": "SUP-024",
+      "pdf_page": 29
+    }
+  },
+  {
     "category": [
       "prompt_engineering",
       "language"

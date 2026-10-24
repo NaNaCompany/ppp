@@ -1,5 +1,294 @@
 [
   {
+    "id": "GEM-020",
+    "category": [
+      "education",
+      "science"
+    ],
+    "prompt": "미안, 솔직히 뭐라고 하는건지 한 마디도 못 알아들었어.",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-020",
+      "pdf_page": 62,
+      "recipe": 15
+    }
+  },
+  {
+    "id": "GEM-023",
+    "category": [
+      "education",
+      "science"
+    ],
+    "prompt": "야, 한국말로 퀴즈 출제해야지.",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-023",
+      "pdf_page": 71,
+      "recipe": 18
+    }
+  },
+  {
+    "id": "GEM-026",
+    "category": [
+      "education",
+      "science"
+    ],
+    "prompt": "기름값이 오르는 이유를 설명해줘",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-026",
+      "pdf_page": 81,
+      "recipe": 22
+    }
+  },
+  {
+    "id": "GEM-043",
+    "category": [
+      "education",
+      "science"
+    ],
+    "prompt": "어떤 데이터를 사용했어?\n어떤 방식으로 실험을 했는데?\n논문의 결론이 뭐야?",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-043",
+      "pdf_page": 112,
+      "recipe": 36
+    }
+  },
+  {
+    "id": "GEM-044",
+    "category": [
+      "education",
+      "science"
+    ],
+    "prompt": "1. 가설이 뭔데?\n2. 실험설계는 어떻게 했어?\n3. 어떤 식으로 검증했어?",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-044",
+      "pdf_page": 112,
+      "recipe": 36
+    },
+    "previous_prompt_ids": [
+      "GEM-043"
+    ]
+  },
+  {
+    "id": "GEM-045",
+    "category": [
+      "education",
+      "science"
+    ],
+    "prompt": "1. 이 논문에서 소개한 기술들을 요약해줘\n2. 지금은 어떤 기술이 메인이래?\n3. 몇 편 정도 연구를 분석한거야?",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-045",
+      "pdf_page": 112,
+      "recipe": 36
+    },
+    "previous_prompt_ids": [
+      "GEM-043",
+      "GEM-044"
+    ]
+  },
+  {
+    "id": "GEM-046",
+    "category": [
+      "education",
+      "science"
+    ],
+    "prompt": "파라미터가 뭔데?",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-046",
+      "pdf_page": 112,
+      "recipe": 36
+    },
+    "previous_prompt_ids": [
+      "GEM-043",
+      "GEM-044",
+      "GEM-045"
+    ]
+  },
+  {
+    "id": "GEM-047",
+    "category": [
+      "education",
+      "science"
+    ],
+    "prompt": "소스 중에 다른 소스들과 연관성이 떨어지는 소스가 있어?",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-047",
+      "pdf_page": 115,
+      "recipe": 37
+    }
+  },
+  {
+    "id": "GEM-048",
+    "category": [
+      "education",
+      "science"
+    ],
+    "prompt": "현재 소스들이 어떤 내용을 담고 있는지 한 문단으로 요약해 봐.",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-048",
+      "pdf_page": 115,
+      "recipe": 37
+    },
+    "previous_prompt_ids": [
+      "GEM-047"
+    ]
+  },
+  {
+    "id": "GEM-049",
+    "category": [
+      "education",
+      "science"
+    ],
+    "prompt": "(복사한 문구)\n이걸 한국어로 번역 해 줘. 최대한 쉬운 문장으로.",
+    "comment": "Gemini Notebook에 분석할 논문·법령·보고서 등 해당 레시피의 소스 자료를 먼저 등록하세요. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-049",
+      "pdf_page": 116,
+      "recipe": 37
+    },
+    "previous_prompt_ids": [
+      "GEM-047",
+      "GEM-048"
+    ]
+  },
+  {
     "category": [
       "business",
       "education",

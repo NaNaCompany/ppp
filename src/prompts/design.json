@@ -1,5 +1,4507 @@
 [
   {
+    "id": "ILL-001",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "AI가 사람들을 실에 묶인 꼭두각시처럼 조종하는 그림 그려줘. 가로로 16 세로로 9정도 비율로 가로로 길쭉한 그림으로. 까만 선에 시안색 별색 2도인쇄 용으로. 투명배경 png파일로.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-001",
+      "pdf_page": 8
+    }
+  },
+  {
+    "id": "ILL-074",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "API에 대해 설명할거야.사용자 - 식탁에 앉아서 \"국밥이요\" 라고 주문함API - 식탁에서 고객 주문을 받고 주방에 가서 국밥을 받아 옴주방 - 열심히 요리함",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-074",
+      "pdf_page": 82
+    }
+  },
+  {
+    "id": "GEM-016",
+    "category": [
+      "image",
+      "design"
+    ],
+    "prompt": "책에 들어갈 삽화를 하나 그려야 함. 가로16:세로9 비율. 배경은 흰색. 그라데이션 없음.\nAI가 고민하고 있음\n\"이 상황에서 이렇게 대답하면..\"\n\"그때 생길 수 있는 문제는 이렇게 대비하면..\"\n\"여기서 이런 자료를 더 집어넣으면...\"",
+    "comment": "첨부 자료나 앞 답변을 가리키는 예시는 해당 자료·대화가 먼저 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "딸깍! 제미나이 & 노트북",
+      "Year": 2026,
+      "Author": "반병현, 황현목",
+      "Publisher": "생능북스",
+      "Yes24": "https://www.yes24.com/product/goods/195238254",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_gemini.jpg",
+      "ISBN": "9791194630975"
+    },
+    "source": {
+      "id": "GEM-016",
+      "pdf_page": 52,
+      "recipe": 11
+    }
+  },
+  {
+    "id": "ILL-002",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "뒤에 흑막은 AI 로봇으로 그려줘. 그림체는 이거 참고해줘. AI로봇은 까만 선으로, 사람들은 시안색으로 그리면 될거같은데. 테두리 위주로 채우기 없이 그려줘.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-002",
+      "pdf_page": 9
+    },
+    "previous_prompt_ids": [
+      "ILL-001"
+    ]
+  },
+  {
+    "id": "ILL-003",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "사람이 로봇 판사한테 \"좋은게 좋은거 아니겠습니까.\" 하면서 돈을 뇌물로 주는 장면을 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-003",
+      "pdf_page": 10
+    }
+  },
+  {
+    "id": "ILL-004",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(영의정이 엎드려 절하는 드라마 장면 사진)로봇이 이렇게 엎드려서 \"통촉하여 주시옵소서!\" 라고 하고, 인간이 앞에 서서 고민하는 그림 그려줘.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-004",
+      "pdf_page": 11
+    }
+  },
+  {
+    "id": "ILL-005",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(웹툰의 한 장면)이거 패러디 하자. AI가 무릎 꿇고 \"따님을 제게 주십시오!\" 라고 하고 옆에 인간 여성이 같이 무릎 꿇고 있어. 반대쪽에 인간 아버지가 굉장히 화난 표정으로 답답해해",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-005",
+      "pdf_page": 12
+    }
+  },
+  {
+    "id": "ILL-006",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이런 구도로 바꿔주고. 여자 피부를 시안으로 칠하니까 사람 같지 않잖아 피부는 칠하지 마",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-006",
+      "pdf_page": 13
+    },
+    "previous_prompt_ids": [
+      "ILL-005"
+    ]
+  },
+  {
+    "id": "ILL-007",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "늙은 노인이 로봇을 바라보며 큰 말풍선 하나. 로봇은 눈을 감은 채로, 머리에 전선이 여러 개 연결되어 있음",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-007",
+      "pdf_page": 14
+    }
+  },
+  {
+    "id": "ILL-008",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "구도는 좋은데 제스처가 마음에 안 든다. 노인은 눈 뜨고 웃고 있으면 좋겠고 로봇은 다소곳하게 팔 내리고 있도록.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-008",
+      "pdf_page": 15
+    },
+    "previous_prompt_ids": [
+      "ILL-007"
+    ]
+  },
+  {
+    "id": "ILL-009",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "2. [4부-11-2] 어느 도서관의 의뢰 - \"윤동주 시인을 닮은 AI를 만들어 주세요.“ ✦ 아이디어: 도서관 사서가 로봇 제작자에게 부탁하는 장면 테이블 위에는 『하늘과 바람과 별과 시』, 윤동주 사진, 회로 설계도 같은 게 펼쳐져 있음. 제작자는 고민하는 표정, 로봇은 반투명 상태로 구상 중(윤동주의 실루엣이 희미하게 겹침) 이거 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-009",
+      "pdf_page": 16
+    }
+  },
+  {
+    "id": "ILL-010",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "사람 두명만 남겨주고 나머지 오브젝트는 다 지워주고 오른쪽 남자 옷에 I♡AI 라고 글자 써줘.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-010",
+      "pdf_page": 17
+    },
+    "previous_prompt_ids": [
+      "ILL-009"
+    ]
+  },
+  {
+    "id": "ILL-011",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "지팡이를 짚은 시각장애인을 로봇이 친절하게 안내해주는 그림 그려줘. 이왕이면 바닥에 계단 같은 게 있어서 로봇이 \"조심하세요\"라고 하는 것처럼 상황이 동적이면 좋겠어. 그림체는 이것들 참고해. 가로 16, 세로 9 정도의 비율로 그려줘. 투명배경, 까만선, 시안색 별색, png파일",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-011",
+      "pdf_page": 18
+    }
+  },
+  {
+    "id": "ILL-012",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "GPT가 아니라 AI로 글자 고쳐줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-012",
+      "pdf_page": 19
+    },
+    "previous_prompt_ids": [
+      "ILL-011"
+    ]
+  },
+  {
+    "id": "ILL-013",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "AI로봇이 강아지랑 놀아주는거 그려줘 강아지는 아주 행복해하는 장면으로\n흑백인쇄용으로 해야지. 2도인쇄. 까만색 선, 시안색 별색, 채색 없음, 투명 png 파일",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-013",
+      "pdf_page": 20
+    }
+  },
+  {
+    "id": "ILL-014",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "로봇과 로봇이 대화를 나누고 있어. \"인간은 왜 우리를 인간을 닮은 모습으로 만들었을까?\" 라고 궁금해 해.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-014",
+      "pdf_page": 21
+    }
+  },
+  {
+    "id": "ILL-015",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "불쾌한 골짜기 이론을 비틀어서 대유쾌 마운틴을 설명하는 그림 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-015",
+      "pdf_page": 22
+    }
+  },
+  {
+    "id": "ILL-016",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "10. AI와 함께 사는 삶   1 가족보다 나를 더 잘 아는 퍼스널 AI의 등장   3 인공지능은 외로움을 치유할 수 있는가?   5 상냥하고 따뜻한 종말에 대하여 이거 삽화 아이디어좀 줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-016",
+      "pdf_page": 23
+    }
+  },
+  {
+    "id": "ILL-017",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "1번부터 그리자. 가로 16, 세로 9정도 비율의 가로로 긴 이미지를 그려줘. 까만 선, 시안색 별색, 투명한 png. 2도 인쇄용. 왼쪽에는 직장에서 혼나는 사람 그려주고, 오른쪽에는 그사람이 퇴근하니까 AI가 따뜻하게 안아주는거 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-017",
+      "pdf_page": 24
+    },
+    "previous_prompt_ids": [
+      "ILL-016"
+    ]
+  },
+  {
+    "id": "ILL-018",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "2번 그리자. 흔들의자에 앉아 담요를 무릎에 덮은 할머니를 그려주고, 그 옆에 인공지능이 앉아 있어. 둘이서 차를 마시는거야.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-018",
+      "pdf_page": 25
+    },
+    "previous_prompt_ids": [
+      "ILL-016",
+      "ILL-017"
+    ]
+  },
+  {
+    "id": "ILL-019",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "할머니 그림은 완벽한데 ai가 의자도 없이 앉아있는건 좀 이상하다. 수정해줘. 그리고 로봇이 커피잔을 들고 있을 필요는 없을거같음",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-019",
+      "pdf_page": 26
+    },
+    "previous_prompt_ids": [
+      "ILL-016",
+      "ILL-017",
+      "ILL-018"
+    ]
+  },
+  {
+    "id": "ILL-020",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "아니 로봇이 왜 커피잔을.. 아니다. 됐다.다 좋은데 갑자기 할머니가 왜 노란색이 됐지? 검정, 시안 2도인쇄 할거니까 다시 그려와",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-020",
+      "pdf_page": 27
+    },
+    "previous_prompt_ids": [
+      "ILL-016",
+      "ILL-017",
+      "ILL-018",
+      "ILL-019"
+    ]
+  },
+  {
+    "id": "ILL-021",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "젊은 여성이 로봇과 팔짱끼고 걸어가는 거 그려줘. 그 뒤로 출산률이 급락하는 그래프 넣어주고",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-021",
+      "pdf_page": 28
+    }
+  },
+  {
+    "id": "ILL-022",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "피그말리온이 조각상에 반한 것처럼,사람이 아름다운 AI를 만들기 위해 노력하는 그림을 그려줘.마찬가지로 가로로 길쭉한, 까만색과 시안 2도인쇄용 그림, 투명 png배경왼쪽 -> 피그말리온이 대리석을 깎아 조각상을 만듦. 조각상은 머리만 완성됐고 그 아래는 아직 직육면체 상태, 피그말리온의 눈을 하트 모양으로 그려서 사랑에 빠진걸 드러내.오른쪽 -> 개발자가 모니터 앞에 앉아 키보드를 두드리고, 옆에 홀로그램으로 된 아름다운 여성 형태의 AI가 떠있음",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-022",
+      "pdf_page": 29
+    }
+  },
+  {
+    "id": "ILL-023",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "비율을 가로 16, 세로 9 가로로 길쭉한 그림으로 만들어줘야지",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-023",
+      "pdf_page": 30
+    },
+    "previous_prompt_ids": [
+      "ILL-022"
+    ]
+  },
+  {
+    "id": "ILL-024",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "AI가 울타리에 갇힌 사람들을 보며 \"이제 너희는 안전해!\"라고 이야기하는 그림 그려줘. 그림체는 이런 식으로.투명한 배경 png파일, 가로로 16 세로로 9정도 비율, 까만 선, 시안색 별색. 2도인쇄를 위한 그림.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-024",
+      "pdf_page": 31
+    }
+  },
+  {
+    "id": "ILL-025",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "ai 몸통에 있는 글자를 GPT가 아니라 AI라고 바꿔줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-025",
+      "pdf_page": 32
+    },
+    "previous_prompt_ids": [
+      "ILL-024"
+    ]
+  },
+  {
+    "id": "ILL-026",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "너무 좋다! 근데 AI 손에 나무막대기보다는 총을 쥐고 있으면 더 시니컬하지 않을까?",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-026",
+      "pdf_page": 33
+    },
+    "previous_prompt_ids": [
+      "ILL-024",
+      "ILL-025"
+    ]
+  },
+  {
+    "id": "ILL-027",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "두 명의 사람이 손에 스마트폰을 쥐고 논쟁 중이야. 대사는 없고. 왼쪽 사람의 말풍선에는 강아지를 그려주고오른쪽 사람의 말풍선에는 가수를 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-027",
+      "pdf_page": 34
+    }
+  },
+  {
+    "id": "ILL-028",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "ai 음악가가 작곡하는거 그려줘 동화책 삽화로 쓸거야.\"이런 패턴으로 음악을 만들면 사람들이 좋아하는군!\"코드랑 음표 막 떠다니고",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-028",
+      "pdf_page": 35
+    }
+  },
+  {
+    "id": "ILL-029",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(사진 첨부)이거 AI 분류기의 성능 한계를 보여주는 재미있는 사진인데 이걸 동화책 삽화풍으로 다시 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-029",
+      "pdf_page": 36
+    }
+  },
+  {
+    "id": "ILL-030",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좀 더 빵을 개같이 그리고, 개를 빵같이 그려봐",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-030",
+      "pdf_page": 37
+    },
+    "previous_prompt_ids": [
+      "ILL-029"
+    ]
+  },
+  {
+    "id": "ILL-031",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이거도 동화풍으로 좀 그려봐봐.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-031",
+      "pdf_page": 38
+    }
+  },
+  {
+    "id": "ILL-032",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이런 그림체로 그림을 그려야 돼. 2도인쇄, 배경은 하얀색, 메인색 블랙, 강조할 부분의 별색은 시안색알겠지? 준비됐으면 말해줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-032",
+      "pdf_page": 39
+    }
+  },
+  {
+    "id": "ILL-033",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "왼쪽에는 인간이 인간을 닮은 인형을 만드는 모습을 그려주고 오른쪽에는 문어가 문어를 닮은 인형을 만드는 모습을 그려줘 둘 다 웃고 있으면 좋겠어. 가벼운 분위기로",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-033",
+      "pdf_page": 40
+    }
+  },
+  {
+    "id": "ILL-034",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(영화 아이로봇 장면 일부)이 내용을 책에 넣기 좋게 재구성해줘. 인간이 로봇한테 말을 걸고, 로봇이 대답하는 걸로. 대사는 내가 넣을테니까 최대한 원본의 인물 생김새를 그대로 재현해 2도그림으로 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-034",
+      "pdf_page": 41
+    }
+  },
+  {
+    "id": "ILL-035",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "문어대가리 넣어달라고는 안 했는데? 치워봐",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-035",
+      "pdf_page": 42
+    },
+    "previous_prompt_ids": [
+      "ILL-034"
+    ]
+  },
+  {
+    "id": "ILL-036",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(사진 첨부) 이 사진을 2도 이미지로 다시 그려줘.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-036",
+      "pdf_page": 43
+    }
+  },
+  {
+    "id": "ILL-037",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좀 더 비열하게 웃으면 좋겠어",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-037",
+      "pdf_page": 44
+    },
+    "previous_prompt_ids": [
+      "ILL-036"
+    ]
+  },
+  {
+    "id": "ILL-038",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "야 너무 좋다 오른쪽에 상자같은거 지워줄래?",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-038",
+      "pdf_page": 45
+    },
+    "previous_prompt_ids": [
+      "ILL-036",
+      "ILL-037"
+    ]
+  },
+  {
+    "id": "ILL-039",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(사진 첨부)이거도 다시 그려줘.왼쪽은 \"3분짜리 음악을 듣는 데에는 3분이 필요합니다!\" 오른쪽은 \"나는 0.03초면 되는데에\"",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-039",
+      "pdf_page": 46
+    }
+  },
+  {
+    "id": "ILL-040",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(웹툰 장면 첨부)이거도 다시 그려줘.의사: \"선생님은 심각한 엘리자 효과를...\"환자: \"흥, 웃기는 소리. GPT에게 물어봐야지.\"",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-040",
+      "pdf_page": 47
+    }
+  },
+  {
+    "id": "ILL-041",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이거 흰배경으로 다시 그려주고, 손가락 각도가 이상해 수정해봐",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-041",
+      "pdf_page": 48
+    },
+    "previous_prompt_ids": [
+      "ILL-040"
+    ]
+  },
+  {
+    "id": "ILL-042",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": " 구도왼쪽: 완전히 기계화된 고령 인물(사람인데 기계 팔, 인공 장기 표시 등), 마라톤 뛰고 있음오른쪽: 신체는 멀쩡하지만 공허한 표정으로 침대에 앉아 있는 사람 (수명은 늘었지만 삶의 의미는?)중앙 상단: \"사망자 = 0\"이라고 적힌 병원 전광판✦ 포인트기계적 완전함과 인간적 결핍의 역설적 대비",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-042",
+      "pdf_page": 49
+    }
+  },
+  {
+    "id": "ILL-043",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이런 그림을 수정해서 한 장 더 그릴거야.어느 정부기관의 질문 - “이런 업무에 AI를 투입해도 되나요?”라는 주제로.왼쪽 여성을 이목구비가 없는 양복입은 사람으로 교체해줘. 얼굴에는 내가 대한민국정부 로고 그려넣을게",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-043",
+      "pdf_page": 50
+    }
+  },
+  {
+    "id": "ILL-044",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이거 참조해서 \"우리손으로맨든AI\" 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-044",
+      "pdf_page": 51
+    }
+  },
+  {
+    "id": "ILL-045",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": " 4. 멀티모달 모델의 등장 – 한 개의 AI로 모든 것을 만들자 콘셉트GPT 로봇이 그림/영상/음악을 동시에 만들어내는 복합 머신처럼 표현한 손에 붓, 다른 손에 키보드, 머리에는 이어폰옆에 3개의 화면이 있음하나는 이미지하나는 악보하나는 영상 타임라인말풍선: “프롬프트 하나면 됩니다”➡ 진짜 ‘멀티모달’의 시각화이거 그려줘봐.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-045",
+      "pdf_page": 52
+    }
+  },
+  {
+    "id": "ILL-046",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "투명 배경, 까만 선, 시안색 별색으로 다시 그려와. 가로세로 비율은 16:9로 가로가 더 길게. png파일이야",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-046",
+      "pdf_page": 53
+    },
+    "previous_prompt_ids": [
+      "ILL-045"
+    ]
+  },
+  {
+    "id": "ILL-047",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "로봇이 \"저도 예술가 시켜주세요\" 라고 부탁하고, 인간 화가들이 팔짱 끼고 고민하고 있는 그림 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-047",
+      "pdf_page": 54
+    }
+  },
+  {
+    "id": "ILL-048",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(웹툰 일부)이번엔 이거 패러디하고 싶어. 가로로 3컷정도 할애해서. 1. 이것은 GPU다. AI 제작에 쓰지.  2. 이것은 NPU다. 이것도 AI 제작에 쓰지.  3. 이것은 TPU다. 이것도 AI 제작에 쓴다.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-048",
+      "pdf_page": 55
+    }
+  },
+  {
+    "id": "ILL-049",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "삽화 하나 더 그려줘.엄마가 \"딸, 그 정도는 직접 해야지!\" 라고 이야기함.딸, \"괜찮아, 어차피 내 힘으로는 절대 못 해!\" 라고 답변함.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-049",
+      "pdf_page": 56
+    }
+  },
+  {
+    "id": "ILL-050",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좋긴 한데 테이블 위에 AI기술이라고 적힌 반도체 말고, 구글 로고가 그려진 상자를 그려줘.이번에는 컷 분할 없이 1컷으로 그려주면 돼.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-050",
+      "pdf_page": 57
+    }
+  },
+  {
+    "id": "ILL-051",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "왼쪽에는 이거 그려주고 오른쪽에는 사람들이 \"이제 지겨워.\" 라고 하는 거 그려주면 돼.2도, 흰배경, 까만선, 시안색 별색",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-051",
+      "pdf_page": 58
+    }
+  },
+  {
+    "id": "ILL-052",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "상어의 3번째 다리랑 신발이 누락됐어 다시 그려봐",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-052",
+      "pdf_page": 59
+    },
+    "previous_prompt_ids": [
+      "ILL-051"
+    ]
+  },
+  {
+    "id": "ILL-053",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "아니 상어는 다리 세개만 그려야지 다시 그려봐",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-053",
+      "pdf_page": 60
+    },
+    "previous_prompt_ids": [
+      "ILL-051",
+      "ILL-052"
+    ]
+  },
+  {
+    "id": "ILL-054",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "clip ai model의 작동방법을 초등학생 수준에서 설명하는 삽화를 2도 이미지로 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-054",
+      "pdf_page": 61
+    }
+  },
+  {
+    "id": "ILL-055",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "clip ai model의 작동방법을 초등학생 수준에서 설명하는 삽화를 2도 이미지로 그려줘.흰배경, 까만색과 시안색",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-055",
+      "pdf_page": 62
+    }
+  },
+  {
+    "id": "ILL-056",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "흰배경, 까만선, 시안색 별색으로스마트폰을 손에 들고 SIRI야 사랑해 라고 하는 남자 그려줘.폰에서는 \"알아들을 수 없는 명령어입니다.\" 라고 대답해.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-056",
+      "pdf_page": 63
+    }
+  },
+  {
+    "id": "ILL-057",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "똑같은 그림체로 냉장고에 콜라병을 집어넣으면서 음흉하게 웃는 사람 그려줘. 가로로 더 긴 비율 캔버스에.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-057",
+      "pdf_page": 64
+    }
+  },
+  {
+    "id": "ILL-058",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좁은 구덩이에 다이빙하는 사람 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-058",
+      "pdf_page": 65
+    }
+  },
+  {
+    "id": "ILL-059",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(사진 첨부)이 그림을 아까같은 그림체로 다시 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-059",
+      "pdf_page": 66
+    }
+  },
+  {
+    "id": "ILL-060",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "잘 그렸는데 인물은 양복입은 사람 말고 앞서 그렸던거같은 사람으로",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-060",
+      "pdf_page": 67
+    },
+    "previous_prompt_ids": [
+      "ILL-059"
+    ]
+  },
+  {
+    "id": "ILL-061",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "비슷한 그림체로 하나 더 그려줘.왼쪽: 의사. 팔짱을 끼고 \"인터넷에서 찾은 정보가 당신을 의사로 만들어주지 않습니다.\"오른쪽: AI가 눈치보면서 어색하게 웃음",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-061",
+      "pdf_page": 68
+    }
+  },
+  {
+    "id": "ILL-062",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이거 패러디해서 그림 그려줘. 좌우로 길쭉한 비율로.두 컷으로 만들거야. 1번 컷에는 인간이 자전거 운전을 하고, 썰매에는 AI가 타고 있어.2번 컷에는 반대로 AI가 자전거 운전을 하고, 썰매에는 사람이 타고 있어.선은 까만색, 별색은 시안색, 배경은 투명한 png파일로 그려줘. 그림체는 내가 다른 그림 더 올려줄거니까 그거 참고해서 그리면 돼.\n(드라마 포스터)",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-062",
+      "pdf_page": 69
+    }
+  },
+  {
+    "id": "ILL-063",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "오른쪽 그림은 완벽한데 왼쪽그림은 썰매가 빠졌어.\n이번엔 이거 패러디하자. 사무실에 AI랑 사람들이 같이 앉아있는걸로. 절반은 AI, 절반은 사람 정도면 좋겠다",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-063",
+      "pdf_page": 70
+    }
+  },
+  {
+    "id": "ILL-064",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "구도는 좋은데 그림체가 문제다.흑백 2도인쇄를 기준으로, 선은 까만색, 별색은 시안색.사람은 까만색 선으로 하면 될거같고 로봇은 시안색으로 테두리 그리면 될거같다. 내부채색은 하지말고.그림체는 이런 식으로",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-064",
+      "pdf_page": 71
+    },
+    "previous_prompt_ids": [
+      "ILL-063"
+    ]
+  },
+  {
+    "id": "ILL-065",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "gpt라는 글자를 AI로 바꿔 줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-065",
+      "pdf_page": 72
+    },
+    "previous_prompt_ids": [
+      "ILL-063",
+      "ILL-064"
+    ]
+  },
+  {
+    "id": "ILL-066",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "AI 4명 사람 3명으로 비율 수정해줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-066",
+      "pdf_page": 73
+    },
+    "previous_prompt_ids": [
+      "ILL-063",
+      "ILL-064",
+      "ILL-065"
+    ]
+  },
+  {
+    "id": "ILL-067",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(사진 업로드)이거 패러디 하자. 레버를 쥔 사람을 AI로 바꿔 주고, 그 사람만 별색으로 칠해줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-067",
+      "pdf_page": 74
+    }
+  },
+  {
+    "id": "ILL-068",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "투명 png로 그려야지",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-068",
+      "pdf_page": 75
+    },
+    "previous_prompt_ids": [
+      "ILL-067"
+    ]
+  },
+  {
+    "id": "ILL-069",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이걸 수정해서   4. AI의 지성을 오염시키기 위한 사이버 테러 파트 작성에 들어갈 삽화를 그리자. AI들이 \"낚시금지\"라고 적힌 연못에서 낚시를 하고, 연못 왼쪽편에서 사람들이 독성물질이 든 드럼통을 연못에 쏟아버리는 그림 그려줘.",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-069",
+      "pdf_page": 76
+    }
+  },
+  {
+    "id": "ILL-070",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "드럼통에 해골마크 제대로 그려줘",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-070",
+      "pdf_page": 77
+    },
+    "previous_prompt_ids": [
+      "ILL-069"
+    ]
+  },
+  {
+    "id": "ILL-071",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "지팡이를 짚은 시각장애인을 로봇이 친절하게 안내해주는 그림 그려줘. 이왕이면 바닥에 계단 같은 게 있어서 로봇이 \"조심하세요\"라고 하는 것처럼 상황이 동적이면 좋겠어",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-071",
+      "pdf_page": 78
+    }
+  },
+  {
+    "id": "ILL-072",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "사람이랑 AI랑 대화해. 사람은 뇌처럼 생긴걸 손에 들고 만들고 있어. AI: \"이게 뭐에요?\" 사람: \"너한테 넣을 뇌야.\" AI: \"네?\"",
+    "comment": "ChatGPT 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-072",
+      "pdf_page": 79
+    }
+  },
+  {
+    "id": "ILL-073",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "자 이 그림체를 참고해 지금부터 네게 그림 그려달라고 요청할거야 준비됐니?",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-073",
+      "pdf_page": 81
+    }
+  },
+  {
+    "id": "ILL-075",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좋아, 이번에는 두 컷만 그리면 돼. 캔버스 비율은 가로16 세로 9.왼쪽   소파에 누운 사람이 \"아 치킨 먹고 싶다.\"오른쪽    오토바이 탄 배달원이 \"세계 최고의 치킨, 지금 가져다 드립니다.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-075",
+      "pdf_page": 83
+    }
+  },
+  {
+    "id": "ILL-076",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "AI가 사람한테 \"API Key가 필요합니다.\"사람: \"그게 왜 필요해?\"AI: \"세상에 공짜가 어딨어요.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-076",
+      "pdf_page": 84
+    }
+  },
+  {
+    "id": "ILL-077",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "가로 16 세로 9 비율 캔버스에 그림 그려줘.AI랑 사람이 대화해.  한 컷 안에서 대화 표현해 줘.AI: \"API Key가 필요합니다.\"사람: \"그게 왜 필요해?\"AI: \"세상에 공짜가 어딨어요.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-077",
+      "pdf_page": 85
+    },
+    "previous_prompt_ids": [
+      "ILL-076"
+    ]
+  },
+  {
+    "id": "ILL-078",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "세 번째 말풍선 위치가 바뀌엇다 수정해 줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-078",
+      "pdf_page": 86
+    },
+    "previous_prompt_ids": [
+      "ILL-076",
+      "ILL-077"
+    ]
+  },
+  {
+    "id": "ILL-079",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이번에는 서버, http 호스트, 호스팅 개념을 설명하고 싶어. 설명문 쉽게 써주고 그림도 그려봐 가로16 세로 9비율로",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-079",
+      "pdf_page": 87
+    }
+  },
+  {
+    "id": "ILL-080",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "미안한데 비유 하나도 안 와닿음",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-080",
+      "pdf_page": 88
+    },
+    "previous_prompt_ids": [
+      "ILL-079"
+    ]
+  },
+  {
+    "id": "ILL-081",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "url 입력 -> 서버의 정확한 주소로 찾아감 -> \"저 고객인데 웹 페이지좀 보여주세요.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-081",
+      "pdf_page": 89
+    },
+    "previous_prompt_ids": [
+      "ILL-079",
+      "ILL-080"
+    ]
+  },
+  {
+    "id": "ILL-082",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "왼쪽) 서버컴퓨터  \"웹 페이지를 보여드릴까요?\"오른쪽)  서버가 가득한 서버실 \"저희 서버 남는데, 빌려드릴까요?\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-082",
+      "pdf_page": 90
+    }
+  },
+  {
+    "id": "ILL-083",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "스마트폰이 서버에게 \"웹 페이지좀 보여주세요!\" 라고 요청폰 위에는 클라이언트서버 위에는 서버 라고 적어줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-083",
+      "pdf_page": 91
+    }
+  },
+  {
+    "id": "ILL-084",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "바닥, 천장, 환풍기 지워줄래",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-084",
+      "pdf_page": 92
+    }
+  },
+  {
+    "id": "ILL-085",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "가로16, 세로9 캔버스.사람과 AI가 대화해. 사람: \"너 왜 이렇게 자꾸 정답을 틀리니?\"AI: \"하지만 빨랐죠?\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-085",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "ILL-086",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "배경은 지워줄래?",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-086",
+      "pdf_page": 94
+    }
+  },
+  {
+    "id": "ILL-087",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "RAG를 이런식으로 설명하려고 하거든니 그림체로 바꿔 그려줘 강아지 대신 AI로 바꿔주고",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-087",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "ILL-088",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "시안색좀 빼줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-088",
+      "pdf_page": 96
+    }
+  },
+  {
+    "id": "ILL-089",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이걸 그림으로 좀 표현할 수 있나? 가로 16, 세로 9",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-089",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "ILL-090",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "그림 너무 복잡해 빨간 글자 부분만 3컷이내로 표현해봐",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-090",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "ILL-091",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "아니 그림의 컷 수를 줄여달라고",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-091",
+      "pdf_page": 99
+    }
+  },
+  {
+    "id": "ILL-092",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좋다. 저 그림 하단에 \"일단 빨리 만들어 볼까?\" 라고 모두가 공통된 생각을 하는 중인걸 표현해줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-092",
+      "pdf_page": 100
+    }
+  },
+  {
+    "id": "ILL-093",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(그림 첨부)이걸 스프린트가 돌면서 점점 위로 올라가는 느낌으로 새로 그려줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-093",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "ILL-094",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "그럼 그냥 별다른 변주 없이 이걸 네 그림체로 바꿔 줘. 화면에 글자는 다 지워주고",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-094",
+      "pdf_page": 102
+    }
+  },
+  {
+    "id": "ILL-095",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "혹시 devops를 그림으로 표현할 수 있겠니",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-095",
+      "pdf_page": 103
+    }
+  },
+  {
+    "id": "ILL-096",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "(그림 첨부) 아니 그  이런 도표식 그림 있잖아",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-096",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "ILL-097",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "저거 배경좀 지워줄래?\n아니 투명이 아니라 그냥 뒤에 그래프처럼 생긴거만 지우고",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-097",
+      "pdf_page": 105
+    }
+  },
+  {
+    "id": "ILL-098",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "흰배경으로 깔아달란 이야기였어",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-098",
+      "pdf_page": 106
+    }
+  },
+  {
+    "id": "ILL-099",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이거 배경 지워줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-099",
+      "pdf_page": 107
+    }
+  },
+  {
+    "id": "ILL-100",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "모두가 초능력 슈퍼히어로가 되는 세상 그려줘봐 길거리에 날아다니는 사람들 레이져쏘는 사람들 막 가득한거임",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-100",
+      "pdf_page": 108
+    }
+  },
+  {
+    "id": "ILL-101",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "왼쪽) 할머니 요리사가 완고한 표정으로 \"내 레시피는 며느리도 몰라!\"오른쪽) 개발자가 \"하나라도 더 알려드릴게요 제발 배워가세요.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-101",
+      "pdf_page": 109
+    }
+  },
+  {
+    "id": "ILL-102",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이 내용들을 한 장으로 요약할 수 있는 컷분할 삽화 그려줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-102",
+      "pdf_page": 110
+    }
+  },
+  {
+    "id": "ILL-103",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이 내용들을 가로16:세로9 캔버스에서 재미있게 소개할 수 있는 일러스트 그려줘.흰배경, 까만선, 시안색 별색, 아무런 글자도 화면에 적지 말고",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-103",
+      "pdf_page": 111
+    }
+  },
+  {
+    "id": "ILL-104",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "이런 느낌의 영롱한 이미지 만들어줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-104",
+      "pdf_page": 112
+    }
+  },
+  {
+    "id": "ILL-105",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "큐브 말고 다른것도 만들어줘 피라미드라던가",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-105",
+      "pdf_page": 113
+    },
+    "previous_prompt_ids": [
+      "ILL-104"
+    ]
+  },
+  {
+    "id": "ILL-106",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "구 도 만들어줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-106",
+      "pdf_page": 114
+    },
+    "previous_prompt_ids": [
+      "ILL-104",
+      "ILL-105"
+    ]
+  },
+  {
+    "id": "ILL-107",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "아니 피라미드랑 큐브 지우고 구 만 세개 그려줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-107",
+      "pdf_page": 115
+    },
+    "previous_prompt_ids": [
+      "ILL-104",
+      "ILL-105",
+      "ILL-106"
+    ]
+  },
+  {
+    "id": "ILL-108",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "\"사람보다 AI가 코딩을 더 잘 하는 세상\"이라는 느낌의 이미지 한 장 만들어 줘. 그림체는 내가 올려준 그림들 참고하면 돼.흰 배경, 까만 선, 시안색 별색",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-108",
+      "pdf_page": 116
+    }
+  },
+  {
+    "id": "ILL-109",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "AI에게 코딩을 시키는 것을 옹호하는 사람들과, 반대하는 사람들이 서로 싸우는거 그려줘반대측: \"내가 짠 코드보다 성능이 낮아!\" <- 옆에 \"10년차 개발자\" 라고 태그 달아주고찬성측: \"네가 하나 짜는 동안 AI는 코드 500개 짜 오는데?\" <- 옆에 \"경영진\" 이라 태그 달아주고가운데 낀 AI가 난처한 표정. \"제가 더 잘 해 볼게요...\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-109",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "ILL-110",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "배경 회색 말고 흰색으로",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-110",
+      "pdf_page": 118
+    },
+    "previous_prompt_ids": [
+      "ILL-109"
+    ]
+  },
+  {
+    "id": "ILL-111",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "개발자랑 경영진이 둘 다 당황한 채로 왼 쪽에 서서 AI를 바라봄AI는 오른쪽에 서서 쑥쓰러워 함AI 뒤에 엄청나게 많은 서류더미가 쌓여 있고, 그 서류더미에는 \"SSR급 명품 코드\" 라고 적어줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-111",
+      "pdf_page": 119
+    }
+  },
+  {
+    "id": "ILL-112",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "왼쪽) 개발자가 아주 꼼꼼하게 설계도를 작성함오른쪽) 개발자가 AI와 대화를 나눔. 개발자의 말풍선 - 전구 아이콘AI의 말풍선 - 느낌표",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-112",
+      "pdf_page": 120
+    }
+  },
+  {
+    "id": "ILL-113",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "교복 입은 딸이랑, 앞치마 입고 프라이팬 든 엄마랑 다툼딸: \"나 요리사 안 할 건데?\"엄마: \"맨날 배달만 시켜먹으려고 그래?\"딸: \"...\"엄마: \"밀키트 조리하는 법이라도 배우자 그럼.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-113",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "ILL-114",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "배경 흰색으로",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-114",
+      "pdf_page": 122
+    },
+    "previous_prompt_ids": [
+      "ILL-113"
+    ]
+  },
+  {
+    "id": "ILL-115",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "왼쪽: 저 학생이 컴퓨터로 무언가 다운로드하려고 하는 상황. 말풍선은 \"아 짜증나!\"오른쪽: 모니터 화면 클로즈업    \"성적계산기 립버전 1.16.1다운 성적계산기 립버전 1.16.1다운 있을 것이었다. 그건 오롯이 놀라운 경험이었다. 이건...정말 대단한녀석이로군 성적계산기 립버전1.16.1다운 덕분에 마음이 편안해졌어요.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-115",
+      "pdf_page": 123
+    }
+  },
+  {
+    "id": "ILL-116",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좌) 엄마랑 딸이랑 식사 하는 중\"나는 엄마 갈비찜이 제일 맛있어!\"\"식당 차려도 되겠지?\"\"아니 그 정도는 아니고.\"우) 사람이랑 AI랑 대화 중AI: \"제가 만든 앱이에요. 출시해도 되겠죠?\"사람: \"....응. 근데 돈은 내가 벌 거야.\"AI: \"좋아요.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-116",
+      "pdf_page": 124
+    }
+  },
+  {
+    "id": "ILL-117",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "배경 흰색으로.오른쪽 말풍선이 바뀌었어",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-117",
+      "pdf_page": 125
+    },
+    "previous_prompt_ids": [
+      "ILL-116"
+    ]
+  },
+  {
+    "id": "ILL-118",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좌) 요리사가 요리 알려줌\"지금! 지금 고기를 넣으세요!\"우)AI가 복잡한 구조물을 만들고 있음. 일종의 거대한 graph형태의 구조물이면 적절할 거 같은데.\"지금! 지금 엔터키를 누르세요!\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-118",
+      "pdf_page": 126
+    }
+  },
+  {
+    "id": "ILL-120",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좌) 요리 스쿨교수님이 팔짱 끼고 학생들에게 지시\"칼질을 오차 없이 할 수 있어야 한다.\"학생 두 명이 도마 위에서 칼질 함우) 가정집 주방딸이 앞치마 끼고 칼을 손에 들고 어쩔 줄 몰라함엄마) 일단 대충 반으로 잘라 봐",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-120",
+      "pdf_page": 128
+    }
+  },
+  {
+    "id": "ILL-121",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "바이브코딩은 도구를 잘 고르는 게 중요하다는걸 보여주는 삽화 하나 만들거야.마라토너가 엎드려서 바닥을 치면서\"에잇, 분하다! 달리기 실력은 내가 더 뛰어난데!\"옆에 스포츠카를 탄 사람이 안쓰러운 표정으로\"자동차를 골랐어야지, 왜 운동화를 고르셨어요.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-121",
+      "pdf_page": 129
+    }
+  },
+  {
+    "id": "ILL-122",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좀 더 데포르메해 너무 극사실적이다",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-122",
+      "pdf_page": 130
+    },
+    "previous_prompt_ids": [
+      "ILL-121"
+    ]
+  },
+  {
+    "id": "ILL-123",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "아니 자동차가 아니라 마라토너 그림체를 데포르메하라고",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-123",
+      "pdf_page": 131
+    },
+    "previous_prompt_ids": [
+      "ILL-121",
+      "ILL-122"
+    ]
+  },
+  {
+    "id": "ILL-124",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "마라토너가 엎드려서 바닥을 치면서\"에잇, 분하다! 달리기 실력은 내가 더 뛰어난데!\"옆에 스포츠카를 탄 사람이 안쓰러운 표정으로\"자동차를 골라야지, 누가 부산까지 가는데 운동화를 골라요...\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-124",
+      "pdf_page": 132
+    }
+  },
+  {
+    "id": "ILL-125",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "저 자동차에 얼굴 없애",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-125",
+      "pdf_page": 133
+    },
+    "previous_prompt_ids": [
+      "ILL-124"
+    ]
+  },
+  {
+    "id": "ILL-127",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좌) 기존 LLM우) 에이전트",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-127",
+      "pdf_page": 135
+    }
+  },
+  {
+    "id": "ILL-128",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좌) 기존 AI들AI가 코드가 적힌 종이만 내밂\"자, 이 코드 복사해서 쓰세요.\"우) 안티그래비티 <-- AI 머리 위에 로고만 넣어줘도 될듯\"자, 개발 계획서는 다 썼고요.\"\"계획서대로 코드 제작도 끝났어요.\"\"디자인이요? 당연히 예쁘게 해 놨죠.\"\"잠시만요, 잘 작동하나 테스트까지 해 보고 알려드릴게요.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-128",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "ILL-129",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "회색 말고 흰 배경으로 해주고우측의 2번째 말풍선은 사람이 아니라 로봇쪽으로 향하게 해줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-129",
+      "pdf_page": 137
+    },
+    "previous_prompt_ids": [
+      "ILL-128"
+    ]
+  },
+  {
+    "id": "ILL-130",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "야 회색톤 말고 흰색으로 사람이랑 로봇도",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-130",
+      "pdf_page": 138
+    },
+    "previous_prompt_ids": [
+      "ILL-128",
+      "ILL-129"
+    ]
+  },
+  {
+    "id": "ILL-131",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "AI가 사람한테\"저 이거 해도 돼요?\"\"이것도 해도 되나요?\"\"이건요?\"\"이것도 해야겠어요!\"\"이것도 허락해주세요!\"사람이 피곤한 표정으로\"그냥 전부 니 맘 대로 해\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-131",
+      "pdf_page": 139
+    }
+  },
+  {
+    "id": "ILL-132",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "AI가 사람한테\"이번 프로젝트는 뭔가요?\"사람이 AI에게\"폴더 만들어 놨어.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-132",
+      "pdf_page": 140
+    }
+  },
+  {
+    "id": "ILL-133",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "둘이 마주보고 대화하면 좋겠어개발자도 좀 밝은 표정으로.마지막에 AI가\"뒷일은 제게 모두 맡기세요!\"라고 한마디 더 하자",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-133",
+      "pdf_page": 141
+    },
+    "previous_prompt_ids": [
+      "ILL-132"
+    ]
+  },
+  {
+    "id": "ILL-134",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "아니 한 컷에 구성해줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-134",
+      "pdf_page": 142
+    },
+    "previous_prompt_ids": [
+      "ILL-132",
+      "ILL-133"
+    ]
+  },
+  {
+    "id": "ILL-135",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "한 컷에 해달라니까? 지금은 2컷이잖아",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-135",
+      "pdf_page": 143
+    },
+    "previous_prompt_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134"
+    ]
+  },
+  {
+    "id": "ILL-136",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "한 컷으로 해 준다며? 지금 두 컷이잖아? 장난해? 화면 좌우 분할하지 말고같은 공간에 AI는 왼쪽에 서서 우측을 바라보고개발자는 우측에 서서 왼쪽을 바라보고 대화해",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-136",
+      "pdf_page": 144
+    },
+    "previous_prompt_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135"
+    ]
+  },
+  {
+    "id": "ILL-137",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "Ai가 왼쪽에 서서 오른쪽 바라보라고",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-137",
+      "pdf_page": 145
+    },
+    "previous_prompt_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135",
+      "ILL-136"
+    ]
+  },
+  {
+    "id": "ILL-138",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "내가 동그라미 친 부분의 어색하게 끊어지는 배경 해결해",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-138",
+      "pdf_page": 146
+    },
+    "previous_prompt_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135",
+      "ILL-136",
+      "ILL-137"
+    ]
+  },
+  {
+    "id": "ILL-139",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "사람이 왜 세명이냐? 가운데 있는 사람 없애",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-139",
+      "pdf_page": 147
+    },
+    "previous_prompt_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135",
+      "ILL-136",
+      "ILL-137",
+      "ILL-138"
+    ]
+  },
+  {
+    "id": "ILL-140",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "내가 한 컷에 그리라고 하지 않았냐?",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-140",
+      "pdf_page": 148
+    },
+    "previous_prompt_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135",
+      "ILL-136",
+      "ILL-137",
+      "ILL-138",
+      "ILL-139"
+    ]
+  },
+  {
+    "id": "ILL-141",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "야 왜 AI가 두명으로 늘어났냐?",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-141",
+      "pdf_page": 149
+    },
+    "previous_prompt_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135",
+      "ILL-136",
+      "ILL-137",
+      "ILL-138",
+      "ILL-139",
+      "ILL-140"
+    ]
+  },
+  {
+    "id": "ILL-142",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "좌) 코드중앙) 서버 컴퓨터우) 사용자 스마트폰웹호스팅 개념을 간단하게 표현하는 그림",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-142",
+      "pdf_page": 150
+    }
+  },
+  {
+    "id": "ILL-143",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "됐고 이번엔 그림 이렇게 수정하자좌) AI가 만든 코드중앙) GitHub우측) 사용자 스마트폰",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-143",
+      "pdf_page": 151
+    },
+    "previous_prompt_ids": [
+      "ILL-142"
+    ]
+  },
+  {
+    "id": "ILL-144",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "종횡비가 맘에 안든다\n가로 16 세로 9\n\n미성년자가 어디 있는데? 그냥 사진 비율만 가로 16대 세로 9로 바꿔달라고",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 한 페이지의 사용자 입력 두 건을 순서대로 수록했으며, 중간 AI 답변은 제외했습니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-144",
+      "pdf_page": 152
+    },
+    "previous_prompt_ids": [
+      "ILL-142",
+      "ILL-143"
+    ]
+  },
+  {
+    "id": "ILL-145",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "1. PDF파일에서 글자만 분리2. 사용자의 질문과 PDF에서 추출된 정보를 한 덩어리로 묶어 서버로 전송이거 그려줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-145",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "ILL-146",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "팝업과 모달을 비교하는 그림 하나 그려 줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-146",
+      "pdf_page": 154
+    }
+  },
+  {
+    "id": "ILL-147",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "색을 흰배경에 까만선, 시안 별색 3색만 써서 해줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-147",
+      "pdf_page": 155
+    },
+    "previous_prompt_ids": [
+      "ILL-146"
+    ]
+  },
+  {
+    "id": "ILL-148",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "사람이 AI에게\"안드로이드 앱은 어떻게 만들어?\"라 물어보고AI는 \"커널의 구조부터 살펴보자면...\" 이라고 대답사람이 말 끊고 \"됐고, 네가 대신 만들어올 수 있지?\"AI, \"그럼요.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-148",
+      "pdf_page": 156
+    }
+  },
+  {
+    "id": "ILL-149",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "왼쪽 - 저울의 양 팔에 \"사용성\" 과 \"난이도\" 가 올라가있음오른쪽 - AI가 뒤돌려차기로 저울을 박살내버림",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-149",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "ILL-150",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "그림을 정사각형이 아니라 가로16:세로9 비율 캔버스에 다시 그려줘 내용은 좋다",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-150",
+      "pdf_page": 158
+    },
+    "previous_prompt_ids": [
+      "ILL-149"
+    ]
+  },
+  {
+    "id": "ILL-151",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "왼쪽: 인간 요리사 \"메뉴판에 있는 것만 주문하세요.\"오른쪽: AI \"아 그거요? 일단 앉으세요. 아, 만들어 드릴께.\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-151",
+      "pdf_page": 159
+    }
+  },
+  {
+    "id": "ILL-152",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "remove duplicated sentence from the picture.그림 비율은 가로 16 세로 9로 바꿔줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-152",
+      "pdf_page": 160
+    },
+    "previous_prompt_ids": [
+      "ILL-151"
+    ]
+  },
+  {
+    "id": "ILL-153",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "가로16, 세로9 비율로 그림을 그려줘.개발자: \"난 기획은 할 줄 모르는데요?\"기획자: \"난 개발은 할 줄 모르는데요?\"AI: \"난 다 할 줄 알지롱\"",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-153",
+      "pdf_page": 161
+    }
+  },
+  {
+    "id": "ILL-154",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "웹 페이지는 HTML, CSS, Javascript로 만들어진다는걸 간단하게 일반인한테 이해시켜 주고 싶어.설명문도 작성해 주고, 가로16:세로9 비율의 캔버스에 간단한 그림도 그려줘봐",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-154",
+      "pdf_page": 162
+    }
+  },
+  {
+    "id": "ILL-155",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "삽화 아주 좋은데 흰색 배경에 까만 선, 시안색 별색만 써서 새로 그려줘",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-155",
+      "pdf_page": 163
+    },
+    "previous_prompt_ids": [
+      "ILL-154"
+    ]
+  },
+  {
+    "id": "ILL-156",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "아니 가로16 세로9비율로 해줘야지",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-156",
+      "pdf_page": 164
+    },
+    "previous_prompt_ids": [
+      "ILL-154",
+      "ILL-155"
+    ]
+  },
+  {
+    "id": "ILL-157",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "? 아니 저거 왜 이어붙여? 하나만 그려 제발",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-157",
+      "pdf_page": 165
+    },
+    "previous_prompt_ids": [
+      "ILL-154",
+      "ILL-155",
+      "ILL-156"
+    ]
+  },
+  {
+    "id": "ILL-158",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "API가 무엇인지도 설명하고 싶은데 설명문이랑 그림좀 그려줘. 그림은 가로16 세로9비율 캔버스에, 흰색배경 까만선 시안색 별색",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-158",
+      "pdf_page": 166
+    }
+  },
+  {
+    "id": "ILL-159",
+    "category": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "prompt": "그림이 너무 딱딱하다 정보량 좀 줄여봐",
+    "comment": "Gemini(Nano Banana) 삽화 제작 예시. 같은 대화의 그림체 설정과 생성 이미지를 이어서 사용합니다. 사진·장면·표시한 부분을 가리키면 해당 참조 이미지도 필요합니다. 앞 입력은 클릭한 창의 ‘앞선 프롬프트’에서 확인할 수 있습니다. AI 응답·결과물은 책을 참고하세요.",
+    "href": "",
+    "screenshot": "",
+    "metadata": {
+      "Book Title": "작가의 프롬프트 - AI로 제작한 삽화편",
+      "Year": 2026,
+      "Author": "반병현",
+      "Publisher": "BOOKK(부크크)",
+      "Yes24": "https://www.yes24.com/product/goods/195817748",
+      "Kyobo": "",
+      "Aladin": "",
+      "Cover_filename": "2026_ban_illustration.jpg",
+      "ISBN": "9791112269492"
+    },
+    "source": {
+      "id": "ILL-159",
+      "pdf_page": 167
+    },
+    "previous_prompt_ids": [
+      "ILL-158"
+    ]
+  },
+  {
     "category": [
       "design",
       "business",
