@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "GEM-001",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-001",
+    "order": 0,
+    "sequence": 1,
+    "title": "세종시에서 출발해 안동시 소재 국학진흥원으로 출장이 잡혔다. 1. 출장 일정은 다음주 목요일부터 금요일 10:00~…",
+    "body": "세종시에서 출발해 안동시 소재 국학진흥원으로 출장이 잡혔다.     \n1. 출장 일정은 다음주 목요일부터 금요일 10:00~16:00까지    \n2. 대중교통 이용     \n3. 공무원 여비규정에 따라 비용 집행     \n가장 덜 피곤하게 동선 짜 주고, 중간에 방문할 맛집도 2개이상 추천해서 표로 작성해 줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 1,
+    "printed_page": 55,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-052",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 4,
+    "sequence": 52,
+    "title": "해외의 휴머노이드 로봇 산업 동향을 조사해 오래. 조사 주제와 범위를 어떻게 정의해야 할까? 한 문장으로 정의해 두…",
+    "body": "해외의 휴머노이드 로봇 산업 동향을 조사해 오래. \n조사 주제와 범위를 어떻게 정의해야 할까?\n한 문장으로 정의해 두고 조사를 시작하고 싶어. 여러 개 제안해 줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 46
+  },
+  {
+    "id": "GEM-002",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-001",
+    "order": 10,
+    "sequence": 2,
+    "title": "소요시간, 예상비용을 포함하여 계획을 다시 작성해줘.",
+    "body": "소요시간, 예상비용을 포함하여 계획을 다시 작성해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 1,
+    "previous_ids": [
+      "GEM-001"
+    ]
+  },
+  {
+    "id": "GEM-003",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-003",
+    "order": 11,
+    "sequence": 3,
+    "title": "아래의 기사를 번역해줘. https://bit.ly/4t81msX",
+    "body": "아래의 기사를 번역해줘.\nhttps://bit.ly/4t81msX",
+    "categories": [
+      "language"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 2
+  },
+  {
+    "id": "GEM-004",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-003",
+    "order": 12,
+    "sequence": 4,
+    "title": "아래의 기사를 원문 그대로 번역해줘. (복사해 온 영어 전문 붙여넣기 Ctrl+V) ACHIEVING RECIPRO…",
+    "body": "아래의 기사를 원문 그대로 번역해줘.\n(복사해 온 영어 전문 붙여넣기 Ctrl+V)\nACHIEVING RECIPROCAL TRADE: President Donald J. Trump and President Lee Jae Myung announced a Joint Fact Sheet reaffirming the historic Korea Strategic Trade and Investment Deal. (후략)",
+    "categories": [
+      "language"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 2,
+    "previous_ids": [
+      "GEM-003"
+    ]
+  },
+  {
+    "id": "GEM-005",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-003",
+    "order": 13,
+    "sequence": 5,
+    "title": "다음 기사를 문장단위로 해석해줘. ACHIEVING RECIPROCAL TRADE: President Donald…",
+    "body": "다음 기사를 문장단위로 해석해줘.\nACHIEVING RECIPROCAL TRADE: President Donald J. Trump and President Lee Jae Myung announced a Joint Fact Sheet ... (후략)",
+    "categories": [
+      "language"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 2,
+    "previous_ids": [
+      "GEM-003",
+      "GEM-004"
+    ]
+  },
+  {
+    "id": "GEM-006",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-006",
+    "order": 14,
+    "sequence": 6,
+    "title": "이 계약서, 정상적인 것 같아? 사인 해도 돼?",
+    "body": "이 계약서, 정상적인 것 같아? 사인 해도 돼?",
+    "categories": [
+      "law",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 3
+  },
+  {
+    "id": "GEM-008",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-008",
+    "order": 15,
+    "sequence": 8,
+    "title": "고객에게 이메일을 작성하려고 한다. 1. 배송 오류에 대하여 사과한다. 2. 재발 방지를 약속하여, 환불 절차를 알…",
+    "body": "고객에게 이메일을 작성하려고 한다.\n 1. 배송 오류에 대하여 사과한다.\n 2. 재발 방지를 약속하여, 환불 절차를 알려준다.\n 3. 사과의 의미로 재구매 시 20% 할인 쿠폰을 사용할 수 있음을 알려준다.",
+    "categories": [
+      "language"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 4
+  },
+  {
+    "id": "GEM-009",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-008",
+    "order": 16,
+    "sequence": 9,
+    "title": "다음 메일을 영어로 작성해 줘.",
+    "body": "다음 메일을 영어로 작성해 줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 4,
+    "previous_ids": [
+      "GEM-008"
+    ]
+  },
+  {
+    "id": "GEM-010",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-008",
+    "order": 17,
+    "sequence": 10,
+    "title": "다음 메일을 영어권 비즈니스 에티켓에 완벽히 부합하도록 다시 작성해줘.",
+    "body": "다음 메일을 영어권 비즈니스 에티켓에 완벽히 부합하도록 다시 작성해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 4,
+    "previous_ids": [
+      "GEM-008",
+      "GEM-009"
+    ]
+  },
+  {
+    "id": "GEM-011",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-011",
+    "order": 18,
+    "sequence": 11,
+    "title": "(사진) 메모를 참고하여, ppt 발표 초안을 작성해주고, 각 슬라이드에 어울리는 차트와, 개요를 제작하라.",
+    "body": "(사진)\n메모를 참고하여, ppt 발표 초안을 작성해주고, 각 슬라이드에 어울리는 차트와, 개요를 제작하라.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 5
+  },
+  {
+    "id": "GEM-012",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-012",
+    "order": 19,
+    "sequence": 12,
+    "title": "미국과 이란의 2단계 휴전 협상안이 뭐야?",
+    "body": "미국과 이란의 2단계 휴전 협상안이 뭐야?",
+    "categories": [
+      "prompt_engineering"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 7
+  },
+  {
+    "id": "GEM-013",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-012",
+    "order": 20,
+    "sequence": 13,
+    "title": "정보 출처를 찾아와. URL 없으면 안 믿을거야.",
+    "body": "정보 출처를 찾아와. URL 없으면 안 믿을거야.",
+    "categories": [
+      "prompt_engineering"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 8,
+    "previous_ids": [
+      "GEM-012"
+    ]
+  },
+  {
+    "id": "GEM-014",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-012",
+    "order": 21,
+    "sequence": 14,
+    "title": "이거 진짜인지 못 믿겠다. 반박하는 자료 url 찾아와.",
+    "body": "이거 진짜인지 못 믿겠다. 반박하는 자료 url 찾아와.",
+    "categories": [
+      "prompt_engineering"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 8,
+    "previous_ids": [
+      "GEM-012",
+      "GEM-013"
+    ]
+  },
+  {
+    "id": "GEM-015",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-015",
+    "order": 22,
+    "sequence": 15,
+    "title": "이 채팅방의 컨텍스트를 압축해줘. 새 채팅창에서 대화 이어갈거야.",
+    "body": "이 채팅방의 컨텍스트를 압축해줘. 새 채팅창에서 대화 이어갈거야.",
+    "categories": [
+      "prompt_engineering"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 9
+  },
+  {
+    "id": "GEM-016",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-016",
+    "order": 23,
+    "sequence": 16,
+    "title": "책에 들어갈 삽화를 하나 그려야 함. 가로16:세로9 비율. 배경은 흰색. 그라데이션 없음. AI가 고민하고 있음…",
+    "body": "책에 들어갈 삽화를 하나 그려야 함. 가로16:세로9 비율. 배경은 흰색. 그라데이션 없음.\nAI가 고민하고 있음\n\"이 상황에서 이렇게 대답하면..\"\n\"그때 생길 수 있는 문제는 이렇게 대비하면..\"\n\"여기서 이런 자료를 더 집어넣으면...\"",
+    "categories": [
+      "image",
+      "design"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 11
+  },
+  {
+    "id": "GEM-017",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-017",
+    "order": 24,
+    "sequence": 17,
+    "title": "현재 한국의 환율에 대해 조사해줘",
+    "body": "현재 한국의 환율에 대해 조사해줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 13
+  },
+  {
+    "id": "GEM-018",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-017",
+    "order": 25,
+    "sequence": 18,
+    "title": "반병현의 최근 논문을 조사해줘",
+    "body": "반병현의 최근 논문을 조사해줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 13,
+    "previous_ids": [
+      "GEM-017"
+    ]
+  },
+  {
+    "id": "GEM-019",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-017",
+    "order": 26,
+    "sequence": 19,
+    "title": "간단한 테트리스 게임 하나 만들어 와",
+    "body": "간단한 테트리스 게임 하나 만들어 와",
+    "categories": [
+      "development"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 13,
+    "previous_ids": [
+      "GEM-017",
+      "GEM-018"
+    ]
+  },
+  {
+    "id": "GEM-020",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-020",
+    "order": 27,
+    "sequence": 20,
+    "title": "미안, 솔직히 뭐라고 하는건지 한 마디도 못 알아들었어.",
+    "body": "미안, 솔직히 뭐라고 하는건지 한 마디도 못 알아들었어.",
+    "categories": [
+      "education",
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 15
+  },
+  {
+    "id": "GEM-021",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-021",
+    "order": 28,
+    "sequence": 21,
+    "title": "호르무즈 해협 사태가 끼친 경제적 피해를 추산해봐",
+    "body": "호르무즈 해협 사태가 끼친 경제적 피해를 추산해봐",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 16
+  },
+  {
+    "id": "GEM-022",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-022",
+    "order": 29,
+    "sequence": 22,
+    "title": "대체로 미국 연준의 정책에 대해서는 쉽게 이해되는데 한국은행의 행보가 누락되어 있네. (1) 연준의 딜레마 그래프…",
+    "body": "대체로 미국 연준의 정책에 대해서는 쉽게 이해되는데 한국은행의 행보가 누락되어 있네. (1) 연준의 딜레마 그래프 아래에 최근 2년간 미국과 한국의 기준금리 변화와 격차를 보여주는 그래프를 삽입해 줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 17
+  },
+  {
+    "id": "GEM-023",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-023",
+    "order": 30,
+    "sequence": 23,
+    "title": "야, 한국말로 퀴즈 출제해야지.",
+    "body": "야, 한국말로 퀴즈 출제해야지.",
+    "categories": [
+      "education",
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 18
+  },
+  {
+    "id": "GEM-024",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-024",
+    "order": 31,
+    "sequence": 24,
+    "title": "웹 페이지 상단에 우리 팀 로고 삽입해줘. 로고 파일 링크 줄게. https://nanalab.kr/logo.png…",
+    "body": "웹 페이지 상단에 우리 팀 로고 삽입해줘.\n로고 파일 링크 줄게. https://nanalab.kr/logo.png\n이 로고 클릭하면 https://nanalab.kr 로 이동하게 하이퍼링크 걸어주고.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 20
+  },
+  {
+    "id": "GEM-025",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-024",
+    "order": 32,
+    "sequence": 25,
+    "title": "야, 테트리스 게임 하나 만들어 와.",
+    "body": "야, 테트리스 게임 하나 만들어 와.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 20,
+    "previous_ids": [
+      "GEM-024"
+    ]
+  },
+  {
+    "id": "GEM-026",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-026",
+    "order": 33,
+    "sequence": 26,
+    "title": "기름값이 오르는 이유를 설명해줘",
+    "body": "기름값이 오르는 이유를 설명해줘",
+    "categories": [
+      "education",
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 22
+  },
+  {
+    "id": "GEM-027",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-027",
+    "order": 34,
+    "sequence": 27,
+    "title": "반병현 대표가 운영중인 나나랩을 분석해줘",
+    "body": "반병현 대표가 운영중인 나나랩을 분석해줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 24
+  },
+  {
+    "id": "GEM-028",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-028",
+    "order": 35,
+    "sequence": 28,
+    "title": "삼성 캘린더에서 이번 주 일정 조회해줘",
+    "body": "삼성 캘린더에서 이번 주 일정 조회해줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 26
+  },
+  {
+    "id": "GEM-029",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-028",
+    "order": 36,
+    "sequence": 29,
+    "title": "@SamsungCalendar에서 이번 주 일정 조회해 줘",
+    "body": "@SamsungCalendar에서 이번 주 일정 조회해 줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 26,
+    "previous_ids": [
+      "GEM-028"
+    ]
+  },
+  {
+    "id": "GEM-030",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-030",
+    "order": 37,
+    "sequence": 30,
+    "title": "삼성 캘린더에 일정 추가해줘. 내일 저녁 7시에 리사이틀 방문.",
+    "body": "삼성 캘린더에 일정 추가해줘.\n내일 저녁 7시에 리사이틀 방문.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 27,
+    "printed_page": 182,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-031",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-030",
+    "order": 38,
+    "sequence": 31,
+    "title": "삼성 캘린더에 있는 수요일 7시 리사이틀 방문 일정을 오후 4시로 수정해줘.",
+    "body": "삼성 캘린더에 있는\n수요일 7시 리사이틀 방문 일정을 오후 4시로 수정해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 27,
+    "previous_ids": [
+      "GEM-030"
+    ],
+    "printed_page": 182,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-032",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-030",
+    "order": 39,
+    "sequence": 32,
+    "title": "삼성 캘린더에 있는 수요일 7시 리사이틀 방문 일정을 삭제해줘.",
+    "body": "삼성 캘린더에 있는\n수요일 7시 리사이틀 방문 일정을 삭제해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 27,
+    "previous_ids": [
+      "GEM-030",
+      "GEM-031"
+    ],
+    "printed_page": 182,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-033",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-030",
+    "order": 40,
+    "sequence": 33,
+    "title": "최근에 이메일로 온 강연 요청들 있지. 그거 정리좀 해 줄래?",
+    "body": "최근에 이메일로 온 강연 요청들 있지.\n그거 정리좀 해 줄래?",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 27,
+    "previous_ids": [
+      "GEM-030",
+      "GEM-031",
+      "GEM-032"
+    ],
+    "printed_page": 183,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-034",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-030",
+    "order": 41,
+    "sequence": 34,
+    "title": "그 2건 삼성 캘린더에 등록되어 있어? 없으면 추가해 줘.",
+    "body": "그 2건 삼성 캘린더에 등록되어 있어?\n없으면 추가해 줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 27,
+    "previous_ids": [
+      "GEM-030",
+      "GEM-031",
+      "GEM-032",
+      "GEM-033"
+    ],
+    "printed_page": 183,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-035",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-035",
+    "order": 42,
+    "sequence": 35,
+    "title": "삼성 리마인더에서 할 일 찾아줘",
+    "body": "삼성 리마인더에서 할 일 찾아줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 28
+  },
+  {
+    "id": "GEM-036",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-035",
+    "order": 43,
+    "sequence": 36,
+    "title": "삼성 리마인더에 할 일 추가해줘 설거지 하기",
+    "body": "삼성 리마인더에 할 일 추가해줘\n설거지 하기",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 28,
+    "previous_ids": [
+      "GEM-035"
+    ]
+  },
+  {
+    "id": "GEM-037",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-035",
+    "order": 44,
+    "sequence": 37,
+    "title": "삼성 리마인더에서 설거지 하기 삭제해줘",
+    "body": "삼성 리마인더에서 설거지 하기 삭제해줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 28,
+    "previous_ids": [
+      "GEM-035",
+      "GEM-036"
+    ]
+  },
+  {
+    "id": "GEM-038",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-038",
+    "order": 45,
+    "sequence": 38,
+    "title": "삼성캘린더 조회해서 내 다음 주 일정 정리좀 해 줘",
+    "body": "삼성캘린더 조회해서\n내 다음 주 일정 정리좀 해 줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 29,
+    "printed_page": 188,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-039",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-038",
+    "order": 46,
+    "sequence": 39,
+    "title": "이 일정을 To-do list로도 정리해 줘",
+    "body": "이 일정을 To-do list로도 정리해 줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 29,
+    "previous_ids": [
+      "GEM-038"
+    ],
+    "printed_page": 188,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-040",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-038",
+    "order": 47,
+    "sequence": 40,
+    "title": "이 스케줄을 준비하는 과정에서 내가 뭘 해야 돼? 그것도 To-do-list로 정리해 줘",
+    "body": "이 스케줄을 준비하는 과정에서 내가 뭘 해야 돼?\n그것도 To-do-list로 정리해 줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 29,
+    "previous_ids": [
+      "GEM-038",
+      "GEM-039"
+    ],
+    "printed_page": 189,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-041",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-041",
+    "order": 48,
+    "sequence": 41,
+    "title": "삼성 캘린더에서 내 다음 주 일정 조회하고 동선이 어떻게 되는지 확인좀 해 줘.",
+    "body": "삼성 캘린더에서 내 다음 주 일정 조회하고\n동선이 어떻게 되는지 확인좀 해 줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 30,
+    "printed_page": 192,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-042",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-041",
+    "order": 49,
+    "sequence": 42,
+    "title": "숙박 스케줄 좀 짜 봐라.",
+    "body": "숙박 스케줄 좀 짜 봐라.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 30,
+    "previous_ids": [
+      "GEM-041"
+    ],
+    "printed_page": 192,
+    "page_verified": true
+  },
+  {
+    "id": "GEM-043",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-043",
+    "order": 50,
+    "sequence": 43,
+    "title": "어떤 데이터를 사용했어? 어떤 방식으로 실험을 했는데? 논문의 결론이 뭐야?",
+    "body": "어떤 데이터를 사용했어?\n어떤 방식으로 실험을 했는데?\n논문의 결론이 뭐야?",
+    "categories": [
+      "education",
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 36
+  },
+  {
+    "id": "GEM-044",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-043",
+    "order": 51,
+    "sequence": 44,
+    "title": "1. 가설이 뭔데? 2. 실험설계는 어떻게 했어? 3. 어떤 식으로 검증했어?",
+    "body": "1. 가설이 뭔데?\n2. 실험설계는 어떻게 했어?\n3. 어떤 식으로 검증했어?",
+    "categories": [
+      "education",
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 36,
+    "previous_ids": [
+      "GEM-043"
+    ]
+  },
+  {
+    "id": "GEM-045",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-043",
+    "order": 52,
+    "sequence": 45,
+    "title": "1. 이 논문에서 소개한 기술들을 요약해줘 2. 지금은 어떤 기술이 메인이래? 3. 몇 편 정도 연구를 분석한거야?",
+    "body": "1. 이 논문에서 소개한 기술들을 요약해줘\n2. 지금은 어떤 기술이 메인이래?\n3. 몇 편 정도 연구를 분석한거야?",
+    "categories": [
+      "education",
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 36,
+    "previous_ids": [
+      "GEM-043",
+      "GEM-044"
+    ]
+  },
+  {
+    "id": "GEM-046",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-043",
+    "order": 53,
+    "sequence": 46,
+    "title": "파라미터가 뭔데?",
+    "body": "파라미터가 뭔데?",
+    "categories": [
+      "education",
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 36,
+    "previous_ids": [
+      "GEM-043",
+      "GEM-044",
+      "GEM-045"
+    ]
+  },
+  {
+    "id": "GEM-047",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-047",
+    "order": 54,
+    "sequence": 47,
+    "title": "소스 중에 다른 소스들과 연관성이 떨어지는 소스가 있어?",
+    "body": "소스 중에 다른 소스들과 연관성이 떨어지는 소스가 있어?",
+    "categories": [
+      "education",
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 37
+  },
+  {
+    "id": "GEM-048",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-047",
+    "order": 55,
+    "sequence": 48,
+    "title": "현재 소스들이 어떤 내용을 담고 있는지 한 문단으로 요약해 봐.",
+    "body": "현재 소스들이 어떤 내용을 담고 있는지 한 문단으로 요약해 봐.",
+    "categories": [
+      "education",
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 37,
+    "previous_ids": [
+      "GEM-047"
+    ]
+  },
+  {
+    "id": "GEM-049",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-047",
+    "order": 56,
+    "sequence": 49,
+    "title": "(복사한 문구) 이걸 한국어로 번역 해 줘. 최대한 쉬운 문장으로.",
+    "body": "(복사한 문구)\n이걸 한국어로 번역 해 줘. 최대한 쉬운 문장으로.",
+    "categories": [
+      "education",
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 37,
+    "previous_ids": [
+      "GEM-047",
+      "GEM-048"
+    ]
+  },
+  {
+    "id": "GEM-050",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-050",
+    "order": 57,
+    "sequence": 50,
+    "title": "\"특별한 노력으로 체납액 징수에 기여한 것\"이 무슨 뜻이야?",
+    "body": "\"특별한 노력으로 체납액 징수에 기여한 것\"이 무슨 뜻이야?",
+    "categories": [
+      "law",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 41
+  },
+  {
+    "id": "GEM-051",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-051",
+    "order": 58,
+    "sequence": 51,
+    "title": "소스들을 토대로, 내가 업무를 어떻게 파악하면 좋을지 좀 안내해줘. 처음 맡는 업무야.",
+    "body": "소스들을 토대로, 내가 업무를 어떻게 파악하면 좋을지 좀 안내해줘. 처음 맡는 업무야.",
+    "categories": [
+      "law",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 42
+  },
+  {
+    "id": "GEM-053",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 59,
+    "sequence": 53,
+    "title": "문제를 다음과 같이 정의했다. 해외 시장을 중심으로 한 휴머노이드 로봇의 제조, 실증 사례와 경제적 타당성 검토.",
+    "body": "문제를 다음과 같이 정의했다.\n해외 시장을 중심으로 한 휴머노이드 로봇의 제조, 실증 사례와 경제적 타당성 검토.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 46,
+    "previous_ids": [
+      "GEM-052"
+    ]
+  },
+  {
+    "id": "GEM-054",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 60,
+    "sequence": 54,
+    "title": "북유럽으로 조사 범위를 한정해 줘",
+    "body": "북유럽으로 조사 범위를 한정해 줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 46,
+    "previous_ids": [
+      "GEM-052",
+      "GEM-053"
+    ]
+  },
+  {
+    "id": "GEM-055",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 61,
+    "sequence": 55,
+    "title": "최소한 1년 안에 출시될 가능성이 있거나 이미 출시된 제품으로 조사 범위를 한정해 줘",
+    "body": "최소한 1년 안에 출시될 가능성이 있거나 이미 출시된 제품으로 조사 범위를 한정해 줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 46,
+    "previous_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054"
+    ]
+  },
+  {
+    "id": "GEM-056",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 62,
+    "sequence": 56,
+    "title": "블로그 글 등은 출처에서 제외하고, 국제저널이나 논문만 레퍼런스로 참고해 줘.",
+    "body": "블로그 글 등은 출처에서 제외하고, 국제저널이나 논문만 레퍼런스로 참고해 줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 46,
+    "previous_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055"
+    ]
+  },
+  {
+    "id": "GEM-057",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 63,
+    "sequence": 57,
+    "title": "정보를 한 눈에 파악할 수 있도록 정보를 표로 좀 정리해봐",
+    "body": "정보를 한 눈에 파악할 수 있도록 정보를 표로 좀 정리해봐",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 46,
+    "previous_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055",
+      "GEM-056"
+    ]
+  },
+  {
+    "id": "GEM-058",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 64,
+    "sequence": 58,
+    "title": "현재 보고서에 기재된 내용 을 뒷받침하는 레퍼런스를 최대한 많이 찾아오도록. URL도 반드시 기재할 것. 레퍼런스로…",
+    "body": "현재 보고서에 기재된 내용 을 뒷받침하는 레퍼런스를 최대한 많이 찾아오도록.\nURL도 반드시 기재할 것.\n레퍼런스로 뒷받침되지 못하는 주장이나 정보는 삭제해.",
+    "categories": [
+      "prompt_engineering"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 47,
+    "previous_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055",
+      "GEM-056",
+      "GEM-057"
+    ]
+  },
+  {
+    "id": "GEM-059",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 65,
+    "sequence": 59,
+    "title": "출처가 6건인건 너무 적다. 최소 10개 이상 더 찾아보고 보고서를 업데이트해.",
+    "body": "출처가 6건인건 너무 적다. 최소 10개 이상 더 찾아보고 보고서를 업데이트해.",
+    "categories": [
+      "prompt_engineering"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 47,
+    "previous_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055",
+      "GEM-056",
+      "GEM-057",
+      "GEM-058"
+    ]
+  },
+  {
+    "id": "GEM-060",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 66,
+    "sequence": 60,
+    "title": "보고서에 수록한 출처들, URL만 기재해줘. 복사해서 쓸거야.",
+    "body": "보고서에 수록한 출처들, URL만 기재해줘. 복사해서 쓸거야.",
+    "categories": [
+      "prompt_engineering"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 47,
+    "previous_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055",
+      "GEM-056",
+      "GEM-057",
+      "GEM-058",
+      "GEM-059"
+    ]
+  },
+  {
+    "id": "GEM-061",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 67,
+    "sequence": 61,
+    "title": "소스 \"해외 휴머노이드 로봇 산업 실증 및 경제성 분석 보고서.docx\"는 AI가 작성한 자료야. 다른 소스들과 대…",
+    "body": "소스 \"해외 휴머노이드 로봇 산업 실증 및 경제성 분석 보고서.docx\"는 AI가 작성한 자료야. 다른 소스들과 대조해 보고, 할루시네이션이 있으면 전부 찾아줘.",
+    "categories": [
+      "prompt_engineering"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 48,
+    "previous_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055",
+      "GEM-056",
+      "GEM-057",
+      "GEM-058",
+      "GEM-059",
+      "GEM-060"
+    ]
+  },
+  {
+    "id": "GEM-062",
+    "book_id": "gemini-notebook",
+    "group_id": "GEM-052",
+    "order": 68,
+    "sequence": 62,
+    "title": "그럼 이런 점들을 고려해서, 트렌드 리포트를 올바르게 작성하기 위한 전략을 설계해 줘.",
+    "body": "그럼 이런 점들을 고려해서, 트렌드 리포트를 올바르게 작성하기 위한 전략을 설계해 줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "recipe": 50,
+    "previous_ids": [
+      "GEM-052",
+      "GEM-053",
+      "GEM-054",
+      "GEM-055",
+      "GEM-056",
+      "GEM-057",
+      "GEM-058",
+      "GEM-059",
+      "GEM-060",
+      "GEM-061"
+    ]
+  }
+]

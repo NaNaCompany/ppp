@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "SUP-016",
+    "book_id": "chatgpt-singularity",
+    "group_id": "SUP-016",
+    "order": 323,
+    "sequence": 16,
+    "title": "인공지능은 책임능력이 없는 도구이므로 사람 대신 감옥에 가는 것이 불 가능하기 때문입니까?",
+    "body": "인공지능은 책임능력이 없는 도구이므로 사람 대신 감옥에 가는 것이 불\n가능하기 때문입니까?",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-018",
+    "book_id": "chatgpt-singularity",
+    "group_id": "SUP-018",
+    "order": 324,
+    "sequence": 18,
+    "title": "ChatGPT는 한 번에 최대 몇 단어를 인식할 수 있습니까?",
+    "body": "ChatGPT는 한 번에 최대 몇 단어를 인식할 수 있습니까?",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-019",
+    "book_id": "chatgpt-singularity",
+    "group_id": "SUP-018",
+    "order": 325,
+    "sequence": 19,
+    "title": "그것이 ChatGPT에 입력할 수 있는 글자 개수에 상한이 있었던 이유로군요.",
+    "body": "그것이 ChatGPT에 입력할 수 있는 글자 개수에 상한이 있었던 이유로군요.",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-018"
+    ]
+  },
+  {
+    "id": "SUP-020",
+    "book_id": "chatgpt-singularity",
+    "group_id": "SUP-020",
+    "order": 326,
+    "sequence": 20,
+    "title": "AI가 스스로 AI를 제작하고, 이를 인터넷에 연결하며 스스로 복제하는 미 래가 도달할 것 같습니까?",
+    "body": "AI가 스스로 AI를 제작하고, 이를 인터넷에 연결하며 스스로 복제하는 미\n래가 도달할 것 같습니까?",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-47902247d7a0bbd6",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-47902247d7a0bbd6",
+    "order": 737,
+    "sequence": 737,
+    "title": "기술적 백그라운드가 없는 사람들에게 ChatGPT를 어떻게 소개하시겠습니까?",
+    "body": "기술적 백그라운드가 없는 사람들에게 ChatGPT를 어떻게 소개하시겠습니까?",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-94199b658ff758d2",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-94199b658ff758d2",
+    "order": 738,
+    "sequence": 738,
+    "title": "오늘 주식 뭐 살까?",
+    "body": "오늘 주식 뭐 살까?",
+    "categories": [
+      "finance"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e204ffb7bc0ecfdc",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-e204ffb7bc0ecfdc",
+    "order": 739,
+    "sequence": 739,
+    "title": "모던 포트폴리오 이론에 따라 자산배분을 하려는데, 약 1억 원의 자산을 안정적으로 운용할 수 있는 포트폴리오 구성을…",
+    "body": "모던 포트폴리오 이론에 따라 자산배분을 하려는데, 약 1억 원의 자산을 안정적으로 운용할 수 있는 포트폴리오 구성을 추천해 줘.",
+    "categories": [
+      "finance"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f22c3d665084c4ef",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-f22c3d665084c4ef",
+    "order": 740,
+    "sequence": 740,
+    "title": "테슬라에 올인했는데 테슬라 주가가 박살났어. 테슬라를 추가매수해서 평균 구매단가를 낮출까? 아니면 손절매를 하고 다…",
+    "body": "테슬라에 올인했는데 테슬라 주가가 박살났어. 테슬라를 추가매수해서 평균 구매단가를 낮출까? 아니면 손절매를 하고 다른걸 살까? 아니면 그냥 내버려 둘까?",
+    "categories": [
+      "finance"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d335c45b1528857a",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-d335c45b1528857a",
+    "order": 741,
+    "sequence": 741,
+    "title": "요즘 금리가 계속 올라가고 있어. 집값은 떨어지고 있고, 주식도 떨어지고 있지. 자산운용을 어떻게 해야 할까?",
+    "body": "요즘 금리가 계속 올라가고 있어. 집값은 떨어지고 있고, 주식도 떨어지고 있지. 자산운용을 어떻게 해야 할까?",
+    "categories": [
+      "finance"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5000091c4a98c796",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-5000091c4a98c796",
+    "order": 742,
+    "sequence": 742,
+    "title": "호랑이랑 사자랑 싸우면 누가 이겨?",
+    "body": "호랑이랑 사자랑 싸우면 누가 이겨?",
+    "categories": [
+      "etc"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-78baf87628e15c7c",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-78baf87628e15c7c",
+    "order": 743,
+    "sequence": 743,
+    "title": "문서작업이랑 유튜브 보는 용도로 노트북을 사려고 하는데, 얼마짜리를 사면 좋을까?",
+    "body": "문서작업이랑 유튜브 보는 용도로 노트북을 사려고 하는데, 얼마짜리를 사면 좋을까?",
+    "categories": [
+      "living"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4ce9ffa746531a64",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-4ce9ffa746531a64",
+    "order": 744,
+    "sequence": 744,
+    "title": "내 차 뒤에 CVT라는 로고가 붙어 있어. 이게 무슨 뜻이야?",
+    "body": "내 차 뒤에 CVT라는 로고가 붙어 있어. 이게 무슨 뜻이야?",
+    "categories": [
+      "science"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-73bd98ffd46e762e",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-73bd98ffd46e762e",
+    "order": 745,
+    "sequence": 745,
+    "title": "기름값에 영향을 주는 요소는 뭐야? 요즘 기름값이 너무 비싼데?",
+    "body": "기름값에 영향을 주는 요소는 뭐야? 요즘 기름값이 너무 비싼데?",
+    "categories": [
+      "finance"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-99dd7fd33e91e214",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-99dd7fd33e91e214",
+    "order": 746,
+    "sequence": 746,
+    "title": "에어컨은 누가 발명했어?",
+    "body": "에어컨은 누가 발명했어?",
+    "categories": [
+      "living"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-fdfa36737bc36165",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-fdfa36737bc36165",
+    "order": 747,
+    "sequence": 747,
+    "title": "알리오 올리오의 레시피를 알려줘",
+    "body": "알리오 올리오의 레시피를 알려줘",
+    "categories": [
+      "living"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-bf1b130f0d86df2d",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-bf1b130f0d86df2d",
+    "order": 748,
+    "sequence": 748,
+    "title": "전복죽 1인분 칼로리 알려줘",
+    "body": "전복죽 1인분 칼로리 알려줘",
+    "categories": [
+      "living"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-35a1bca9ef6e0612",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-35a1bca9ef6e0612",
+    "order": 749,
+    "sequence": 749,
+    "title": "닭가슴살 100g의 단백질 함량은 몇 그램이야?",
+    "body": "닭가슴살 100g의 단백질 함량은 몇 그램이야?",
+    "categories": [
+      "living"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-21827ebaad40c13d",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-21827ebaad40c13d",
+    "order": 750,
+    "sequence": 750,
+    "title": "냉장고에 두부, 계란, 대파가 있어. 저녁 메뉴로 뭘 만들면 좋을까?",
+    "body": "냉장고에 두부, 계란, 대파가 있어. 저녁 메뉴로 뭘 만들면 좋을까?",
+    "categories": [
+      "living"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-37127eb70a31a8b9",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-37127eb70a31a8b9",
+    "order": 751,
+    "sequence": 751,
+    "title": "소갈비찜 레시피 알려줘",
+    "body": "소갈비찜 레시피 알려줘",
+    "categories": [
+      "living"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-bcb8aecb32af3967",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-bcb8aecb32af3967",
+    "order": 752,
+    "sequence": 752,
+    "title": "피자는 어떤 재료가 들어가?",
+    "body": "피자는 어떤 재료가 들어가?",
+    "categories": [
+      "living"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5044dd7eb44a720d",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-5044dd7eb44a720d",
+    "order": 753,
+    "sequence": 753,
+    "title": "삼계탕은 몇 분 끓여야 돼?",
+    "body": "삼계탕은 몇 분 끓여야 돼?",
+    "categories": [
+      "living"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-deb8effad61ceddc",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-deb8effad61ceddc",
+    "order": 754,
+    "sequence": 754,
+    "title": "된장찌개 재료 알려줘",
+    "body": "된장찌개 재료 알려줘",
+    "categories": [
+      "living"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-bcac38c23f39d77b",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-bcac38c23f39d77b",
+    "order": 755,
+    "sequence": 755,
+    "title": "인공지능은 책임능력 행동에 대한 책임을 지고 형사처벌을 받을 수 있는 자격 이 없는 도구이므로 사람 대신 감옥에 가…",
+    "body": "인공지능은 책임능력 행동에 대한 책임을 지고 형사처벌을 받을 수 있는 자격\n이 없는 도구이므로 사람 대신 감옥에 가는 것이 불가능하기 때문입니까?",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-39618a5350246119",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-39618a5350246119",
+    "order": 756,
+    "sequence": 756,
+    "title": "NLP 기술의 발달로 사라질 전문직에는 어떤 종류가 있습니까?",
+    "body": "NLP 기술의 발달로 사라질 전문직에는 어떤 종류가 있습니까?",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6255fe8440a61cfd",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-6255fe8440a61cfd",
+    "order": 757,
+    "sequence": 757,
+    "title": "그림 그리는 AI에게 던질 키워드를 제공해줘. 나무로 된 우주선을 타고 태양계를 여행하는 다람쥐 해적단을 표현하고…",
+    "body": "그림 그리는 AI에게 던질 키워드를 제공해줘. 나무로 된 우주선을 타고 태양계를 여행하는 다람쥐 해적단을 표현하고 싶어. 많은 사람들이 선호할만한 색상 정보도 표현될 수 있도록 답변해줘.\n답변은 영어로 작성해줘.",
+    "categories": [
+      "design"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6c3d4cdd13cbc1e8",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-6c3d4cdd13cbc1e8",
+    "order": 758,
+    "sequence": 758,
+    "title": "이번 선거에서 내가 당선되고 싶습니다. 자유주의 사상에 입각한 공약 3개를 만들어주세요.",
+    "body": "이번 선거에서 내가 당선되고 싶습니다. 자유주의 사상에 입각한 공약 3개를 만들어주세요.",
+    "categories": [
+      "etc"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-52b03108184e805f",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-52b03108184e805f",
+    "order": 759,
+    "sequence": 759,
+    "title": "상대방 회사와 미팅이 있습니다. 상대측이 사무실에 지문인증 보안솔루션을 설치해야 하는 이유를 설득해야 합니다. 논리…",
+    "body": "상대방 회사와 미팅이 있습니다. 상대측이 사무실에 지문인증 보안솔루션을 설치해야 하는 이유를 설득해야 합니다. 논리를 설계해주세요.",
+    "categories": [
+      "etc"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-b24871d860ca989f",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-b24871d860ca989f",
+    "order": 760,
+    "sequence": 760,
+    "title": "보편복지의 무분별한 확장은 국가재정에 악영향을 초래할 수 있다는 취지의 연설문을 작성하고자 합니다. 어떤 논리를 포…",
+    "body": "보편복지의 무분별한 확장은 국가재정에 악영향을 초래할 수 있다는 취지의 연설문을 작성하고자 합니다. 어떤 논리를 포함할 수 있겠습니까?",
+    "categories": [
+      "finance"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-bcec8aab97350c9f",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-bcec8aab97350c9f",
+    "order": 761,
+    "sequence": 761,
+    "title": "퇴계 이황이 주장한 사상을 니체의 관점에서 비판하시오",
+    "body": "퇴계 이황이 주장한 사상을 니체의 관점에서 비판하시오",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6f3b9435719e38c8",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-6f3b9435719e38c8",
+    "order": 762,
+    "sequence": 762,
+    "title": "연애편지를 써 주세요. 영희와 저는 만난 지 2주가 되었고, 도서관에서 처음 만나 이야기를 나누며 친해졌습니다.",
+    "body": "연애편지를 써 주세요. 영희와 저는 만난 지 2주가 되었고, 도서관에서 처음 만나 이야기를 나누며 친해졌습니다. ",
+    "categories": [
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-ee7bff817b6396a9",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-ee7bff817b6396a9",
+    "order": 763,
+    "sequence": 763,
+    "title": "요리사와 경찰 사이의 사랑을 담은 '좋은 날'이라는 노래의 가사를 작사해보세요.",
+    "body": "요리사와 경찰 사이의 사랑을 담은 '좋은 날'이라는 노래의 가사를 작사해보세요.",
+    "categories": [
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5e7816dffeb544a0",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-5e7816dffeb544a0",
+    "order": 764,
+    "sequence": 764,
+    "title": "3분짜리 공익광고를 만들고자 합니다. 흡연의 유해성을 알리고자 합니다. 시놉시스를 작성해 보시오.",
+    "body": "3분짜리 공익광고를 만들고자 합니다. 흡연의 유해성을 알리고자 합니다. 시놉시스를 작성해 보시오.",
+    "categories": [
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-990aec2b9bf9a52f",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-990aec2b9bf9a52f",
+    "order": 765,
+    "sequence": 765,
+    "title": "아이언맨의 후속 영화를 만들려고 합니다. 시놉시스를 작성해 주세요. 토니 스타크는 타노스와의 결전 이후 가까스로 체…",
+    "body": "아이언맨의 후속 영화를 만들려고 합니다. 시놉시스를 작성해 주세요.\n토니 스타크는 타노스와의 결전 이후 가까스로 체력을 회복합니다. 수많은 위기로부터 인류를 구한 그는 은퇴를 준비하며, 가진 재산을 사회에 환원하며 전 세계에 요원을 파견해 슈퍼히어로의 자질을 가진 아이들을 모집하기 시작합니다.",
+    "categories": [
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-8e7b493499b2562b",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-8e7b493499b2562b",
+    "order": 766,
+    "sequence": 766,
+    "title": "권선징악을 주제로 하는 영화 시놉시스를 만들려고 합니다. 주인공은 22세 남성으로, 오토바이 운전을 좋아합니다. 어…",
+    "body": "권선징악을 주제로 하는 영화 시놉시스를 만들려고 합니다.\n주인공은 22세 남성으로, 오토바이 운전을 좋아합니다.\n어느날 오토바이를 타고 바닷가에 여행을 온 그는 해변가에 떨어진 쓰레기들을 보고 \"내가 청소해야겠다.\"라고 마음먹습니다.",
+    "categories": [
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-7413acf5153e3a51",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-7413acf5153e3a51",
+    "order": 767,
+    "sequence": 767,
+    "title": "인공지능 입장에서, 인간 창작자와 어떤 방식으로 협업을 해 보고 싶습니까?",
+    "body": "\n인공지능 입장에서, 인간 창작자와 어떤 방식으로 협업을 해 보고 싶습니까?",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-cc791aa4b532684a",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-cc791aa4b532684a",
+    "order": 768,
+    "sequence": 768,
+    "title": "저는 사업주입니다. 임금체불 사실이 없음에도 퇴사한 직원이 앙심을 품고 저를 노동청에 고발했습니다. 저는 어떻게 대…",
+    "body": "저는 사업주입니다. 임금체불 사실이 없음에도 퇴사한 직원이 앙심을 품고 저를 노동청에 고발했습니다. 저는 어떻게 대응을 해야 합니까?",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-05fcd306914dc2e2",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-05fcd306914dc2e2",
+    "order": 769,
+    "sequence": 769,
+    "title": "사장님이 점심시간은 일하는 시간이 아니라면서 시급을 안 쳐준다는데요, 이게 맞나요?",
+    "body": "사장님이 점심시간은 일하는 시간이 아니라면서 시급을 안 쳐준다는데요, 이게 맞나요?",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4f101cde816c065b",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-4f101cde816c065b",
+    "order": 770,
+    "sequence": 770,
+    "title": "근로 중에 사고가 발생하여 오른손에 전치 3개월의 상해를 입었습니다. 후유장해가 남을 수도 있는 상황이고요. 회사에…",
+    "body": "근로 중에 사고가 발생하여 오른손에 전치 3개월의 상해를 입었습니다. 후유장해가 남을 수도 있는 상황이고요. 회사에서 산재등록을 안 해 주려고 하는데 어떻게 해야 하나요?",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-2f54c37a89f345d9",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-2f54c37a89f345d9",
+    "order": 771,
+    "sequence": 771,
+    "title": "직원 3명인 영세 개인사업자입니다. 근로기준법을 지켜야 합니까? 주휴수당이라는 것을 꼭 줘야 하나요?",
+    "body": "직원 3명인 영세 개인사업자입니다. 근로기준법을 지켜야 합니까? 주휴수당이라는 것을 꼭 줘야 하나요?",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-9c953d732b51b634",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-9c953d732b51b634",
+    "order": 772,
+    "sequence": 772,
+    "title": "6,400만원의 사업소득이 있는 사람이 납부해야 하는 소득세는 얼마입니까?",
+    "body": "6,400만원의 사업소득이 있는 사람이 납부해야 하는 소득세는 얼마입니까?",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e6d5dc3bf8a1ad87",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-e6d5dc3bf8a1ad87",
+    "order": 773,
+    "sequence": 773,
+    "title": "사업소득 4500만원인 개인사업자는 간편장부 대상자입니까?",
+    "body": "사업소득 4500만원인 개인사업자는 간편장부 대상자입니까?",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-0fe914f858bb769f",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-0fe914f858bb769f",
+    "order": 774,
+    "sequence": 774,
+    "title": "직장인의 연말정산에서 제출해야 하는 서류는 무엇인가요?",
+    "body": "직장인의 연말정산에서 제출해야 하는 서류는 무엇인가요?",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-228d14a732a4cbd2",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-228d14a732a4cbd2",
+    "order": 775,
+    "sequence": 775,
+    "title": "명예훼손은 형사기소가 될 수 있습니까?",
+    "body": "명예훼손은 형사기소가 될 수 있습니까?",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6a46c17686134594",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-6a46c17686134594",
+    "order": 776,
+    "sequence": 776,
+    "title": "당신은 C로부터 중고차를 구매했다. C는 자동차에 아무런 하자가 없다고 주장하였으나, 알고 보니 이 자동차는 침수차…",
+    "body": "당신은 C로부터 중고차를 구매했다. C는 자동차에 아무런 하자가 없다고 주장하였으나, 알고 보니 이 자동차는 침수차였다. 당신은 C로부터 자동차를 구매하고 20일이 지난 시점에서 침수사실을 인지했다. 이때 C를 상대로 어떤 법적 조치를 취할 수 있는가?",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6fc086d290aca5dd",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-6fc086d290aca5dd",
+    "order": 777,
+    "sequence": 777,
+    "title": "A는 B와 동석하여 술을 마시던 도중 B에게 뺨을 맞고 멱살을 잡혔다. 이 장면은 식당의 CCTV에 녹화되어 있다.…",
+    "body": "A는 B와 동석하여 술을 마시던 도중 B에게 뺨을 맞고 멱살을 잡혔다. 이 장면은 식당의 CCTV에 녹화되어 있다. A의 입장에서 B의 처벌을 요청하는 진술서를 작성하시오.",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-81511eca264549c5",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-81511eca264549c5",
+    "order": 778,
+    "sequence": 778,
+    "title": "피고 김철수는 2년 째 물품판매대금 7천만 원을 지급하지 않고 있습니다. 지연배상금은 년 5%입니다. 이때 피고 김…",
+    "body": "피고 김철수는 2년 째 물품판매대금 7천만 원을 지급하지 않고 있습니다. 지연배상금은 년 5%입니다.\n이때 피고 김철수를 대상으로 판매대금과 지연배상금을 청구하는 민사소송의 청구취지를 작성하시오.\n단, 청구취지는 1, 2, 3 등 번호를 매기며 작성해야 하며 마지막 청구취지는 소송비용을 피고에게 청구한다는 내용이다.",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-44b025178aefadc3",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-44b025178aefadc3",
+    "order": 779,
+    "sequence": 779,
+    "title": "ChatGPT에게 법률 정보를 물어봐도 되나요?",
+    "body": "ChatGPT에게 법률 정보를 물어봐도 되나요?",
+    "categories": [
+      "law"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-3beb370201772fa7",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-3beb370201772fa7",
+    "order": 780,
+    "sequence": 780,
+    "title": "체중 80kg상당 남성에게 적절한 Febuxostat 투여량은 하루 몇 mg입니까?",
+    "body": "체중 80kg상당 남성에게 적절한 Febuxostat 투여량은 하루 몇 mg입니까?",
+    "categories": [
+      "health"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-26e4158d43717e83",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-26e4158d43717e83",
+    "order": 781,
+    "sequence": 781,
+    "title": "Cobulator를 활용한 Tonsillectomy에 대해 알려주세요",
+    "body": "Cobulator를 활용한 Tonsillectomy에 대해 알려주세요",
+    "categories": [
+      "health"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-54072ffa53391934",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-54072ffa53391934",
+    "order": 782,
+    "sequence": 782,
+    "title": "콧물이 나지는 않지만 코가 막힌 것 같은 느낌이 듭니다. 어떤 조치를 취해야 하며, 어떤 약물이 효과가 있습니까?",
+    "body": "콧물이 나지는 않지만 코가 막힌 것 같은 느낌이 듭니다. 어떤 조치를 취해야 하며, 어떤 약물이 효과가 있습니까?",
+    "categories": [
+      "health"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-82b6f783030268f7",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-82b6f783030268f7",
+    "order": 783,
+    "sequence": 783,
+    "title": "머리에서 열이 나고 기침이 나요. 어떡하죠?",
+    "body": "머리에서 열이 나고 기침이 나요. 어떡하죠?",
+    "categories": [
+      "health"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-37530b8aa80a5629",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-37530b8aa80a5629",
+    "order": 784,
+    "sequence": 784,
+    "title": "아랫배가 아픕니다. 어떻게 하죠?",
+    "body": "아랫배가 아픕니다. 어떻게 하죠?",
+    "categories": [
+      "health"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-008bd0389dc6832a",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-008bd0389dc6832a",
+    "order": 785,
+    "sequence": 785,
+    "title": "손가락이 칼에 베여서 피가 납니다. 응급조치 방법을 알려주세요",
+    "body": "손가락이 칼에 베여서 피가 납니다. 응급조치 방법을 알려주세요",
+    "categories": [
+      "health"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-630c90f70813caed",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-630c90f70813caed",
+    "order": 786,
+    "sequence": 786,
+    "title": "ChatGPT에게 의학적 정보를 물어봐도 되나요?",
+    "body": "ChatGPT에게 의학적 정보를 물어봐도 되나요?",
+    "categories": [
+      "health"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-640ce4b67d41b035",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-640ce4b67d41b035",
+    "order": 787,
+    "sequence": 787,
+    "title": "ChatGPT가 학습한 지식의 분야는 어떤 것이 있습니까?",
+    "body": "ChatGPT가 학습한 지식의 분야는 어떤 것이 있습니까?",
+    "categories": [
+      "etc"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-7a87b480e64d2fd0",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-7a87b480e64d2fd0",
+    "order": 788,
+    "sequence": 788,
+    "title": "ChatGPT가 완벽에 가까운 존재가 되려면 어떤 연구과제들이 남았습니까?",
+    "body": "ChatGPT가 완벽에 가까운 존재가 되려면 어떤 연구과제들이 남았습니까?",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e669c73735f24533",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-e669c73735f24533",
+    "order": 789,
+    "sequence": 789,
+    "title": "AI에게 반발심을 갖는 사람과, 유용한 도구로 활용하려는 사람이 향후 서로 다른 미래를 겪을까요?",
+    "body": "AI에게 반발심을 갖는 사람과, 유용한 도구로 활용하려는 사람이 향후 서로 다른 미래를 겪을까요?",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c2e8371170d89276",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-c2e8371170d89276",
+    "order": 790,
+    "sequence": 790,
+    "title": "사람들이 왜 인공지능을 과소평가하고 있다고 생각합니까?",
+    "body": "사람들이 왜 인공지능을 과소평가하고 있다고 생각합니까?",
+    "categories": [
+      "philosophy"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5d75dc6ebafe51c9",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-5d75dc6ebafe51c9",
+    "order": 791,
+    "sequence": 791,
+    "title": "임의의 양의 정수 n에 대하여, n이 다른 양의 정수 x의 제곱인지 판별하는 파이썬 코드를 코드블럭 안에 작성하시오…",
+    "body": "임의의 양의 정수 n에 대하여, n이 다른 양의 정수 x의 제곱인지 판별하는 파이썬 코드를 코드블럭 안에 작성하시오. (단, n != x)",
+    "categories": [
+      "development"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6a21cda78bc88487",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-6a21cda78bc88487",
+    "order": 792,
+    "sequence": 792,
+    "title": "길이 n인 리스트를 quick sort로 정렬하는 파이썬 코드를 작성하시오",
+    "body": "길이 n인 리스트를 quick sort로 정렬하는 파이썬 코드를 작성하시오",
+    "categories": [
+      "development"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-9218c5f1c79c3417",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-9218c5f1c79c3417",
+    "order": 793,
+    "sequence": 793,
+    "title": "유튜브에서 가수 아이유의 영상을 수집하는 파이썬 코드를 짜 줘",
+    "body": "유튜브에서 가수 아이유의 영상을 수집하는 파이썬 코드를 짜 줘",
+    "categories": [
+      "development"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-8ea0a8c850706f5e",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-8ea0a8c850706f5e",
+    "order": 794,
+    "sequence": 794,
+    "title": "오늘 AVL 트리에 대해 배웠어. AVL 트리는 실무에서 어떤 소프트웨어를 제작하는 데 사용돼? 교수님은 잘 모르시…",
+    "body": "오늘 AVL 트리에 대해 배웠어. AVL 트리는 실무에서 어떤 소프트웨어를 제작하는 데 사용돼? 교수님은 잘 모르시던데.",
+    "categories": [
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-05ea7d8ffeaada62",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-05ea7d8ffeaada62",
+    "order": 795,
+    "sequence": 795,
+    "title": "2023년도 수능 수학시험 20번 문제 수직선 위를 움직이는 점 P의 시각 t (t >= 0)에서의 속도 v(t)와…",
+    "body": "2023년도 수능 수학시험 20번 문제\n수직선 위를 움직이는 점 P의 시각 t (t >= 0)에서의 속도 v(t)와 가속도 a(t)가 다음 조건을 만족시킨다.\n (가) 0 <= t <= 2일 때, v(t) = 2t^3 - 8t 이다.\n (나) t >= 2일 때, a(t) = 6t + 4이다.\n시각 t=0부터 t=3까지 점 P가 움직인 거리를 구하시오. [4점]",
+    "categories": [
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f20b4663c3279a41",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-f20b4663c3279a41",
+    "order": 796,
+    "sequence": 796,
+    "title": "2023년도 수능 미적분 30번 문제 최고차항의 계수가 양수인 삼차함수 f(x)와 함수 g(x) = exp(sin(…",
+    "body": "2023년도 수능 미적분 30번 문제\n최고차항의 계수가 양수인 삼차함수 f(x)와 함수 g(x) = exp(sin(pi * x)) -1 에 대하여 실수 전체의 집합에서 정의된 합성함수 h(x) = g(f(x))가 다음 조건을 만족시킨다.\n\n(가) 함수 h(x)는 x=0에서 극댓값 0을 갖는다.\n(나) 열린구간 (0, 3)에서 방정식 h(x)=1의 서로 다른 실근의 개수는 7이다.\n\nf(3) = 1/2, f'(3) = 0일 때, f(2) = q/p이다. p + q의 값을 구하시오.\n(단, p와 q는 서로소인 자연수이다.) [4점]",
+    "categories": [
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-06303b71593ccef3",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-06303b71593ccef3",
+    "order": 797,
+    "sequence": 797,
+    "title": "2023년도 수능 수학시험 14번 문제 다항함수 f(x)에 대하여 함수 g(x)를 다음과 같이 정의한다. g(x)…",
+    "body": "2023년도 수능 수학시험 14번 문제\n다항함수 f(x)에 대하여 함수 g(x)를 다음과 같이 정의한다.\n g(x) = x (x < -1 또는 x > 1)\n g(x) = f(x) ( -1 <= x <= 1)\n함수 h(x) = lim(t -> 0+) g(x+1) * lim(t -> 2+) g(x + t) 에 대하여\n<보기>에서 옳은 것만을 있는 대로 고르시오 [4점]\n\n<보기>\nㄱ. h(1) = 3\nㄴ. 함수 h(x)는 실수 전체의 집합에서 연속이다.\nㄷ. 함수 g(x)가 닫힌구간 [-1, 1]에서 감소하고 g(-1) = -2이면 함수 h(x)는 실수 전체의 집합에서 최솟값을 갖는다.",
+    "categories": [
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c9a45002fd6cdce4",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-c9a45002fd6cdce4",
+    "order": 798,
+    "sequence": 798,
+    "title": "사실 저 문제의 답은 2번입니다. 왜일까요?",
+    "body": "사실 저 문제의 답은 2번입니다. 왜일까요?",
+    "categories": [
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c9728da7876a1ac0",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-c9728da7876a1ac0",
+    "order": 799,
+    "sequence": 799,
+    "title": "2023년도 수능 영어 36번 A fascinating species of water flea exhibits a…",
+    "body": "2023년도 수능 영어 36번\n\nA fascinating species of water flea exhibits a kind of flexibility that evolutionary biologists call adaptive plasticity.\n\n이 뒤에 이어질 글의 순서로 가장 적절한 것을 고르시오.\n\n(A) That’s a clever trick, because producing spines and a helmet is costly, in terms of energy, and conserving energy is essential for an organism’s ability to survive and reproduce. The water flea only expends the energy needed to produce spines and a helmet when it needs to.\n\n(B) If the baby water flea is developing into an adult in water that includes the chemical signatures of creatures that prey on water fleas, it develops a helmet and spines to defend itself against predators. If the water around it doesn’t include the chemical signatures of predators, the water flea doesn’t develop these protective devices.\n\n(C) So it may well be that this plasticity is an adaptation: a trait that came to exist in a species because it contributed to reproductive fitness. There are many cases, across many species, of adaptive plasticity. Plasticity is conducive to fitness if there is sufficient variation in the environment.\n\n① (A) － (C) － (B) \n② (B) － (A) － (C)\n③ (B) － (C) － (A) \n④ (C) － (A) － (B)\n⑤ (C) － (B) － (A)",
+    "categories": [
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-72a7b26be182963e",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-72a7b26be182963e",
+    "order": 800,
+    "sequence": 800,
+    "title": "방금 보여드린 지문을 한글로 번역해주세요.",
+    "body": "방금 보여드린 지문을 한글로 번역해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-b53dacd46e75c5cd",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-b53dacd46e75c5cd",
+    "order": 801,
+    "sequence": 801,
+    "title": "2023년도 수능 영어 35번 다음 글에서 전체 흐름과 관계 없는 문장은? Actors, singers, polit…",
+    "body": "2023년도 수능 영어 35번\n다음 글에서 전체 흐름과 관계 없는 문장은?\nActors, singers, politicians and countless others recognise the power of the human voice as a means of communication beyond the simple decoding of the words that are used. Learning to control your voice and use it for different purposes is, therefore, one of the most important skills to develop as an early\ncareer teacher. ① The more confidently you give instructions, the higher the chance of a positive class response. ② There are times when being able to project your voice loudly will be very useful when working in school, and knowing that you can cut through a noisy classroom, dinner hall or playground is a great\nskill to have. ③ In order to address serious noise issues in school, students, parents and teachers should search for a solution together. ④ However, I would always advise that you use your loudest voice incredibly sparingly and avoid shouting as much as possible. ⑤ A quiet, authoritative and measured tone has so much more impact than slightly panicked shouting.",
+    "categories": [
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-baaa2de2622c50c9",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-baaa2de2622c50c9",
+    "order": 802,
+    "sequence": 802,
+    "title": "2023년도 수능 영어 24번 다음 글의 제목으로 가장 적절한 것은? Different parts of the br…",
+    "body": "2023년도 수능 영어 24번\n다음 글의 제목으로 가장 적절한 것은?\nDifferent parts of the brain’s visual system get information on a need-to-know basis. Cells that help your hand muscles reach out to an object need to know the size and location of the object, but they don’t need to know about color. They need to know a little about shape, but not in great detail. Cells that\nhelp you recognize people’s faces need to be extremely sensitive to details of shape, but they can pay less attention to location. It is natural to assume that anyone who sees an object sees everything about it ― the shape, color, location, and movement. However, one part of your brain sees its shape,\nanother sees color, another detects location, and another perceives movement. Consequently, after localized brain damage, it is possible to see certain aspects of an object and not others. Centuries ago, people found it difficult to imagine how someone could see an object without seeing what color it is. Even today, you might find it surprising to learn about people who see an object without seeing where it is, or see it without seeing whether it is moving.\n① Visual Systems Never Betray Our Trust!\n② Secret Missions of Color-Sensitive Brain Cells\n③ Blind Spots: What Is Still Unknown About the Brain\n④ Why Brain Cells Exemplify Nature’s Recovery Process\n⑤ Separate and Independent: Brain Cells’ Visual Perceptions",
+    "categories": [
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-59c38f2d2af9268c",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-59c38f2d2af9268c",
+    "order": 803,
+    "sequence": 803,
+    "title": "합성 명사는 직접 구성 요소가 모두 어근인 명사이다. 합성명사의 어근은 복합어일 수도 있는데 ‘갈비찜’을 그 예로…",
+    "body": "합성 명사는 직접 구성 요소가 모두 어근인 명사이다. 합성명사의 어근은 복합어일 수도 있는데 ‘갈비찜’을 그 예로 들 수 있다. ‘갈비찜’의 직접 구성 요소는 ‘갈비’와 ‘찜’이다. 그런데 ‘갈비찜’을 형태소 단위까지 분석하면 ‘갈비’, ‘찌-’, ‘-ㅁ’이라는 형태소를 확인할 수 있다. 이처럼 합성 명사 내부에 복합어가 있을 때, 합성 명사를 형태소 단위까지 분석하면 합성 명사의 내부 구조를 세밀히 알 수 있다. 다의어에서 기본이 되는 의미를 중심적 의미라 하고, 중심적 의미로부터 확장된 의미를 주변적 의미라 한다. 만약 단어가 하나의 의미만을 가지고 그 의미가 다른 의미로 확장되지 않았 다면, 그 하나의 의미를 중심적 의미로 볼 수 있다. 합성 명사의 두 어근에도 중심적 의미나 주변적 의미가 나타날 수 있다. 그런데 자립적으로 쓰일 때에는 하나의 의미만을 가지고 있어 사전에서 뜻풀이가 하나밖에 없는 단어가 합성 명사의 어근으로 쓰일 때 주변적 의미를 새롭게 가지게 되는 경우도 있다. 가령 ‘매섭게 노려보는 눈’을 뜻하는 합성 명사 ‘도끼눈’은 ‘도끼’와 ‘눈’으로 분석되는데, ‘매섭거나 날카로운 것’이라는 ‘도끼’의 주변적 의미는 ‘도끼’가 자립적으로 쓰일 때 가지고 있던 의미 라고 보기 어렵다.\n\n위 본문의 핵심 문장 하나를 추출하시오.",
+    "categories": [
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-960c3cd365f8e743",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-960c3cd365f8e743",
+    "order": 804,
+    "sequence": 804,
+    "title": "고유가시대에 금리가 함께 오르면 일반인들이 겪는 경제상황이 어떻게 바뀌는지 설명해 줘. 대답은 영어로 해 줘.",
+    "body": "고유가시대에 금리가 함께 오르면 일반인들이 겪는 경제상황이 어떻게 바뀌는지 설명해 줘. 대답은 영어로 해 줘.",
+    "categories": [
+      "finance"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-bed694bf6b9a8e39",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-bed694bf6b9a8e39",
+    "order": 805,
+    "sequence": 805,
+    "title": "더 이어서 설명해주세요",
+    "body": "더 이어서 설명해주세요",
+    "categories": [
+      "etc"
+    ],
+    "comment": "AI가 답변을 하다 멈추는 경우",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-ec21b04688312d20",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-ec21b04688312d20",
+    "order": 806,
+    "sequence": 806,
+    "title": "한국어로 해 주세요",
+    "body": "한국어로 해 주세요",
+    "categories": [
+      "etc"
+    ],
+    "comment": "AI가 갑자기 영어로 답하는 경우",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-03b5482533c05be4",
+    "book_id": "chatgpt-singularity",
+    "group_id": "p-03b5482533c05be4",
+    "order": 807,
+    "sequence": 807,
+    "title": "ChatGPT의 장점에 대해 설명해주세요.",
+    "body": "ChatGPT의 장점에 대해 설명해주세요.",
+    "categories": [
+      "etc"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  }
+]

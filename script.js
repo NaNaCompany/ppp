@@ -1,482 +1,222 @@
+/* Generated: edit src/js/portal.js and src/js/contact.js. */
+/* Progressive enhancement: every prompt, book and category remains readable without JS. */
 document.addEventListener('DOMContentLoaded', () => {
-    const categoriesNav = document.querySelector('.categories-nav');
-    const promptsGrid = document.getElementById('prompts-grid');
-    const navLinks = categoriesNav.querySelectorAll('a');
-
-    // Navigation Elements
-    const categoriesList = document.getElementById('categories-list');
-    const prevBtn = document.getElementById('nav-prev');
-    const nextBtn = document.getElementById('nav-next');
-    const statValue = document.querySelector('.stat-value');
-    const siteHeader = document.querySelector('.site-header');
-    const announcement = document.querySelector('.announcement-bar');
-    function updateStickyOffsets() {
-        document.documentElement.style.setProperty('--header-height', `${siteHeader.getBoundingClientRect().height}px`);
-        document.documentElement.style.setProperty('--announcement-height', `${announcement.getBoundingClientRect().height}px`);
+    const dataNode = document.getElementById('page-data');
+    if (!dataNode) {
+        // Refresh an older cached application shell once after the static-page migration.
+        const target = new URL(location.href);
+        if (!target.searchParams.has('static')) {
+            target.searchParams.set('static', '1');
+            location.replace(target.href);
+        }
+        return;
     }
-    const stickyObserver = new ResizeObserver(updateStickyOffsets);
-    stickyObserver.observe(siteHeader);
-    stickyObserver.observe(announcement);
-    updateStickyOffsets();
-
-    // Hamburger Menu Logic
-    const menuToggle = document.querySelector('.menu-toggle');
-    const mainNav = document.querySelector('.main-nav');
-
-    if (menuToggle && mainNav) {
-        menuToggle.addEventListener('click', () => {
-            mainNav.classList.toggle('active');
-        });
-
-        // Close menu when a link is clicked
-        mainNav.querySelectorAll('a').forEach(link => {
-            link.addEventListener('click', () => {
-                mainNav.classList.remove('active');
-            });
-        });
-    }
-
-    // Modal Elements
+    const data = JSON.parse(dataNode.textContent);
     const modal = document.getElementById('modal');
-    const closeModalBtn = document.getElementById('close-modal');
-    const modalCover = document.getElementById('modal-cover');
-    const modalTitle = document.getElementById('modal-title');
-    const modalAuthor = document.getElementById('modal-author');
-    const modalYear = document.getElementById('modal-year');
-    const modalPublisher = document.getElementById('modal-publisher');
-    const linkKyobo = document.getElementById('link-kyobo');
-    const linkYes24 = document.getElementById('link-yes24');
-    const linkAladin = document.getElementById('link-aladin');
-    const copyToast = document.getElementById('copy-toast');
-    const modalContext = document.getElementById('modal-context');
-    const modalUsage = document.getElementById('modal-usage');
-    const modalPrevious = document.getElementById('modal-previous');
-    const modalPreviousList = document.getElementById('modal-previous-list');
-    const modalSourcePage = document.getElementById('modal-source-page');
-
-    // State
-    let currentCategory = 'new'; // Default category
-    let allPromptsPromise;
-    let promptIndex = new Map();
-    let modalOpener;
+    const closeButton = document.getElementById('close-modal');
+    const cover = document.getElementById('modal-cover');
+    const toast = document.getElementById('copy-toast');
+    const previous = document.getElementById('modal-previous');
+    const previousList = document.getElementById('modal-previous-list');
+    const context = document.getElementById('modal-context');
+    let opener;
     let closeTimer;
-    let loadVersion = 0;
+    let modalVersion = 0;
+    const groupCache = new Map();
 
-    function fetchAllPrompts() {
-        if (!allPromptsPromise) {
-            allPromptsPromise = fetch('src/prompts/all.json?t=' + Date.now()).then(async response => {
-                if (!response.ok) throw new Error('Failed to load all.json');
-                const data = await response.json();
-                promptIndex = new Map(data.filter(item => item.id).map(item => [item.id, item]));
-                return data;
-            }).catch(error => {
-                allPromptsPromise = undefined;
-                throw error;
-            });
-        }
-        return allPromptsPromise;
-    }
-
-    function escapeHtml(value) {
-        return String(value ?? '').replace(/[&<>"']/g, character => ({
-            '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
-        })[character]);
-    }
-
-    // Initial Load
-    fetchTotalPrompts();
-    loadPrompts(currentCategory);
-    showNonEmptyCategories(); // Check and SHOW valid categories
-
-    // --- Navigation Logic ---
-    prevBtn.addEventListener('click', () => {
-        categoriesList.scrollBy({ left: -200, behavior: 'smooth' });
+    const header = document.querySelector('.site-header');
+    const announcement = document.querySelector('.announcement-bar');
+    const measureSticky = () => {
+        document.documentElement.style.setProperty('--header-height', `${header.getBoundingClientRect().height}px`);
+        document.documentElement.style.setProperty('--announcement-height', `${announcement.getBoundingClientRect().height}px`);
+    };
+    const observer = new ResizeObserver(measureSticky);
+    observer.observe(header);
+    observer.observe(announcement);
+    measureSticky();
+    document.getElementById('nav-prev').addEventListener('click', () => document.getElementById('categories-list').scrollBy({left:-220,behavior:'smooth'}));
+    document.getElementById('nav-next').addEventListener('click', () => document.getElementById('categories-list').scrollBy({left:220,behavior:'smooth'}));
+    const toggle = document.querySelector('.menu-toggle');
+    const nav = document.querySelector('.main-nav');
+    toggle.addEventListener('click', () => {
+        const expanded = nav.classList.toggle('active');
+        toggle.setAttribute('aria-expanded', String(expanded));
     });
+    nav.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {
+        nav.classList.remove('active');
+        toggle.setAttribute('aria-expanded','false');
+    }));
 
-    nextBtn.addEventListener('click', () => {
-        categoriesList.scrollBy({ left: 200, behavior: 'smooth' });
-    });
-
-    // Drag to Scroll
-    let isDown = false;
-    let startX;
-    let scrollLeft;
-
-    categoriesList.addEventListener('mousedown', (e) => {
-        isDown = true;
-        categoriesList.classList.add('active'); // Optional: for cursor styling if added
-        startX = e.pageX - categoriesList.offsetLeft;
-        scrollLeft = categoriesList.scrollLeft;
-    });
-
-    categoriesList.addEventListener('mouseleave', () => {
-        isDown = false;
-    });
-
-    categoriesList.addEventListener('mouseup', () => {
-        isDown = false;
-    });
-
-    categoriesList.addEventListener('mousemove', (e) => {
-        if (!isDown) return;
-        e.preventDefault();
-        const x = e.pageX - categoriesList.offsetLeft;
-        const walk = (x - startX) * 2; // Scroll-fast
-        categoriesList.scrollLeft = scrollLeft - walk;
-    });
-
-    // Touch support (basic native usually works, but just in case)
-    // Categories overflow-x: auto handles swipe naturally.
-
-    // --- Category Click Handling ---
-    navLinks.forEach(link => {
-        link.addEventListener('click', (e) => {
-            e.preventDefault();
-
-            // Activate Link
-            navLinks.forEach(l => l.classList.remove('active'));
-            link.classList.add('active');
-
-            // Get Category Name & Normalize
-            const catName = link.textContent.trim();
-            currentCategory = normalizeCategory(catName);
-
-            loadPrompts(currentCategory);
-        });
-    });
-
-    // Modal Close Handling
-    closeModalBtn.addEventListener('click', () => closeModal());
-    modal.addEventListener('click', (e) => {
-        if (e.target === modal) closeModal();
-    });
-    document.addEventListener('keydown', event => {
-        if (modal.classList.contains('hidden')) return;
-        if (event.key === 'Escape') closeModal();
-        if (event.key === 'Tab') {
-            const focusable = Array.from(modal.querySelectorAll('button, a[href], summary')).filter(element => element.getClientRects().length);
-            const first = focusable[0];
-            const last = focusable[focusable.length - 1];
-            if (event.shiftKey && document.activeElement === first) {
-                event.preventDefault(); last.focus();
-            } else if (!event.shiftKey && document.activeElement === last) {
-                event.preventDefault(); first.focus();
-            }
-        }
-    });
-
-    // Functions
-    function normalizeCategory(name) {
-        if (name === 'ALL') return 'all';
-        return name.toLowerCase().replace(/\//g, '_').replace(/\s+/g, '_');
-    }
-
-    async function fetchTotalPrompts() {
+    async function copy(text) {
+        toast.classList.remove('error');
         try {
-            const data = await fetchAllPrompts();
-            statValue.textContent = data.length.toLocaleString();
-        } catch (error) {
-            console.error('Error fetching total prompts:', error);
+            await navigator.clipboard.writeText(text);
+            toast.textContent = '프롬프트가 복사되었습니다!';
+        } catch {
+            toast.textContent = '자동 복사에 실패했습니다. 본문을 선택해 복사하세요.';
+            toast.classList.add('error');
         }
+        toast.classList.add('active');
     }
 
-    async function showNonEmptyCategories() {
-        const links = Array.from(categoriesNav.querySelectorAll('a'));
-        const validCategories = [];
-
-        // 1. Fetch data for all categories
-        const fetchPromises = links.map(async (link) => {
-            const catName = link.textContent.trim();
-            const category = normalizeCategory(catName);
-
-            // Skip Special Categories (Keep them, but don't sort/hide primarily)
-            if (category === 'new' || category === 'all') return;
-
-            try {
-                const response = await fetch(`src/prompts/${category}.json?t=` + new Date().getTime());
-                if (response.ok) {
-                    const data = await response.json();
-                    if (Array.isArray(data) && data.length > 0) {
-                        validCategories.push({
-                            element: link.parentElement,
-                            count: data.length
-                        });
-                        // Ensure it's visible based on logic, though we will re-append
-                        link.parentElement.style.display = 'block';
-                    } else {
-                        link.parentElement.style.display = 'none';
-                    }
-                } else {
-                    link.parentElement.style.display = 'none';
-                }
-            } catch (e) {
-                console.warn(`Error checking category ${category}:`, e);
-                link.parentElement.style.display = 'none';
-            }
-        });
-
-        await Promise.all(fetchPromises);
-
-        // 2. Sort valid categories by count (Descending)
-        validCategories.sort((a, b) => b.count - a.count);
-
-        // 3. Re-append to DOM
-        // Keep "New" and "ALL" at the top. 
-        // We append sorted items to the end of the list, automatically reordering them.
-        const listContainer = document.getElementById('categories-list');
-        validCategories.forEach(item => {
-            listContainer.appendChild(item.element);
-        });
-    }
-
-    async function loadPrompts(category) {
-        const version = ++loadVersion;
-        // --- 1. Start Fade Out Animation ---
-        promptsGrid.classList.add('fade-out');
-        const fadeOutPromise = new Promise(resolve => setTimeout(resolve, 300));
-
-        try {
-            // --- 2. Start Fetching Data Concurrently ---
-            const url = `src/prompts/${category}.json?t=` + Date.now();
-            const fetchPromise = category === 'new' || category === 'all' ? fetchAllPrompts() : fetch(url).then(async (response) => {
-                if (!response.ok) throw new Error(`Failed to load prompts for ${category}`);
-                return await response.json();
-            });
-
-            // --- 3. Wait for BOTH Fade Out and Fetch to complete ---
-            // This ensures minimum 300ms delay for animation, but utilizes that time for fetching.
-            const [_, data] = await Promise.all([fadeOutPromise, fetchPromise]);
-            if (version !== loadVersion) return;
-
-            // --- 4. Process Data ---
-            let processedData = [...data];
-            if (category === 'new') {
-                processedData = data.slice(0, 10);
-            } else if (category === 'all') {
-                // Fisher-Yates Shuffle
-                for (let i = processedData.length - 1; i > 0; i--) {
-                    const j = Math.floor(Math.random() * (i + 1));
-                    [processedData[i], processedData[j]] = [processedData[j], processedData[i]];
-                }
-            }
-
-            // --- 5. Render & Fade In ---
-            // Clear previous content just before rendering new content
-            renderPrompts(processedData);
-
-            // Allow browser paint cycle then fade in
-            requestAnimationFrame(() => {
-                promptsGrid.classList.remove('fade-out');
-            });
-
-        } catch (error) {
-            if (version !== loadVersion) return;
-            console.error(error);
-            // If fetch failed, still wait for fade out to finish before showing error
-            await fadeOutPromise;
-
-            promptsGrid.innerHTML = `<p style="color:#ef4444; text-align:center; grid-column: 1/-1;">No prompts found for this category (${category}).</p>`;
-            promptsGrid.classList.remove('fade-out');
-        }
-    }
-
-    function renderPrompts(prompts) {
-        promptsGrid.innerHTML = '';
-
-        if (!prompts || prompts.length === 0) {
-            promptsGrid.innerHTML = '<p style="color:#94a3b8; text-align:center; grid-column: 1/-1;">No prompts available.</p>';
-            return;
-        }
-
-        prompts.forEach(item => {
-            const card = document.createElement('div');
-            card.className = 'prompt-card';
-            card.dataset.promptId = item.id || '';
-            card.tabIndex = 0;
-            card.setAttribute('role', 'button');
-            card.setAttribute('aria-label', '프롬프트 복사 및 출처·책 구매 링크 보기');
-
-            // Extract Metadata safely
-            const meta = item.metadata || {};
-            const title = meta['Book Title'] || 'Unknown Title';
-            const year = meta['Year'] || '';
-            const author = meta['Author'] || 'Unknown Author';
-
-            // Format Footer Text: Book_title (year), Author
-            const footerText = `${title}${year ? ` (${year})` : ''}, ${author}`;
-
-            // Screenshot HTML
-            let screenshotHtml = '';
-            if (item.screenshot && item.screenshot.trim() !== '') {
-                screenshotHtml = `<img src="src/screenshots/${encodeURIComponent(item.screenshot)}" loading="lazy" alt="Screenshot" class="card-screenshot">`;
-            }
-
-            let promptContent = escapeHtml(item.prompt);
-            // Add hashtags for 'new' and 'all' categories
-            if (currentCategory === 'new' || currentCategory === 'all') {
-                let cats = item.category;
-                if (typeof cats === 'string') {
-                    // Handle legacy comma-separated string if exists, though update_data.py handles it now
-                    cats = cats.split(',').map(c => c.trim());
-                } else if (!Array.isArray(cats)) {
-                    cats = [];
-                }
-
-                if (cats.length > 0) {
-                    const hashTags = cats.map(c => `<span class="hashtag" data-category="${escapeHtml(c)}">#${escapeHtml(c)}</span>`).join(' ');
-                    promptContent += `<br><br><span style="color:#94a3b8; font-size:0.9em;">${hashTags}</span>`;
-                }
-            }
-
-            card.innerHTML = `
-            ${screenshotHtml}
-                <div class="prompt-text">${promptContent}</div>
-                <div class="copy-icon-card">
-                    복사하기 <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-                </div>
-                ${item.comment ? `<div class="card-comment">${escapeHtml(item.comment)}</div>` : ''}
-                <div class="card-footer">${escapeHtml(footerText)}</div>
-            `;
-
-            // Card Click Event -> Open Modal
-            card.addEventListener('click', (e) => {
-                // If clicked on hashtag, treat as navigation, NOT card click
-                if (e.target.classList.contains('hashtag')) {
-                    e.stopPropagation(); // prevent card click
-                    const rawCat = e.target.getAttribute('data-category');
-                    const targetCat = normalizeCategory(rawCat);
-
-                    // Find Nav Link
-                    const targetLink = Array.from(navLinks).find(link =>
-                        normalizeCategory(link.textContent.trim()) === targetCat
-                    );
-
-                    if (targetLink) {
-                        targetLink.click();
-                        // Optional: Scroll to top of categories or grid?
-                        // targetLink.scrollIntoView({ behavior: 'smooth', inline: 'center' });
-                    } else {
-                        console.warn(`Category link not found for: ${rawCat}`);
-                    }
-                    return;
-                }
-
-                openModal(item);
-                copyToClipboard(item.prompt);
-            });
-            card.addEventListener('keydown', event => {
-                if (event.key === 'Enter' || event.key === ' ') {
-                    event.preventDefault();
-                    card.click();
-                }
-            });
-
-            promptsGrid.appendChild(card);
-        });
-    }
-
-    function openModal(item) {
-        const meta = item.metadata || {};
-        clearTimeout(closeTimer);
-        modalOpener = document.activeElement;
-        copyToast.classList.remove('active');
-        copyToast.classList.remove('error');
-        copyToast.textContent = '';
-
-        // Populate Modal Fields
-        modalTitle.textContent = meta['Book Title'] || '';
-        modalAuthor.textContent = meta['Author'] || '';
-        modalYear.textContent = meta['Year'] ? `${meta['Year']}` : '';
-        modalPublisher.textContent = meta['Publisher'] || '';
-        const source = item.source || {};
-        modalSourcePage.textContent = [source.recipe ? `레시피 ${source.recipe}` : '', source.pdf_page ? `PDF ${source.pdf_page}페이지` : ''].filter(Boolean).join(' · ');
-        modalUsage.textContent = item.comment || '';
-        modalPrevious.open = false;
-        modalPreviousList.replaceChildren();
-        const previous = (item.previous_prompt_ids || []).map(id => promptIndex.get(id)).filter(Boolean);
-        previous.forEach(previousItem => {
-            const li = document.createElement('li');
-            const text = document.createElement('p');
-            text.textContent = previousItem.prompt;
-            const copy = document.createElement('button');
-            copy.type = 'button';
-            copy.textContent = '이 입력 복사';
-            copy.addEventListener('click', () => copyToClipboard(previousItem.prompt));
-            li.append(text, copy);
-            modalPreviousList.appendChild(li);
-        });
-        modalPrevious.hidden = previous.length === 0;
-        modalContext.hidden = !item.comment && previous.length === 0;
-
-        // Cover Image
-        const coverFilename = meta['Cover_filename'];
-        if (coverFilename) {
-            modalCover.src = `src/bookcovers/${encodeURIComponent(coverFilename)}`;
-            modalCover.alt = `${meta['Book Title']} 표지`;
-            modalCover.style.display = 'block';
-        } else {
-            modalCover.style.display = 'none';
-        }
-
-        // Store Links - Hide if empty
-        // Ensure accurate property names matching Excel headers/JSON keys
-        // Python script converts as is. Previous JSON showed keys like "Kyobo", "Yes24", "Aladin".
-        updateStoreLink(linkKyobo, meta['Kyobo']);
-        updateStoreLink(linkYes24, meta['Yes24']);
-        updateStoreLink(linkAladin, meta['Aladin']);
-
-        // Show Modal
-        modal.classList.remove('hidden');
-        // Small delay to allow display:flex to apply before opacity transition
-        requestAnimationFrame(() => {
-            modal.classList.add('show');
-            closeModalBtn.focus();
-        });
-    }
-
-    function updateStoreLink(element, url) {
-        element.hidden = true;
-        element.removeAttribute('href');
-        if (typeof url !== 'string' || !url.trim()) return;
+    function storeLink(id, url) {
+        const link = document.getElementById(id);
+        link.hidden = true;
+        link.removeAttribute('href');
+        if (!url) return;
         try {
             const target = new URL(url);
             if (target.protocol !== 'https:' && target.protocol !== 'http:') return;
-            element.href = target.href;
-            element.hidden = false;
-        } catch {
-            // An invalid or absent store address must never retain the previous book's link.
+            link.href = target.href;
+            link.hidden = false;
+        } catch { /* An absent or malformed link never inherits the previous book's address. */ }
+    }
+
+    function loadGroup(id) {
+        if (!groupCache.has(id)) {
+            groupCache.set(id, fetch(data.groups[id]).then(response => {
+                if (!response.ok) throw new Error('Could not load prompt sequence');
+                return response.json();
+            }).catch(error => {
+                groupCache.delete(id);
+                throw error;
+            }));
         }
+        return groupCache.get(id);
+    }
+
+    function openSource(card) {
+        const book = data.books[card.dataset.bookId];
+        if (!book) return;
+        const version = ++modalVersion;
+        clearTimeout(closeTimer);
+        opener = document.activeElement;
+        toast.classList.remove('active','error');
+        toast.textContent = '';
+        document.getElementById('modal-title').textContent = book.title;
+        document.getElementById('modal-author').textContent = book.author;
+        document.getElementById('modal-year').textContent = book.year;
+        document.getElementById('modal-publisher').textContent = book.publisher;
+        const page = document.getElementById('modal-source-page');
+        page.textContent = card.dataset.printedPage ? `본문 ${card.dataset.printedPage}p.` : '';
+        page.hidden = !card.dataset.printedPage;
+        cover.hidden = !book.cover;
+        if (book.cover) {
+            cover.src = data.base + 'src/bookcovers/' + encodeURIComponent(book.cover);
+            cover.alt = book.title + ' 표지';
+        } else cover.removeAttribute('src');
+        storeLink('link-kyobo', book.stores.Kyobo);
+        storeLink('link-yes24', book.stores.Yes24);
+        storeLink('link-aladin', book.stores.Aladin);
+        const comment = card.querySelector('.card-comment')?.textContent || '';
+        document.getElementById('modal-usage').textContent = comment;
+        previous.open = false;
+        previous.hidden = true;
+        previousList.replaceChildren();
+        context.hidden = !comment;
+        modal.classList.remove('hidden');
+        document.body.classList.add('modal-open');
+        requestAnimationFrame(() => {
+            modal.classList.add('show');
+            closeButton.focus();
+        });
+        // Start the clipboard write inside the original user gesture, before any network await.
+        copy(card.querySelector('[data-copy-text]').textContent);
+        loadGroup(card.dataset.groupId).then(group => {
+            if (version !== modalVersion || group.records.length < 2) return;
+            previous.querySelector('summary').textContent = `프롬프트 순서 (입력 ${group.records.length}개)`;
+            group.records.forEach(record => {
+                const li = document.createElement('li');
+                const text = document.createElement('p');
+                text.textContent = record.body;
+                const button = document.createElement('button');
+                button.type = 'button';
+                button.textContent = '이 입력 복사';
+                button.addEventListener('click', () => copy(record.body));
+                li.append(text, button);
+                previousList.appendChild(li);
+            });
+            previous.hidden = false;
+            context.hidden = false;
+        }).catch(() => { /* Static detail pages still contain the complete sequence. */ });
     }
 
     function closeModal() {
+        ++modalVersion;
         modal.classList.remove('show');
+        document.body.classList.remove('modal-open');
         closeTimer = setTimeout(() => {
             modal.classList.add('hidden');
-            // Reset toast state when modal closes
-            copyToast.classList.remove('active');
-            if (modalOpener) modalOpener.focus();
-        }, 300); // Match transition duration
+            if (opener?.isConnected) opener.focus();
+        }, 300);
     }
-
-    async function copyToClipboard(text) {
-        try {
-            await navigator.clipboard.writeText(text);
-            copyToast.classList.remove('error');
-            copyToast.textContent = '프롬프트가 복사되었습니다!';
-            showToast();
-        } catch (err) {
-            copyToast.classList.add('error');
-            copyToast.textContent = '자동 복사에 실패했습니다. 카드에서 내용을 선택해 복사하세요.';
-            showToast();
-            console.error('Failed to copy text: ', err);
+    document.querySelectorAll('[data-open-source]').forEach(button => { button.hidden = false; });
+    document.addEventListener('click', event => {
+        const card = event.target.closest('.prompt-card');
+        if (card && !event.target.closest('a')) openSource(card);
+    });
+    document.addEventListener('keydown', event => {
+        if (!modal.classList.contains('hidden')) {
+            if (event.key === 'Escape') closeModal();
+            if (event.key === 'Tab') {
+                const items = [...modal.querySelectorAll('button,a[href],summary')].filter(el => el.getClientRects().length);
+                const first = items[0], last = items[items.length-1];
+                if (event.shiftKey && document.activeElement === first) { event.preventDefault();last.focus(); }
+                else if (!event.shiftKey && document.activeElement === last) { event.preventDefault();first.focus(); }
+            }
+        } else if (event.target.matches('.prompt-card') && ['Enter',' '].includes(event.key)) {
+            event.preventDefault();
+            openSource(event.target);
         }
-    }
+    });
+    closeButton.addEventListener('click',closeModal);
+    modal.addEventListener('click',event => { if (event.target === modal) closeModal(); });
 
-    function showToast() {
-        // Show immediately and persist with blink
-        copyToast.classList.add('active');
+    const results = document.getElementById('search-results');
+    if (results) {
+        const form = document.querySelector('.search-form');
+        const input = document.getElementById('portal-search');
+        const status = document.getElementById('search-status');
+        let indexPromise;
+        let searchVersion = 0;
+        async function search() {
+            const query = input.value.trim();
+            const version = ++searchVersion;
+            const target = new URL(location.href);
+            target.search = query ? '?q='+encodeURIComponent(query) : '';
+            history.replaceState(null,'',target);
+            results.replaceChildren();
+            if (!query) { status.textContent='검색어를 입력하세요.';return; }
+            status.textContent='검색 중…';
+            try {
+                indexPromise ||= fetch(data.search_url).then(response => {
+                    if (!response.ok) throw new Error('Search index unavailable');
+                    return response.json();
+                }).catch(error => { indexPromise=undefined;throw error; });
+                const index = await indexPromise;
+                if (version !== searchVersion) return;
+                const words = query.toLocaleLowerCase().split(/\s+/);
+                const matches = index.filter(doc => words.every(word => (doc.title+' '+doc.book+' '+doc.text+' '+doc.categories.join(' ')).toLocaleLowerCase().includes(word)));
+                status.textContent = `${matches.length}개 레시피` + (matches.length>100 ? ' · 앞의 100개 표시' : '');
+                matches.slice(0,100).forEach(doc => {
+                    const article = document.createElement('article');
+                    article.className='search-result';
+                    const h2=document.createElement('h2'), link=document.createElement('a');
+                    link.href=doc.url;link.textContent=doc.title;h2.appendChild(link);
+                    const book=document.createElement('p');book.textContent=doc.book;
+                    const snippet=document.createElement('p');snippet.textContent=doc.text.slice(0,170);
+                    article.append(h2,book,snippet);results.appendChild(article);
+                });
+            } catch { if(version===searchVersion) status.textContent='검색을 불러오지 못했습니다. 전체 목록이나 분류 링크를 이용하세요.'; }
+        }
+        input.value=new URL(location.href).searchParams.get('q')||'';
+        form.addEventListener('submit',event=>{event.preventDefault();search();});
+        search();
     }
+});
 
+/* Existing contact form integration. */
+document.addEventListener('DOMContentLoaded', () => {
     // --- Contact View Logic ---
     const contactLink = document.getElementById('contact-link');
     const homeLink = document.getElementById('home-link');
@@ -523,16 +263,8 @@ document.addEventListener('DOMContentLoaded', () => {
             showContactView();
         });
     }
+    if (location.hash === '#contact') showContactView();
 
-    if (homeLink) {
-        homeLink.addEventListener('click', (e) => {
-            e.preventDefault();
-            // Reset active state on nav
-            document.querySelectorAll('.main-nav a').forEach(el => el.classList.remove('active'));
-            homeLink.classList.add('active');
-            showHomeView();
-        });
-    }
 
     // Contact Form Submit
     if (contactForm) {

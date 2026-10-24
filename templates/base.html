@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CV4YSSX8VK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-CV4YSSX8VK');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@@TITLE@@</title>
+    <meta name="description" content="@@DESCRIPTION@@">
+    <meta name="keywords" content="프롬프트, AI, 인공지능">
+    <meta name="author" content="반병현">
+    @@META@@
+    <link rel="icon" href="/ppp/src/assets/icon.png">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9767176956440077"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="@@STYLE_URL@@">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="logo"><a href="/ppp/">Published<br />Prompt<br />Portal</a></div>
+            <div class="prompt-stats">
+                <span class="stat-label">Total Prompts</span>
+                <span class="stat-value">@@COUNT@@</span>
+            </div>
+            <button class="menu-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="/ppp/" id="home-link">Home</a></li>
+                    <li><a href="/ppp/books/">Books</a></li>
+                    <li><a href="#contact" id="contact-link">Contact</a></li>
+                    <li><a href="/ppp/update_rule/">등재요청</a></li>
+                    <li><a href="https://nanalab.kr" target="_blank">NaNaLab</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+@@MAIN_CONTENT@@
+    <!-- Modal -->
+    <div id="modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <button id="close-modal" class="close-btn" aria-label="창 닫기">&times;</button>
+            <p class="source-label">&lt;프롬프트 출처&gt;</p>
+            <div class="modal-body">
+                <div class="modal-left">
+                    <img id="modal-cover" alt="" hidden>
+                </div>
+                <div class="modal-right">
+                    <div id="copy-toast" class="copy-message" aria-live="polite"></div>
+                    <h2 id="modal-title"></h2>
+                    <p id="modal-author"></p>
+                    <p id="modal-year"></p>
+                    <p id="modal-publisher"></p>
+                    <p id="modal-source-page" class="source-page"></p>
+
+                    <div class="store-links" aria-label="책 구매 서점">
+                        <a id="link-kyobo" aria-label="교보문고 도서 보기" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
+                                src="/ppp/src/store_logo/kyobo.png" alt=""></a>
+                        <a id="link-yes24" aria-label="YES24 도서 보기" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
+                                src="/ppp/src/store_logo/yes24.png" alt=""></a>
+                        <a id="link-aladin" aria-label="알라딘 도서 보기" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
+                                src="/ppp/src/store_logo/aladin.png" alt=""></a>
+                    </div>
+                </div>
+            </div>
+            <section id="modal-context" class="modal-context" hidden>
+                <p id="modal-usage"></p>
+                <details id="modal-previous" hidden>
+                    <summary>앞선 프롬프트 (사용자 입력)</summary>
+
+                    <ol id="modal-previous-list"></ol>
+                </details>
+            </section>
+        </div>
+    </div>
+
+    <!-- Contact Section -->
+    <div id="contact-section" style="display:none;">
+        <div class="contact-content">
+            <h2 class="contact-title">Contact Us</h2>
+            <p class="contact-desc">프롬프트 등재문의는 <a href="/ppp/update_rule/">여기</a>를 클릭해주세요.</p>
+
+            <form id="contact-form" class="contact-form">
+                <div class="form-group" id="group-name">
+                    <label for="mail_name">Name</label>
+                    <input type="text" id="mail_name" name="mail_name" required placeholder="이름을 입력해주세요">
+                </div>
+
+                <div class="form-group form-reveal" id="div-institution">
+                    <label for="mail_institution">Institution</label>
+                    <input type="text" id="mail_institution" name="mail_institution" required
+                        placeholder="소속 기관명을 입력해주세요">
+                </div>
+
+                <div class="form-group form-reveal" id="div-phone">
+                    <label for="mail_phone">Phone Number</label>
+                    <div class="phone-input-group">
+                        <div class="custom-select-wrapper">
+                            <div class="custom-select">
+                                <div class="select-selected">KR (+82)</div>
+                                <div class="select-items select-hide">
+                                    <div data-value="+82">KR (+82)</div>
+                                    <div data-value="+1">US (+1)</div>
+                                    <div data-value="+81">JP (+81)</div>
+                                    <div data-value="+86">CN (+86)</div>
+                                    <div data-value="">직접입력</div>
+                                </div>
+                            </div>
+                            <input type="hidden" id="country_code" name="country_code" value="+82">
+                        </div>
+                        <input type="tel" id="mail_phone" name="mail_phone" placeholder="010-1234-5678">
+                    </div>
+                </div>
+
+                <div class="form-group form-reveal" id="div-email">
+                    <label for="mail_email">Email</label>
+                    <input type="email" id="mail_email" name="mail_email" required placeholder="이메일을 입력해주세요">
+                </div>
+
+                <div class="form-group">
+                    <label for="mail_title">Title</label>
+                    <input type="text" id="mail_title" name="mail_title" required placeholder="제목을 입력해주세요">
+                </div>
+                <div class="form-group">
+                    <label for="mail_message">Message</label>
+                    <textarea id="mail_message" name="mail_message" required placeholder="문의하실 내용을 남겨주세요"></textarea>
+                </div>
+                <button type="submit" class="submit-btn">문의 보내기</button>
+            </form>
+        </div>
+    </div>
+
+    <script defer src="@@SCRIPT_URL@@"></script>
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2026 <a href="https://nanalab.kr">NaNaLab</a> All rights reserved. <br />이 사이트에 개제된 모든 프롬프트는 저자의
+                허락을 받아 수록하였으며, 각 프롬프트의 저작권은 저자에게 있습니다.<br />프롬프트의 무단 수집, 복제, 재게시를 허가하지 않습니다.</p>
+        </div>
+    </footer>
+</body>
+
+</html>

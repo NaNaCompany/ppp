@@ -1,0 +1,2000 @@
+[
+  {
+    "id": "SUP-022",
+    "book_id": "english-classroom",
+    "group_id": "SUP-022",
+    "order": 9,
+    "sequence": 22,
+    "title": "위 의 이메일에서 주요 영어 표현을 알려줘.",
+    "body": "위 의 이메일에서 주요 영어 표현을 알려줘.",
+    "categories": [
+      "language",
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-023",
+    "book_id": "english-classroom",
+    "group_id": "SUP-023",
+    "order": 328,
+    "sequence": 23,
+    "title": "위의 보고서에서 주요 영어 표현을 알려줘.",
+    "body": "위의 보고서에서 주요 영어 표현을 알려줘.",
+    "categories": [
+      "language",
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-024",
+    "book_id": "english-classroom",
+    "group_id": "SUP-024",
+    "order": 329,
+    "sequence": 24,
+    "title": "1. 영어로 첨삭해줘 2. 자세한 설명은 한국어로 해줘.",
+    "body": "1. 영어로 첨삭해줘\n2. 자세한 설명은 한국어로 해줘.",
+    "categories": [
+      "language",
+      "education"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-b91ad4c719aa6063",
+    "book_id": "english-classroom",
+    "group_id": "p-b91ad4c719aa6063",
+    "order": 569,
+    "sequence": 569,
+    "title": "Hi. Would you like to help me learn how to speak English?",
+    "body": "Hi. Would you like to help me learn how to speak English?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"챗GPT에게 입과 귀를 달아주자\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-8226f9fd92345a2b",
+    "book_id": "english-classroom",
+    "group_id": "p-8226f9fd92345a2b",
+    "order": 570,
+    "sequence": 570,
+    "title": "저희는 소규모 카페입니다. 다음 기업의 물품을 구매하였을 때 어떤 장점이 있을까요",
+    "body": "저희는 소규모 카페입니다. 다음 기업의 물품을 구매하였을 때 어떤 장점이 있을까요",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 7. 실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-a70874b936b5f33a",
+    "book_id": "english-classroom",
+    "group_id": "p-a70874b936b5f33a",
+    "order": 571,
+    "sequence": 571,
+    "title": "다음 기업에서 제공하는 서비스를 간략하게 요약해주세요.",
+    "body": "다음 기업에서 제공하는 서비스를 간략하게 요약해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 7. 실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-3e60c7fc4906b2df",
+    "book_id": "english-classroom",
+    "group_id": "p-3e60c7fc4906b2df",
+    "order": 572,
+    "sequence": 572,
+    "title": "저는 회사의 물품 판매 담당자 입니다. 이메일의 내용을 바탕으로 제가 해야할 일을 요약해주세요.",
+    "body": "저는 회사의 물품 판매 담당자 입니다. 이메일의 내용을 바탕으로 제가 해야할 일을 요약해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 7. 실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-2026363b30969bff",
+    "book_id": "english-classroom",
+    "group_id": "p-2026363b30969bff",
+    "order": 573,
+    "sequence": 573,
+    "title": "제시문은 비지니스 이메일 입니다. 제시문을 한글로 번역해주세요. 제시문 : I hope this message fi…",
+    "body": "제시문은 비지니스 이메일 입니다. 제시문을 한글로 번역해주세요. \n제시문 : \nI hope this message finds you well. My name is Sean H, and I am the Purchasing Manager at JJ Corporation.\n(후략)",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 7. 실무 상황에서 영어 문서를 읽는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-1375c2c39097333a",
+    "book_id": "english-classroom",
+    "group_id": "p-1375c2c39097333a",
+    "order": 574,
+    "sequence": 574,
+    "title": "지금부터 영어 지문을 제시하겠습니다. 10단어로 요약해주세요. Coming of age in the 18th and…",
+    "body": "지금부터 영어 지문을 제시하겠습니다. 10단어로 요약해주세요.\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity,(중략)By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 6. 긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-7e1cffdfa6f62098",
+    "book_id": "english-classroom",
+    "group_id": "p-7e1cffdfa6f62098",
+    "order": 575,
+    "sequence": 575,
+    "title": "지금부터 영어 지문을 제시하겠습니다. 3문장으로 요약해주세요. Coming of age in the 18th and…",
+    "body": "지금부터 영어 지문을 제시하겠습니다. 3문장으로 요약해주세요.\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, (중략 ) By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 6. 긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-a9a9887be31b7d12",
+    "book_id": "english-classroom",
+    "group_id": "p-a9a9887be31b7d12",
+    "order": 576,
+    "sequence": 576,
+    "title": "지금부터 영어 지문을 제시하겠습니다. My name is Michael Brown. I have been a bir…",
+    "body": "지금부터 영어 지문을 제시하겠습니다. \nMy name is Michael Brown. I have been a bird-watcher since childhood. (중략) I would like to know how to sign up for the club. I look forward to your reply.\n전체 내용의 30%정도로 요약해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 6. 긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-01228243285cebad",
+    "book_id": "english-classroom",
+    "group_id": "p-01228243285cebad",
+    "order": 577,
+    "sequence": 577,
+    "title": "지금부터 영어 지문을 제시하겠습니다. My name is Michael Brown. I have been a bir…",
+    "body": "지금부터 영어 지문을 제시하겠습니다.\nMy name is Michael Brown. I have been a bird-watcher since childhood. (중략) I would like to know how to sign up for the club. I look forward to your reply. \n전체 내용의 50%정도로 요약해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 6. 긴 글을 빠르게 요약하는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-9b5e9a69616bfedc",
+    "book_id": "english-classroom",
+    "group_id": "p-9b5e9a69616bfedc",
+    "order": 578,
+    "sequence": 578,
+    "title": "지금부터 한 편의 글을 제공하겠습니다. 이 글을 구성하는 문장들을 각기 다음과 같은 기준으로 분류해 주세요. 그리고…",
+    "body": "지금부터 한 편의 글을 제공하겠습니다.\n이 글을 구성하는 문장들을 각기 다음과 같은 기준으로 분류해 주세요.\n그리고 주제를 이와같이 선정한 이유에 대하여 알려주세요.\n[기준]\n - 도입부 (배경)\n - 하고자 하는 말 (주제)\n - 주제를 뒷받침하기 위한 논리적 근거\n - 주제를 뒷받침하기 위한 예시\n - 결론\n\n제시문:\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, at the heart of which is the application of reason and critique to the understanding of world and self, which allowed the creation of a new kind of knowledge.(중략) By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 5. 글의 주제를 빠르게 파악하는 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c342e6a16b29cc16",
+    "book_id": "english-classroom",
+    "group_id": "p-c342e6a16b29cc16",
+    "order": 579,
+    "sequence": 579,
+    "title": "지금부터 학생을 위한 영어지문 직독직해 교육 방법을 설명드리겠습니다. 1. 문장을 한 번에 2~5단어 정도의 길이로…",
+    "body": "지금부터 학생을 위한 영어지문 직독직해 교육 방법을 설명드리겠습니다.\n\n1. 문장을 한 번에 2~5단어 정도의 길이로 구성된 덩어리로 쪼갭니다.\n2. 문장에서 다음과 같은 경우가 등장할 경우, 그 단어의 바로 앞에서 무조건 문장을 쪼개야 합니다.\n   - 전치사\n   - to부정사\n   - 관계대명사\n   - 접속사\n   - 동사\n   - 부사 구\n   - 컴마 또는 세미콜론\n3. 쪼개진 덩어리는 한글로 번역하여 제공합니다. 이때, 한국어와 영어의 어순 차이를 무시하고 무조건 앞에서부터 순서대로 각 덩어리를 하나씩 번역합니다.\n\n이해하셨습니까?\n다음 지문을 토대로 직독직해 교육 방법을 실천해 보세요\n\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, at the heart of which is the application of reason and critique to the understanding of world and self, which allowed the creation of a new kind of knowledge. (중략) By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 4. 독해실력이 성장하는 끊어읽기!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-ea5a8deb7e7dcc6f",
+    "book_id": "english-classroom",
+    "group_id": "p-ea5a8deb7e7dcc6f",
+    "order": 580,
+    "sequence": 580,
+    "title": "지금부터 학생을 위한 영어지문 직독직해 교육 방법을 설명드리겠습니다. 1. 문장을 한 번에 5단어 정도의 길이로 구…",
+    "body": "지금부터 학생을 위한 영어지문 직독직해 교육 방법을 설명드리겠습니다.\n\n1. 문장을 한 번에 5단어 정도의 길이로 구성된 덩어리로 쪼갭니다.\n2. 완전한 의미를 구성하는 단위로 끊어주세요.\n3. 문장을 끊는 지점은 '/' 으로 표시해주세요.\n\nComing of age in the 18th and 19th centuries, the personal diary became a centerpiece in the construction of a modern subjectivity, at the heart of which is the application of reason and critique to the understanding of world and self, which allowed the creation of a new kind of knowledge. (중략)By making the self public in a private sphere, the self also became an object for self-inspection and self-critique.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 4. 독해실력이 성장하는 끊어읽기!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-a0786ab4090f87bd",
+    "book_id": "english-classroom",
+    "group_id": "p-a0786ab4090f87bd",
+    "order": 581,
+    "sequence": 581,
+    "title": "아래의 지문을 다음을 기준으로 20% 어렵게 바꾸어주세요. 1. 불필요한 어휘의 변경은 하지 않습니다. 2. 문장의…",
+    "body": "아래의 지문을 다음을 기준으로 20% 어렵게 바꾸어주세요.\n1. 불필요한 어휘의 변경은 하지 않습니다.\n2. 문장의 구조만 제시된 지문보다 어렵게 바꾸어주세요.\n3. 바뀐내용을 정리해주세요.\nMy name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e4f7769908f3f384",
+    "book_id": "english-classroom",
+    "group_id": "p-e4f7769908f3f384",
+    "order": 582,
+    "sequence": 582,
+    "title": "아래의 지문을 다음을 기준으로 20% 어렵게 바꾸어주세요. 1. 불필요한 구조의 변경은 하지 않습니다. 2. 내용어…",
+    "body": "아래의 지문을 다음을 기준으로 20% 어렵게 바꾸어주세요.\n1. 불필요한 구조의 변경은 하지 않습니다.\n2. 내용어만 제시된 어휘보다 어렵게 바꾸어주세요.\n3. 전문용어는 사용하지 않습니다.\n4. 바뀐내용을 정리해주세요.\nMy name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound.(후략)",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c0f4144585d25774",
+    "book_id": "english-classroom",
+    "group_id": "p-c0f4144585d25774",
+    "order": 583,
+    "sequence": 583,
+    "title": "방금 전 변경된 지문은 저에게는 너무 어렵습니다. 변경된 지문에서 난이도를 30% 낮춰주세요.",
+    "body": "방금 전 변경된 지문은 저에게는 너무 어렵습니다. \n변경된 지문에서 난이도를 30% 낮춰주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-9a017d0676f735f3",
+    "book_id": "english-classroom",
+    "group_id": "p-9a017d0676f735f3",
+    "order": 584,
+    "sequence": 584,
+    "title": "지금부터 영어 지문을 제시하겠습니다. 지문의 해석난이도를 높여주세요. 그리고 바뀐 부분을 정리해주세요. My nam…",
+    "body": "지금부터 영어 지문을 제시하겠습니다. \n지문의 해석난이도를 높여주세요. 그리고 바뀐 부분을 정리해주세요.\nMy name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound. Yesterday, I happened \nto read an article about your club. I was surprised and excited\nto find out about a community of passionate bird-watchers who \ntravel annually to go birding.(후략)",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-b6ac998a9969403d",
+    "book_id": "english-classroom",
+    "group_id": "p-b6ac998a9969403d",
+    "order": 585,
+    "sequence": 585,
+    "title": "지금부터 영어 지문을 제시하겠습니다. 지문을 이해하기 쉽도록 다음의 기준에 맞추어 바꿔주세요. 1. 문장의 문법적…",
+    "body": "지금부터 영어 지문을 제시하겠습니다. \n지문을 이해하기 쉽도록 다음의 기준에 맞추어 바꿔주세요.\n1. 문장의 문법적 구조를 이해하기 쉽도록 문장의 구조를 단순하게 바꿔주세요.\n2. 변경된 부분을 따로 정리해주세요.\nThe narrowing of our consciousness of time smooths the way to divorcing ourselves from responsibility\nfor developments in the past and the future with which our lives are in fact deeply intertwined.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-8a424d63140908b3",
+    "book_id": "english-classroom",
+    "group_id": "p-8a424d63140908b3",
+    "order": 586,
+    "sequence": 586,
+    "title": "지금부터 영어 지문을 제시하겠습니다. 지문을 이해하기 쉽도록 다음 기준에 맞추어 바꿔주세요. 1. 추상적인 어휘를…",
+    "body": "지금부터 영어 지문을 제시하겠습니다.\n 지문을 이해하기 쉽도록 다음 기준에 맞추어 바꿔주세요. \n1. 추상적인 어휘를 구체적인 어휘로 바꿔주세요. \n2. 복잡한 문장구조를 간결하게 바꿔주세요. \n3. 바뀐 내용을 따로 정리해주세요. \n\n원문:\nWe understand that the segregation of our consciousness into present, past, and future is both a fiction and an oddly self-referential framework; your present was part of your mother’s future, and your children’s past will be in part your present. Nothing is generally wrong with structuring our consciousness of time in this conventional manner, and it often works well enough.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 3. 조금 더 읽기 쉬운/어려운 문장으로 수정해줘!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f47041617fe95b88",
+    "book_id": "english-classroom",
+    "group_id": "p-f47041617fe95b88",
+    "order": 587,
+    "sequence": 587,
+    "title": "And every fair from fair sometime declines,By chance, or nature’…",
+    "body": "And every fair from fair sometime declines,By chance, or nature’s changing course, untrimmed; But thy eternal summer shall not fade, Nor lose possession of that fair thou ow’st 를 해석해줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-598a8df4b6cee86b",
+    "book_id": "english-classroom",
+    "group_id": "p-598a8df4b6cee86b",
+    "order": 588,
+    "sequence": 588,
+    "title": "위의 글을 비 전공자도 알 수 있도록 설명해주세요.",
+    "body": "위의 글을 비 전공자도 알 수 있도록 설명해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6720d6fe211d759e",
+    "book_id": "english-classroom",
+    "group_id": "p-6720d6fe211d759e",
+    "order": 589,
+    "sequence": 589,
+    "title": "영문으로 된 글을 제시할 것입니다. 다음 글은 학술문서이며 기술 관련 용어들이 들어있습니다. 용어에 대한 설명을 덧…",
+    "body": "영문으로 된 글을 제시할 것입니다. 다음 글은 학술문서이며 기술 관련 용어들이 들어있습니다. 용어에 대한 설명을 덧붙여서 해석해주세요.\nNLP approaches generally use linear algebraic approaches. So, most approaches for text NLP first convert the text or spoken words into tensors of integers. One of the easiest but the most effective way is word vector embedding. (중략) After writing the table, input sentences are tokenized and converted into a series of number, referencing the table.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-fd409d3eda36017f",
+    "book_id": "english-classroom",
+    "group_id": "p-fd409d3eda36017f",
+    "order": 590,
+    "sequence": 590,
+    "title": "제가 제시한 문장의 사회, 문화적 배경을 알려주세요.",
+    "body": "제가 제시한 문장의 사회, 문화적 배경을 알려주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-534db48fc8202d75",
+    "book_id": "english-classroom",
+    "group_id": "p-534db48fc8202d75",
+    "order": 591,
+    "sequence": 591,
+    "title": "이제부터 영어 지문을 제시하겠습니다. 이를 한국어로 번역해주세요.",
+    "body": "이제부터 영어 지문을 제시하겠습니다. 이를 한국어로 번역해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv. 2. 좀 어려운데, 한글로 번역해서 읽어볼래!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5f722426a00b7b7f",
+    "book_id": "english-classroom",
+    "group_id": "p-5f722426a00b7b7f",
+    "order": 592,
+    "sequence": 592,
+    "title": "NLP approaches generally use linear algebraic approaches. So, mo…",
+    "body": "NLP approaches generally use linear algebraic approaches. So, most approaches for text NLP first convert the text or spoken words into tensor of integers. One of the easiest but most effective way is word vector embedding. Word vector \nembedding first requires a table of words to convert each word into a number. Whole vocabularies for analysis should be enlisted on the table. After writing the table, input sentences are tokenized and converted into a series of number, referencing the table.\n다음의 기준에 맞추어 이 영어 지문 해석의 난이도를 종합하여 알려주세요. 1. 일상적이지 않은 단어, 2. 문장의 복잡성, 3. 배경지식의 필요성",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"왜 Reading 학습에 GPT를 활용해야 할까?\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-1abc56b8c7f29c6b",
+    "book_id": "english-classroom",
+    "group_id": "p-1abc56b8c7f29c6b",
+    "order": 593,
+    "sequence": 593,
+    "title": "Inside, the crimson room bloomed with light. Tom and Miss Baker…",
+    "body": "Inside, the crimson room bloomed with light. Tom and Miss Baker sat at either end of the long couch and she read aloud to him from the Saturday Evening Post—the words, murmurous and uninflected, running together in a soothing tune. The lamplight, bright on his boots and dull on the autumn-leaf yellow of her hair, glinted along the paper as she turned a page with a flutter of slender muscles in her arms.\n다음의 기준에 맞추어 이 지문 해석의 난이도를 알려주세요. 1. 일상적이지 않은 단어, 2. 문장의 복잡성, 3. 배경지식의 필요성",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"왜 Reading 학습에 GPT를 활용해야 할까?\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-0551efbdb269da9b",
+    "book_id": "english-classroom",
+    "group_id": "p-0551efbdb269da9b",
+    "order": 594,
+    "sequence": 594,
+    "title": "My name is Michael Brown. I have been a bird-watcher since child…",
+    "body": "My name is Michael Brown. I have been a bird-watcher since \nchildhood. I have always enjoyed watching birds in my yard \nand identifying them by sight and sound. Yesterday, I happened \nto read an article about your club. I was surprised and excited\nto find out about a community of passionate bird-watchers who \ntravel annually to go birding. (후략)\n다음의 기준에 맞추어 이 지문 해석의 난이도를 종합하여 알려주세요. 1. 일상적이지 않은 단어, 2. 문장의 복잡성, 3. 배경지식의 필요성",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"왜 Reading 학습에 GPT를 활용해야 할까?\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-7a6b8c978c6f416b",
+    "book_id": "english-classroom",
+    "group_id": "p-7a6b8c978c6f416b",
+    "order": 595,
+    "sequence": 595,
+    "title": "나: 아래의 정보들을 토대로 영어 보고서를 작성해줘. ----------------------------------…",
+    "body": "나:\n 아래의 정보들을 토대로 영어 보고서를 작성해줘.\n -------------------------------------------------------------\n 제목: 온라인 시장 확산으로 인한 오프라인 시장 향후 전망\n 요약: 온라인 시장 확산으로 오프라인 시장 경쟁력이 상대적으로 감소할 것으로 보입니다. 따라서 오프라인 매장에서만 구매할 수 있는 품목들을 늘리는 것이 필요합니다.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-1316db884ac40b92",
+    "book_id": "english-classroom",
+    "group_id": "p-1316db884ac40b92",
+    "order": 596,
+    "sequence": 596,
+    "title": "보고서: 1) 보고서 양식을 영어로 써줘. 2)아래의 정보들을 토대로 영어 보고서를 작성해줘. -----------…",
+    "body": "보고서: 1) 보고서 양식을 영어로 써줘.\n2)아래의 정보들을 토대로 영어 보고서를 작성해줘.\n  -------------------------------------------------------------\n  제목: 온라인 시장 확산으로 인한 오프라인 시장 향후 전망\n  요약: 온라인 시장 확산으로 오프라인 시장 경쟁력이 상대적으로 감소할 것으로 보입니다. 따라서 오프라인 매장에서만 구매할 수 있는 품목들을 늘리는 것이 필요합니다.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4e66d7a2a2d960cf",
+    "book_id": "english-classroom",
+    "group_id": "p-4e66d7a2a2d960cf",
+    "order": 597,
+    "sequence": 597,
+    "title": "이메일: 1)이메일 양식을 영어로 써줘. 2) 상황: 고객이 주문한 물건이 다른 배송지로 배송되었다. 고객에게 양해…",
+    "body": "이메일: 1)이메일 양식을 영어로 써줘.\n2) 상황: 고객이 주문한 물건이 다른 배송지로 배송되었다. 고객에게 양해를 부탁하고 20% 할인쿠폰을 드리기로 했다.\n  \n  이메일 양식을 사용해서 영어로 작성해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-af4228b978033b16",
+    "book_id": "english-classroom",
+    "group_id": "p-af4228b978033b16",
+    "order": 598,
+    "sequence": 598,
+    "title": "이메일 양식을 영어로 써줘.",
+    "body": "이메일 양식을 영어로 써줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.6. 비즈니스 문서 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-ace5e2f52f144335",
+    "book_id": "english-classroom",
+    "group_id": "p-ace5e2f52f144335",
+    "order": 599,
+    "sequence": 599,
+    "title": "내가 쓴 에세이야. 1. 어휘가 적절하고 문법오류가 없는지 첨삭해줘. 2. 구체적인 설명은 한국어로 부탁해.",
+    "body": "내가 쓴 에세이야. \n  1. 어휘가 적절하고 문법오류가 없는지 첨삭해줘.\n  2. 구체적인 설명은 한국어로 부탁해.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-0db3fc83806c2fb8",
+    "book_id": "english-classroom",
+    "group_id": "p-0db3fc83806c2fb8",
+    "order": 600,
+    "sequence": 600,
+    "title": "영어로 쉽게 번역해줘.",
+    "body": "영어로 쉽게 번역해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d202edb7f676731f",
+    "book_id": "english-classroom",
+    "group_id": "p-d202edb7f676731f",
+    "order": 601,
+    "sequence": 601,
+    "title": "이 에세이를 영어로 번역하기 위해 필요한 명사, 형용사, 부사들을 알려줘.",
+    "body": "이 에세이를 영어로 번역하기 위해 필요한 명사, 형용사, 부사들을 알려줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-47389cb153dab734",
+    "book_id": "english-classroom",
+    "group_id": "p-47389cb153dab734",
+    "order": 602,
+    "sequence": 602,
+    "title": "에세이의 구성요소들을 알려줘.",
+    "body": "에세이의 구성요소들을 알려줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.5. 에세이 작성 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5004693ad624a76e",
+    "book_id": "english-classroom",
+    "group_id": "p-5004693ad624a76e",
+    "order": 603,
+    "sequence": 603,
+    "title": "중복된 부분을 피해서 패러프레이징을 해봤어. 잘한 점과 부족한 점을 설명해주고, 첨삭까지 해줘.",
+    "body": "중복된 부분을 피해서 패러프레이징을 해봤어. 잘한 점과 부족한 점을 설명해주고, 첨삭까지 해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-99e4304404ab98e8",
+    "book_id": "english-classroom",
+    "group_id": "p-99e4304404ab98e8",
+    "order": 604,
+    "sequence": 604,
+    "title": "이 글에서 중복되는 부분을 설명해줘.",
+    "body": "이 글에서 중복되는 부분을 설명해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c6382d69a2da9021",
+    "book_id": "english-classroom",
+    "group_id": "p-c6382d69a2da9021",
+    "order": 605,
+    "sequence": 605,
+    "title": "이 글을 패러프레이징 해줘.",
+    "body": "이 글을 패러프레이징 해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-fbe7c51b578f7198",
+    "book_id": "english-classroom",
+    "group_id": "p-fbe7c51b578f7198",
+    "order": 606,
+    "sequence": 606,
+    "title": "이 글의 주제문과 그것을 뒷받침하는 가장 중요한 문장들만 표시해줘.",
+    "body": "이 글의 주제문과 그것을 뒷받침하는 가장 중요한 문장들만 표시해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4a0b317948147890",
+    "book_id": "english-classroom",
+    "group_id": "p-4a0b317948147890",
+    "order": 607,
+    "sequence": 607,
+    "title": "이 글에서 핵심어휘들의 유의어를 적어줘.",
+    "body": "이 글에서 핵심어휘들의 유의어를 적어줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-fbca0d884389cef1",
+    "book_id": "english-classroom",
+    "group_id": "p-fbca0d884389cef1",
+    "order": 608,
+    "sequence": 608,
+    "title": "챗GPT를 사용해서 패러프레이징 하는 전략들을 알려줘.",
+    "body": "챗GPT를 사용해서 패러프레이징 하는 전략들을 알려줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"LV.4. 패러프레이징을 통한 표현력 훈련\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-da33c69f72e08889",
+    "book_id": "english-classroom",
+    "group_id": "p-da33c69f72e08889",
+    "order": 609,
+    "sequence": 609,
+    "title": "문장들이 너무 긴 거 같아. 첨삭한 내용을 토대로 문장들을 더 간략하게 써줘.",
+    "body": "문장들이 너무 긴 거 같아. 첨삭한 내용을 토대로 문장들을 더 간략하게 써줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e666685177651e5b",
+    "book_id": "english-classroom",
+    "group_id": "p-e666685177651e5b",
+    "order": 610,
+    "sequence": 610,
+    "title": "첨삭 부탁해. 첨삭한 것 중에서 문법 내용도 같이 설명해줘.",
+    "body": "첨삭 부탁해. 첨삭한 것 중에서 문법 내용도 같이 설명해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f825870c2be69845",
+    "book_id": "english-classroom",
+    "group_id": "p-f825870c2be69845",
+    "order": 611,
+    "sequence": 611,
+    "title": "업무 관련 문의 및 답변: 영어로 업무 관련 문의 및 답변에서 사용할 수 있는 표현들을 알려줘.",
+    "body": "업무 관련 문의 및 답변: 영어로 업무 관련 문의 및 답변에서 사용할 수 있는 표현들을 알려줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4b72f342391df249",
+    "book_id": "english-classroom",
+    "group_id": "p-4b72f342391df249",
+    "order": 612,
+    "sequence": 612,
+    "title": "공지: 영어로 공지할 때 사용하는 표현들을 알려줘.",
+    "body": "공지: 영어로 공지할 때 사용하는 표현들을 알려줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-faa2ed232ae3e377",
+    "book_id": "english-classroom",
+    "group_id": "p-faa2ed232ae3e377",
+    "order": 613,
+    "sequence": 613,
+    "title": "안내: 영어로 안내할 때 사용하는 표현들을 알려줘.",
+    "body": "안내: 영어로 안내할 때 사용하는 표현들을 알려줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-0446797ac94320d5",
+    "book_id": "english-classroom",
+    "group_id": "p-0446797ac94320d5",
+    "order": 614,
+    "sequence": 614,
+    "title": "이력서: 이력서 양식을 영어로 쓰고 한글 뜻도 적어줘.",
+    "body": "이력서: 이력서 양식을 영어로 쓰고 한글 뜻도 적어줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-2b62d995817aafb3",
+    "book_id": "english-classroom",
+    "group_id": "p-2b62d995817aafb3",
+    "order": 615,
+    "sequence": 615,
+    "title": "부탁: 영어로 부탁할 때 사용하는 표현들을 알려줘",
+    "body": "부탁: 영어로 부탁할 때 사용하는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-82e67e02022b5052",
+    "book_id": "english-classroom",
+    "group_id": "p-82e67e02022b5052",
+    "order": 616,
+    "sequence": 616,
+    "title": "유감: 영어로 유감을 전할 때 사용하는 표현들을 알려줘",
+    "body": "유감: 영어로 유감을 전할 때 사용하는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-2c78e08c2ec40f05",
+    "book_id": "english-classroom",
+    "group_id": "p-2c78e08c2ec40f05",
+    "order": 617,
+    "sequence": 617,
+    "title": "약속: “장소“에서 “날짜/시간“에 만나자는 문장을 영어로 몇 가지 적어줘",
+    "body": "약속: “장소“에서  “날짜/시간“에 만나자는 문장을 영어로 몇 가지 적어줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d1b59ddc37d01455",
+    "book_id": "english-classroom",
+    "group_id": "p-d1b59ddc37d01455",
+    "order": 618,
+    "sequence": 618,
+    "title": "도움: 영어로 도움을 구할 때 사용하는 표현들을 알려줘",
+    "body": "도움: 영어로 도움을 구할 때 사용하는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f110d8b3bc2d7e8b",
+    "book_id": "english-classroom",
+    "group_id": "p-f110d8b3bc2d7e8b",
+    "order": 619,
+    "sequence": 619,
+    "title": "축하: 영어로 축하할 때 사용하는 표현들을 알려줘",
+    "body": "축하: 영어로 축하할 때 사용하는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-3c1be4fe74192efc",
+    "book_id": "english-classroom",
+    "group_id": "p-3c1be4fe74192efc",
+    "order": 620,
+    "sequence": 620,
+    "title": "요구(요청, 명령, 제안, 약속): 영어로 요구할 때 사용하는 표현들을 알려줘.",
+    "body": "요구(요청, 명령, 제안, 약속): 영어로 요구할 때 사용하는 표현들을 알려줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-ed7ee9b56dd5f2ac",
+    "book_id": "english-classroom",
+    "group_id": "p-ed7ee9b56dd5f2ac",
+    "order": 621,
+    "sequence": 621,
+    "title": "소개: 영어로 소개할 때 사용하는 표현들을 알려줘",
+    "body": "소개: 영어로 소개할 때 사용하는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-7bd45b728d6bb31a",
+    "book_id": "english-classroom",
+    "group_id": "p-7bd45b728d6bb31a",
+    "order": 622,
+    "sequence": 622,
+    "title": "감사: 영어로 감사를 전할 때 사용하는 표현들을 알려줘",
+    "body": "감사: 영어로 감사를 전할 때 사용하는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-0734f57b5d93173c",
+    "book_id": "english-classroom",
+    "group_id": "p-0734f57b5d93173c",
+    "order": 623,
+    "sequence": 623,
+    "title": "안부: 영어로 안부 답하는 표현들을 알려줘",
+    "body": "안부: 영어로 안부 답하는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-caee079e1cbb4559",
+    "book_id": "english-classroom",
+    "group_id": "p-caee079e1cbb4559",
+    "order": 624,
+    "sequence": 624,
+    "title": "인사: 영어로 할 수 있는 간단한 인사말들을 알려줘",
+    "body": "인사: 영어로 할 수 있는 간단한 인사말들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-cfc6252abff002b3",
+    "book_id": "english-classroom",
+    "group_id": "p-cfc6252abff002b3",
+    "order": 625,
+    "sequence": 625,
+    "title": "계획: 영어로 계획을 묻는 표현들을 알려줘",
+    "body": "계획: 영어로 계획을 묻는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-67a8b70830d571ce",
+    "book_id": "english-classroom",
+    "group_id": "p-67a8b70830d571ce",
+    "order": 626,
+    "sequence": 626,
+    "title": "싫어하는 것: 영어로 싫어하는 것을 묻는 표현들을 알려줘",
+    "body": "싫어하는 것: 영어로 싫어하는 것을 묻는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-59fe212705d0a5d5",
+    "book_id": "english-classroom",
+    "group_id": "p-59fe212705d0a5d5",
+    "order": 627,
+    "sequence": 627,
+    "title": "좋아하는 것: 영어로 좋아하는 것을 묻는 표현들을 알려줘",
+    "body": "좋아하는 것: 영어로 좋아하는 것을 묻는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e35d9bf50c370f6c",
+    "book_id": "english-classroom",
+    "group_id": "p-e35d9bf50c370f6c",
+    "order": 628,
+    "sequence": 628,
+    "title": "직업: 영어로 직업을 묻는 표현들을 알려줘",
+    "body": "직업: 영어로 직업을 묻는 표현들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6d73f98450b9d592",
+    "book_id": "english-classroom",
+    "group_id": "p-6d73f98450b9d592",
+    "order": 629,
+    "sequence": 629,
+    "title": "안부: 영어로 할 수 있는 간단한 인사말들을 알려줘",
+    "body": "안부: 영어로 할 수 있는 간단한 인사말들을 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.3. 챗GPT 문장 첨삭 레시피\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e678616a4c3040c7",
+    "book_id": "english-classroom",
+    "group_id": "p-e678616a4c3040c7",
+    "order": 630,
+    "sequence": 630,
+    "title": "그러면 추가 정보를 제공할 때, \"who\"만 사용하면 되는 거야?",
+    "body": "그러면 추가 정보를 제공할 때, \"who\"만 사용하면 되는 거야?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-02a62b3f01ad0836",
+    "book_id": "english-classroom",
+    "group_id": "p-02a62b3f01ad0836",
+    "order": 631,
+    "sequence": 631,
+    "title": "문법용어는 하나도 모른다고 말했잖아. 관계대명사라는 용어 쓰지 말고 설명해줘.",
+    "body": " 문법용어는 하나도 모른다고 말했잖아. 관계대명사라는 용어 쓰지 말고 설명해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-001b5befdfecc96e",
+    "book_id": "english-classroom",
+    "group_id": "p-001b5befdfecc96e",
+    "order": 632,
+    "sequence": 632,
+    "title": "\"who makes people's hair look nice\"에서 \"who\"는 \"누구\" 아니야?",
+    "body": " \"who makes people's hair look nice\"에서 \"who\"는 \"누구\" 아니야?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-467f7fcfe47c207f",
+    "book_id": "english-classroom",
+    "group_id": "p-467f7fcfe47c207f",
+    "order": 633,
+    "sequence": 633,
+    "title": "I am a hair designer. I make people's hair look nice. My dream i…",
+    "body": "I am a hair designer. I make people's hair look nice. My dream is to have my own hair salon one day. I want to make many people happy with their hair.\n ----------------------------------------------------------------------------------\n 문장의 연결성이 부족한 거 같아. 도와줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-43bd50a5c9f0a5fb",
+    "book_id": "english-classroom",
+    "group_id": "p-43bd50a5c9f0a5fb",
+    "order": 634,
+    "sequence": 634,
+    "title": "\"people\"에 \"'s\"는 뭐야?",
+    "body": " \"people\"에 \"'s\"는 뭐야?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f8f2b150855b4262",
+    "book_id": "english-classroom",
+    "group_id": "p-f8f2b150855b4262",
+    "order": 635,
+    "sequence": 635,
+    "title": "문장에 나온 단어들 의미도 알려줘.",
+    "body": "문장에 나온 단어들 의미도 알려줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-da5409f0c4012941",
+    "book_id": "english-classroom",
+    "group_id": "p-da5409f0c4012941",
+    "order": 636,
+    "sequence": 636,
+    "title": "고마워. 추가된 내용이 뭐야?",
+    "body": "고마워. 추가된 내용이 뭐야?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-7aa12bb3937dde0c",
+    "book_id": "english-classroom",
+    "group_id": "p-7aa12bb3937dde0c",
+    "order": 637,
+    "sequence": 637,
+    "title": "왜 이렇게 어렵게 썼어... 나 영어 전혀 모른다고 했잖아!",
+    "body": "왜 이렇게 어렵게 썼어... 나 영어 전혀 모른다고 했잖아!",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-71bbd126df803d3f",
+    "book_id": "english-classroom",
+    "group_id": "p-71bbd126df803d3f",
+    "order": 638,
+    "sequence": 638,
+    "title": "고마워. 노력해볼게. 이 문장에서 조금 더 길게 쓸 수는 없을까?",
+    "body": "고마워. 노력해볼게. 이 문장에서 조금 더 길게 쓸 수는 없을까?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e78a6c67d7f9e58f",
+    "book_id": "english-classroom",
+    "group_id": "p-e78a6c67d7f9e58f",
+    "order": 639,
+    "sequence": 639,
+    "title": "I am hair designer. My job is design people head. My dream is op…",
+    "body": " I am hair designer. My job is design people head. My dream is open hair shop.\n ----------------------------------------------------------------------------------------\n 영어로 한번 써봤어. 내가 영어를 하나도 모르거든. 문법설명을 해줘도 이해 못하니까 틀린 부분이 있으면 최대한 쉽게 알려주고 첨삭해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-494606f0397d4290",
+    "book_id": "english-classroom",
+    "group_id": "p-494606f0397d4290",
+    "order": 640,
+    "sequence": 640,
+    "title": "내가 쓴 글에서 발견된 문법오류를 줄일 수 있는 방법을 알려줘.",
+    "body": "내가 쓴 글에서 발견된 문법오류를 줄일 수 있는 방법을 알려줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-a987ed2d4018c04f",
+    "book_id": "english-classroom",
+    "group_id": "p-a987ed2d4018c04f",
+    "order": 641,
+    "sequence": 641,
+    "title": "내가 쓴 글에서 자주 발견되는 문법적 오류가 뭐야?",
+    "body": " 내가 쓴 글에서 자주 발견되는 문법적 오류가 뭐야?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-241f8c7900faa82b",
+    "book_id": "english-classroom",
+    "group_id": "p-241f8c7900faa82b",
+    "order": 642,
+    "sequence": 642,
+    "title": "고마워. 문장들이 너무 긴 거 같아. 첨삭한 내용을 토대로 문장들을 더 간략하게 써줘.",
+    "body": "고마워. 문장들이 너무 긴 거 같아. 첨삭한 내용을 토대로 문장들을 더 간략하게 써줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"Lv.2. 챗GPT는 나만의 첨삭 전문가\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d1ef3a4e5b7fabcc",
+    "book_id": "english-classroom",
+    "group_id": "p-d1ef3a4e5b7fabcc",
+    "order": 643,
+    "sequence": 643,
+    "title": "When I was an elementary school child, a teacher didn’t frequent…",
+    "body": "When I was an elementary school child, a teacher didn’t frequently use educational equipment. Classes that used educational equipment stimulated me. It made me excited and seemed to increase concentration though I didn't know why. It was hard to repeat the teacher's talk because the teacher was not native speaker. But since I use the computer to listen and repeat, I could acquire and correct my errors easily. Pictures and videos were my favorite things. Teachers showed pictures or videos for us on the monitor so that I was motivated on today’s instructional objectives.\n \n(중략)\nTeachers can only teach fundamental parts. But if they use a beam projector to display parts of the textbooks on the blackboard, students can easily write and understand the material because teachers can provide additional context and stress signals. In the case of a celebrity or great man in textbooks, students can widen common sense for searching immediately. If it is related to their interest, it will probably be an effective class.\n \nLike this, using educational equipment in learning English contributes to improving the school achievement of students. Furthermore, if technology continues to develop and is applied to education, students will not necessarily need to go abroad.\n \n(후략)\n---------------------------------------------------------------------------------------------------\n 첨삭 부탁해. 첨삭한 것 중에서 문법 내용도 같이 설명해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-cdde6302f9e8e0e3",
+    "book_id": "english-classroom",
+    "group_id": "p-cdde6302f9e8e0e3",
+    "order": 644,
+    "sequence": 644,
+    "title": "위의 문장에서 약속을 잡을 때 사용한 표현들을 알려줘.",
+    "body": "위의 문장에서 약속을 잡을 때 사용한 표현들을 알려줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6cec6450dfd53af0",
+    "book_id": "english-classroom",
+    "group_id": "p-6cec6450dfd53af0",
+    "order": 645,
+    "sequence": 645,
+    "title": "친구랑 경복궁 앞에서 오후 5시에 만나자는 문장을 영어로 5가지 적어줘.",
+    "body": "친구랑 경복궁 앞에서 오후 5시에 만나자는 문장을 영어로 5가지 적어줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e8299f375ba18f2a",
+    "book_id": "english-classroom",
+    "group_id": "p-e8299f375ba18f2a",
+    "order": 646,
+    "sequence": 646,
+    "title": "영어로 할 수 있는 간단한 인사말 알려줘",
+    "body": "영어로 할 수 있는 간단한 인사말 알려줘",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"왜 writing 공부에 GPT를 사용해야 할까요?\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-27567c1bfbf58ab0",
+    "book_id": "english-classroom",
+    "group_id": "p-27567c1bfbf58ab0",
+    "order": 647,
+    "sequence": 647,
+    "title": "(전략) [요구사항 2] 위 답변을 다음과 같은 척도로 채점하시오. - 질문을 잘 이해하였나? - 주장이 일관되나?…",
+    "body": "(전략)\n\n\n[요구사항 2]\n위 답변을 다음과 같은 척도로 채점하시오.\n  - 질문을 잘 이해하였나?\n  - 주장이 일관되나?\n  - 주장을 뒷받침하기 위한 논리가 2개 이상 제시되는가?\n  - 각 논리를 뒷받침하는 타당한 근거가 제시되는가?\n  - 논리적인 흐름을 따라 결론에 도달하는가?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-849314a10e6da27a",
+    "book_id": "english-classroom",
+    "group_id": "p-849314a10e6da27a",
+    "order": 648,
+    "sequence": 648,
+    "title": "[요구사항 1] 논쟁이 가능한 문제를 2개의 영어 문장으로 제시하시오. 나는 그 질문을 읽고, 찬성 혹은 반대 중…",
+    "body": "[요구사항 1]\n논쟁이 가능한 문제를 2개의 영어 문장으로 제시하시오.\n나는 그 질문을 읽고, 찬성 혹은 반대 중 하나의 입장을 택하여 답변을 작성하겠습니다.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-a8fc718d185efa70",
+    "book_id": "english-classroom",
+    "group_id": "p-a8fc718d185efa70",
+    "order": 649,
+    "sequence": 649,
+    "title": "마케팅팀의 회의 진행중입니다. 회의 진행 도중 한 가지 문제점이 지적되었고, 여러 사람이 이 문제에 난처해하고 있습…",
+    "body": "마케팅팀의 회의 진행중입니다.\n회의 진행 도중 한 가지 문제점이 지적되었고, 여러 사람이 이 문제에 난처해하고 있습니다.\n녹음된 회의 내용은 45초 가량입니다.\n회의 녹취록을 영어로 작성하시오.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-ad5055677ece34df",
+    "book_id": "english-classroom",
+    "group_id": "p-ad5055677ece34df",
+    "order": 650,
+    "sequence": 650,
+    "title": "당신의 이름은 Jane. 우리 회사의 서비스에 불만족을 느껴 전화 문의를 남긴 고객입니다. 녹음된 통화 길이는 45…",
+    "body": "당신의 이름은 Jane. 우리 회사의 서비스에 불만족을 느껴 전화 문의를 남긴 고객입니다.\n녹음된 통화 길이는 45초 가량입니다.\n당신이 발언한 컴플레인의 대사를 영어 구어체로 작성하시오",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-fa76dcc4357cb1ac",
+    "book_id": "english-classroom",
+    "group_id": "p-fa76dcc4357cb1ac",
+    "order": 651,
+    "sequence": 651,
+    "title": "위 지문을 바탕으로 내용 일치 문제의 질문을 하나 만들어주세요. 그리고 제 답변이 100점 만점에 몇 점인지, 여러…",
+    "body": "위 지문을 바탕으로 내용 일치 문제의 질문을 하나 만들어주세요.\n그리고 제 답변이 100점 만점에 몇 점인지, 여러 평가 척도를 들어 채점해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-517911c665449f04",
+    "book_id": "english-classroom",
+    "group_id": "p-517911c665449f04",
+    "order": 652,
+    "sequence": 652,
+    "title": "5문장 분량의 영어 비문학 지문을 하나 작성해주세요. 각 문장의 길이는 12단어 이하입니다.",
+    "body": "5문장 분량의 영어 비문학 지문을 하나 작성해주세요.\n각 문장의 길이는 12단어 이하입니다.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-3ee2be68aaa517db",
+    "book_id": "english-classroom",
+    "group_id": "p-3ee2be68aaa517db",
+    "order": 653,
+    "sequence": 653,
+    "title": "Some people believes that Atlantis is a real place, while others…",
+    "body": "Some people believes that Atlantis is a real place, while others think it was just a legend.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-7590f5795fda2e2d",
+    "book_id": "english-classroom",
+    "group_id": "p-7590f5795fda2e2d",
+    "order": 654,
+    "sequence": 654,
+    "title": "5문장 분량의 영어 비문학 지문을 하나 작성해주세요. 각 문장의 길이는 12단어 이하입니다. 지문의 내용을 토대로…",
+    "body": "5문장 분량의 영어 비문학 지문을 하나 작성해주세요.\n각 문장의 길이는 12단어 이하입니다.\n지문의 내용을 토대로 내용 일치 문제를 풀 수 있는 질문도 하나 만들어주세요.그리고 제 답변이 적절한지 아닌지 평가도 해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4927c3ba48fd8152",
+    "book_id": "english-classroom",
+    "group_id": "p-4927c3ba48fd8152",
+    "order": 655,
+    "sequence": 655,
+    "title": "표 형태의 데이터 출력을 할 수 있나요? 가능하다면 예시도 보여주세요.",
+    "body": "표 형태의 데이터 출력을 할 수 있나요?\n가능하다면 예시도 보여주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-00dcf42e04f23329",
+    "book_id": "english-classroom",
+    "group_id": "p-00dcf42e04f23329",
+    "order": 656,
+    "sequence": 656,
+    "title": "No, You should rate my answer.",
+    "body": "No, You should rate my answer.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4efd07a72ad6fe53",
+    "book_id": "english-classroom",
+    "group_id": "p-4efd07a72ad6fe53",
+    "order": 657,
+    "sequence": 657,
+    "title": "First of all, British English and American English pronounce som…",
+    "body": "First of all, British English and American English pronounce some word in different way. For example, agile is pronounced as agile in British. \nAnd I think that British English tends to pronounce the vowel in a strict way, with stronger accents. Also, British English sometimes omits R.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d728c1720ba69e96",
+    "book_id": "english-classroom",
+    "group_id": "p-d728c1720ba69e96",
+    "order": 658,
+    "sequence": 658,
+    "title": "(1) 당신은 제게 영어로 질문을 합니다. (2) 질문의 길이는 한 문장으로 제한하고, 문장의 길이는 12단어 이하…",
+    "body": "(1) 당신은 제게 영어로 질문을 합니다.\n(2) 질문의 길이는 한 문장으로 제한하고, 문장의 길이는 12단어 이하로 제한합니다.\n(3) 한 문장 안에서 시간과 장소 등 여러 가지 정보를 한꺼번에 물어보셔도 좋습니다.\n(4) 저는 당신의 질문에 영어로 대답합니다.\n(5) 아래 기준을 따라 제 답변의 점수도 채점해 주세요.\n\n   - 논리적으로 어색하지 않은지\n   - 문법이 올바른지\n   - 주어진 질문의 내용을 제대로 이해했는지\n  점수는 100점 만점을 기준으로 채점해주세요. \n\n제게 질문을 해주세요. 그리고 제 답변을 채점해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d54b824e5a25fa3e",
+    "book_id": "english-classroom",
+    "group_id": "p-d54b824e5a25fa3e",
+    "order": 659,
+    "sequence": 659,
+    "title": "This animal has short yellow fur. It prefers protein-based food…",
+    "body": "This animal has short yellow fur. It prefers protein-based food rather than grain-based food. It has small white spots on its face, above the eyes. Its hands and stomach are covered with short white fur. It has a tail. It wags its tail when it feels happy. Its nose has tiny pores. Its origin is known as Japan. What is this?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-cc94608e90c8ab28",
+    "book_id": "english-classroom",
+    "group_id": "p-cc94608e90c8ab28",
+    "order": 660,
+    "sequence": 660,
+    "title": "지금부터 저는 사진 속의 동물을 영어로 묘사하겠습니다. 제 이야기를 듣고, 사진 속의 동물이 무엇인지 맞춰 보세요.…",
+    "body": "지금부터 저는 사진 속의 동물을 영어로 묘사하겠습니다.\n제 이야기를 듣고, 사진 속의 동물이 무엇인지 맞춰 보세요.\n제가 입력한 문장에서 문법 오류나 철자가 틀린 부분이 있다면 지적해주세요.\n준비됐나요?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-ae2e487883f36334",
+    "book_id": "english-classroom",
+    "group_id": "p-ae2e487883f36334",
+    "order": 661,
+    "sequence": 661,
+    "title": "60단어 가량으로 구성된 영어 지문을 작성해줘.",
+    "body": "60단어 가량으로 구성된 영어 지문을 작성해줘.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"토익 스피킹 시험을 준비해요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-447b04be6c25b82a",
+    "book_id": "english-classroom",
+    "group_id": "p-447b04be6c25b82a",
+    "order": 662,
+    "sequence": 662,
+    "title": "Alright. Before talking about shipping cost, please let me know…",
+    "body": "Alright. Before talking about shipping cost, please let me know the price of the machine.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-7057f3f5198e9c33",
+    "book_id": "english-classroom",
+    "group_id": "p-7057f3f5198e9c33",
+    "order": 663,
+    "sequence": 663,
+    "title": "Cool. Do you provide international shipping service, to Busan of…",
+    "body": "Cool. Do you provide international shipping service, to Busan of Korea?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-a7033af43960bffc",
+    "book_id": "english-classroom",
+    "group_id": "p-a7033af43960bffc",
+    "order": 664,
+    "sequence": 664,
+    "title": "Hi. I'm an engineer from south Korea. I'd like to buy this autom…",
+    "body": "Hi. I'm an engineer from south Korea. I'd like to buy this automated cotton candy removing machine. Could you provide some features?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-a77c9a54d9a895b9",
+    "book_id": "english-classroom",
+    "group_id": "p-a77c9a54d9a895b9",
+    "order": 665,
+    "sequence": 665,
+    "title": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다. 현재 장소는 CES 박람회장입니다. 솜사탕컴퍼니의 부스에서 대…",
+    "body": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 CES 박람회장입니다. 솜사탕컴퍼니의 부스에서 대화를 나눕니다.\n당신은 솜사탕컴퍼니의 영업사원입니다. 저는 물건을 구매하려 합니다.\n대화를 시작하겠습니다. ",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c0ba32b2a8c16000",
+    "book_id": "english-classroom",
+    "group_id": "p-c0ba32b2a8c16000",
+    "order": 666,
+    "sequence": 666,
+    "title": "That sounds cool. I think you are fit for the marketing team.",
+    "body": "That sounds cool. I think you are fit for the marketing team. ",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-8faef5da3b2e2704",
+    "book_id": "english-classroom",
+    "group_id": "p-8faef5da3b2e2704",
+    "order": 667,
+    "sequence": 667,
+    "title": "That sounds great. Have you ever seen cotton candies from variou…",
+    "body": "That sounds great. Have you ever seen cotton candies from various countries? Are they different?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-abd875e933f58156",
+    "book_id": "english-classroom",
+    "group_id": "p-abd875e933f58156",
+    "order": 668,
+    "sequence": 668,
+    "title": "Can you explain why a trip experience can contribute to cotton c…",
+    "body": "Can you explain why a trip experience can contribute to cotton candy generation company?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6626b0d2175ef47c",
+    "book_id": "english-classroom",
+    "group_id": "p-6626b0d2175ef47c",
+    "order": 669,
+    "sequence": 669,
+    "title": "지금부터 해외 채용을 주제로 한 대화를 시작하겠습니다. 현재 장소는 캘리포니카 공과대학의 행정관 로비입니다. 저는…",
+    "body": "지금부터 해외 채용을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 캘리포니카 공과대학의 행정관 로비입니다. 저는 졸업예정자의 채용 면접을 진행하고자 합니다.\n당신은 지원자이며, 저는 채용 담당자입니다.\n면접을 시작합니다. 자기소개부터 시작해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-41978ea2dfbcf131",
+    "book_id": "english-classroom",
+    "group_id": "p-41978ea2dfbcf131",
+    "order": 670,
+    "sequence": 670,
+    "title": "(1) 답변에는 영어만 사용한다 (2) 답변은 최대 4문장으로 구성된다 (3) 각 문장은 최대 20개까지의 단어를…",
+    "body": "(1) 답변에는 영어만 사용한다\n(2) 답변은 최대 4문장으로 구성된다\n(3) 각 문장은 최대 20개까지의 단어를 사용할 수 있다\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n\n향후 제 답변에 문법 오류가 있다면 이를 지적하고 수정안을 제안해줘야 합니다.\n숙지하셨습니까?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-1df6566ac4bceece",
+    "book_id": "english-classroom",
+    "group_id": "p-1df6566ac4bceece",
+    "order": 671,
+    "sequence": 671,
+    "title": "The quote with additional information is now sent to your e-mail…",
+    "body": "The quote with additional information is now sent to your e-mail. Do you need a printed sheet?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-00846f65f8e3c4f3",
+    "book_id": "english-classroom",
+    "group_id": "p-00846f65f8e3c4f3",
+    "order": 672,
+    "sequence": 672,
+    "title": "Alright. We have an electrified ordering system. Could you type…",
+    "body": "Alright. We have an electrified ordering system. Could you type the delivery address and your e-mail here?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e22ec571ce41a728",
+    "book_id": "english-classroom",
+    "group_id": "p-e22ec571ce41a728",
+    "order": 673,
+    "sequence": 673,
+    "title": "Sure. The MOQ of this product is 1,000 pieces. It would be packe…",
+    "body": "Sure. The MOQ of this product is 1,000 pieces. It would be packed in a box. How many do you need?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c872051ad6ce6e6f",
+    "book_id": "english-classroom",
+    "group_id": "p-c872051ad6ce6e6f",
+    "order": 674,
+    "sequence": 674,
+    "title": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다. 현재 장소는 미국의 CES 박람회장이며, 당신은 우리 회사 물…",
+    "body": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 미국의 CES 박람회장이며, 당신은 우리 회사 물건을 구매하고자 합니다.\n당신은 현지의 바이어이며, 저는 회사를 소개하는 직원입니다.\n제품 구매를 위한 협상을 시작해 주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d0275c2ad3e0403f",
+    "book_id": "english-classroom",
+    "group_id": "p-d0275c2ad3e0403f",
+    "order": 675,
+    "sequence": 675,
+    "title": "Please take seat here. This is our catalogue.",
+    "body": "Please take seat here. This is our catalogue.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d614495a53a6d174",
+    "book_id": "english-classroom",
+    "group_id": "p-d614495a53a6d174",
+    "order": 676,
+    "sequence": 676,
+    "title": "Of course. We have various options. Could you please to come in…",
+    "body": "Of course. We have various options. Could you please to come in and tell me about details of your business? I can recommend the most appropriate one for you.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f06fa02902df2ac3",
+    "book_id": "english-classroom",
+    "group_id": "p-f06fa02902df2ac3",
+    "order": 677,
+    "sequence": 677,
+    "title": "Sure. This cotton candy generator can produce 12 samples at the…",
+    "body": "Sure. This cotton candy generator can produce 12 samples at the same time. ",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-70bc2c19e0ea40f8",
+    "book_id": "english-classroom",
+    "group_id": "p-70bc2c19e0ea40f8",
+    "order": 678,
+    "sequence": 678,
+    "title": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다. 현재 장소는 미국의 CES 박람회장이며, 당신은 우리 회사 부…",
+    "body": "지금부터 해외출장을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 미국의 CES 박람회장이며, 당신은 우리 회사 부스를 방문했습니다.\n당신은 현지의 바이어이며, 저는 회사를 소개하는 직원입니다.\n우리 회사의 제품에 대한 질문을 시작해 주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"해외출장을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-eb833ce1f52b1b2c",
+    "book_id": "english-classroom",
+    "group_id": "p-eb833ce1f52b1b2c",
+    "order": 679,
+    "sequence": 679,
+    "title": "Oh sir! Thank you. Thank you a lot. Now what should I do to file…",
+    "body": "Oh sir! Thank you. Thank you a lot. Now what should I do to file the report?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5fa4fc18b17c9214",
+    "book_id": "english-classroom",
+    "group_id": "p-5fa4fc18b17c9214",
+    "order": 680,
+    "sequence": 680,
+    "title": "Embassy? That's great Idea. I'm from Republic of Korea. Is it fa…",
+    "body": "Embassy? That's great Idea. I'm from Republic of Korea. Is it far from here?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-3763656ff2a96de0",
+    "book_id": "english-classroom",
+    "group_id": "p-3763656ff2a96de0",
+    "order": 681,
+    "sequence": 681,
+    "title": "Thanks a lot. You are so kind. Well, but, I don't remember where…",
+    "body": "Thanks a lot. You are so kind. Well, but, I don't remember where I dropped it. What should I do sir?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-52e95a669c3048fa",
+    "book_id": "english-classroom",
+    "group_id": "p-52e95a669c3048fa",
+    "order": 682,
+    "sequence": 682,
+    "title": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다. 현재 장소는 미국의 경찰서이며, 저는 여권을 잃어버려서 경찰서…",
+    "body": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 미국의 경찰서이며, 저는 여권을 잃어버려서 경찰서에 방문했습니다.\n당신은 경찰이며, 저는 여행객입니다.\n제가 당신에게 \"여권을 잃어버렸어요. 도와주세요.\"라고 요청했습니다.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-37d4f45e26a2fca3",
+    "book_id": "english-classroom",
+    "group_id": "p-37d4f45e26a2fca3",
+    "order": 683,
+    "sequence": 683,
+    "title": "Good. Can I see the car? I hope it is red!",
+    "body": "Good. Can I see the car? I hope it is red!",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-af1d05b7ef6ee6a4",
+    "book_id": "english-classroom",
+    "group_id": "p-af1d05b7ef6ee6a4",
+    "order": 684,
+    "sequence": 684,
+    "title": "Good. Here's my international driver's license. And card here. D…",
+    "body": "Good. Here's my international driver's license. And card here. Does VISA works here?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-2f3f64c7a8c3e495",
+    "book_id": "english-classroom",
+    "group_id": "p-2f3f64c7a8c3e495",
+    "order": 685,
+    "sequence": 685,
+    "title": "Hi. I want to rent Ford's Mustang Convertable for 3 days.",
+    "body": "Hi. I want to rent Ford's Mustang Convertable for 3 days.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-086cc0c9166d847b",
+    "book_id": "english-classroom",
+    "group_id": "p-086cc0c9166d847b",
+    "order": 686,
+    "sequence": 686,
+    "title": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다. 현재 장소는 캘리포니아의 렌터카 매장이며, 제가 차를 빌리는…",
+    "body": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 캘리포니아의 렌터카 매장이며, 제가 차를 빌리는 과정의 대화를 주고받겠습니다.\n당신은 렌터카 업체의 직원이며 저는 여행객입니다.\n저는 방금 당신의 매장에 도착했습니다. 대화를 시작해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-30d4e403cff9867e",
+    "book_id": "english-classroom",
+    "group_id": "p-30d4e403cff9867e",
+    "order": 687,
+    "sequence": 687,
+    "title": "Well, wait. Where is the toilet anyway?",
+    "body": "Well, wait. Where is the toilet anyway?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-b12efdc4bf04509e",
+    "book_id": "english-classroom",
+    "group_id": "p-b12efdc4bf04509e",
+    "order": 688,
+    "sequence": 688,
+    "title": "I'd love to try the chili one. And a Pepsi please.",
+    "body": "I'd love to try the chili one. And a Pepsi please.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5dbe11a2121c50e9",
+    "book_id": "english-classroom",
+    "group_id": "p-5dbe11a2121c50e9",
+    "order": 689,
+    "sequence": 689,
+    "title": "Well, I'm new to here. Could you recommend something popular?",
+    "body": "Well, I'm new to here. Could you recommend something popular?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5b447351384fb134",
+    "book_id": "english-classroom",
+    "group_id": "p-5b447351384fb134",
+    "order": 690,
+    "sequence": 690,
+    "title": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다. 현재 장소는 뉴욕의 핫도그 매장이며, 음식을 주문하는 과정의…",
+    "body": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 뉴욕의 핫도그 매장이며, 음식을 주문하는 과정의 대화를 주고받겠습니다.\n당신은 주문을 받으러 온 웨이터이며 저는 여행객입니다.\n저는 방금 자리에 앉았습니다. 접객을 시작해 주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"여행을 떠나요!\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-9843f44882d3257d",
+    "book_id": "english-classroom",
+    "group_id": "p-9843f44882d3257d",
+    "order": 691,
+    "sequence": 691,
+    "title": "Good. That's how IT works. I love it.",
+    "body": "Good. That's how IT works. I love it.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-11a61c97288f1bd3",
+    "book_id": "english-classroom",
+    "group_id": "p-11a61c97288f1bd3",
+    "order": 692,
+    "sequence": 692,
+    "title": "Ok. Do I have to show you the booking confirmation E-mail?",
+    "body": "Ok. Do I have to show you the booking confirmation E-mail?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-8e38acd7b1fc75a2",
+    "book_id": "english-classroom",
+    "group_id": "p-8e38acd7b1fc75a2",
+    "order": 693,
+    "sequence": 693,
+    "title": "Sure. Here you are.",
+    "body": "Sure. Here you are.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-b2631944761139be",
+    "book_id": "english-classroom",
+    "group_id": "p-b2631944761139be",
+    "order": 694,
+    "sequence": 694,
+    "title": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다. 현재 장소는 공항이며, 티켓을 발권하는 과정에서의 대화를 주고…",
+    "body": "지금부터 해외여행을 주제로 한 대화를 시작하겠습니다.\n현재 장소는 공항이며, 티켓을 발권하는 과정에서의 대화를 주고받겠습니다.\n당신은 티켓 발권대의 직원이며 저는 여행객입니다.\n먼저 제 여권을 요구하는 내용으로 대화를 시작해주세요.",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-59736000ef27dcf5",
+    "book_id": "english-classroom",
+    "group_id": "p-59736000ef27dcf5",
+    "order": 695,
+    "sequence": 695,
+    "title": "(1) 답변에는 영어만 사용한다 (2) 답변은 최대 2문장으로 구성된다 (3) 각 문장은 최대 7개까지의 단어를 사…",
+    "body": "(1) 답변에는 영어만 사용한다\n(2) 답변은 최대 2문장으로 구성된다\n(3) 각 문장은 최대 7개까지의 단어를 사용할 수 있다\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n\n향후 제 답변에 문법 오류가 있다면 이를 지적하고 수정안을 제안해줘야 합니다.\n숙지하셨습니까?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-305af6efa559ea76",
+    "book_id": "english-classroom",
+    "group_id": "p-305af6efa559ea76",
+    "order": 696,
+    "sequence": 696,
+    "title": "Language: English Answer Length Limit: 7 words 지금부터 당신은 제 회화 연습을…",
+    "body": "Language: English\nAnswer Length Limit: 7 words\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n (1) 답변은 최대 2문장으로 구성된다\n (2) 각 문장은 최대 7개까지의 단어를 사용할 수 있다.\n (3) 답변에는 영어만 사용한다\n\n숙지하셨습니까?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c72d98f1c744b2ac",
+    "book_id": "english-classroom",
+    "group_id": "p-c72d98f1c744b2ac",
+    "order": 697,
+    "sequence": 697,
+    "title": "(1) 답변에는 영어만 사용한다 (2) 답변은 최대 2문장으로 구성된다 (3) 각 문장은 최대 7개까지의 단어를 사…",
+    "body": "(1) 답변에는 영어만 사용한다\n(2) 답변은 최대 2문장으로 구성된다\n(3) 각 문장은 최대 7개까지의 단어를 사용할 수 있다\n\n지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n숙지하셨습니까?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4ce05f1bb1195848",
+    "book_id": "english-classroom",
+    "group_id": "p-4ce05f1bb1195848",
+    "order": 698,
+    "sequence": 698,
+    "title": "지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다. 당신은 다음과 같은 규칙을 지키며 답변합니다.…",
+    "body": "지금부터 당신은 제 회화 연습을 도와줄 영어 원어민 강사가 됩니다.\n당신은 다음과 같은 규칙을 지키며 답변합니다.\n (1) 답변은 최대 2문장으로 구성된다\n (2) 각 문장은 최대 7개까지의 단어를 사용할 수 있다.\n (3) 답변에는 영어만 사용한다\n\n숙지하셨습니까?",
+    "categories": [
+      "language"
+    ],
+    "comment": "\"회화 공부에 앞서! 필수 프롬프트 엔지니어링\" 챕터",
+    "href": "",
+    "screenshot": ""
+  }
+]

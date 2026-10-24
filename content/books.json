@@ -1,0 +1,154 @@
+[
+  {
+    "id": "gemini-notebook",
+    "title": "딸깍! 제미나이 & 노트북",
+    "year": 2026,
+    "author": "반병현, 황현목",
+    "publisher": "생능북스",
+    "cover": "2026_ban_gemini.jpg",
+    "stores": {
+      "Yes24": "https://www.yes24.com/product/goods/195238254"
+    },
+    "isbn": "9791194630975"
+  },
+  {
+    "id": "vibe-coding",
+    "title": "딸깍! 바이브 코딩 by 안티그래비티",
+    "year": 2026,
+    "author": "반병현",
+    "publisher": "생능북스",
+    "cover": "2026_ban_vibe.jpg",
+    "stores": {
+      "Yes24": "https://www.yes24.com/product/goods/184675866"
+    },
+    "isbn": "9791194630692"
+  },
+  {
+    "id": "author-illustrations",
+    "title": "작가의 프롬프트 - AI로 제작한 삽화편",
+    "year": 2026,
+    "author": "반병현",
+    "publisher": "BOOKK(부크크)",
+    "cover": "2026_ban_illustration.jpg",
+    "stores": {
+      "Yes24": "https://www.yes24.com/product/goods/195817748"
+    },
+    "isbn": "9791112269492"
+  },
+  {
+    "id": "english-reading",
+    "title": "독해가 2배 빨라지는 챗GPT 수능독해",
+    "year": 2024,
+    "author": "김지애, 이제종, 황현목, 반병현",
+    "publisher": "생능북스",
+    "cover": "2024_ban_reading.jpg",
+    "stores": {
+      "Yes24": "https://www.yes24.com/product/goods/124769179"
+    },
+    "isbn": "9791192932460"
+  },
+  {
+    "id": "copilot",
+    "title": "코파일럿- 업무에 200%써먹는 AI 비서",
+    "year": 2024,
+    "author": "반병현",
+    "publisher": "생능북스",
+    "cover": "2024_반병현_코파일럿.jpg",
+    "stores": {
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000212725343",
+      "Yes24": "https://www.yes24.com/product/goods/125480842",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415"
+    }
+  },
+  {
+    "id": "prompt-engineering",
+    "title": "프롬프트 엔지니어링",
+    "year": 2023,
+    "author": "반병현",
+    "publisher": "생능북스",
+    "cover": "2023_반병현_프롬프트엔지니어링.jpg",
+    "stores": {
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000217845743",
+      "Yes24": "https://www.yes24.com/product/goods/154750336",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109"
+    }
+  },
+  {
+    "id": "english-classroom",
+    "title": "나만의 영어 선생님 챗GPT 영어교실",
+    "year": 2023,
+    "author": "반병현, 황현목, 이제종",
+    "publisher": "생능북스",
+    "cover": "2023_반병현_영어교실.jpg",
+    "stores": {
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202728693",
+      "Yes24": "https://www.yes24.com/product/goods/119732698",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038"
+    }
+  },
+  {
+    "id": "chatgpt-bookk",
+    "title": "ChatGPT",
+    "year": 2023,
+    "author": "반병현",
+    "publisher": "BOOKK",
+    "cover": "2023_반병현_chatgpt_bookk.png",
+    "stores": {
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200738583",
+      "Yes24": "https://www.yes24.com/product/goods/116974514",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309150436"
+    }
+  },
+  {
+    "id": "chatgpt-singularity",
+    "title": "챗GPT: 마침내 찾아온 특이점",
+    "year": 2023,
+    "author": "반병현",
+    "publisher": "생능북스",
+    "cover": "2023_반병현_챗GPT.png",
+    "stores": {
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000200861077",
+      "Yes24": "https://www.yes24.com/product/goods/117246674",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310166255"
+    }
+  },
+  {
+    "id": "gpt-nomad",
+    "title": "챗GPT: GPT 노마드의 탄생",
+    "year": 2023,
+    "author": "반병현",
+    "publisher": "생능북스",
+    "cover": "2023_반병현_gpt 노마드.jpg",
+    "stores": {
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000201335898",
+      "Yes24": "https://www.yes24.com/product/goods/118059497",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313625658"
+    }
+  },
+  {
+    "id": "english-conversation",
+    "title": "40일 만에 영어가 나온다! 챗GPT 영어회화",
+    "year": 2023,
+    "author": "반병현, 김연정",
+    "publisher": "생능북스",
+    "cover": "2023_반병현_영어회화.jpg",
+    "stores": {
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000208357873",
+      "Yes24": "https://www.yes24.com/product/goods/121173595",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321904017"
+    }
+  },
+  {
+    "id": "report-writing",
+    "title": "마음을 움직이는 보고서 작성법",
+    "year": 2023,
+    "author": "김강욱, 반병현",
+    "publisher": "생능북스",
+    "cover": "2023_반병현_보고서_작성법.jpg",
+    "stores": {
+      "Kyobo": "https://product.kyobobook.co.kr/detail/S000202988695",
+      "Yes24": "https://www.yes24.com/product/goods/119982982",
+      "Aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320148721"
+    }
+  }
+]

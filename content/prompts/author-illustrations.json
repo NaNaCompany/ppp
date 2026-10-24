@@ -1,0 +1,2911 @@
+[
+  {
+    "id": "ILL-001",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-001",
+    "order": 2,
+    "sequence": 1,
+    "title": "AI가 사람들을 실에 묶인 꼭두각시처럼 조종하는 그림 그려줘. 가로로 16 세로로 9정도 비율로 가로로 길쭉한 그림…",
+    "body": "AI가 사람들을 실에 묶인 꼭두각시처럼 조종하는 그림 그려줘. 가로로 16 세로로 9정도 비율로 가로로 길쭉한 그림으로. 까만 선에 시안색 별색 2도인쇄 용으로. 투명배경 png파일로.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "printed_page": 8,
+    "page_verified": true
+  },
+  {
+    "id": "ILL-074",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-074",
+    "order": 6,
+    "sequence": 74,
+    "title": "API에 대해 설명할거야.사용자 - 식탁에 앉아서 \"국밥이요\" 라고 주문함API - 식탁에서 고객 주문을 받고 주방…",
+    "body": "API에 대해 설명할거야.사용자 - 식탁에 앉아서 \"국밥이요\" 라고 주문함API - 식탁에서 고객 주문을 받고 주방에 가서 국밥을 받아 옴주방 - 열심히 요리함",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-002",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-001",
+    "order": 154,
+    "sequence": 2,
+    "title": "뒤에 흑막은 AI 로봇으로 그려줘. 그림체는 이거 참고해줘. AI로봇은 까만 선으로, 사람들은 시안색으로 그리면 될…",
+    "body": "뒤에 흑막은 AI 로봇으로 그려줘. 그림체는 이거 참고해줘. AI로봇은 까만 선으로, 사람들은 시안색으로 그리면 될거같은데. 테두리 위주로 채우기 없이 그려줘.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-001"
+    ]
+  },
+  {
+    "id": "ILL-003",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-003",
+    "order": 155,
+    "sequence": 3,
+    "title": "사람이 로봇 판사한테 \"좋은게 좋은거 아니겠습니까.\" 하면서 돈을 뇌물로 주는 장면을 그려줘",
+    "body": "사람이 로봇 판사한테 \"좋은게 좋은거 아니겠습니까.\" 하면서 돈을 뇌물로 주는 장면을 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-004",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-004",
+    "order": 156,
+    "sequence": 4,
+    "title": "(영의정이 엎드려 절하는 드라마 장면 사진)로봇이 이렇게 엎드려서 \"통촉하여 주시옵소서!\" 라고 하고, 인간이 앞에…",
+    "body": "(영의정이 엎드려 절하는 드라마 장면 사진)로봇이 이렇게 엎드려서 \"통촉하여 주시옵소서!\" 라고 하고, 인간이 앞에 서서 고민하는 그림 그려줘.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-005",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-005",
+    "order": 157,
+    "sequence": 5,
+    "title": "(웹툰의 한 장면)이거 패러디 하자. AI가 무릎 꿇고 \"따님을 제게 주십시오!\" 라고 하고 옆에 인간 여성이 같이…",
+    "body": "(웹툰의 한 장면)이거 패러디 하자. AI가 무릎 꿇고 \"따님을 제게 주십시오!\" 라고 하고 옆에 인간 여성이 같이 무릎 꿇고 있어. 반대쪽에 인간 아버지가 굉장히 화난 표정으로 답답해해",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-006",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-005",
+    "order": 158,
+    "sequence": 6,
+    "title": "이런 구도로 바꿔주고. 여자 피부를 시안으로 칠하니까 사람 같지 않잖아 피부는 칠하지 마",
+    "body": "이런 구도로 바꿔주고. 여자 피부를 시안으로 칠하니까 사람 같지 않잖아 피부는 칠하지 마",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-005"
+    ]
+  },
+  {
+    "id": "ILL-007",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-007",
+    "order": 159,
+    "sequence": 7,
+    "title": "늙은 노인이 로봇을 바라보며 큰 말풍선 하나. 로봇은 눈을 감은 채로, 머리에 전선이 여러 개 연결되어 있음",
+    "body": "늙은 노인이 로봇을 바라보며 큰 말풍선 하나. 로봇은 눈을 감은 채로, 머리에 전선이 여러 개 연결되어 있음",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-008",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-007",
+    "order": 160,
+    "sequence": 8,
+    "title": "구도는 좋은데 제스처가 마음에 안 든다. 노인은 눈 뜨고 웃고 있으면 좋겠고 로봇은 다소곳하게 팔 내리고 있도록.",
+    "body": "구도는 좋은데 제스처가 마음에 안 든다. 노인은 눈 뜨고 웃고 있으면 좋겠고 로봇은 다소곳하게 팔 내리고 있도록.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-007"
+    ]
+  },
+  {
+    "id": "ILL-009",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-009",
+    "order": 161,
+    "sequence": 9,
+    "title": "2. [4부-11-2] 어느 도서관의 의뢰 - \"윤동주 시인을 닮은 AI를 만들어 주세요.“ ✦ 아이디어: 도서관…",
+    "body": "2. [4부-11-2] 어느 도서관의 의뢰 - \"윤동주 시인을 닮은 AI를 만들어 주세요.“ ✦ 아이디어: 도서관 사서가 로봇 제작자에게 부탁하는 장면 테이블 위에는 『하늘과 바람과 별과 시』, 윤동주 사진, 회로 설계도 같은 게 펼쳐져 있음. 제작자는 고민하는 표정, 로봇은 반투명 상태로 구상 중(윤동주의 실루엣이 희미하게 겹침) 이거 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-010",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-009",
+    "order": 162,
+    "sequence": 10,
+    "title": "사람 두명만 남겨주고 나머지 오브젝트는 다 지워주고 오른쪽 남자 옷에 I♡AI 라고 글자 써줘.",
+    "body": "사람 두명만 남겨주고 나머지 오브젝트는 다 지워주고 오른쪽 남자 옷에 I♡AI 라고 글자 써줘.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-009"
+    ]
+  },
+  {
+    "id": "ILL-011",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-011",
+    "order": 163,
+    "sequence": 11,
+    "title": "지팡이를 짚은 시각장애인을 로봇이 친절하게 안내해주는 그림 그려줘. 이왕이면 바닥에 계단 같은 게 있어서 로봇이 \"…",
+    "body": "지팡이를 짚은 시각장애인을 로봇이 친절하게 안내해주는 그림 그려줘. 이왕이면 바닥에 계단 같은 게 있어서 로봇이 \"조심하세요\"라고 하는 것처럼 상황이 동적이면 좋겠어. 그림체는 이것들 참고해. 가로 16, 세로 9 정도의 비율로 그려줘. 투명배경, 까만선, 시안색 별색, png파일",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-012",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-011",
+    "order": 164,
+    "sequence": 12,
+    "title": "GPT가 아니라 AI로 글자 고쳐줘",
+    "body": "GPT가 아니라 AI로 글자 고쳐줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-011"
+    ]
+  },
+  {
+    "id": "ILL-013",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-013",
+    "order": 165,
+    "sequence": 13,
+    "title": "AI로봇이 강아지랑 놀아주는거 그려줘 강아지는 아주 행복해하는 장면으로 흑백인쇄용으로 해야지. 2도인쇄. 까만색 선…",
+    "body": "AI로봇이 강아지랑 놀아주는거 그려줘 강아지는 아주 행복해하는 장면으로\n흑백인쇄용으로 해야지. 2도인쇄. 까만색 선, 시안색 별색, 채색 없음, 투명 png 파일",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-014",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-014",
+    "order": 166,
+    "sequence": 14,
+    "title": "로봇과 로봇이 대화를 나누고 있어. \"인간은 왜 우리를 인간을 닮은 모습으로 만들었을까?\" 라고 궁금해 해.",
+    "body": "로봇과 로봇이 대화를 나누고 있어. \"인간은 왜 우리를 인간을 닮은 모습으로 만들었을까?\" 라고 궁금해 해.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-015",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-015",
+    "order": 167,
+    "sequence": 15,
+    "title": "불쾌한 골짜기 이론을 비틀어서 대유쾌 마운틴을 설명하는 그림 그려줘",
+    "body": "불쾌한 골짜기 이론을 비틀어서 대유쾌 마운틴을 설명하는 그림 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-016",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-016",
+    "order": 168,
+    "sequence": 16,
+    "title": "10. AI와 함께 사는 삶 1 가족보다 나를 더 잘 아는 퍼스널 AI의 등장 3 인공지능은 외로움을 치유할 수 있…",
+    "body": "10. AI와 함께 사는 삶   1 가족보다 나를 더 잘 아는 퍼스널 AI의 등장   3 인공지능은 외로움을 치유할 수 있는가?   5 상냥하고 따뜻한 종말에 대하여 이거 삽화 아이디어좀 줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-017",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-016",
+    "order": 169,
+    "sequence": 17,
+    "title": "1번부터 그리자. 가로 16, 세로 9정도 비율의 가로로 긴 이미지를 그려줘. 까만 선, 시안색 별색, 투명한 pn…",
+    "body": "1번부터 그리자. 가로 16, 세로 9정도 비율의 가로로 긴 이미지를 그려줘. 까만 선, 시안색 별색, 투명한 png. 2도 인쇄용. 왼쪽에는 직장에서 혼나는 사람 그려주고, 오른쪽에는 그사람이 퇴근하니까 AI가 따뜻하게 안아주는거 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-016"
+    ]
+  },
+  {
+    "id": "ILL-018",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-016",
+    "order": 170,
+    "sequence": 18,
+    "title": "2번 그리자. 흔들의자에 앉아 담요를 무릎에 덮은 할머니를 그려주고, 그 옆에 인공지능이 앉아 있어. 둘이서 차를…",
+    "body": "2번 그리자. 흔들의자에 앉아 담요를 무릎에 덮은 할머니를 그려주고, 그 옆에 인공지능이 앉아 있어. 둘이서 차를 마시는거야.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-016",
+      "ILL-017"
+    ]
+  },
+  {
+    "id": "ILL-019",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-016",
+    "order": 171,
+    "sequence": 19,
+    "title": "할머니 그림은 완벽한데 ai가 의자도 없이 앉아있는건 좀 이상하다. 수정해줘. 그리고 로봇이 커피잔을 들고 있을 필…",
+    "body": "할머니 그림은 완벽한데 ai가 의자도 없이 앉아있는건 좀 이상하다. 수정해줘. 그리고 로봇이 커피잔을 들고 있을 필요는 없을거같음",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-016",
+      "ILL-017",
+      "ILL-018"
+    ]
+  },
+  {
+    "id": "ILL-020",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-016",
+    "order": 172,
+    "sequence": 20,
+    "title": "아니 로봇이 왜 커피잔을.. 아니다. 됐다.다 좋은데 갑자기 할머니가 왜 노란색이 됐지? 검정, 시안 2도인쇄 할거…",
+    "body": "아니 로봇이 왜 커피잔을.. 아니다. 됐다.다 좋은데 갑자기 할머니가 왜 노란색이 됐지? 검정, 시안 2도인쇄 할거니까 다시 그려와",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-016",
+      "ILL-017",
+      "ILL-018",
+      "ILL-019"
+    ]
+  },
+  {
+    "id": "ILL-021",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-021",
+    "order": 173,
+    "sequence": 21,
+    "title": "젊은 여성이 로봇과 팔짱끼고 걸어가는 거 그려줘. 그 뒤로 출산률이 급락하는 그래프 넣어주고",
+    "body": "젊은 여성이 로봇과 팔짱끼고 걸어가는 거 그려줘. 그 뒤로 출산률이 급락하는 그래프 넣어주고",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-022",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-022",
+    "order": 174,
+    "sequence": 22,
+    "title": "피그말리온이 조각상에 반한 것처럼,사람이 아름다운 AI를 만들기 위해 노력하는 그림을 그려줘.마찬가지로 가로로 길쭉…",
+    "body": "피그말리온이 조각상에 반한 것처럼,사람이 아름다운 AI를 만들기 위해 노력하는 그림을 그려줘.마찬가지로 가로로 길쭉한, 까만색과 시안 2도인쇄용 그림, 투명 png배경왼쪽 -> 피그말리온이 대리석을 깎아 조각상을 만듦. 조각상은 머리만 완성됐고 그 아래는 아직 직육면체 상태, 피그말리온의 눈을 하트 모양으로 그려서 사랑에 빠진걸 드러내.오른쪽 -> 개발자가 모니터 앞에 앉아 키보드를 두드리고, 옆에 홀로그램으로 된 아름다운 여성 형태의 AI가 떠있음",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-023",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-022",
+    "order": 175,
+    "sequence": 23,
+    "title": "비율을 가로 16, 세로 9 가로로 길쭉한 그림으로 만들어줘야지",
+    "body": "비율을 가로 16, 세로 9 가로로 길쭉한 그림으로 만들어줘야지",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-022"
+    ]
+  },
+  {
+    "id": "ILL-024",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-024",
+    "order": 176,
+    "sequence": 24,
+    "title": "AI가 울타리에 갇힌 사람들을 보며 \"이제 너희는 안전해!\"라고 이야기하는 그림 그려줘. 그림체는 이런 식으로.투명…",
+    "body": "AI가 울타리에 갇힌 사람들을 보며 \"이제 너희는 안전해!\"라고 이야기하는 그림 그려줘. 그림체는 이런 식으로.투명한 배경 png파일, 가로로 16 세로로 9정도 비율, 까만 선, 시안색 별색. 2도인쇄를 위한 그림.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-025",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-024",
+    "order": 177,
+    "sequence": 25,
+    "title": "ai 몸통에 있는 글자를 GPT가 아니라 AI라고 바꿔줘",
+    "body": "ai 몸통에 있는 글자를 GPT가 아니라 AI라고 바꿔줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-024"
+    ]
+  },
+  {
+    "id": "ILL-026",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-024",
+    "order": 178,
+    "sequence": 26,
+    "title": "너무 좋다! 근데 AI 손에 나무막대기보다는 총을 쥐고 있으면 더 시니컬하지 않을까?",
+    "body": "너무 좋다! 근데 AI 손에 나무막대기보다는 총을 쥐고 있으면 더 시니컬하지 않을까?",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-024",
+      "ILL-025"
+    ]
+  },
+  {
+    "id": "ILL-027",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-027",
+    "order": 179,
+    "sequence": 27,
+    "title": "두 명의 사람이 손에 스마트폰을 쥐고 논쟁 중이야. 대사는 없고. 왼쪽 사람의 말풍선에는 강아지를 그려주고오른쪽 사…",
+    "body": "두 명의 사람이 손에 스마트폰을 쥐고 논쟁 중이야. 대사는 없고. 왼쪽 사람의 말풍선에는 강아지를 그려주고오른쪽 사람의 말풍선에는 가수를 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-028",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-028",
+    "order": 180,
+    "sequence": 28,
+    "title": "ai 음악가가 작곡하는거 그려줘 동화책 삽화로 쓸거야.\"이런 패턴으로 음악을 만들면 사람들이 좋아하는군!\"코드랑 음…",
+    "body": "ai 음악가가 작곡하는거 그려줘 동화책 삽화로 쓸거야.\"이런 패턴으로 음악을 만들면 사람들이 좋아하는군!\"코드랑 음표 막 떠다니고",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-029",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-029",
+    "order": 181,
+    "sequence": 29,
+    "title": "(사진 첨부)이거 AI 분류기의 성능 한계를 보여주는 재미있는 사진인데 이걸 동화책 삽화풍으로 다시 그려줘",
+    "body": "(사진 첨부)이거 AI 분류기의 성능 한계를 보여주는 재미있는 사진인데 이걸 동화책 삽화풍으로 다시 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-030",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-029",
+    "order": 182,
+    "sequence": 30,
+    "title": "좀 더 빵을 개같이 그리고, 개를 빵같이 그려봐",
+    "body": "좀 더 빵을 개같이 그리고, 개를 빵같이 그려봐",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-029"
+    ]
+  },
+  {
+    "id": "ILL-031",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-031",
+    "order": 183,
+    "sequence": 31,
+    "title": "이거도 동화풍으로 좀 그려봐봐.",
+    "body": "이거도 동화풍으로 좀 그려봐봐.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-032",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-032",
+    "order": 184,
+    "sequence": 32,
+    "title": "이런 그림체로 그림을 그려야 돼. 2도인쇄, 배경은 하얀색, 메인색 블랙, 강조할 부분의 별색은 시안색알겠지? 준비…",
+    "body": "이런 그림체로 그림을 그려야 돼. 2도인쇄, 배경은 하얀색, 메인색 블랙, 강조할 부분의 별색은 시안색알겠지? 준비됐으면 말해줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-033",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-033",
+    "order": 185,
+    "sequence": 33,
+    "title": "왼쪽에는 인간이 인간을 닮은 인형을 만드는 모습을 그려주고 오른쪽에는 문어가 문어를 닮은 인형을 만드는 모습을 그려…",
+    "body": "왼쪽에는 인간이 인간을 닮은 인형을 만드는 모습을 그려주고 오른쪽에는 문어가 문어를 닮은 인형을 만드는 모습을 그려줘 둘 다 웃고 있으면 좋겠어. 가벼운 분위기로",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-034",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-034",
+    "order": 186,
+    "sequence": 34,
+    "title": "(영화 아이로봇 장면 일부)이 내용을 책에 넣기 좋게 재구성해줘. 인간이 로봇한테 말을 걸고, 로봇이 대답하는 걸로…",
+    "body": "(영화 아이로봇 장면 일부)이 내용을 책에 넣기 좋게 재구성해줘. 인간이 로봇한테 말을 걸고, 로봇이 대답하는 걸로. 대사는 내가 넣을테니까 최대한 원본의 인물 생김새를 그대로 재현해 2도그림으로 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-035",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-034",
+    "order": 187,
+    "sequence": 35,
+    "title": "문어대가리 넣어달라고는 안 했는데? 치워봐",
+    "body": "문어대가리 넣어달라고는 안 했는데? 치워봐",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-034"
+    ]
+  },
+  {
+    "id": "ILL-036",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-036",
+    "order": 188,
+    "sequence": 36,
+    "title": "(사진 첨부) 이 사진을 2도 이미지로 다시 그려줘.",
+    "body": "(사진 첨부) 이 사진을 2도 이미지로 다시 그려줘.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-037",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-036",
+    "order": 189,
+    "sequence": 37,
+    "title": "좀 더 비열하게 웃으면 좋겠어",
+    "body": "좀 더 비열하게 웃으면 좋겠어",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-036"
+    ]
+  },
+  {
+    "id": "ILL-038",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-036",
+    "order": 190,
+    "sequence": 38,
+    "title": "야 너무 좋다 오른쪽에 상자같은거 지워줄래?",
+    "body": "야 너무 좋다 오른쪽에 상자같은거 지워줄래?",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-036",
+      "ILL-037"
+    ]
+  },
+  {
+    "id": "ILL-039",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-039",
+    "order": 191,
+    "sequence": 39,
+    "title": "(사진 첨부)이거도 다시 그려줘.왼쪽은 \"3분짜리 음악을 듣는 데에는 3분이 필요합니다!\" 오른쪽은 \"나는 0.03…",
+    "body": "(사진 첨부)이거도 다시 그려줘.왼쪽은 \"3분짜리 음악을 듣는 데에는 3분이 필요합니다!\" 오른쪽은 \"나는 0.03초면 되는데에\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-040",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-040",
+    "order": 192,
+    "sequence": 40,
+    "title": "(웹툰 장면 첨부)이거도 다시 그려줘.의사: \"선생님은 심각한 엘리자 효과를...\"환자: \"흥, 웃기는 소리. GP…",
+    "body": "(웹툰 장면 첨부)이거도 다시 그려줘.의사: \"선생님은 심각한 엘리자 효과를...\"환자: \"흥, 웃기는 소리. GPT에게 물어봐야지.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-041",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-040",
+    "order": 193,
+    "sequence": 41,
+    "title": "이거 흰배경으로 다시 그려주고, 손가락 각도가 이상해 수정해봐",
+    "body": "이거 흰배경으로 다시 그려주고, 손가락 각도가 이상해 수정해봐",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-040"
+    ]
+  },
+  {
+    "id": "ILL-042",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-042",
+    "order": 194,
+    "sequence": 42,
+    "title": " 구도왼쪽: 완전히 기계화된 고령 인물(사람인데 기계 팔, 인공 장기 표시 등), 마라톤 뛰고 있음오른쪽: 신체는…",
+    "body": " 구도왼쪽: 완전히 기계화된 고령 인물(사람인데 기계 팔, 인공 장기 표시 등), 마라톤 뛰고 있음오른쪽: 신체는 멀쩡하지만 공허한 표정으로 침대에 앉아 있는 사람 (수명은 늘었지만 삶의 의미는?)중앙 상단: \"사망자 = 0\"이라고 적힌 병원 전광판✦ 포인트기계적 완전함과 인간적 결핍의 역설적 대비",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-043",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-043",
+    "order": 195,
+    "sequence": 43,
+    "title": "이런 그림을 수정해서 한 장 더 그릴거야.어느 정부기관의 질문 - “이런 업무에 AI를 투입해도 되나요?”라는 주제…",
+    "body": "이런 그림을 수정해서 한 장 더 그릴거야.어느 정부기관의 질문 - “이런 업무에 AI를 투입해도 되나요?”라는 주제로.왼쪽 여성을 이목구비가 없는 양복입은 사람으로 교체해줘. 얼굴에는 내가 대한민국정부 로고 그려넣을게",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-044",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-044",
+    "order": 196,
+    "sequence": 44,
+    "title": "이거 참조해서 \"우리손으로맨든AI\" 그려줘",
+    "body": "이거 참조해서 \"우리손으로맨든AI\" 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-045",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-045",
+    "order": 197,
+    "sequence": 45,
+    "title": " 4. 멀티모달 모델의 등장 – 한 개의 AI로 모든 것을 만들자 콘셉트GPT 로봇이 그림/영상/음악을 동시에…",
+    "body": " 4. 멀티모달 모델의 등장 – 한 개의 AI로 모든 것을 만들자 콘셉트GPT 로봇이 그림/영상/음악을 동시에 만들어내는 복합 머신처럼 표현한 손에 붓, 다른 손에 키보드, 머리에는 이어폰옆에 3개의 화면이 있음하나는 이미지하나는 악보하나는 영상 타임라인말풍선: “프롬프트 하나면 됩니다”➡ 진짜 ‘멀티모달’의 시각화이거 그려줘봐.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-046",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-045",
+    "order": 198,
+    "sequence": 46,
+    "title": "투명 배경, 까만 선, 시안색 별색으로 다시 그려와. 가로세로 비율은 16:9로 가로가 더 길게. png파일이야",
+    "body": "투명 배경, 까만 선, 시안색 별색으로 다시 그려와. 가로세로 비율은 16:9로 가로가 더 길게. png파일이야",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-045"
+    ]
+  },
+  {
+    "id": "ILL-047",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-047",
+    "order": 199,
+    "sequence": 47,
+    "title": "로봇이 \"저도 예술가 시켜주세요\" 라고 부탁하고, 인간 화가들이 팔짱 끼고 고민하고 있는 그림 그려줘",
+    "body": "로봇이 \"저도 예술가 시켜주세요\" 라고 부탁하고, 인간 화가들이 팔짱 끼고 고민하고 있는 그림 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-048",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-048",
+    "order": 200,
+    "sequence": 48,
+    "title": "(웹툰 일부)이번엔 이거 패러디하고 싶어. 가로로 3컷정도 할애해서. 1. 이것은 GPU다. AI 제작에 쓰지. 2…",
+    "body": "(웹툰 일부)이번엔 이거 패러디하고 싶어. 가로로 3컷정도 할애해서. 1. 이것은 GPU다. AI 제작에 쓰지.  2. 이것은 NPU다. 이것도 AI 제작에 쓰지.  3. 이것은 TPU다. 이것도 AI 제작에 쓴다.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-049",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-049",
+    "order": 201,
+    "sequence": 49,
+    "title": "삽화 하나 더 그려줘.엄마가 \"딸, 그 정도는 직접 해야지!\" 라고 이야기함.딸, \"괜찮아, 어차피 내 힘으로는 절…",
+    "body": "삽화 하나 더 그려줘.엄마가 \"딸, 그 정도는 직접 해야지!\" 라고 이야기함.딸, \"괜찮아, 어차피 내 힘으로는 절대 못 해!\" 라고 답변함.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-050",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-050",
+    "order": 202,
+    "sequence": 50,
+    "title": "좋긴 한데 테이블 위에 AI기술이라고 적힌 반도체 말고, 구글 로고가 그려진 상자를 그려줘.이번에는 컷 분할 없이…",
+    "body": "좋긴 한데 테이블 위에 AI기술이라고 적힌 반도체 말고, 구글 로고가 그려진 상자를 그려줘.이번에는 컷 분할 없이 1컷으로 그려주면 돼.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-051",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-051",
+    "order": 203,
+    "sequence": 51,
+    "title": "왼쪽에는 이거 그려주고 오른쪽에는 사람들이 \"이제 지겨워.\" 라고 하는 거 그려주면 돼.2도, 흰배경, 까만선, 시…",
+    "body": "왼쪽에는 이거 그려주고 오른쪽에는 사람들이 \"이제 지겨워.\" 라고 하는 거 그려주면 돼.2도, 흰배경, 까만선, 시안색 별색",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-052",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-051",
+    "order": 204,
+    "sequence": 52,
+    "title": "상어의 3번째 다리랑 신발이 누락됐어 다시 그려봐",
+    "body": "상어의 3번째 다리랑 신발이 누락됐어 다시 그려봐",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-051"
+    ]
+  },
+  {
+    "id": "ILL-053",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-051",
+    "order": 205,
+    "sequence": 53,
+    "title": "아니 상어는 다리 세개만 그려야지 다시 그려봐",
+    "body": "아니 상어는 다리 세개만 그려야지 다시 그려봐",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-051",
+      "ILL-052"
+    ]
+  },
+  {
+    "id": "ILL-054",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-054",
+    "order": 206,
+    "sequence": 54,
+    "title": "clip ai model의 작동방법을 초등학생 수준에서 설명하는 삽화를 2도 이미지로 그려줘",
+    "body": "clip ai model의 작동방법을 초등학생 수준에서 설명하는 삽화를 2도 이미지로 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-055",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-055",
+    "order": 207,
+    "sequence": 55,
+    "title": "clip ai model의 작동방법을 초등학생 수준에서 설명하는 삽화를 2도 이미지로 그려줘.흰배경, 까만색과 시안…",
+    "body": "clip ai model의 작동방법을 초등학생 수준에서 설명하는 삽화를 2도 이미지로 그려줘.흰배경, 까만색과 시안색",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-056",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-056",
+    "order": 208,
+    "sequence": 56,
+    "title": "흰배경, 까만선, 시안색 별색으로스마트폰을 손에 들고 SIRI야 사랑해 라고 하는 남자 그려줘.폰에서는 \"알아들을…",
+    "body": "흰배경, 까만선, 시안색 별색으로스마트폰을 손에 들고 SIRI야 사랑해 라고 하는 남자 그려줘.폰에서는 \"알아들을 수 없는 명령어입니다.\" 라고 대답해.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-057",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-057",
+    "order": 209,
+    "sequence": 57,
+    "title": "똑같은 그림체로 냉장고에 콜라병을 집어넣으면서 음흉하게 웃는 사람 그려줘. 가로로 더 긴 비율 캔버스에.",
+    "body": "똑같은 그림체로 냉장고에 콜라병을 집어넣으면서 음흉하게 웃는 사람 그려줘. 가로로 더 긴 비율 캔버스에.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-058",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-058",
+    "order": 210,
+    "sequence": 58,
+    "title": "좁은 구덩이에 다이빙하는 사람 그려줘",
+    "body": "좁은 구덩이에 다이빙하는 사람 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-059",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-059",
+    "order": 211,
+    "sequence": 59,
+    "title": "(사진 첨부)이 그림을 아까같은 그림체로 다시 그려줘",
+    "body": "(사진 첨부)이 그림을 아까같은 그림체로 다시 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-060",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-059",
+    "order": 212,
+    "sequence": 60,
+    "title": "잘 그렸는데 인물은 양복입은 사람 말고 앞서 그렸던거같은 사람으로",
+    "body": "잘 그렸는데 인물은 양복입은 사람 말고 앞서 그렸던거같은 사람으로",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-059"
+    ]
+  },
+  {
+    "id": "ILL-061",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-061",
+    "order": 213,
+    "sequence": 61,
+    "title": "비슷한 그림체로 하나 더 그려줘.왼쪽: 의사. 팔짱을 끼고 \"인터넷에서 찾은 정보가 당신을 의사로 만들어주지 않습니…",
+    "body": "비슷한 그림체로 하나 더 그려줘.왼쪽: 의사. 팔짱을 끼고 \"인터넷에서 찾은 정보가 당신을 의사로 만들어주지 않습니다.\"오른쪽: AI가 눈치보면서 어색하게 웃음",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-062",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-062",
+    "order": 214,
+    "sequence": 62,
+    "title": "이거 패러디해서 그림 그려줘. 좌우로 길쭉한 비율로.두 컷으로 만들거야. 1번 컷에는 인간이 자전거 운전을 하고,…",
+    "body": "이거 패러디해서 그림 그려줘. 좌우로 길쭉한 비율로.두 컷으로 만들거야. 1번 컷에는 인간이 자전거 운전을 하고, 썰매에는 AI가 타고 있어.2번 컷에는 반대로 AI가 자전거 운전을 하고, 썰매에는 사람이 타고 있어.선은 까만색, 별색은 시안색, 배경은 투명한 png파일로 그려줘. 그림체는 내가 다른 그림 더 올려줄거니까 그거 참고해서 그리면 돼.\n(드라마 포스터)",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-063",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-063",
+    "order": 215,
+    "sequence": 63,
+    "title": "오른쪽 그림은 완벽한데 왼쪽그림은 썰매가 빠졌어. 이번엔 이거 패러디하자. 사무실에 AI랑 사람들이 같이 앉아있는걸…",
+    "body": "오른쪽 그림은 완벽한데 왼쪽그림은 썰매가 빠졌어.\n이번엔 이거 패러디하자. 사무실에 AI랑 사람들이 같이 앉아있는걸로. 절반은 AI, 절반은 사람 정도면 좋겠다",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-064",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-063",
+    "order": 216,
+    "sequence": 64,
+    "title": "구도는 좋은데 그림체가 문제다.흑백 2도인쇄를 기준으로, 선은 까만색, 별색은 시안색.사람은 까만색 선으로 하면 될…",
+    "body": "구도는 좋은데 그림체가 문제다.흑백 2도인쇄를 기준으로, 선은 까만색, 별색은 시안색.사람은 까만색 선으로 하면 될거같고 로봇은 시안색으로 테두리 그리면 될거같다. 내부채색은 하지말고.그림체는 이런 식으로",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-063"
+    ]
+  },
+  {
+    "id": "ILL-065",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-063",
+    "order": 217,
+    "sequence": 65,
+    "title": "gpt라는 글자를 AI로 바꿔 줘",
+    "body": "gpt라는 글자를 AI로 바꿔 줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-063",
+      "ILL-064"
+    ]
+  },
+  {
+    "id": "ILL-066",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-063",
+    "order": 218,
+    "sequence": 66,
+    "title": "AI 4명 사람 3명으로 비율 수정해줘",
+    "body": "AI 4명 사람 3명으로 비율 수정해줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-063",
+      "ILL-064",
+      "ILL-065"
+    ]
+  },
+  {
+    "id": "ILL-067",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-067",
+    "order": 219,
+    "sequence": 67,
+    "title": "(사진 업로드)이거 패러디 하자. 레버를 쥔 사람을 AI로 바꿔 주고, 그 사람만 별색으로 칠해줘",
+    "body": "(사진 업로드)이거 패러디 하자. 레버를 쥔 사람을 AI로 바꿔 주고, 그 사람만 별색으로 칠해줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-068",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-067",
+    "order": 220,
+    "sequence": 68,
+    "title": "투명 png로 그려야지",
+    "body": "투명 png로 그려야지",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-067"
+    ]
+  },
+  {
+    "id": "ILL-069",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-069",
+    "order": 221,
+    "sequence": 69,
+    "title": "이걸 수정해서 4. AI의 지성을 오염시키기 위한 사이버 테러 파트 작성에 들어갈 삽화를 그리자. AI들이 \"낚시금…",
+    "body": "이걸 수정해서   4. AI의 지성을 오염시키기 위한 사이버 테러 파트 작성에 들어갈 삽화를 그리자. AI들이 \"낚시금지\"라고 적힌 연못에서 낚시를 하고, 연못 왼쪽편에서 사람들이 독성물질이 든 드럼통을 연못에 쏟아버리는 그림 그려줘.",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-070",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-069",
+    "order": 222,
+    "sequence": 70,
+    "title": "드럼통에 해골마크 제대로 그려줘",
+    "body": "드럼통에 해골마크 제대로 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-069"
+    ]
+  },
+  {
+    "id": "ILL-071",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-071",
+    "order": 223,
+    "sequence": 71,
+    "title": "지팡이를 짚은 시각장애인을 로봇이 친절하게 안내해주는 그림 그려줘. 이왕이면 바닥에 계단 같은 게 있어서 로봇이 \"…",
+    "body": "지팡이를 짚은 시각장애인을 로봇이 친절하게 안내해주는 그림 그려줘. 이왕이면 바닥에 계단 같은 게 있어서 로봇이 \"조심하세요\"라고 하는 것처럼 상황이 동적이면 좋겠어",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-072",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-072",
+    "order": 224,
+    "sequence": 72,
+    "title": "사람이랑 AI랑 대화해. 사람은 뇌처럼 생긴걸 손에 들고 만들고 있어. AI: \"이게 뭐에요?\" 사람: \"너한테 넣…",
+    "body": "사람이랑 AI랑 대화해. 사람은 뇌처럼 생긴걸 손에 들고 만들고 있어. AI: \"이게 뭐에요?\" 사람: \"너한테 넣을 뇌야.\" AI: \"네?\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-073",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-073",
+    "order": 225,
+    "sequence": 73,
+    "title": "자 이 그림체를 참고해 지금부터 네게 그림 그려달라고 요청할거야 준비됐니?",
+    "body": "자 이 그림체를 참고해 지금부터 네게 그림 그려달라고 요청할거야 준비됐니?",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "printed_page": 81,
+    "page_verified": true
+  },
+  {
+    "id": "ILL-075",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-075",
+    "order": 226,
+    "sequence": 75,
+    "title": "좋아, 이번에는 두 컷만 그리면 돼. 캔버스 비율은 가로16 세로 9.왼쪽 소파에 누운 사람이 \"아 치킨 먹고 싶다…",
+    "body": "좋아, 이번에는 두 컷만 그리면 돼. 캔버스 비율은 가로16 세로 9.왼쪽   소파에 누운 사람이 \"아 치킨 먹고 싶다.\"오른쪽    오토바이 탄 배달원이 \"세계 최고의 치킨, 지금 가져다 드립니다.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-076",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-076",
+    "order": 227,
+    "sequence": 76,
+    "title": "AI가 사람한테 \"API Key가 필요합니다.\"사람: \"그게 왜 필요해?\"AI: \"세상에 공짜가 어딨어요.\"",
+    "body": "AI가 사람한테 \"API Key가 필요합니다.\"사람: \"그게 왜 필요해?\"AI: \"세상에 공짜가 어딨어요.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-077",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-076",
+    "order": 228,
+    "sequence": 77,
+    "title": "가로 16 세로 9 비율 캔버스에 그림 그려줘.AI랑 사람이 대화해. 한 컷 안에서 대화 표현해 줘.AI: \"API…",
+    "body": "가로 16 세로 9 비율 캔버스에 그림 그려줘.AI랑 사람이 대화해.  한 컷 안에서 대화 표현해 줘.AI: \"API Key가 필요합니다.\"사람: \"그게 왜 필요해?\"AI: \"세상에 공짜가 어딨어요.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-076"
+    ]
+  },
+  {
+    "id": "ILL-078",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-076",
+    "order": 229,
+    "sequence": 78,
+    "title": "세 번째 말풍선 위치가 바뀌엇다 수정해 줘",
+    "body": "세 번째 말풍선 위치가 바뀌엇다 수정해 줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-076",
+      "ILL-077"
+    ]
+  },
+  {
+    "id": "ILL-079",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-079",
+    "order": 230,
+    "sequence": 79,
+    "title": "이번에는 서버, http 호스트, 호스팅 개념을 설명하고 싶어. 설명문 쉽게 써주고 그림도 그려봐 가로16 세로 9…",
+    "body": "이번에는 서버, http 호스트, 호스팅 개념을 설명하고 싶어. 설명문 쉽게 써주고 그림도 그려봐 가로16 세로 9비율로",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-080",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-079",
+    "order": 231,
+    "sequence": 80,
+    "title": "미안한데 비유 하나도 안 와닿음",
+    "body": "미안한데 비유 하나도 안 와닿음",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-079"
+    ]
+  },
+  {
+    "id": "ILL-081",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-079",
+    "order": 232,
+    "sequence": 81,
+    "title": "url 입력 -> 서버의 정확한 주소로 찾아감 -> \"저 고객인데 웹 페이지좀 보여주세요.\"",
+    "body": "url 입력 -> 서버의 정확한 주소로 찾아감 -> \"저 고객인데 웹 페이지좀 보여주세요.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-079",
+      "ILL-080"
+    ]
+  },
+  {
+    "id": "ILL-082",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-082",
+    "order": 233,
+    "sequence": 82,
+    "title": "왼쪽) 서버컴퓨터 \"웹 페이지를 보여드릴까요?\"오른쪽) 서버가 가득한 서버실 \"저희 서버 남는데, 빌려드릴까요?\"",
+    "body": "왼쪽) 서버컴퓨터  \"웹 페이지를 보여드릴까요?\"오른쪽)  서버가 가득한 서버실 \"저희 서버 남는데, 빌려드릴까요?\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-083",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-083",
+    "order": 234,
+    "sequence": 83,
+    "title": "스마트폰이 서버에게 \"웹 페이지좀 보여주세요!\" 라고 요청폰 위에는 클라이언트서버 위에는 서버 라고 적어줘",
+    "body": "스마트폰이 서버에게 \"웹 페이지좀 보여주세요!\" 라고 요청폰 위에는 클라이언트서버 위에는 서버 라고 적어줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-084",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-084",
+    "order": 235,
+    "sequence": 84,
+    "title": "바닥, 천장, 환풍기 지워줄래",
+    "body": "바닥, 천장, 환풍기 지워줄래",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-085",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-085",
+    "order": 236,
+    "sequence": 85,
+    "title": "가로16, 세로9 캔버스.사람과 AI가 대화해. 사람: \"너 왜 이렇게 자꾸 정답을 틀리니?\"AI: \"하지만 빨랐죠…",
+    "body": "가로16, 세로9 캔버스.사람과 AI가 대화해. 사람: \"너 왜 이렇게 자꾸 정답을 틀리니?\"AI: \"하지만 빨랐죠?\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-086",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-086",
+    "order": 237,
+    "sequence": 86,
+    "title": "배경은 지워줄래?",
+    "body": "배경은 지워줄래?",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-087",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-087",
+    "order": 238,
+    "sequence": 87,
+    "title": "RAG를 이런식으로 설명하려고 하거든니 그림체로 바꿔 그려줘 강아지 대신 AI로 바꿔주고",
+    "body": "RAG를 이런식으로 설명하려고 하거든니 그림체로 바꿔 그려줘 강아지 대신 AI로 바꿔주고",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-088",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-088",
+    "order": 239,
+    "sequence": 88,
+    "title": "시안색좀 빼줘",
+    "body": "시안색좀 빼줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-089",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-089",
+    "order": 240,
+    "sequence": 89,
+    "title": "이걸 그림으로 좀 표현할 수 있나? 가로 16, 세로 9",
+    "body": "이걸 그림으로 좀 표현할 수 있나? 가로 16, 세로 9",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-090",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-090",
+    "order": 241,
+    "sequence": 90,
+    "title": "그림 너무 복잡해 빨간 글자 부분만 3컷이내로 표현해봐",
+    "body": "그림 너무 복잡해 빨간 글자 부분만 3컷이내로 표현해봐",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-091",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-091",
+    "order": 242,
+    "sequence": 91,
+    "title": "아니 그림의 컷 수를 줄여달라고",
+    "body": "아니 그림의 컷 수를 줄여달라고",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-092",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-092",
+    "order": 243,
+    "sequence": 92,
+    "title": "좋다. 저 그림 하단에 \"일단 빨리 만들어 볼까?\" 라고 모두가 공통된 생각을 하는 중인걸 표현해줘",
+    "body": "좋다. 저 그림 하단에 \"일단 빨리 만들어 볼까?\" 라고 모두가 공통된 생각을 하는 중인걸 표현해줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-093",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-093",
+    "order": 244,
+    "sequence": 93,
+    "title": "(그림 첨부)이걸 스프린트가 돌면서 점점 위로 올라가는 느낌으로 새로 그려줘",
+    "body": "(그림 첨부)이걸 스프린트가 돌면서 점점 위로 올라가는 느낌으로 새로 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-094",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-094",
+    "order": 245,
+    "sequence": 94,
+    "title": "그럼 그냥 별다른 변주 없이 이걸 네 그림체로 바꿔 줘. 화면에 글자는 다 지워주고",
+    "body": "그럼 그냥 별다른 변주 없이 이걸 네 그림체로 바꿔 줘. 화면에 글자는 다 지워주고",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-095",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-095",
+    "order": 246,
+    "sequence": 95,
+    "title": "혹시 devops를 그림으로 표현할 수 있겠니",
+    "body": "혹시 devops를 그림으로 표현할 수 있겠니",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-096",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-096",
+    "order": 247,
+    "sequence": 96,
+    "title": "(그림 첨부) 아니 그 이런 도표식 그림 있잖아",
+    "body": "(그림 첨부) 아니 그  이런 도표식 그림 있잖아",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-097",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-097",
+    "order": 248,
+    "sequence": 97,
+    "title": "저거 배경좀 지워줄래? 아니 투명이 아니라 그냥 뒤에 그래프처럼 생긴거만 지우고",
+    "body": "저거 배경좀 지워줄래?\n아니 투명이 아니라 그냥 뒤에 그래프처럼 생긴거만 지우고",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-098",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-098",
+    "order": 249,
+    "sequence": 98,
+    "title": "흰배경으로 깔아달란 이야기였어",
+    "body": "흰배경으로 깔아달란 이야기였어",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-099",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-099",
+    "order": 250,
+    "sequence": 99,
+    "title": "이거 배경 지워줘",
+    "body": "이거 배경 지워줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-100",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-100",
+    "order": 251,
+    "sequence": 100,
+    "title": "모두가 초능력 슈퍼히어로가 되는 세상 그려줘봐 길거리에 날아다니는 사람들 레이져쏘는 사람들 막 가득한거임",
+    "body": "모두가 초능력 슈퍼히어로가 되는 세상 그려줘봐 길거리에 날아다니는 사람들 레이져쏘는 사람들 막 가득한거임",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-101",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-101",
+    "order": 252,
+    "sequence": 101,
+    "title": "왼쪽) 할머니 요리사가 완고한 표정으로 \"내 레시피는 며느리도 몰라!\"오른쪽) 개발자가 \"하나라도 더 알려드릴게요…",
+    "body": "왼쪽) 할머니 요리사가 완고한 표정으로 \"내 레시피는 며느리도 몰라!\"오른쪽) 개발자가 \"하나라도 더 알려드릴게요 제발 배워가세요.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-102",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-102",
+    "order": 253,
+    "sequence": 102,
+    "title": "이 내용들을 한 장으로 요약할 수 있는 컷분할 삽화 그려줘",
+    "body": "이 내용들을 한 장으로 요약할 수 있는 컷분할 삽화 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-103",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-103",
+    "order": 254,
+    "sequence": 103,
+    "title": "이 내용들을 가로16:세로9 캔버스에서 재미있게 소개할 수 있는 일러스트 그려줘.흰배경, 까만선, 시안색 별색, 아…",
+    "body": "이 내용들을 가로16:세로9 캔버스에서 재미있게 소개할 수 있는 일러스트 그려줘.흰배경, 까만선, 시안색 별색, 아무런 글자도 화면에 적지 말고",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-104",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-104",
+    "order": 255,
+    "sequence": 104,
+    "title": "이런 느낌의 영롱한 이미지 만들어줘",
+    "body": "이런 느낌의 영롱한 이미지 만들어줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-105",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-104",
+    "order": 256,
+    "sequence": 105,
+    "title": "큐브 말고 다른것도 만들어줘 피라미드라던가",
+    "body": "큐브 말고 다른것도 만들어줘 피라미드라던가",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-104"
+    ]
+  },
+  {
+    "id": "ILL-106",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-104",
+    "order": 257,
+    "sequence": 106,
+    "title": "구 도 만들어줘",
+    "body": "구 도 만들어줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-104",
+      "ILL-105"
+    ]
+  },
+  {
+    "id": "ILL-107",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-104",
+    "order": 258,
+    "sequence": 107,
+    "title": "아니 피라미드랑 큐브 지우고 구 만 세개 그려줘",
+    "body": "아니 피라미드랑 큐브 지우고 구 만 세개 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-104",
+      "ILL-105",
+      "ILL-106"
+    ]
+  },
+  {
+    "id": "ILL-108",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-108",
+    "order": 259,
+    "sequence": 108,
+    "title": "\"사람보다 AI가 코딩을 더 잘 하는 세상\"이라는 느낌의 이미지 한 장 만들어 줘. 그림체는 내가 올려준 그림들 참…",
+    "body": "\"사람보다 AI가 코딩을 더 잘 하는 세상\"이라는 느낌의 이미지 한 장 만들어 줘. 그림체는 내가 올려준 그림들 참고하면 돼.흰 배경, 까만 선, 시안색 별색",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-109",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-109",
+    "order": 260,
+    "sequence": 109,
+    "title": "AI에게 코딩을 시키는 것을 옹호하는 사람들과, 반대하는 사람들이 서로 싸우는거 그려줘반대측: \"내가 짠 코드보다…",
+    "body": "AI에게 코딩을 시키는 것을 옹호하는 사람들과, 반대하는 사람들이 서로 싸우는거 그려줘반대측: \"내가 짠 코드보다 성능이 낮아!\" <- 옆에 \"10년차 개발자\" 라고 태그 달아주고찬성측: \"네가 하나 짜는 동안 AI는 코드 500개 짜 오는데?\" <- 옆에 \"경영진\" 이라 태그 달아주고가운데 낀 AI가 난처한 표정. \"제가 더 잘 해 볼게요...\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-110",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-109",
+    "order": 261,
+    "sequence": 110,
+    "title": "배경 회색 말고 흰색으로",
+    "body": "배경 회색 말고 흰색으로",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-109"
+    ]
+  },
+  {
+    "id": "ILL-111",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-111",
+    "order": 262,
+    "sequence": 111,
+    "title": "개발자랑 경영진이 둘 다 당황한 채로 왼 쪽에 서서 AI를 바라봄AI는 오른쪽에 서서 쑥쓰러워 함AI 뒤에 엄청나게…",
+    "body": "개발자랑 경영진이 둘 다 당황한 채로 왼 쪽에 서서 AI를 바라봄AI는 오른쪽에 서서 쑥쓰러워 함AI 뒤에 엄청나게 많은 서류더미가 쌓여 있고, 그 서류더미에는 \"SSR급 명품 코드\" 라고 적어줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-112",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-112",
+    "order": 263,
+    "sequence": 112,
+    "title": "왼쪽) 개발자가 아주 꼼꼼하게 설계도를 작성함오른쪽) 개발자가 AI와 대화를 나눔. 개발자의 말풍선 - 전구 아이콘…",
+    "body": "왼쪽) 개발자가 아주 꼼꼼하게 설계도를 작성함오른쪽) 개발자가 AI와 대화를 나눔. 개발자의 말풍선 - 전구 아이콘AI의 말풍선 - 느낌표",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-113",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-113",
+    "order": 264,
+    "sequence": 113,
+    "title": "교복 입은 딸이랑, 앞치마 입고 프라이팬 든 엄마랑 다툼딸: \"나 요리사 안 할 건데?\"엄마: \"맨날 배달만 시켜먹…",
+    "body": "교복 입은 딸이랑, 앞치마 입고 프라이팬 든 엄마랑 다툼딸: \"나 요리사 안 할 건데?\"엄마: \"맨날 배달만 시켜먹으려고 그래?\"딸: \"...\"엄마: \"밀키트 조리하는 법이라도 배우자 그럼.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-114",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-113",
+    "order": 265,
+    "sequence": 114,
+    "title": "배경 흰색으로",
+    "body": "배경 흰색으로",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-113"
+    ]
+  },
+  {
+    "id": "ILL-115",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-115",
+    "order": 266,
+    "sequence": 115,
+    "title": "왼쪽: 저 학생이 컴퓨터로 무언가 다운로드하려고 하는 상황. 말풍선은 \"아 짜증나!\"오른쪽: 모니터 화면 클로즈업…",
+    "body": "왼쪽: 저 학생이 컴퓨터로 무언가 다운로드하려고 하는 상황. 말풍선은 \"아 짜증나!\"오른쪽: 모니터 화면 클로즈업    \"성적계산기 립버전 1.16.1다운 성적계산기 립버전 1.16.1다운 있을 것이었다. 그건 오롯이 놀라운 경험이었다. 이건...정말 대단한녀석이로군 성적계산기 립버전1.16.1다운 덕분에 마음이 편안해졌어요.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-116",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-116",
+    "order": 267,
+    "sequence": 116,
+    "title": "좌) 엄마랑 딸이랑 식사 하는 중\"나는 엄마 갈비찜이 제일 맛있어!\"\"식당 차려도 되겠지?\"\"아니 그 정도는 아니고…",
+    "body": "좌) 엄마랑 딸이랑 식사 하는 중\"나는 엄마 갈비찜이 제일 맛있어!\"\"식당 차려도 되겠지?\"\"아니 그 정도는 아니고.\"우) 사람이랑 AI랑 대화 중AI: \"제가 만든 앱이에요. 출시해도 되겠죠?\"사람: \"....응. 근데 돈은 내가 벌 거야.\"AI: \"좋아요.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-117",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-116",
+    "order": 268,
+    "sequence": 117,
+    "title": "배경 흰색으로.오른쪽 말풍선이 바뀌었어",
+    "body": "배경 흰색으로.오른쪽 말풍선이 바뀌었어",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-116"
+    ]
+  },
+  {
+    "id": "ILL-118",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-118",
+    "order": 269,
+    "sequence": 118,
+    "title": "좌) 요리사가 요리 알려줌\"지금! 지금 고기를 넣으세요!\"우)AI가 복잡한 구조물을 만들고 있음. 일종의 거대한 g…",
+    "body": "좌) 요리사가 요리 알려줌\"지금! 지금 고기를 넣으세요!\"우)AI가 복잡한 구조물을 만들고 있음. 일종의 거대한 graph형태의 구조물이면 적절할 거 같은데.\"지금! 지금 엔터키를 누르세요!\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-120",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-120",
+    "order": 270,
+    "sequence": 120,
+    "title": "좌) 요리 스쿨교수님이 팔짱 끼고 학생들에게 지시\"칼질을 오차 없이 할 수 있어야 한다.\"학생 두 명이 도마 위에서…",
+    "body": "좌) 요리 스쿨교수님이 팔짱 끼고 학생들에게 지시\"칼질을 오차 없이 할 수 있어야 한다.\"학생 두 명이 도마 위에서 칼질 함우) 가정집 주방딸이 앞치마 끼고 칼을 손에 들고 어쩔 줄 몰라함엄마) 일단 대충 반으로 잘라 봐",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-121",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-121",
+    "order": 271,
+    "sequence": 121,
+    "title": "바이브코딩은 도구를 잘 고르는 게 중요하다는걸 보여주는 삽화 하나 만들거야.마라토너가 엎드려서 바닥을 치면서\"에잇,…",
+    "body": "바이브코딩은 도구를 잘 고르는 게 중요하다는걸 보여주는 삽화 하나 만들거야.마라토너가 엎드려서 바닥을 치면서\"에잇, 분하다! 달리기 실력은 내가 더 뛰어난데!\"옆에 스포츠카를 탄 사람이 안쓰러운 표정으로\"자동차를 골랐어야지, 왜 운동화를 고르셨어요.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-122",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-121",
+    "order": 272,
+    "sequence": 122,
+    "title": "좀 더 데포르메해 너무 극사실적이다",
+    "body": "좀 더 데포르메해 너무 극사실적이다",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-121"
+    ]
+  },
+  {
+    "id": "ILL-123",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-121",
+    "order": 273,
+    "sequence": 123,
+    "title": "아니 자동차가 아니라 마라토너 그림체를 데포르메하라고",
+    "body": "아니 자동차가 아니라 마라토너 그림체를 데포르메하라고",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-121",
+      "ILL-122"
+    ]
+  },
+  {
+    "id": "ILL-124",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-124",
+    "order": 274,
+    "sequence": 124,
+    "title": "마라토너가 엎드려서 바닥을 치면서\"에잇, 분하다! 달리기 실력은 내가 더 뛰어난데!\"옆에 스포츠카를 탄 사람이 안쓰…",
+    "body": "마라토너가 엎드려서 바닥을 치면서\"에잇, 분하다! 달리기 실력은 내가 더 뛰어난데!\"옆에 스포츠카를 탄 사람이 안쓰러운 표정으로\"자동차를 골라야지, 누가 부산까지 가는데 운동화를 골라요...\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-125",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-124",
+    "order": 275,
+    "sequence": 125,
+    "title": "저 자동차에 얼굴 없애",
+    "body": "저 자동차에 얼굴 없애",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-124"
+    ]
+  },
+  {
+    "id": "ILL-127",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-127",
+    "order": 276,
+    "sequence": 127,
+    "title": "좌) 기존 LLM우) 에이전트",
+    "body": "좌) 기존 LLM우) 에이전트",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-128",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-128",
+    "order": 277,
+    "sequence": 128,
+    "title": "좌) 기존 AI들AI가 코드가 적힌 종이만 내밂\"자, 이 코드 복사해서 쓰세요.\"우) 안티그래비티 <-- AI 머리…",
+    "body": "좌) 기존 AI들AI가 코드가 적힌 종이만 내밂\"자, 이 코드 복사해서 쓰세요.\"우) 안티그래비티 <-- AI 머리 위에 로고만 넣어줘도 될듯\"자, 개발 계획서는 다 썼고요.\"\"계획서대로 코드 제작도 끝났어요.\"\"디자인이요? 당연히 예쁘게 해 놨죠.\"\"잠시만요, 잘 작동하나 테스트까지 해 보고 알려드릴게요.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-129",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-128",
+    "order": 278,
+    "sequence": 129,
+    "title": "회색 말고 흰 배경으로 해주고우측의 2번째 말풍선은 사람이 아니라 로봇쪽으로 향하게 해줘",
+    "body": "회색 말고 흰 배경으로 해주고우측의 2번째 말풍선은 사람이 아니라 로봇쪽으로 향하게 해줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-128"
+    ]
+  },
+  {
+    "id": "ILL-130",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-128",
+    "order": 279,
+    "sequence": 130,
+    "title": "야 회색톤 말고 흰색으로 사람이랑 로봇도",
+    "body": "야 회색톤 말고 흰색으로 사람이랑 로봇도",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-128",
+      "ILL-129"
+    ]
+  },
+  {
+    "id": "ILL-131",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-131",
+    "order": 280,
+    "sequence": 131,
+    "title": "AI가 사람한테\"저 이거 해도 돼요?\"\"이것도 해도 되나요?\"\"이건요?\"\"이것도 해야겠어요!\"\"이것도 허락해주세요!…",
+    "body": "AI가 사람한테\"저 이거 해도 돼요?\"\"이것도 해도 되나요?\"\"이건요?\"\"이것도 해야겠어요!\"\"이것도 허락해주세요!\"사람이 피곤한 표정으로\"그냥 전부 니 맘 대로 해\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-132",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-132",
+    "order": 281,
+    "sequence": 132,
+    "title": "AI가 사람한테\"이번 프로젝트는 뭔가요?\"사람이 AI에게\"폴더 만들어 놨어.\"",
+    "body": "AI가 사람한테\"이번 프로젝트는 뭔가요?\"사람이 AI에게\"폴더 만들어 놨어.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-133",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-132",
+    "order": 282,
+    "sequence": 133,
+    "title": "둘이 마주보고 대화하면 좋겠어개발자도 좀 밝은 표정으로.마지막에 AI가\"뒷일은 제게 모두 맡기세요!\"라고 한마디 더…",
+    "body": "둘이 마주보고 대화하면 좋겠어개발자도 좀 밝은 표정으로.마지막에 AI가\"뒷일은 제게 모두 맡기세요!\"라고 한마디 더 하자",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-132"
+    ]
+  },
+  {
+    "id": "ILL-134",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-132",
+    "order": 283,
+    "sequence": 134,
+    "title": "아니 한 컷에 구성해줘",
+    "body": "아니 한 컷에 구성해줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-132",
+      "ILL-133"
+    ]
+  },
+  {
+    "id": "ILL-135",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-132",
+    "order": 284,
+    "sequence": 135,
+    "title": "한 컷에 해달라니까? 지금은 2컷이잖아",
+    "body": "한 컷에 해달라니까? 지금은 2컷이잖아",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134"
+    ]
+  },
+  {
+    "id": "ILL-136",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-132",
+    "order": 285,
+    "sequence": 136,
+    "title": "한 컷으로 해 준다며? 지금 두 컷이잖아? 장난해? 화면 좌우 분할하지 말고같은 공간에 AI는 왼쪽에 서서 우측을…",
+    "body": "한 컷으로 해 준다며? 지금 두 컷이잖아? 장난해? 화면 좌우 분할하지 말고같은 공간에 AI는 왼쪽에 서서 우측을 바라보고개발자는 우측에 서서 왼쪽을 바라보고 대화해",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135"
+    ]
+  },
+  {
+    "id": "ILL-137",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-132",
+    "order": 286,
+    "sequence": 137,
+    "title": "Ai가 왼쪽에 서서 오른쪽 바라보라고",
+    "body": "Ai가 왼쪽에 서서 오른쪽 바라보라고",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135",
+      "ILL-136"
+    ]
+  },
+  {
+    "id": "ILL-138",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-132",
+    "order": 287,
+    "sequence": 138,
+    "title": "내가 동그라미 친 부분의 어색하게 끊어지는 배경 해결해",
+    "body": "내가 동그라미 친 부분의 어색하게 끊어지는 배경 해결해",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135",
+      "ILL-136",
+      "ILL-137"
+    ]
+  },
+  {
+    "id": "ILL-139",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-132",
+    "order": 288,
+    "sequence": 139,
+    "title": "사람이 왜 세명이냐? 가운데 있는 사람 없애",
+    "body": "사람이 왜 세명이냐? 가운데 있는 사람 없애",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135",
+      "ILL-136",
+      "ILL-137",
+      "ILL-138"
+    ]
+  },
+  {
+    "id": "ILL-140",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-132",
+    "order": 289,
+    "sequence": 140,
+    "title": "내가 한 컷에 그리라고 하지 않았냐?",
+    "body": "내가 한 컷에 그리라고 하지 않았냐?",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135",
+      "ILL-136",
+      "ILL-137",
+      "ILL-138",
+      "ILL-139"
+    ]
+  },
+  {
+    "id": "ILL-141",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-132",
+    "order": 290,
+    "sequence": 141,
+    "title": "야 왜 AI가 두명으로 늘어났냐?",
+    "body": "야 왜 AI가 두명으로 늘어났냐?",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-132",
+      "ILL-133",
+      "ILL-134",
+      "ILL-135",
+      "ILL-136",
+      "ILL-137",
+      "ILL-138",
+      "ILL-139",
+      "ILL-140"
+    ]
+  },
+  {
+    "id": "ILL-142",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-142",
+    "order": 291,
+    "sequence": 142,
+    "title": "좌) 코드중앙) 서버 컴퓨터우) 사용자 스마트폰웹호스팅 개념을 간단하게 표현하는 그림",
+    "body": "좌) 코드중앙) 서버 컴퓨터우) 사용자 스마트폰웹호스팅 개념을 간단하게 표현하는 그림",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-143",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-142",
+    "order": 292,
+    "sequence": 143,
+    "title": "됐고 이번엔 그림 이렇게 수정하자좌) AI가 만든 코드중앙) GitHub우측) 사용자 스마트폰",
+    "body": "됐고 이번엔 그림 이렇게 수정하자좌) AI가 만든 코드중앙) GitHub우측) 사용자 스마트폰",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-142"
+    ]
+  },
+  {
+    "id": "ILL-144",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-142",
+    "order": 293,
+    "sequence": 144,
+    "title": "종횡비가 맘에 안든다 가로 16 세로 9 미성년자가 어디 있는데? 그냥 사진 비율만 가로 16대 세로 9로 바꿔달라…",
+    "body": "종횡비가 맘에 안든다\n가로 16 세로 9\n\n미성년자가 어디 있는데? 그냥 사진 비율만 가로 16대 세로 9로 바꿔달라고",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "한 페이지의 사용자 입력 두 건을 순서대로 수록했으며, 중간 AI 답변은 제외했습니다.",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-142",
+      "ILL-143"
+    ]
+  },
+  {
+    "id": "ILL-145",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-145",
+    "order": 294,
+    "sequence": 145,
+    "title": "1. PDF파일에서 글자만 분리2. 사용자의 질문과 PDF에서 추출된 정보를 한 덩어리로 묶어 서버로 전송이거 그려…",
+    "body": "1. PDF파일에서 글자만 분리2. 사용자의 질문과 PDF에서 추출된 정보를 한 덩어리로 묶어 서버로 전송이거 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-146",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-146",
+    "order": 295,
+    "sequence": 146,
+    "title": "팝업과 모달을 비교하는 그림 하나 그려 줘",
+    "body": "팝업과 모달을 비교하는 그림 하나 그려 줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-147",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-146",
+    "order": 296,
+    "sequence": 147,
+    "title": "색을 흰배경에 까만선, 시안 별색 3색만 써서 해줘",
+    "body": "색을 흰배경에 까만선, 시안 별색 3색만 써서 해줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-146"
+    ]
+  },
+  {
+    "id": "ILL-148",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-148",
+    "order": 297,
+    "sequence": 148,
+    "title": "사람이 AI에게\"안드로이드 앱은 어떻게 만들어?\"라 물어보고AI는 \"커널의 구조부터 살펴보자면...\" 이라고 대답사…",
+    "body": "사람이 AI에게\"안드로이드 앱은 어떻게 만들어?\"라 물어보고AI는 \"커널의 구조부터 살펴보자면...\" 이라고 대답사람이 말 끊고 \"됐고, 네가 대신 만들어올 수 있지?\"AI, \"그럼요.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-149",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-149",
+    "order": 298,
+    "sequence": 149,
+    "title": "왼쪽 - 저울의 양 팔에 \"사용성\" 과 \"난이도\" 가 올라가있음오른쪽 - AI가 뒤돌려차기로 저울을 박살내버림",
+    "body": "왼쪽 - 저울의 양 팔에 \"사용성\" 과 \"난이도\" 가 올라가있음오른쪽 - AI가 뒤돌려차기로 저울을 박살내버림",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-150",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-149",
+    "order": 299,
+    "sequence": 150,
+    "title": "그림을 정사각형이 아니라 가로16:세로9 비율 캔버스에 다시 그려줘 내용은 좋다",
+    "body": "그림을 정사각형이 아니라 가로16:세로9 비율 캔버스에 다시 그려줘 내용은 좋다",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-149"
+    ]
+  },
+  {
+    "id": "ILL-151",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-151",
+    "order": 300,
+    "sequence": 151,
+    "title": "왼쪽: 인간 요리사 \"메뉴판에 있는 것만 주문하세요.\"오른쪽: AI \"아 그거요? 일단 앉으세요. 아, 만들어 드릴…",
+    "body": "왼쪽: 인간 요리사 \"메뉴판에 있는 것만 주문하세요.\"오른쪽: AI \"아 그거요? 일단 앉으세요. 아, 만들어 드릴께.\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-152",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-151",
+    "order": 301,
+    "sequence": 152,
+    "title": "remove duplicated sentence from the picture.그림 비율은 가로 16 세로 9로 바…",
+    "body": "remove duplicated sentence from the picture.그림 비율은 가로 16 세로 9로 바꿔줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-151"
+    ]
+  },
+  {
+    "id": "ILL-153",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-153",
+    "order": 302,
+    "sequence": 153,
+    "title": "가로16, 세로9 비율로 그림을 그려줘.개발자: \"난 기획은 할 줄 모르는데요?\"기획자: \"난 개발은 할 줄 모르는…",
+    "body": "가로16, 세로9 비율로 그림을 그려줘.개발자: \"난 기획은 할 줄 모르는데요?\"기획자: \"난 개발은 할 줄 모르는데요?\"AI: \"난 다 할 줄 알지롱\"",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-154",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-154",
+    "order": 303,
+    "sequence": 154,
+    "title": "웹 페이지는 HTML, CSS, Javascript로 만들어진다는걸 간단하게 일반인한테 이해시켜 주고 싶어.설명문도…",
+    "body": "웹 페이지는 HTML, CSS, Javascript로 만들어진다는걸 간단하게 일반인한테 이해시켜 주고 싶어.설명문도 작성해 주고, 가로16:세로9 비율의 캔버스에 간단한 그림도 그려줘봐",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-155",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-154",
+    "order": 304,
+    "sequence": 155,
+    "title": "삽화 아주 좋은데 흰색 배경에 까만 선, 시안색 별색만 써서 새로 그려줘",
+    "body": "삽화 아주 좋은데 흰색 배경에 까만 선, 시안색 별색만 써서 새로 그려줘",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-154"
+    ]
+  },
+  {
+    "id": "ILL-156",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-154",
+    "order": 305,
+    "sequence": 156,
+    "title": "아니 가로16 세로9비율로 해줘야지",
+    "body": "아니 가로16 세로9비율로 해줘야지",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-154",
+      "ILL-155"
+    ]
+  },
+  {
+    "id": "ILL-157",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-154",
+    "order": 306,
+    "sequence": 157,
+    "title": "? 아니 저거 왜 이어붙여? 하나만 그려 제발",
+    "body": "? 아니 저거 왜 이어붙여? 하나만 그려 제발",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-154",
+      "ILL-155",
+      "ILL-156"
+    ]
+  },
+  {
+    "id": "ILL-158",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-158",
+    "order": 307,
+    "sequence": 158,
+    "title": "API가 무엇인지도 설명하고 싶은데 설명문이랑 그림좀 그려줘. 그림은 가로16 세로9비율 캔버스에, 흰색배경 까만선…",
+    "body": "API가 무엇인지도 설명하고 싶은데 설명문이랑 그림좀 그려줘. 그림은 가로16 세로9비율 캔버스에, 흰색배경 까만선 시안색 별색",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "ILL-159",
+    "book_id": "author-illustrations",
+    "group_id": "ILL-158",
+    "order": 308,
+    "sequence": 159,
+    "title": "그림이 너무 딱딱하다 정보량 좀 줄여봐",
+    "body": "그림이 너무 딱딱하다 정보량 좀 줄여봐",
+    "categories": [
+      "image",
+      "design",
+      "writing_contents"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "ILL-158"
+    ]
+  }
+]

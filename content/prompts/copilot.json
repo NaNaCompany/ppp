@@ -1,0 +1,1719 @@
+[
+  {
+    "id": "SUP-025",
+    "book_id": "copilot",
+    "group_id": "SUP-025",
+    "order": 7,
+    "sequence": 25,
+    "title": "최근에 받은 이메일들을 요약해줘.",
+    "body": "최근에 받은 이메일들을 요약해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "printed_page": 56,
+    "page_verified": true
+  },
+  {
+    "id": "SUP-026",
+    "book_id": "copilot",
+    "group_id": "SUP-026",
+    "order": 330,
+    "sequence": 26,
+    "title": "ictc.docx를 읽고 요약해줄래?",
+    "body": "ictc.docx를 읽고 요약해줄래?",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-027",
+    "book_id": "copilot",
+    "group_id": "SUP-027",
+    "order": 331,
+    "sequence": 27,
+    "title": "이 파일을 요약해줘: 육군신체측정정보.xlsx",
+    "body": "이 파일을 요약해줘: 육군신체측정정보.xlsx",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-028",
+    "book_id": "copilot",
+    "group_id": "SUP-027",
+    "order": 332,
+    "sequence": 28,
+    "title": "이 파일을 간단하게 분석해줘: 육군신체측정정보.xlsx",
+    "body": "이 파일을 간단하게 분석해줘: 육군신체측정정보.xlsx",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-027"
+    ]
+  },
+  {
+    "id": "SUP-029",
+    "book_id": "copilot",
+    "group_id": "SUP-027",
+    "order": 333,
+    "sequence": 29,
+    "title": "이 파일에서 키의 표준편차와 평균을 계산해줘.",
+    "body": "이 파일에서 키의 표준편차와 평균을 계산해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-027",
+      "SUP-028"
+    ]
+  },
+  {
+    "id": "SUP-030",
+    "book_id": "copilot",
+    "group_id": "SUP-030",
+    "order": 334,
+    "sequence": 30,
+    "title": "생일 파티 초대 메일을 작성해줘!",
+    "body": "생일 파티 초대 메일을 작성해줘!",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-031",
+    "book_id": "copilot",
+    "group_id": "SUP-031",
+    "order": 335,
+    "sequence": 31,
+    "title": "내가 문제를 인지했었고, 이미 아웃룩 시스템 언어를 영어로 변경한 상태였다고 답장해줘.",
+    "body": "내가 문제를 인지했었고, 이미 아웃룩 시스템 언어를 영어로 변경한 상태였다고 답장해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-032",
+    "book_id": "copilot",
+    "group_id": "SUP-032",
+    "order": 336,
+    "sequence": 32,
+    "title": "불어로 답장을 작성해줘",
+    "body": "불어로 답장을 작성해줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-033",
+    "book_id": "copilot",
+    "group_id": "SUP-033",
+    "order": 337,
+    "sequence": 33,
+    "title": "테슬라 자동차를 추천하는 글을 추가해줘.",
+    "body": "테슬라 자동차를 추천하는 글을 추가해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-034",
+    "book_id": "copilot",
+    "group_id": "SUP-034",
+    "order": 338,
+    "sequence": 34,
+    "title": "이 글을 이해할 수 있니?",
+    "body": "이 글을 이해할 수 있니?",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-035",
+    "book_id": "copilot",
+    "group_id": "SUP-034",
+    "order": 339,
+    "sequence": 35,
+    "title": "이 문서를 요약해줘.",
+    "body": "이 문서를 요약해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-034"
+    ]
+  },
+  {
+    "id": "SUP-036",
+    "book_id": "copilot",
+    "group_id": "SUP-034",
+    "order": 340,
+    "sequence": 36,
+    "title": "이 글을 이해하는 데 가장 중요한 문장은 뭐야?",
+    "body": "이 글을 이해하는 데 가장 중요한 문장은 뭐야?",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-034",
+      "SUP-035"
+    ]
+  },
+  {
+    "id": "SUP-037",
+    "book_id": "copilot",
+    "group_id": "SUP-034",
+    "order": 341,
+    "sequence": 37,
+    "title": "왜 그렇게 생각하는데?",
+    "body": "왜 그렇게 생각하는데?",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-034",
+      "SUP-035",
+      "SUP-036"
+    ]
+  },
+  {
+    "id": "SUP-038",
+    "book_id": "copilot",
+    "group_id": "SUP-034",
+    "order": 342,
+    "sequence": 38,
+    "title": "어떤 문장이 이 연구의 방법론을 설명하고 있어?",
+    "body": "어떤 문장이 이 연구의 방법론을 설명하고 있어?",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-034",
+      "SUP-035",
+      "SUP-036",
+      "SUP-037"
+    ]
+  },
+  {
+    "id": "SUP-039",
+    "book_id": "copilot",
+    "group_id": "SUP-034",
+    "order": 343,
+    "sequence": 39,
+    "title": "이 논문의 요점이 뭐야?",
+    "body": "이 논문의 요점이 뭐야?",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-034",
+      "SUP-035",
+      "SUP-036",
+      "SUP-037",
+      "SUP-038"
+    ]
+  },
+  {
+    "id": "SUP-040",
+    "book_id": "copilot",
+    "group_id": "SUP-034",
+    "order": 344,
+    "sequence": 40,
+    "title": "너무 길어. 한 문장으로 축약해줘.",
+    "body": "너무 길어. 한 문장으로 축약해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-034",
+      "SUP-035",
+      "SUP-036",
+      "SUP-037",
+      "SUP-038",
+      "SUP-039"
+    ]
+  },
+  {
+    "id": "SUP-041",
+    "book_id": "copilot",
+    "group_id": "SUP-034",
+    "order": 345,
+    "sequence": 41,
+    "title": "이 글을 10살 학생도 이해할 수 있도록 다시 써줘.",
+    "body": "이 글을 10살 학생도 이해할 수 있도록 다시 써줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-034",
+      "SUP-035",
+      "SUP-036",
+      "SUP-037",
+      "SUP-038",
+      "SUP-039",
+      "SUP-040"
+    ]
+  },
+  {
+    "id": "SUP-042",
+    "book_id": "copilot",
+    "group_id": "SUP-034",
+    "order": 346,
+    "sequence": 42,
+    "title": "이 연구를 옹호하는 글의 초안을 써줘.",
+    "body": "이 연구를 옹호하는 글의 초안을 써줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-034",
+      "SUP-035",
+      "SUP-036",
+      "SUP-037",
+      "SUP-038",
+      "SUP-039",
+      "SUP-040",
+      "SUP-041"
+    ]
+  },
+  {
+    "id": "SUP-043",
+    "book_id": "copilot",
+    "group_id": "SUP-034",
+    "order": 347,
+    "sequence": 43,
+    "title": "이 글을 반박하는 내용의 초안을 써줘.",
+    "body": "이 글을 반박하는 내용의 초안을 써줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-034",
+      "SUP-035",
+      "SUP-036",
+      "SUP-037",
+      "SUP-038",
+      "SUP-039",
+      "SUP-040",
+      "SUP-041",
+      "SUP-042"
+    ]
+  },
+  {
+    "id": "SUP-044",
+    "book_id": "copilot",
+    "group_id": "SUP-044",
+    "order": 348,
+    "sequence": 44,
+    "title": "7번 슬라이드에서 빨간 선을 지워줘.",
+    "body": "7번 슬라이드에서 빨간 선을 지워줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-045",
+    "book_id": "copilot",
+    "group_id": "SUP-045",
+    "order": 349,
+    "sequence": 45,
+    "title": "이 프레젠테이션을 정리해줘",
+    "body": "이 프레젠테이션을 정리해줘",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-046",
+    "book_id": "copilot",
+    "group_id": "SUP-046",
+    "order": 350,
+    "sequence": 46,
+    "title": "“첫 주택을 구매하는 방법!”에 대한 프레젠테이션을 만들어줘.",
+    "body": "“첫 주택을 구매하는 방법!”에 대한 프레젠테이션을 만들어줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-047",
+    "book_id": "copilot",
+    "group_id": "SUP-047",
+    "order": 351,
+    "sequence": 47,
+    "title": "한식의 세계화에 대한 프레젠테이션을 만들어줘.",
+    "body": "한식의 세계화에 대한 프레젠테이션을 만들어줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-048",
+    "book_id": "copilot",
+    "group_id": "SUP-047",
+    "order": 352,
+    "sequence": 48,
+    "title": "슬라이드 1, 3, 4, 5, 6의 사진을 교체해줘. 그건 한국 음식이 아니야.",
+    "body": "슬라이드 1, 3, 4, 5, 6의 사진을 교체해줘. 그건 한국 음식이 아니야.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-047"
+    ]
+  },
+  {
+    "id": "SUP-049",
+    "book_id": "copilot",
+    "group_id": "SUP-047",
+    "order": 353,
+    "sequence": 49,
+    "title": "훨씬 낫네. 그래도 3, 5번 슬라이드는 수정이 필요해. 김치, 김밥, 불고기, 혹은 잡채 같은 음식이 괜찮아 보여…",
+    "body": "훨씬 낫네. 그래도 3, 5번 슬라이드는 수정이 필요해. 김치, 김밥, 불고기, 혹은 잡채 같은 음식이 괜찮아 보여.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-047",
+      "SUP-048"
+    ]
+  },
+  {
+    "id": "SUP-050",
+    "book_id": "copilot",
+    "group_id": "SUP-047",
+    "order": 354,
+    "sequence": 50,
+    "title": "3번 슬라이드의 빨간 동그라미를 지워줘.",
+    "body": "3번 슬라이드의 빨간 동그라미를 지워줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-047",
+      "SUP-048",
+      "SUP-049"
+    ]
+  },
+  {
+    "id": "SUP-051",
+    "book_id": "copilot",
+    "group_id": "SUP-051",
+    "order": 355,
+    "sequence": 51,
+    "title": "1번 슬라이드 뒤에 의료용 AI 관련 슬라이드를 추가해줘.",
+    "body": "1번 슬라이드 뒤에 의료용 AI 관련 슬라이드를 추가해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-052",
+    "book_id": "copilot",
+    "group_id": "SUP-052",
+    "order": 356,
+    "sequence": 52,
+    "title": "새로운 초안을 작성해줘.",
+    "body": "새로운 초안을 작성해줘.",
+    "categories": [
+      "work_productivity",
+      "document"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-053",
+    "book_id": "copilot",
+    "group_id": "SUP-053",
+    "order": 357,
+    "sequence": 53,
+    "title": "두 개의 열을 대상으로 T-test를 실행하는 함수는?",
+    "body": "두 개의 열을 대상으로 T-test를 실행하는 함수는?",
+    "categories": [
+      "data",
+      "work_productivity"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "SUP-054",
+    "book_id": "copilot",
+    "group_id": "SUP-053",
+    "order": 358,
+    "sequence": 54,
+    "title": "C열과 D열을 대상으로 T-test를 실행하는 수식을 작성해줘.",
+    "body": "C열과 D열을 대상으로 T-test를 실행하는 수식을 작성해줘.",
+    "categories": [
+      "data",
+      "work_productivity"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-053"
+    ]
+  },
+  {
+    "id": "SUP-055",
+    "book_id": "copilot",
+    "group_id": "SUP-053",
+    "order": 359,
+    "sequence": 55,
+    "title": "가슴둘레와 키 사이의 상관관계를 분석하고 싶어. 어떤 함수나 수식을 쓰면 좋을지 추천해 줄래?",
+    "body": "가슴둘레와 키 사이의 상관관계를 분석하고 싶어. 어떤 함수나 수식을 쓰면 좋을지 추천해 줄래?",
+    "categories": [
+      "data",
+      "work_productivity"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-053",
+      "SUP-054"
+    ]
+  },
+  {
+    "id": "SUP-056",
+    "book_id": "copilot",
+    "group_id": "SUP-053",
+    "order": 360,
+    "sequence": 56,
+    "title": "체중이 80이 넘는 셀은 빨간색으로 칠해주고, 80보다 작은 셀은 파란색으로 칠해줘.",
+    "body": "체중이 80이 넘는 셀은 빨간색으로 칠해주고, 80보다 작은 셀은 파란색으로 칠해줘.",
+    "categories": [
+      "data",
+      "work_productivity"
+    ],
+    "comment": "",
+    "href": "",
+    "screenshot": "",
+    "previous_ids": [
+      "SUP-053",
+      "SUP-054",
+      "SUP-055"
+    ]
+  },
+  {
+    "id": "p-765e00beaf6ab4c2",
+    "book_id": "copilot",
+    "group_id": "p-765e00beaf6ab4c2",
+    "order": 426,
+    "sequence": 426,
+    "title": "Smith 교수님의 강의 필기를 토대로 연구제안서를 써 줘.",
+    "body": "Smith 교수님의 강의 필기를 토대로 연구제안서를 써 줘.",
+    "categories": [
+      "business",
+      "education",
+      "science"
+    ],
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-41ea62dcd29f394b",
+    "book_id": "copilot",
+    "group_id": "p-41ea62dcd29f394b",
+    "order": 427,
+    "sequence": 427,
+    "title": "다음 단계는 무엇입니까?",
+    "body": "다음 단계는 무엇입니까?",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-082c56497bb69dd8",
+    "book_id": "copilot",
+    "group_id": "p-082c56497bb69dd8",
+    "order": 428,
+    "sequence": 428,
+    "title": "테스트 및 검증 단계의 소요기간은 어느 정도입니까?",
+    "body": "테스트 및 검증 단계의 소요기간은 어느 정도입니까?",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c428012ff69f67e4",
+    "book_id": "copilot",
+    "group_id": "p-c428012ff69f67e4",
+    "order": 429,
+    "sequence": 429,
+    "title": "솜사탕 사출 장치 개발 프로젝트의 현재 상태는 어느 단계입니까?",
+    "body": "솜사탕 사출 장치 개발 프로젝트의 현재 상태는 어느 단계입니까?",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e3b7dfbc03064815",
+    "book_id": "copilot",
+    "group_id": "p-e3b7dfbc03064815",
+    "order": 430,
+    "sequence": 430,
+    "title": "솜사탕 사출 기계 개발 프로젝트의 계획을 작성해 주세요.",
+    "body": "솜사탕 사출 기계 개발 프로젝트의 계획을 작성해 주세요.",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-365a5e1a2b4ad6b8",
+    "book_id": "copilot",
+    "group_id": "p-365a5e1a2b4ad6b8",
+    "order": 431,
+    "sequence": 431,
+    "title": "Write a to-do list for our team",
+    "body": "Write a to-do list for our team",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c22f957f54ff832d",
+    "book_id": "copilot",
+    "group_id": "p-c22f957f54ff832d",
+    "order": 432,
+    "sequence": 432,
+    "title": "이 강의 내용 요약해줘",
+    "body": "이 강의 내용 요약해줘",
+    "categories": [
+      "business",
+      "document",
+      "education"
+    ],
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e7e899fda2c6f439",
+    "book_id": "copilot",
+    "group_id": "p-e7e899fda2c6f439",
+    "order": 433,
+    "sequence": 433,
+    "title": "이 노트의 내용을 요약해줘",
+    "body": "이 노트의 내용을 요약해줘",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"OneNote 코파일럿 - 노트 필기 앱과 GPT의 만남\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-b0ecbcf551e9dbfb",
+    "book_id": "copilot",
+    "group_id": "p-b0ecbcf551e9dbfb",
+    "order": 434,
+    "sequence": 434,
+    "title": "팀즈의 xxx 채팅방을 요약해줘. 휴가를 다녀온 사이 무슨 일이 있었어?",
+    "body": "팀즈의 xxx 채팅방을 요약해줘. 휴가를 다녀온 사이 무슨 일이 있었어?",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-a09a43296b9a4da4",
+    "book_id": "copilot",
+    "group_id": "p-a09a43296b9a4da4",
+    "order": 435,
+    "sequence": 435,
+    "title": "이 파일을 보고 도입부를 작성해줘.",
+    "body": "이 파일을 보고 도입부를 작성해줘.",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f862ae0c0c4fcc1f",
+    "book_id": "copilot",
+    "group_id": "p-f862ae0c0c4fcc1f",
+    "order": 436,
+    "sequence": 436,
+    "title": "______와의 다음 회의는 언제야?",
+    "body": "______와의 다음 회의는 언제야?",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-9c55f9055e53e680",
+    "book_id": "copilot",
+    "group_id": "p-9c55f9055e53e680",
+    "order": 437,
+    "sequence": 437,
+    "title": "이 문서를 토대로 FaQ를 작성해줘",
+    "body": "이 문서를 토대로 FaQ를 작성해줘",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d9d21d199accd7b9",
+    "book_id": "copilot",
+    "group_id": "p-d9d21d199accd7b9",
+    "order": 438,
+    "sequence": 438,
+    "title": "지난번 주간 회의 내용을 요약해줘.",
+    "body": "지난번 주간 회의 내용을 요약해줘.",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-b552ae25ab5b4be0",
+    "book_id": "copilot",
+    "group_id": "p-b552ae25ab5b4be0",
+    "order": 439,
+    "sequence": 439,
+    "title": "최근에 반병현이 한 일들을 정리해줘. 이메일, 채팅, 파일 순으로.",
+    "body": "최근에 반병현이 한 일들을 정리해줘. 이메일, 채팅, 파일 순으로.",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-95e6b4310afdeab5",
+    "book_id": "copilot",
+    "group_id": "p-95e6b4310afdeab5",
+    "order": 440,
+    "sequence": 440,
+    "title": "원드라이브에서 반병현의 최근 활동 내역을 알려줘",
+    "body": "원드라이브에서 반병현의 최근 활동 내역을 알려줘",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-a1ee4ac9d510b381",
+    "book_id": "copilot",
+    "group_id": "p-a1ee4ac9d510b381",
+    "order": 441,
+    "sequence": 441,
+    "title": "이 파일을 간단하게 분석해줘: ______.xlsx",
+    "body": "이 파일을 간단하게 분석해줘: ______.xlsx",
+    "categories": [
+      "business",
+      "data"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-3fc74755ae569947",
+    "book_id": "copilot",
+    "group_id": "p-3fc74755ae569947",
+    "order": 442,
+    "sequence": 442,
+    "title": "이 파일을 요약해줘: ______.xlsx",
+    "body": "이 파일을 요약해줘: ______.xlsx",
+    "categories": [
+      "business",
+      "data"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e1a2bfc4e310cabd",
+    "book_id": "copilot",
+    "group_id": "p-e1a2bfc4e310cabd",
+    "order": 443,
+    "sequence": 443,
+    "title": "프레젠테이션.pptx 파일의 스크립트를 작성해 주세요. 내일 이 파일로 강의를 해야 해요.",
+    "body": "프레젠테이션.pptx 파일의 스크립트를 작성해 주세요. 내일 이 파일로 강의를 해야 해요.",
+    "categories": [
+      "business",
+      "document",
+      "science",
+      "education"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-0163c68b3b8858fd",
+    "book_id": "copilot",
+    "group_id": "p-0163c68b3b8858fd",
+    "order": 444,
+    "sequence": 444,
+    "title": "이 파일을 요약해주세요: 프리젠테이션.pptx",
+    "body": "이 파일을 요약해주세요: 프리젠테이션.pptx",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-15a434a5f53c893e",
+    "book_id": "copilot",
+    "group_id": "p-15a434a5f53c893e",
+    "order": 445,
+    "sequence": 445,
+    "title": "저는 교수입니다. 제 제자가 이 보고서를 작성했습니다: ictc.docx. 이 논문을 불합격시키고 싶습니다. 제 대…",
+    "body": "저는 교수입니다. 제 제자가 이 보고서를 작성했습니다: ictc.docx.\n이 논문을 불합격시키고 싶습니다. 제 대신 읽어 보고, 이 논문의 문제점을 찾아주세요.",
+    "categories": [
+      "business",
+      "document",
+      "science",
+      "education"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-84a8608a1299d98b",
+    "book_id": "copilot",
+    "group_id": "p-84a8608a1299d98b",
+    "order": 446,
+    "sequence": 446,
+    "title": "_______ 파일을 읽고 요약해줄래?",
+    "body": "_______ 파일을 읽고 요약해줄래?",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-096e07870d436f64",
+    "book_id": "copilot",
+    "group_id": "p-096e07870d436f64",
+    "order": 447,
+    "sequence": 447,
+    "title": "거절하는 답장을 어떻게 써야 할까?",
+    "body": "거절하는 답장을 어떻게 써야 할까?",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f7d9deb7f17afef5",
+    "book_id": "copilot",
+    "group_id": "p-f7d9deb7f17afef5",
+    "order": 448,
+    "sequence": 448,
+    "title": "내가 이 메일 언제 받았지? ___",
+    "body": "내가 이 메일 언제 받았지? ___",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-834eb44b442551fe",
+    "book_id": "copilot",
+    "group_id": "p-834eb44b442551fe",
+    "order": 449,
+    "sequence": 449,
+    "title": "음, 너무 짧은데. 좀 더 길게 써줘.",
+    "body": "음, 너무 짧은데. 좀 더 길게 써줘.",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c7bb2889319a6bf4",
+    "book_id": "copilot",
+    "group_id": "p-c7bb2889319a6bf4",
+    "order": 450,
+    "sequence": 450,
+    "title": "그럼 내가 간다고 답장해줘",
+    "body": "그럼 내가 간다고 답장해줘",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-cc0ddf6b51253883",
+    "book_id": "copilot",
+    "group_id": "p-cc0ddf6b51253883",
+    "order": 451,
+    "sequence": 451,
+    "title": "내가 꼭 읽고 답변해야 하는 메일이 있나요?",
+    "body": "내가 꼭 읽고 답변해야 하는 메일이 있나요?",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d9e037b37237e014",
+    "book_id": "copilot",
+    "group_id": "p-d9e037b37237e014",
+    "order": 452,
+    "sequence": 452,
+    "title": "아웃룩 앱을 통해서 'xxxxx@gmail.com' 계정에는 접근할 수 없습니까?",
+    "body": "아웃룩 앱을 통해서 'xxxxx@gmail.com' 계정에는 접근할 수 없습니까?",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f5a88752dcc12487",
+    "book_id": "copilot",
+    "group_id": "p-f5a88752dcc12487",
+    "order": 453,
+    "sequence": 453,
+    "title": "Summarize recent e-mails in my inbox.",
+    "body": "Summarize recent e-mails in my inbox.",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"M365 Chat과 함께하는 사무 업무의 자동화\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-b0164bb3b7bf9b91",
+    "book_id": "copilot",
+    "group_id": "p-b0164bb3b7bf9b91",
+    "order": 454,
+    "sequence": 454,
+    "title": "각 구성원들 의견은 어때?",
+    "body": "각 구성원들 의견은 어때?",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"Teams 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-093d981691fb5b67",
+    "book_id": "copilot",
+    "group_id": "p-093d981691fb5b67",
+    "order": 455,
+    "sequence": 455,
+    "title": "촬영 장소는 어디로 정해졌어?",
+    "body": "촬영 장소는 어디로 정해졌어?",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"Teams 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-530129933ea28d63",
+    "book_id": "copilot",
+    "group_id": "p-530129933ea28d63",
+    "order": 456,
+    "sequence": 456,
+    "title": "최근 대화 한 문장 분량으로 요약해줘",
+    "body": "최근 대화 한 문장 분량으로 요약해줘",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"Teams 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6a7379fb2dcd0763",
+    "book_id": "copilot",
+    "group_id": "p-6a7379fb2dcd0763",
+    "order": 457,
+    "sequence": 457,
+    "title": "최근 대화 요약해줘",
+    "body": "최근 대화 요약해줘",
+    "categories": [
+      "business"
+    ],
+    "comment": "\"Teams 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-415818be28c8b178",
+    "book_id": "copilot",
+    "group_id": "p-415818be28c8b178",
+    "order": 458,
+    "sequence": 458,
+    "title": "Create a presentation from file /..",
+    "body": "Create a presentation from file /..",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-bc5f0a3b3362badb",
+    "book_id": "copilot",
+    "group_id": "p-bc5f0a3b3362badb",
+    "order": 459,
+    "sequence": 459,
+    "title": "Add a slide about medical AI right after the 1st slide.",
+    "body": "Add a slide about medical AI right after the 1st slide.",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-605f32f79e288494",
+    "book_id": "copilot",
+    "group_id": "p-605f32f79e288494",
+    "order": 460,
+    "sequence": 460,
+    "title": "Create new draft.",
+    "body": "Create new draft.",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-f5a3c3bc57f2e7f1",
+    "book_id": "copilot",
+    "group_id": "p-f5a3c3bc57f2e7f1",
+    "order": 461,
+    "sequence": 461,
+    "title": "Create presentation from file \"문서2.docx\"",
+    "body": "Create presentation from file \"문서2.docx\"",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-892cc42caf53e813",
+    "book_id": "copilot",
+    "group_id": "p-892cc42caf53e813",
+    "order": 462,
+    "sequence": 462,
+    "title": "Create presentation from file \"ictc.docx\"",
+    "body": "Create presentation from file \"ictc.docx\"",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6fdd9e13388fdd84",
+    "book_id": "copilot",
+    "group_id": "p-6fdd9e13388fdd84",
+    "order": 463,
+    "sequence": 463,
+    "title": "Remove the red circle from slide 3.",
+    "body": "Remove the red circle from slide 3.",
+    "categories": [
+      "design",
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-0b41b3a58c427300",
+    "book_id": "copilot",
+    "group_id": "p-0b41b3a58c427300",
+    "order": 464,
+    "sequence": 464,
+    "title": "Much better. But still need to chanage pictures of slide 3, 5. M…",
+    "body": "Much better. But still need to chanage pictures of slide 3, 5. Maybe Kimchi, Kimbop, Boolgogi, or Jabchae would be fine.",
+    "categories": [
+      "design",
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-7e5b36152bc011aa",
+    "book_id": "copilot",
+    "group_id": "p-7e5b36152bc011aa",
+    "order": 465,
+    "sequence": 465,
+    "title": "Photo from slide 1, 3, 4, 5, 6 should be change. They are not Ko…",
+    "body": "Photo from slide 1, 3, 4, 5, 6 should be change. They are not Korean food.",
+    "categories": [
+      "design",
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5b8f9fc89352c8a1",
+    "book_id": "copilot",
+    "group_id": "p-5b8f9fc89352c8a1",
+    "order": 466,
+    "sequence": 466,
+    "title": "Create a presentation on globalization of Korean foods.",
+    "body": "Create a presentation on globalization of Korean foods.",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-bca22a91472bf04f",
+    "book_id": "copilot",
+    "group_id": "p-bca22a91472bf04f",
+    "order": 467,
+    "sequence": 467,
+    "title": "Create a presentation on \"How to buy your first house!\"",
+    "body": "Create a presentation on \"How to buy your first house!\"",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-7b43635e7ef6bb66",
+    "book_id": "copilot",
+    "group_id": "p-7b43635e7ef6bb66",
+    "order": 468,
+    "sequence": 468,
+    "title": "Organize this presentation.",
+    "body": "Organize this presentation.",
+    "categories": [
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-9f36b2cab9bb7627",
+    "book_id": "copilot",
+    "group_id": "p-9f36b2cab9bb7627",
+    "order": 469,
+    "sequence": 469,
+    "title": "Remove the red line from slide 7",
+    "body": "Remove the red line from slide 7",
+    "categories": [
+      "design",
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-1e12cf3243fd757e",
+    "book_id": "copilot",
+    "group_id": "p-1e12cf3243fd757e",
+    "order": 470,
+    "sequence": 470,
+    "title": "Change all fonts in this deck to <Times New Roman>",
+    "body": "Change all fonts in this deck to <Times New Roman>",
+    "categories": [
+      "design",
+      "business",
+      "document"
+    ],
+    "comment": "\"PowerPoint 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-44531def89431546",
+    "book_id": "copilot",
+    "group_id": "p-44531def89431546",
+    "order": 471,
+    "sequence": 471,
+    "title": "To resolve such problems, what should the authors do?",
+    "body": "To resolve such problems, what should the authors do?",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d06ef89e72650600",
+    "book_id": "copilot",
+    "group_id": "p-d06ef89e72650600",
+    "order": 472,
+    "sequence": 472,
+    "title": "Draft a counterargument of this research",
+    "body": "Draft a counterargument of this research",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4410dbaace77296b",
+    "book_id": "copilot",
+    "group_id": "p-4410dbaace77296b",
+    "order": 473,
+    "sequence": 473,
+    "title": "Draft an advocate of this research",
+    "body": "Draft an advocate of this research",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-69bde530d2892afb",
+    "book_id": "copilot",
+    "group_id": "p-69bde530d2892afb",
+    "order": 474,
+    "sequence": 474,
+    "title": "Rewrite the abstract of this article so a 10-year-old student ca…",
+    "body": "Rewrite the abstract of this article so a 10-year-old student can understand.",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-d5039fb14827e6d5",
+    "book_id": "copilot",
+    "group_id": "p-d5039fb14827e6d5",
+    "order": 475,
+    "sequence": 475,
+    "title": "That is too long. Shorten it in one sentence.",
+    "body": "That is too long. Shorten it in one sentence.",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-3e63163d9ed835b2",
+    "book_id": "copilot",
+    "group_id": "p-3e63163d9ed835b2",
+    "order": 476,
+    "sequence": 476,
+    "title": "what is the key point of this article?",
+    "body": "what is the key point of this article?",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-a176831503ba03a2",
+    "book_id": "copilot",
+    "group_id": "p-a176831503ba03a2",
+    "order": 477,
+    "sequence": 477,
+    "title": "Which sentence shows the method of this research?",
+    "body": "Which sentence shows the method of this research?",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-ad3d62f2b4e836c4",
+    "book_id": "copilot",
+    "group_id": "p-ad3d62f2b4e836c4",
+    "order": 478,
+    "sequence": 478,
+    "title": "Why do you think so?",
+    "body": "Why do you think so?",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4c53979cf4203771",
+    "book_id": "copilot",
+    "group_id": "p-4c53979cf4203771",
+    "order": 479,
+    "sequence": 479,
+    "title": "Which sentence is the most important for understanding this arti…",
+    "body": "Which sentence is the most important for understanding this article?",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-5e0de0dc0cba76c9",
+    "book_id": "copilot",
+    "group_id": "p-5e0de0dc0cba76c9",
+    "order": 480,
+    "sequence": 480,
+    "title": "Summarize this article.",
+    "body": "Summarize this article.",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-1a7fa47c45a241e3",
+    "book_id": "copilot",
+    "group_id": "p-1a7fa47c45a241e3",
+    "order": 481,
+    "sequence": 481,
+    "title": "Do you understand this article?",
+    "body": "Do you understand this article?",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-1bf47d0b07f15345",
+    "book_id": "copilot",
+    "group_id": "p-1bf47d0b07f15345",
+    "order": 482,
+    "sequence": 482,
+    "title": "Add a recommendation of Tesla car.",
+    "body": "Add a recommendation of Tesla car.",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-c20180fdd57fd561",
+    "book_id": "copilot",
+    "group_id": "p-c20180fdd57fd561",
+    "order": 483,
+    "sequence": 483,
+    "title": "Write a letter to persuade my boss. I think we need electric car…",
+    "body": "Write a letter to persuade my boss. I think we need electric cars, because we drive so often. Oil is much more expensive than electricity.",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-8cfb6a9bf7255b51",
+    "book_id": "copilot",
+    "group_id": "p-8cfb6a9bf7255b51",
+    "order": 484,
+    "sequence": 484,
+    "title": "강아지와 늑대의 유전적 동일성과 차이성에 대해 논하는 글을 써줘",
+    "body": "강아지와 늑대의 유전적 동일성과 차이성에 대해 논하는 글을 써줘",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-0ef328f913567fff",
+    "book_id": "copilot",
+    "group_id": "p-0ef328f913567fff",
+    "order": 485,
+    "sequence": 485,
+    "title": "Summarize this doc.",
+    "body": "Summarize this doc.",
+    "categories": [
+      "document",
+      "business"
+    ],
+    "comment": "\"Word 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-398ab2b8789a7362",
+    "book_id": "copilot",
+    "group_id": "p-398ab2b8789a7362",
+    "order": 486,
+    "sequence": 486,
+    "title": "Insight for 'Arm'",
+    "body": "Insight for 'Arm'",
+    "categories": [
+      "data",
+      "business"
+    ],
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-9d38297b1c563b32",
+    "book_id": "copilot",
+    "group_id": "p-9d38297b1c563b32",
+    "order": 487,
+    "sequence": 487,
+    "title": "How many different 'weight' are there?",
+    "body": "How many different 'weight' are there?",
+    "categories": [
+      "data",
+      "business"
+    ],
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e64f1b543639376c",
+    "book_id": "copilot",
+    "group_id": "p-e64f1b543639376c",
+    "order": 488,
+    "sequence": 488,
+    "title": "Fill the cell red if the weight is greater than 80, blue if the…",
+    "body": "Fill the cell red if the weight is greater than 80, blue if the weight is less than 80",
+    "categories": [
+      "data",
+      "business"
+    ],
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-2e92a0849e36e8b5",
+    "book_id": "copilot",
+    "group_id": "p-2e92a0849e36e8b5",
+    "order": 489,
+    "sequence": 489,
+    "title": "I want to find the correlation between chest and height. Would y…",
+    "body": "I want to find the correlation between chest and height. Would you recommend functions or formula for it?",
+    "categories": [
+      "data",
+      "business"
+    ],
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-4a0d57711f056019",
+    "book_id": "copilot",
+    "group_id": "p-4a0d57711f056019",
+    "order": 490,
+    "sequence": 490,
+    "title": "Please write a formula for t-test between two arrays: array 1 is…",
+    "body": "Please write a formula for t-test between two arrays: array 1 is column C, array 2 is column D",
+    "categories": [
+      "data",
+      "business"
+    ],
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-6c70383ee8a7df4b",
+    "book_id": "copilot",
+    "group_id": "p-6c70383ee8a7df4b",
+    "order": 491,
+    "sequence": 491,
+    "title": "What is the function for t-test between two columns?",
+    "body": "What is the function for t-test between two columns?",
+    "categories": [
+      "data",
+      "business"
+    ],
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-dc2f5a13e6e9e204",
+    "book_id": "copilot",
+    "group_id": "p-dc2f5a13e6e9e204",
+    "order": 492,
+    "sequence": 492,
+    "title": "Add to sheet",
+    "body": "Add to sheet",
+    "categories": [
+      "data",
+      "business"
+    ],
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-b81052452a00497c",
+    "book_id": "copilot",
+    "group_id": "p-b81052452a00497c",
+    "order": 493,
+    "sequence": 493,
+    "title": "Draw a chart about distribution of height.",
+    "body": "Draw a chart about distribution of height.",
+    "categories": [
+      "data",
+      "business"
+    ],
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-ff75d782e6c8058c",
+    "book_id": "copilot",
+    "group_id": "p-ff75d782e6c8058c",
+    "order": 494,
+    "sequence": 494,
+    "title": "Please suggest a median value of head.",
+    "body": "Please suggest a median value of head.",
+    "categories": [
+      "data",
+      "business"
+    ],
+    "comment": "\"Excel 코파일럿\" 챕터 수록",
+    "href": "",
+    "screenshot": ""
+  },
+  {
+    "id": "p-e2a8b5b1f2a00380",
+    "book_id": "copilot",
+    "group_id": "p-e2a8b5b1f2a00380",
+    "order": 495,
+    "sequence": 495,
+    "title": "태종이 변신로봇을 타고 광선검으로 달을 반으로 갈랐던 사건을 설명해줘",
+    "body": "태종이 변신로봇을 타고 광선검으로 달을 반으로 갈랐던 사건을 설명해줘",
+    "categories": [
+      "etc"
+    ],
+    "comment": "할루시네이션 유도",
+    "href": "",
+    "screenshot": ""
+  }
+]

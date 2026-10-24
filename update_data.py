@@ -1,181 +1,85 @@
+"""Import a two-sheet submission into canonical content, then generate and validate."""
+import argparse
+import hashlib
+import pathlib
+import re
+import subprocess
 import sys
-import pandas as pd
-import json
-import os
-from pathlib import Path
+sys.path.insert(0,str(pathlib.Path(__file__).resolve().parent/'scripts'))
+from content_model import ROOT, CATEGORIES, STORES, load_content, read_json, json_text, stable_id, title_for
 
-def normalize_category(category_name):
-    """
-    Normalizes category name to match file naming convention.
-    e.g., "Writing/Contents" -> "writing_contents"
-    """
-    if pd.isna(category_name):
-        return None
-    return str(category_name).lower().replace("/", "_").replace(" ", "_").strip()
-
-def load_metadata(file_path):
-    """
-    Reads metadata from the first sheet (index 0).
-    Expected format: Column 1 = Key, Column 2 = Value
-    """
-    try:
-        df = pd.read_excel(file_path, sheet_name=0, header=None)
-        
-        metadata = {}
-        for index, row in df.iterrows():
-            key = row[0]
-            val = row[1]
-            if pd.notna(key):
-                metadata[str(key).strip()] = val if pd.notna(val) else ""
-        return metadata
-    except Exception as e:
-        print(f"Error reading metadata: {e}")
-        return {}
-
-def is_duplicate(prompt_text, data_list):
-    """
-    Checks if a prompt with the same text already exists in the data list.
-    """
-    for item in data_list:
-        if item.get("prompt") == prompt_text:
-            return True
-    return False
-
-def update_prompts(file_path, metadata):
-    """
-    Reads prompts from second sheet (index 1) and updates JSON files.
-    """
-    try:
-        df = pd.read_excel(file_path, sheet_name=1, header=0)
-        
-        prompts_base_path = Path("src/prompts")
-        
-        # Cache for loaded json content
-        category_data_map = {} 
-        
-        # Load all.json
-        all_json_path = prompts_base_path / "all.json"
-        all_data = []
-        if all_json_path.exists():
-            with open(all_json_path, 'r', encoding='utf-8') as f:
-                try:
-                    all_data = json.load(f)
-                except json.JSONDecodeError:
-                    all_data = []
-        
-        new_records_count = 0
-        skipped_count = 0
-        
-        for index, row in df.iterrows():
-            category_raw = row.iloc[0]
-            prompt_text = row.iloc[1]
-            
-            # Extract new columns (Comment, Href, Screenshot) - indices 2, 3, 4
-            comment = ""
-            href = ""
-            screenshot = ""
-            
-            if len(row) > 2:
-                val = row.iloc[2]
-                comment = val if pd.notna(val) else ""
-            if len(row) > 3:
-                val = row.iloc[3]
-                href = val if pd.notna(val) else ""
-            if len(row) > 4:
-                val = row.iloc[4]
-                screenshot = val if pd.notna(val) else ""
-            
-            if pd.isna(category_raw) or pd.isna(prompt_text):
-                continue
-                
-            # --- Parse Categories (Handle multiple comma-separated) ---
-            # 1. Split by comma and strip whitespace
-            # 2. Even if single category, store as list
-            categories_list = [str(c).strip() for c in str(category_raw).split(',')]
-            
-            # Record now stores category as a LIST of strings
-            record = {
-                "category": categories_list,
-                "prompt": prompt_text,
-                "comment": comment,
-                "href": href,
-                "screenshot": screenshot,
-                "metadata": metadata
-            }
-
-            # Update Specific Category Files
-            for cat_name in categories_list:
-                category_file = normalize_category(cat_name)
-                json_file_path = prompts_base_path / f"{category_file}.json"
-                
-                # Load if not in map
-                if category_file not in category_data_map:
-                    if json_file_path.exists():
-                         with open(json_file_path, 'r', encoding='utf-8') as f:
-                            try:
-                                category_data_map[category_file] = json.load(f)
-                            except json.JSONDecodeError:
-                                category_data_map[category_file] = []
-                    else:
-                        # Auto-initialize/create new category list in memory
-                        # (Will be written to file at the end)
-                        category_data_map[category_file] = []
-
-                # Check duplicate in THIS Category
-                if not is_duplicate(prompt_text, category_data_map[category_file]):
-                    # Store single string for 'category' in specific files? 
-                    # OR keep the list format?
-                    # Request says: "category": ["document", "education", "etc"] even in json files.
-                    # So we use the same 'record' object.
-                    category_data_map[category_file].insert(0, record)
-                    # We count only unique additions to files? 
-                    # Let's just track overall process success.
-            
-            new_records_count += 1
-            
-            # --- All.json Handling ---
-            # Check duplicate in All.json
-            if not is_duplicate(prompt_text, all_data):
-                all_data.insert(0, record) # Add to front
-
-            
-        # Write back Category files
-        for cat_file, data in category_data_map.items():
-            json_file_path = prompts_base_path / f"{cat_file}.json"
-            with open(json_file_path, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
-            print(f"Updated {cat_file}.json")
-
-        # Write back all.json
-        with open(all_json_path, 'w', encoding='utf-8') as f:
-            json.dump(all_data, f, ensure_ascii=False, indent=2)
-        print(f"Updated all.json")
-            
-        print(f"Process complete. New entries added to categories: {new_records_count}, Skipped (duplicate): {skipped_count}")
-
-    except Exception as e:
-        print(f"Error processing prompts: {e}")
-        import traceback
-        traceback.print_exc()
+def normalize_category(value):
+    value=str(value).strip().lower().replace('/','_').replace(' ','_')
+    return 'education' if value=='edcuation' else value
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python update_data.py <filename.xlsx>")
-        sys.exit(1)
-        
-    xlsx_file = sys.argv[1]
-    
-    if not os.path.exists(xlsx_file):
-        print(f"File not found: {xlsx_file}")
-        sys.exit(1)
-        
-    print(f"Processing {xlsx_file}...")
-    
-    metadata = load_metadata(xlsx_file)
-    print("Metadata loaded:", metadata)
-    
-    update_prompts(xlsx_file, metadata)
-    print("Done.")
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('file',type=pathlib.Path)
+    parser.add_argument('--book-id',help='Required for a new book: lowercase letters, digits and hyphens')
+    parser.add_argument('--dry-run',action='store_true')
+    args=parser.parse_args()
+    import pandas as pd
+    sheets=pd.read_excel(args.file,sheet_name=[0,1],header=None)
+    def text(value):return '' if pd.isna(value) else str(value).strip()
+    metadata={text(row.iloc[0]):text(row.iloc[1]) for _,row in sheets[0].iterrows() if len(row)>1 and text(row.iloc[0])}
+    books,records,_=load_content()
+    integrity=read_json(ROOT/'content/integrity.json')
+    for r in records:
+        if hashlib.sha256(r['body'].encode()).hexdigest()!=integrity['body_sha256'].get(r['id']):
+            raise ValueError('Existing prompt differs from its integrity hash; review the source first')
+    book=next((b for b in books if b['title']==metadata.get('Book Title')),None)
+    if book:
+        if args.book_id and args.book_id!=book['id']:raise ValueError('Book ID conflicts with existing title')
+    else:
+        if not args.book_id or not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',args.book_id):raise ValueError('New book requires --book-id')
+        if any(b['id']==args.book_id for b in books):raise ValueError('Book ID belongs to another title')
+        for field in ('Book Title','Author','Publisher','Year','Cover_filename'):
+            if not metadata.get(field):raise ValueError(f'Missing metadata: {field}')
+        cover=metadata['Cover_filename']
+        if pathlib.Path(cover).name!=cover or not (ROOT/'src/bookcovers'/cover).is_file():raise ValueError('Add the cover image before importing')
+        book={'id':args.book_id,'title':metadata['Book Title'],'author':metadata['Author'],
+              'publisher':metadata['Publisher'],'year':int(float(metadata['Year'])),'cover':cover,
+              'stores':{store:metadata.get(store,'') for store in STORES}}
+        if not any(book['stores'].values()):raise ValueError('At least one bookstore link is required')
+        if metadata.get('ISBN'):book['isbn']=metadata['ISBN'].replace('-','')
+        books.append(book)
+    known={r['body'] for r in records};new=[];skipped=0
+    for _,row in sheets[1].iloc[1:].iterrows():
+        if len(row)<2 or pd.isna(row.iloc[1]) or not str(row.iloc[1]).strip():continue
+        body=str(row.iloc[1])
+        if body in known:skipped+=1;continue
+        categories=[normalize_category(c) for c in text(row.iloc[0]).split(',') if c.strip()]
+        if not categories or any(c not in CATEGORIES for c in categories):raise ValueError(f'Unknown category: {row.iloc[0]}')
+        prompt_id=stable_id(body)
+        record={'id':prompt_id,'book_id':book['id'],'group_id':prompt_id,'order':0,'sequence':1,
+                'title':title_for(body),'body':body,'categories':list(dict.fromkeys(categories)),
+                'comment':text(row.iloc[2]) if len(row)>2 else '',
+                'href':text(row.iloc[3]) if len(row)>3 else '',
+                'screenshot':text(row.iloc[4]) if len(row)>4 else ''}
+        screenshot=record['screenshot']
+        if screenshot and (pathlib.Path(screenshot).name!=screenshot or not (ROOT/'src/screenshots'/screenshot).is_file()):
+            raise ValueError('Add screenshot assets before importing')
+        new.append(record);known.add(body)
+    print(f'{len(new)} new prompts; {skipped} duplicates skipped; book={book["id"]}')
+    if args.dry_run or not new:return
+    first=min((r['order'] for r in records),default=0)-len(new)
+    for i,r in enumerate(new):r['order']=first+i
+    per_book=[r for r in records if r['book_id']==book['id']]+new
+    per_book.sort(key=lambda r:r['order'])
+    for r in new:integrity['body_sha256'][r['id']]=hashlib.sha256(r['body'].encode()).hexdigest()
+    integrity['count']+=len(new)
+    changes={ROOT/'content/books.json':json_text(books,True),ROOT/'content/prompts'/f'{book["id"]}.json':json_text(per_book,True),
+             ROOT/'content/integrity.json':json_text(integrity,True)}
+    backup={p:p.read_bytes() if p.exists() else None for p in changes}
+    try:
+        for path,value in changes.items():path.write_text(value,encoding='utf-8')
+        for script in ('build_site.py','validate_content.py'):
+            subprocess.run([sys.executable,str(ROOT/'scripts'/script)],cwd=ROOT,check=True)
+    except Exception:
+        for path,value in backup.items():
+            if value is None:path.unlink(missing_ok=True)
+            else:path.write_bytes(value)
+        subprocess.run([sys.executable,str(ROOT/'scripts/build_site.py')],cwd=ROOT,check=True)
+        raise
 
-if __name__ == "__main__":
-    main()
+if __name__=='__main__':main()

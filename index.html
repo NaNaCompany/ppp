@@ -12,15 +12,17 @@
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Published Prompt Portal</title>
-    <meta name="description" content="도서로 출간이 완료된, 검증된 프롬프트만 모아서 소개하는 포털입니다.">
+    <title>최근 추가된 프롬프트 | PPP</title>
+    <meta name="description" content="12권에 수록된 841개 입력 중 최근 추가된 프롬프트입니다. 전체 목록과 분류·도서별 페이지에서 모든 본문을 읽을 수 있습니다.">
     <meta name="keywords" content="프롬프트, AI, 인공지능">
     <meta name="author" content="반병현">
-    <meta property="og:image" content="src/assets/og-image.png">
-    <link rel="icon" href="src/assets/icon.png">
+    <link rel="canonical" href="https://nanalab.kr/ppp/"><meta name="robots" content="index,follow">
+        <meta property="og:type" content="website"><meta property="og:title" content="최근 추가된 프롬프트 | PPP"><meta property="og:description" content="12권에 수록된 841개 입력 중 최근 추가된 프롬프트입니다. 전체 목록과 분류·도서별 페이지에서 모든 본문을 읽을 수 있습니다."><meta property="og:url" content="https://nanalab.kr/ppp/"><meta property="og:image" content="https://nanalab.kr/ppp/src/assets/og-image.png"><meta property="og:locale" content="ko_KR">
+        <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="최근 추가된 프롬프트 | PPP"><meta name="twitter:description" content="12권에 수록된 841개 입력 중 최근 추가된 프롬프트입니다. 전체 목록과 분류·도서별 페이지에서 모든 본문을 읽을 수 있습니다."><meta name="twitter:image" content="https://nanalab.kr/ppp/src/assets/og-image.png"><link rel="sitemap" type="application/xml" href="https://nanalab.kr/ppp/sitemap.xml">
+    <link rel="icon" href="/ppp/src/assets/icon.png">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9767176956440077"
         crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/ppp/src/generated/site.447e23bd4667.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
 </head>
@@ -28,10 +30,10 @@
 <body>
     <header class="site-header">
         <div class="container">
-            <h1 class="logo"><a href="#">Published<br />Prompt<br />Portal</a></h1>
+            <div class="logo"><a href="/ppp/">Published<br />Prompt<br />Portal</a></div>
             <div class="prompt-stats">
                 <span class="stat-label">Total Prompts</span>
-                <span class="stat-value">0</span>
+                <span class="stat-value">841</span>
             </div>
             <button class="menu-toggle" aria-label="Toggle navigation">
                 <span></span>
@@ -40,60 +42,98 @@
             </button>
             <nav class="main-nav">
                 <ul>
-                    <li><a href="#" class="active" id="home-link">Home</a></li>
-                    <li><a href="#" id="contact-link">Contact</a></li>
-                    <li><a href="./update_rule/index.html">등재요청</a></li>
+                    <li><a href="/ppp/" id="home-link">Home</a></li>
+                    <li><a href="/ppp/books/">Books</a></li>
+                    <li><a href="#contact" id="contact-link">Contact</a></li>
+                    <li><a href="/ppp/update_rule/">등재요청</a></li>
                     <li><a href="https://nanalab.kr" target="_blank">NaNaLab</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
-    <div id="main-content-wrapper">
-        <div class="announcement-bar">
-            <p>도서로 출간된 프롬프트만 모았습니다! 믿고 사용하세요!</p>
-        </div>
+<div id="main-content-wrapper"><div class="announcement-bar"><p>도서로 출간된 프롬프트만 모았습니다! 믿고 사용하세요!</p></div>
+        <nav class="categories-nav" aria-label="프롬프트 분류"><div class="container nav-wrapper"><button class="nav-btn" id="nav-prev" aria-label="이전 분류">&lt;</button><ul id="categories-list"><li><a href="/ppp/" class="active">New</a></li><li><a href="/ppp/prompts/">ALL</a></li><li><a href="/ppp/categories/language/">Language</a></li><li><a href="/ppp/categories/design/">Design</a></li><li><a href="/ppp/categories/image/">Image</a></li><li><a href="/ppp/categories/writing_contents/">Writing/Contents</a></li><li><a href="/ppp/categories/document/">Document</a></li><li><a href="/ppp/categories/development/">Development</a></li><li><a href="/ppp/categories/work_productivity/">Work/Productivity</a></li><li><a href="/ppp/categories/business/">Business</a></li><li><a href="/ppp/categories/prompt_engineering/">Prompt Engineering</a></li><li><a href="/ppp/categories/philosophy/">Philosophy</a></li><li><a href="/ppp/categories/data/">Data</a></li><li><a href="/ppp/categories/education/">Education</a></li><li><a href="/ppp/categories/finance/">Finance</a></li><li><a href="/ppp/categories/law/">Law</a></li><li><a href="/ppp/categories/living/">Living</a></li><li><a href="/ppp/categories/science/">Science</a></li><li><a href="/ppp/categories/etc/">ETC</a></li><li><a href="/ppp/categories/health/">Health</a></li><li><a href="/ppp/categories/music/">Music</a></li></ul><button class="nav-btn" id="nav-next" aria-label="다음 분류">&gt;</button></div></nav>
+        <main class="site-content"><div class="container"><form class="search-form" action="/ppp/search/" method="get" role="search"><label for="portal-search">프롬프트 검색</label><input id="portal-search" name="q" type="search" placeholder="프롬프트·책·주제 검색"><button type="submit">검색</button></form><section class="page-intro"><h1>최근 추가된 프롬프트</h1><p>12권에 수록된 841개 입력 중 최근 추가된 프롬프트입니다. 전체 목록과 분류·도서별 페이지에서 모든 본문을 읽을 수 있습니다.</p><p>10개 레시피 · 29개 입력</p></section><div id="prompts-grid" class="prompts-grid"><article class="prompt-card" id="turn-gem-001" data-prompt-id="GEM-001" data-book-id="gemini-notebook" data-group-id="GEM-001" data-printed-page="55" tabindex="0" aria-label="세종시에서 출발해 안동시 소재 국학진흥원으로 출장이 잡혔다. 1. 출장 일정은 다음주 목요일부터 금요일 10:00~…">
+    <h2 class="prompt-title"><a href="/ppp/prompts/gem-001/">세종시에서 출발해 안동시 소재 국학진흥원으로 출장이 잡혔다. 1. 출장 일정은 다음주 목요일부터 금요일 10:00~…</a></h2>
+    <div class="prompt-text" data-copy-text>세종시에서 출발해 안동시 소재 국학진흥원으로 출장이 잡혔다.&#32;&#32;&#32;&#32;&#32;
+1. 출장 일정은 다음주 목요일부터 금요일 10:00~16:00까지&#32;&#32;&#32;&#32;
+2. 대중교통 이용&#32;&#32;&#32;&#32;&#32;
+3. 공무원 여비규정에 따라 비용 집행&#32;&#32;&#32;&#32;&#32;
+가장 덜 피곤하게 동선 짜 주고, 중간에 방문할 맛집도 2개이상 추천해서 표로 작성해 줘.</div><div class="prompt-tags"><a class="hashtag" href="/ppp/categories/work_productivity/">#Work/Productivity</a> <a class="hashtag" href="/ppp/categories/document/">#Document</a></div>
+    <div class="card-actions"><button type="button" class="source-button" data-open-source hidden>복사·출처</button>
+    <a href="/ppp/prompts/gem-001/">입력 2개 · 상세 보기</a></div>
 
-        <nav class="categories-nav">
-            <div class="container nav-wrapper">
-                <button class="nav-btn prev-btn" id="nav-prev">&lt;</button>
-                <ul id="categories-list">
-                    <li><a href="#" class="active">New</a></li>
-                    <li><a href="#">ALL</a></li>
-                    <li style="display:none"><a href="#">Prompt Engineering</a></li>
-                    <li style="display:none"><a href="#">Document</a></li>
-                    <li style="display:none"><a href="#">Writing/Contents</a></li>
-                    <li style="display:none"><a href="#">Work/Productivity</a></li>
-                    <li style="display:none"><a href="#">Development</a></li>
-                    <li style="display:none"><a href="#">Science</a></li>
-                    <li style="display:none"><a href="#">Image</a></li>
-                    <li style="display:none"><a href="#">Design</a></li>
-                    <li style="display:none"><a href="#">Music</a></li>
-                    <li style="display:none"><a href="#">Education</a></li>
-                    <li style="display:none"><a href="#">Business</a></li>
-                    <li style="display:none"><a href="#">Data</a></li>
-                    <li style="display:none"><a href="#">Philosophy</a></li>
-                    <li style="display:none"><a href="#">Finance</a></li>
-                    <li style="display:none"><a href="#">Health</a></li>
-                    <li style="display:none"><a href="#">Law</a></li>
-                    <li style="display:none"><a href="#">Living</a></li>
-                    <li style="display:none"><a href="#">Language</a></li>
-                    <li style="display:none"><a href="#">ETC</a></li>
-                </ul>
-                <button class="nav-btn next-btn" id="nav-next">&gt;</button>
-            </div>
-        </nav>
+    <p class="card-footer"><a href="/ppp/books/gemini-notebook/">딸깍! 제미나이 &amp; 노트북</a> (2026) · 본문 55p.</p></article><article class="prompt-card" id="turn-vib-003" data-prompt-id="VIB-003" data-book-id="vibe-coding" data-group-id="VIB-003" data-printed-page="65" tabindex="0" aria-label="스마트한 “계산기” 기능이 있는 웹 사이트를 만들고 싶어. 디자인도 예쁘고, 버튼을 누르면 실제로 작동하는 계산기를…">
+    <h2 class="prompt-title"><a href="/ppp/prompts/vib-003/">스마트한 “계산기” 기능이 있는 웹 사이트를 만들고 싶어. 디자인도 예쁘고, 버튼을 누르면 실제로 작동하는 계산기를…</a></h2>
+    <div class="prompt-text" data-copy-text>스마트한 “계산기” 기능이 있는 웹 사이트를 만들고 싶어.
+디자인도 예쁘고, 버튼을 누르면 실제로 작동하는 계산기를 만들어 줘.
+그리고 어떤 기능들을 추가하면 좋을지 나한테 제안도 해 봐.</div><div class="prompt-tags"><a class="hashtag" href="/ppp/categories/development/">#Development</a></div>
+    <div class="card-actions"><button type="button" class="source-button" data-open-source hidden>복사·출처</button>
+    <a href="/ppp/prompts/vib-003/">입력 6개 · 상세 보기</a></div>
 
+    <p class="card-footer"><a href="/ppp/books/vibe-coding/">딸깍! 바이브 코딩 by 안티그래비티</a> (2026) · 본문 65p.</p></article><article class="prompt-card" id="turn-ill-001" data-prompt-id="ILL-001" data-book-id="author-illustrations" data-group-id="ILL-001" data-printed-page="8" tabindex="0" aria-label="AI가 사람들을 실에 묶인 꼭두각시처럼 조종하는 그림 그려줘. 가로로 16 세로로 9정도 비율로 가로로 길쭉한 그림…">
+    <h2 class="prompt-title"><a href="/ppp/prompts/ill-001/">AI가 사람들을 실에 묶인 꼭두각시처럼 조종하는 그림 그려줘. 가로로 16 세로로 9정도 비율로 가로로 길쭉한 그림…</a></h2>
+    <div class="prompt-text" data-copy-text>AI가 사람들을 실에 묶인 꼭두각시처럼 조종하는 그림 그려줘. 가로로 16 세로로 9정도 비율로 가로로 길쭉한 그림으로. 까만 선에 시안색 별색 2도인쇄 용으로. 투명배경 png파일로.</div><div class="prompt-tags"><a class="hashtag" href="/ppp/categories/image/">#Image</a> <a class="hashtag" href="/ppp/categories/design/">#Design</a> <a class="hashtag" href="/ppp/categories/writing_contents/">#Writing/Contents</a></div>
+    <div class="card-actions"><button type="button" class="source-button" data-open-source hidden>복사·출처</button>
+    <a href="/ppp/prompts/ill-001/">입력 2개 · 상세 보기</a></div>
 
-        <main class="site-content">
-            <div class="container">
-                <div id="prompts-grid" class="prompts-grid">
-                    <!-- Prompts will be loaded here -->
-                </div>
-            </div>
-        </main>
-    </div>
+    <p class="card-footer"><a href="/ppp/books/author-illustrations/">작가의 프롬프트 - AI로 제작한 삽화편</a> (2026) · 본문 8p.</p></article><article class="prompt-card" id="turn-rea-001" data-prompt-id="REA-001" data-book-id="english-reading" data-group-id="REA-001" data-printed-page="9" tabindex="0" aria-label="다음 지문에서 핵심 문장을 찾고, 그게 왜 핵심 문장인지 설명해.">
+    <h2 class="prompt-title"><a href="/ppp/prompts/rea-001/">다음 지문에서 핵심 문장을 찾고, 그게 왜 핵심 문장인지 설명해.</a></h2>
+    <div class="prompt-text" data-copy-text>다음 지문에서 핵심 문장을 찾고, 그게 왜 핵심 문장인지 설명해.</div><div class="prompt-tags"><a class="hashtag" href="/ppp/categories/language/">#Language</a> <a class="hashtag" href="/ppp/categories/education/">#Education</a></div>
+    <div class="card-actions"><button type="button" class="source-button" data-open-source hidden>복사·출처</button>
+    <a href="/ppp/prompts/rea-001/">입력 1개 · 상세 보기</a></div>
+    <p class="card-comment">분석할 영어 지문을 이 명령과 함께 입력하세요. 서지정보와 구매 링크는 출간본 기준입니다.</p>
+    <p class="card-footer"><a href="/ppp/books/english-reading/">독해가 2배 빨라지는 챗GPT 수능독해</a> (2024) · 본문 9p.</p></article><article class="prompt-card" id="turn-gem-052" data-prompt-id="GEM-052" data-book-id="gemini-notebook" data-group-id="GEM-052" data-printed-page="" tabindex="0" aria-label="해외의 휴머노이드 로봇 산업 동향을 조사해 오래. 조사 주제와 범위를 어떻게 정의해야 할까? 한 문장으로 정의해 두…">
+    <h2 class="prompt-title"><a href="/ppp/prompts/gem-052/">해외의 휴머노이드 로봇 산업 동향을 조사해 오래. 조사 주제와 범위를 어떻게 정의해야 할까? 한 문장으로 정의해 두…</a></h2>
+    <div class="prompt-text" data-copy-text>해외의 휴머노이드 로봇 산업 동향을 조사해 오래.&#32;
+조사 주제와 범위를 어떻게 정의해야 할까?
+한 문장으로 정의해 두고 조사를 시작하고 싶어. 여러 개 제안해 줘.</div><div class="prompt-tags"><a class="hashtag" href="/ppp/categories/work_productivity/">#Work/Productivity</a> <a class="hashtag" href="/ppp/categories/document/">#Document</a></div>
+    <div class="card-actions"><button type="button" class="source-button" data-open-source hidden>복사·출처</button>
+    <a href="/ppp/prompts/gem-052/">입력 11개 · 상세 보기</a></div>
 
+    <p class="card-footer"><a href="/ppp/books/gemini-notebook/">딸깍! 제미나이 &amp; 노트북</a> (2026)</p></article><article class="prompt-card" id="turn-vib-085" data-prompt-id="VIB-085" data-book-id="vibe-coding" data-group-id="VIB-085" data-printed-page="305" tabindex="0" aria-label="AI로 엑셀 분석하는 프로그램을 만들어야 하는데, 회사에서 쓰고 있는 데이터를 AI에게 보여줄 수는 없 으니 니가…">
+    <h2 class="prompt-title"><a href="/ppp/prompts/vib-085/">AI로 엑셀 분석하는 프로그램을 만들어야 하는데, 회사에서 쓰고 있는 데이터를 AI에게 보여줄 수는 없 으니 니가…</a></h2>
+    <div class="prompt-text" data-copy-text>AI로 엑셀 분석하는 프로그램을 만들어야 하는데, 회사에서 쓰고 있는 데이터를 AI에게 보여줄 수는 없
+으니 니가 샘플 하나 임의로 만들어 줘.
+내용물은 부품의 종류와 발주 이력, 불량률, 납품일자, 단가 등, 협력업체의 부품 납품 현황을 한 눈에
+볼 수 있도록 구성해 주고.
+(엑셀 파일의 조금 더 상세한 규격 설명 추가)</div><div class="prompt-tags"><a class="hashtag" href="/ppp/categories/development/">#Development</a> <a class="hashtag" href="/ppp/categories/data/">#Data</a></div>
+    <div class="card-actions"><button type="button" class="source-button" data-open-source hidden>복사·출처</button>
+    <a href="/ppp/prompts/vib-085/">입력 3개 · 상세 보기</a></div>
+    <p class="card-comment">책 부록 박OO 기고 예시.</p>
+    <p class="card-footer"><a href="/ppp/books/vibe-coding/">딸깍! 바이브 코딩 by 안티그래비티</a> (2026) · 본문 305p.</p></article><article class="prompt-card" id="turn-ill-074" data-prompt-id="ILL-074" data-book-id="author-illustrations" data-group-id="ILL-074" data-printed-page="" tabindex="0" aria-label="API에 대해 설명할거야.사용자 - 식탁에 앉아서 &quot;국밥이요&quot; 라고 주문함API - 식탁에서 고객 주문을 받고 주방…">
+    <h2 class="prompt-title"><a href="/ppp/prompts/ill-074/">API에 대해 설명할거야.사용자 - 식탁에 앉아서 &quot;국밥이요&quot; 라고 주문함API - 식탁에서 고객 주문을 받고 주방…</a></h2>
+    <div class="prompt-text" data-copy-text>API에 대해 설명할거야.사용자 - 식탁에 앉아서 &quot;국밥이요&quot; 라고 주문함API - 식탁에서 고객 주문을 받고 주방에 가서 국밥을 받아 옴주방 - 열심히 요리함</div><div class="prompt-tags"><a class="hashtag" href="/ppp/categories/image/">#Image</a> <a class="hashtag" href="/ppp/categories/design/">#Design</a> <a class="hashtag" href="/ppp/categories/writing_contents/">#Writing/Contents</a></div>
+    <div class="card-actions"><button type="button" class="source-button" data-open-source hidden>복사·출처</button>
+    <a href="/ppp/prompts/ill-074/">입력 1개 · 상세 보기</a></div>
+
+    <p class="card-footer"><a href="/ppp/books/author-illustrations/">작가의 프롬프트 - AI로 제작한 삽화편</a> (2026)</p></article><article class="prompt-card" id="turn-sup-025" data-prompt-id="SUP-025" data-book-id="copilot" data-group-id="SUP-025" data-printed-page="56" tabindex="0" aria-label="최근에 받은 이메일들을 요약해줘.">
+    <h2 class="prompt-title"><a href="/ppp/prompts/sup-025/">최근에 받은 이메일들을 요약해줘.</a></h2>
+    <div class="prompt-text" data-copy-text>최근에 받은 이메일들을 요약해줘.</div><div class="prompt-tags"><a class="hashtag" href="/ppp/categories/work_productivity/">#Work/Productivity</a> <a class="hashtag" href="/ppp/categories/document/">#Document</a></div>
+    <div class="card-actions"><button type="button" class="source-button" data-open-source hidden>복사·출처</button>
+    <a href="/ppp/prompts/sup-025/">입력 1개 · 상세 보기</a></div>
+
+    <p class="card-footer"><a href="/ppp/books/copilot/">코파일럿- 업무에 200%써먹는 AI 비서</a> (2024) · 본문 56p.</p></article><article class="prompt-card" id="turn-sup-001" data-prompt-id="SUP-001" data-book-id="prompt-engineering" data-group-id="SUP-001" data-printed-page="" tabindex="0" aria-label="다음 지문을 토대로 직독직해 교육 방법을 실천해 보세요. Coming of age in the 18th and 19…">
+    <h2 class="prompt-title"><a href="/ppp/prompts/sup-001/">다음 지문을 토대로 직독직해 교육 방법을 실천해 보세요. Coming of age in the 18th and 19…</a></h2>
+    <div class="prompt-text" data-copy-text>다음 지문을 토대로 직독직해 교육 방법을 실천해 보세요.
+Coming of age in the 18th and 19th centuries, the personal diary became
+a centerpiece in the construction of a modern subjectivity, at the heart
+of which is the application of reason and critique to the understanding of
+world and self, which allowed the creation of a new kind of knowledge.
+(후략)</div><div class="prompt-tags"><a class="hashtag" href="/ppp/categories/language/">#Language</a> <a class="hashtag" href="/ppp/categories/education/">#Education</a></div>
+    <div class="card-actions"><button type="button" class="source-button" data-open-source hidden>복사·출처</button>
+    <a href="/ppp/prompts/sup-001/">입력 1개 · 상세 보기</a></div>
+
+    <p class="card-footer"><a href="/ppp/books/prompt-engineering/">프롬프트 엔지니어링</a> (2023)</p></article><article class="prompt-card" id="turn-sup-022" data-prompt-id="SUP-022" data-book-id="english-classroom" data-group-id="SUP-022" data-printed-page="" tabindex="0" aria-label="위 의 이메일에서 주요 영어 표현을 알려줘.">
+    <h2 class="prompt-title"><a href="/ppp/prompts/sup-022/">위 의 이메일에서 주요 영어 표현을 알려줘.</a></h2>
+    <div class="prompt-text" data-copy-text>위 의 이메일에서 주요 영어 표현을 알려줘.</div><div class="prompt-tags"><a class="hashtag" href="/ppp/categories/language/">#Language</a> <a class="hashtag" href="/ppp/categories/education/">#Education</a></div>
+    <div class="card-actions"><button type="button" class="source-button" data-open-source hidden>복사·출처</button>
+    <a href="/ppp/prompts/sup-022/">입력 1개 · 상세 보기</a></div>
+
+    <p class="card-footer"><a href="/ppp/books/english-classroom/">나만의 영어 선생님 챗GPT 영어교실</a> (2023)</p></article></div></div></main></div>
+        <script id="page-data" type="application/json">{"books":{"author-illustrations":{"id":"author-illustrations","title":"작가의 프롬프트 - AI로 제작한 삽화편","year":2026,"author":"반병현","publisher":"BOOKK(부크크)","cover":"2026_ban_illustration.jpg","stores":{"Yes24":"https://www.yes24.com/product/goods/195817748"},"isbn":"9791112269492"},"copilot":{"id":"copilot","title":"코파일럿- 업무에 200%써먹는 AI 비서","year":2024,"author":"반병현","publisher":"생능북스","cover":"2024_반병현_코파일럿.jpg","stores":{"Kyobo":"https://product.kyobobook.co.kr/detail/S000212725343","Yes24":"https://www.yes24.com/product/goods/125480842","Aladin":"https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336213415"}},"english-classroom":{"id":"english-classroom","title":"나만의 영어 선생님 챗GPT 영어교실","year":2023,"author":"반병현, 황현목, 이제종","publisher":"생능북스","cover":"2023_반병현_영어교실.jpg","stores":{"Kyobo":"https://product.kyobobook.co.kr/detail/S000202728693","Yes24":"https://www.yes24.com/product/goods/119732698","Aladin":"https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319240038"}},"english-reading":{"id":"english-reading","title":"독해가 2배 빨라지는 챗GPT 수능독해","year":2024,"author":"김지애, 이제종, 황현목, 반병현","publisher":"생능북스","cover":"2024_ban_reading.jpg","stores":{"Yes24":"https://www.yes24.com/product/goods/124769179"},"isbn":"9791192932460"},"gemini-notebook":{"id":"gemini-notebook","title":"딸깍! 제미나이 \u0026 노트북","year":2026,"author":"반병현, 황현목","publisher":"생능북스","cover":"2026_ban_gemini.jpg","stores":{"Yes24":"https://www.yes24.com/product/goods/195238254"},"isbn":"9791194630975"},"prompt-engineering":{"id":"prompt-engineering","title":"프롬프트 엔지니어링","year":2023,"author":"반병현","publisher":"생능북스","cover":"2023_반병현_프롬프트엔지니어링.jpg","stores":{"Kyobo":"https://product.kyobobook.co.kr/detail/S000217845743","Yes24":"https://www.yes24.com/product/goods/154750336","Aladin":"https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372917109"}},"vibe-coding":{"id":"vibe-coding","title":"딸깍! 바이브 코딩 by 안티그래비티","year":2026,"author":"반병현","publisher":"생능북스","cover":"2026_ban_vibe.jpg","stores":{"Yes24":"https://www.yes24.com/product/goods/184675866"},"isbn":"9791194630692"}},"groups":{"GEM-001":"/ppp/src/generated/data/gem-001.98c7087eea1b.json","VIB-003":"/ppp/src/generated/data/vib-003.cfc087feeb19.json","ILL-001":"/ppp/src/generated/data/ill-001.3cc978252886.json","REA-001":"/ppp/src/generated/data/rea-001.e4879378dd76.json","GEM-052":"/ppp/src/generated/data/gem-052.a81465a6f4ab.json","VIB-085":"/ppp/src/generated/data/vib-085.c256f3ac3260.json","ILL-074":"/ppp/src/generated/data/ill-074.2d9e975fc692.json","SUP-025":"/ppp/src/generated/data/sup-025.8b63dadf369f.json","SUP-001":"/ppp/src/generated/data/sup-001.6215d27f8e55.json","SUP-022":"/ppp/src/generated/data/sup-022.b07cdf71b945.json"},"search_url":"/ppp/src/generated/search.23e196b6c876.json","base":"/ppp/"}
+</script>
     <!-- Modal -->
     <div id="modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
         <div class="modal-content">
@@ -101,23 +141,23 @@
             <p class="source-label">&lt;프롬프트 출처&gt;</p>
             <div class="modal-body">
                 <div class="modal-left">
-                    <img id="modal-cover" src="" alt="Book Cover">
+                    <img id="modal-cover" alt="" hidden>
                 </div>
                 <div class="modal-right">
-                    <div id="copy-toast" class="copy-message">프롬프트가 복사되었습니다!</div>
-                    <h2 id="modal-title">Book Title</h2>
-                    <p id="modal-author">Author</p>
-                    <p id="modal-year">Year</p>
-                    <p id="modal-publisher">Publisher</p>
+                    <div id="copy-toast" class="copy-message" aria-live="polite"></div>
+                    <h2 id="modal-title"></h2>
+                    <p id="modal-author"></p>
+                    <p id="modal-year"></p>
+                    <p id="modal-publisher"></p>
                     <p id="modal-source-page" class="source-page"></p>
-                    <p class="purchase-label">책 구매하기</p>
+
                     <div class="store-links" aria-label="책 구매 서점">
-                        <a id="link-kyobo" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
-                                src="src/store_logo/kyobo.png" alt=""><span>교보문고 ↗</span></a>
-                        <a id="link-yes24" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
-                                src="src/store_logo/yes24.png" alt=""><span>YES24 ↗</span></a>
-                        <a id="link-aladin" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
-                                src="src/store_logo/aladin.png" alt=""><span>알라딘 ↗</span></a>
+                        <a id="link-kyobo" aria-label="교보문고 도서 보기" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
+                                src="/ppp/src/store_logo/kyobo.png" alt=""></a>
+                        <a id="link-yes24" aria-label="YES24 도서 보기" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
+                                src="/ppp/src/store_logo/yes24.png" alt=""></a>
+                        <a id="link-aladin" aria-label="알라딘 도서 보기" target="_blank" rel="noopener noreferrer" class="store-icon" hidden><img
+                                src="/ppp/src/store_logo/aladin.png" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -125,7 +165,7 @@
                 <p id="modal-usage"></p>
                 <details id="modal-previous" hidden>
                     <summary>앞선 프롬프트 (사용자 입력)</summary>
-                    <p class="context-hint">같은 대화에서 순서대로 사용하세요. AI 응답과 첨부 이미지는 책을 참고하세요.</p>
+
                     <ol id="modal-previous-list"></ol>
                 </details>
             </section>
@@ -136,7 +176,7 @@
     <div id="contact-section" style="display:none;">
         <div class="contact-content">
             <h2 class="contact-title">Contact Us</h2>
-            <p class="contact-desc">프롬프트 등재문의는 <a href="./update_rule">여기</a>를 클릭해주세요.</p>
+            <p class="contact-desc">프롬프트 등재문의는 <a href="/ppp/update_rule/">여기</a>를 클릭해주세요.</p>
 
             <form id="contact-form" class="contact-form">
                 <div class="form-group" id="group-name">
@@ -188,13 +228,13 @@
         </div>
     </div>
 
-    <script src="script.js"></script>
+    <script defer src="/ppp/src/generated/site.eb40a0137cc9.js"></script>
     <footer class="site-footer">
         <div class="container">
             <p>&copy; 2026 <a href="https://nanalab.kr">NaNaLab</a> All rights reserved. <br />이 사이트에 개제된 모든 프롬프트는 저자의
                 허락을 받아 수록하였으며, 각 프롬프트의 저작권은 저자에게 있습니다.<br />프롬프트의 무단 수집, 복제, 재게시를 허가하지 않습니다.</p>
         </div>
-    </footer>
+    <p class="sitemap-link"><a href="/ppp/sitemap.xml">사이트맵</a></p></footer>
 </body>
 
 </html>
